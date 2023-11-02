@@ -1,0 +1,47 @@
+For immediate release
+
+
+
+
+
+
+The Federal Reserve released the following statement after today's Federal Open Market Committee meeting:
+
+
+		While the FOMC did not take action today to alter the stance of monetary policy, the Committee was concerned about the potential for a buildup of inflationary imbalances that could undermine the favorable performance of the economy and therefore adopted a directive that is tilted toward the possibility of a  firming in the stance of monetary policy.  Trend increases in costs and core prices have generally remained quite subdued.  But domestic financial markets have recovered and foreign economic prospects have improved since the easing of monetary policy last fall.  Against the background of already-tight domestic labor markets and ongoing strength in demand in excess of productivity gains, the Committee recognizes the need to be alert to developments over coming months that might indicate that financial conditions may no longer be consistent with containing inflation.
+
+[SECTION]
+
+For immediate release
+
+
+
+
+
+
+The Federal Reserve released the following statement after today's Federal Open Market Committee meeting:
+
+
+		While the FOMC did not take action today to alter the stance of monetary policy, the Committee was concerned about the potential for a buildup of inflationary imbalances that could undermine the favorable performance of the economy and therefore adopted a directive that is tilted toward the possibility of a  firming in the stance of monetary policy.  Trend increases in costs and core prices have generally remained quite subdued.  But domestic financial markets have recovered and foreign economic prospects have improved since the easing of monetary policy last fall.  Against the background of already-tight domestic labor markets and ongoing strength in demand in excess of productivity gains, the Committee recognizes the need to be alert to developments over coming months that might indicate that financial conditions may no longer be consistent with containing inflation.
+
+[SECTION]
+
+The Federal Reserve released the following statement after today's Federal Open Market Committee meeting:
+
+
+		While the FOMC did not take action today to alter the stance of monetary policy, the Committee was concerned about the potential for a buildup of inflationary imbalances that could undermine the favorable performance of the economy and therefore adopted a directive that is tilted toward the possibility of a  firming in the stance of monetary policy.  Trend increases in costs and core prices have generally remained quite subdued.  But domestic financial markets have recovered and foreign economic prospects have improved since the easing of monetary policy last fall.  Against the background of already-tight domestic labor markets and ongoing strength in demand in excess of productivity gains, the Committee recognizes the need to be alert to developments over coming months that might indicate that financial conditions may no longer be consistent with containing inflation.
+
+[SECTION]
+
+While the FOMC did not take action today to alter the stance of monetary policy, the Committee was concerned about the potential for a buildup of inflationary imbalances that could undermine the favorable performance of the economy and therefore adopted a directive that is tilted toward the possibility of a  firming in the stance of monetary policy.  Trend increases in costs and core prices have generally remained quite subdued.  But domestic financial markets have recovered and foreign economic prospects have improved since the easing of monetary policy last fall.  Against the background of already-tight domestic labor markets and ongoing strength in demand in excess of productivity gains, the Committee recognizes the need to be alert to developments over coming months that might indicate that financial conditions may no longer be consistent with containing inflation.
+
+[SECTION]
+
+1999 Monetary policy
+
+ Home | News and events
+Accessibility
+
+Last update: May 18, 1999, 2:15 PM
+
+(function(){var js = "window['__CF$cv$params']={r:'81f769d36ed4e5ea',t:'MTY5ODg3NjA1NS43NTkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();
