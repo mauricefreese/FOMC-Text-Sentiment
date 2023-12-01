@@ -1,0 +1,211 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 26, 2023
+
+[SECTION]
+
+Governor Christopher J. Waller
+
+[SECTION]
+
+At the Economics of Payments XII Conference, Washington D.C.
+
+[SECTION]
+
+It is a pleasure to welcome you all to this annual conference hosted by the Board for the first time in more than a decade. The payments system is changing, and the agenda for the next two days indicates that this year's conference will tackle a number of topics that are central to this evolution.
+
+[SECTION]
+
+The Fed plays multiple important roles in the payments system. We provide key services directly to a broad set of commercial banks, credit unions, and to the U.S. Treasury. We maintain accounts for these entities, transfer funds electronically, collect checks, and distribute currency. We also supervise certain financial market infrastructure. Through these functions, we help to ensure that the U.S. payments system meets the needs of consumers and businesses.
+
+[SECTION]
+
+From its founding, the Federal Reserve played a central role in the payments system. Market disruptions that contributed to financial panics in the late 19th and early 20th centuries were an important impetus for the establishment and design of the Federal Reserve. During the Panic of 1907, some banks refused to clear checks from other banks, creating a crisis in depositor confidence and leading to bank failures. Paul Warburg, an influential figure in banking at the time, argued that the central bank should have a duty to "establish and maintain a perfect system of credit, enabling the general banks to transform cash credits into actual cash with such absolute ease and certainty that the use of cash credit, instead of actual cash, will not cease, no matter what may happen."1
+
+[SECTION]
+
+In 1913, Congress did just that by creating the Federal Reserve and assigning it the authority to establish a nationwide check-clearing system. Shortly thereafter, the Fed established a wire transfer service known as Fedwire, and later built on that with the automated clearinghouse (ACH) service in the 1970s. With the launch of FedNow this past summer, we now have an instant payments service. Our job in providing these services and carrying out our responsibilities is to make sure the payments system functions efficiently and resiliently, promoting the kind of confidence that Warburg understood was vital.
+
+[SECTION]
+
+It is great to see that those of you participating in this conference are taking on the key issues of the day and pushing out the frontier of knowledge with your research. Just yesterday, we had a Board meeting to carry out our statutory responsibilities with respect to setting the debit interchange fee cap. And, of course, we have an interest in the developments around other topics on your agenda, such as stablecoins and crypto. But with just a couple minutes left before the formal proceedings start, I want to draw a connection between two topics on your agenda and two questions that I have.
+
+[SECTION]
+
+First, how quickly will consumers and businesses demand instant payments? As I mentioned, we recently launched FedNow, our newest payments service. In some ways, what FedNow is doing is not new because it simply executes the operations that happen between when a bank sends an authorized consumer transaction and when that transaction is cleared and settled on the other end. Some of those things happen now with ACH, but with ACH it takes longer. FedNow speeds that process up from, often, a couple days to a couple seconds from initiation to final receipt by consumers and businesses. The launch of FedNow was just one of many steps toward a system where substantially all payments are settled instantly. Banks also have a role in moving us closer to that reality. They will have to adapt their systems to be able to connect to FedNow, and how soon they do that will depend in part on how much their customers demand instant payments.
+
+[SECTION]
+
+Moving on to my second question, I see that you have a session on central bank digital currency. About two years ago I posed the question: What is the fundamental market failure a central bank digital currency will solve? 2 I have yet to hear a convincing answer. As I mentioned earlier, the Fed's job is to make sure the payments system functions efficiently. For over 100 years that has meant that the commercial banks and credit unions engage directly with the consumers, while we sit in the back and make sure things clear and settle efficiently. What then are the reasons that support why we should change our role to sitting out front and engaging directly with the consumers? I haven't heard a good answer to that, but I am happy to see that it is a topic being discussed in your conference.
+
+[SECTION]
+
+With that, I'll step away so that we can get on with the main event. Thank you all for being here today, and I hope you have a great and thought-provoking conference.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,284 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+December 01, 2023
+
+[SECTION]
+
+Vice Chair for Supervision Michael S. Barr
+
+[SECTION]
+
+At the ECB Forum on Banking Supervision, Frankfurt, Germany
+
+[SECTION]
+
+Thank you for the opportunity to speak today.1 I'm delighted to be here to celebrate the retirement of Andrea Enria, my dear friend and colleague, who has done so much to strengthen the supervision and regulation of European banks throughout his career. In my remarks, I would like to provide perspective on some of the lessons learned from the banking stress experienced in the United States last spring for both banks and their supervisors. In particular, I will focus on how banks manage liquidity risk, the role of the central bank's discount window lending in this process, and the importance of robust liquidity planning for good times and bad.
+
+[SECTION]
+
+Last March, several large U.S. banks faced acute liquidity pressures when uninsured depositors looked at the banks' balance sheets and judged that the banks would be insolvent if they needed to liquidate their securities portfolios to meet potential outflows. The banks' poor interest rate and liquidity risk management triggered a crisis of confidence in their uninsured depositors, resulting in liquidity crises at these banks. In short, they faced old-fashioned bank runs, the speed of which was anything but old fashioned. Despite their compliance with our capital rules, these banks lacked enough capital to reassure uninsured depositors that they had sufficient resources to weather this liquidity storm.
+
+[SECTION]
+
+In addition to our domestic strains, Credit Suisse came under renewed pressure in March 2023 after a long period of liquidity pressures that had been acute since the fall of 2022. Of course, Credit Suisse had been a troubled bank for some time, with doubts about its future viability after the Archegos and Greensill scandals had tarnished its reputation. These concerns became reality when the firm was forced to announce that its internal controls over financial reporting were ineffective and had been for several years. Credit Suisse was acquired by UBS in a deal that involved triggering of Credit Suisse's contingent convertible capital instruments, a severe dilution of shareholders, and the removal of senior bank management, as well as emergency liquidity support and extraordinary loss sharing from the Swiss government.
+
+[SECTION]
+
+While there is more that regulators and supervisors can do to help to ensure banks' interest rate risk management and capital bases are sufficiently calibrated to the risks of their business models, today I will focus most of my comments on liquidity risk management and operational readiness for firms in the United States to utilize the Federal Reserve's discount window. This is not a new topic, as I have spoken about lessons from March and the importance of bank's preparedness to tap Fed facilities previously.2 Today I will revisit those themes and provide some additional observations about the March stress events, including the importance of discount window preparedness relative to some specific liquidity risk factors such as uninsured deposits.
+
+[SECTION]
+
+A striking feature of recent U.S. experience with bank stress was that Silicon Valley Bank (SVB) and Signature Bank struggled to cope with unprecedented deposit outflows arising from a loss of confidence of their uninsured depositors. While ultimately the amount of their outflows made it not possible for these banks to continue operating, these banks started from a state in which they were not sufficiently equipped to manage liquidity riskâincluding by being adequately prepared to tap the Federal Reserve's discount window. Banks that experienced spillovers during this period also struggled with insufficiently robust liquidity risk management. It is crucial that banks have a diversified range of liquidity options that they are able to access in a variety of conditions. And in the case of banks that are eligible to borrow from the Federal Reserve, discount window borrowing should be an important part of this mix.
+
+[SECTION]
+
+There are a few major reasons for this conclusion. First, the discount window provides funding at a predictable interest rate, namely the primary credit rate, which does not fluctuate daily, unlike interest rates on private sector liquidity sources. More specifically, the discount window is always available as a standing facility, with the primary credit rate currently set at the top of the federal funds rate target range. This rateâalong with that of the standing repo facility (SRF), also set at this levelâshould serve as a backstop rate to short-term market interest rates and provide eligible firms with certainty about the highest rate they will face to gain liquidity against eligible assets at any given time. The discount window provides ready access to funding that can help banks manage their liquidity risks. The ability to access funding at a predictable rate through the discount window should figure importantly into banks' liquidity risk management plans under a range of scenarios.
+
+[SECTION]
+
+The discount window is also an important tool for monetary policy. The primary credit rate, set at the top of the target range, is a component for how we can achieve rate control under a range of conditions. To achieve our monetary policy aims, the discount window needs to be readily usable: if banks do not feel free to use the discount window when private sources of funding are more expensive, the discount window will not be an effective part of our monetary policy implementation toolkit. Banks have previously said that they are afraid of receiving negative feedback from their supervisors in the event that their sole grounds for tapping the discount window is that it is the most convenient or cheapest form of funding immediately available to them. In light of this, we at the Federal Reserve have been underlining the point to banks, supervisors, analysts, rating agencies, other market observers, and the public, through numerous channels, that using the discount window is not an action to be viewed negatively. Banks need to be ready and willing to use the discount window in good times and bad.
+
+[SECTION]
+
+The discount window is also an important tool of financial stability, because the Federal Reserve can provide liquidity in an array of circumstances, including those when other sources are impaired. Liquidity provision through the discount window is not reliant on the smooth functioning of private-sector funding markets. This is in contrast to most other options available to banks, including access to the Federal Home Loan Banks (FHLBs). Moreover, banks that have pre-pledged collateral at the discount window and tested its operations are not dependent on other market infrastructure and payments systems to borrow against this collateral.3 These features mean that discount window preparedness provides additional diversification benefits that can meaningfully enhance effective liquidity risk management.
+
+[SECTION]
+
+The experience of last March warrants reviewing to gain better insights into how well banks are positioned to borrow through the discount window. In doing so, I will discuss some observations from March in greater depth and note some potential lessons to be drawn from that experience. I will also briefly note some observations about our work on cross-border collaboration with our international counterparts.
+
+[SECTION]
+
+Lessons Learned: Uninsured Deposits and the Speed of Deposit Loss
+The speed of the bank runs in the spring of 2023 was unprecedented. The failure of Washington Mutual in 2008, the largest bank failure seen in the United States before this year, was the culmination of stresses that occurred over several weeks. The deposit losses experienced by SVB were much greater in both relative and absolute terms, and they occurred in less than 24 hours.4 Digital banking and social media were factors in the rapid escalation of SVB's problems, though they were not the underlying source of vulnerability. SVB's concentrated and highly networked depositor base of venture capital firms, portfolio companies, tech and crypto companies, and high-net-worth individuals communicated quickly with one another and, in effect, coordinated the massive and rapid run.5 And more fundamentally, as I said, SVB failed because of a textbook case of mismanagement of interest rate and liquidity risk. This mismanagement made depositors lose confidence in the bank's solvency, so they ran.
+
+[SECTION]
+
+The March stress also showed that contagion is possible among large regional banking organizations whose size and scope are well below those of banks that have been designated as globally systemically important. Liquidity stress at SVB quickly led other banks that were perceived to have weaknesses to experience outflows as well.6 Those banks that came under greater pressure tended to have large unrealized losses in their securities portfolios, to rely heavily on uninsured deposits, and to have a deposit and client base focused on the technology and crypto sectors, venture capital, or high-net-worth clients. But the contagion extended beyond such banks and threatened to cause disruption more broadly to regional and community banks with traditional business models and to the banking system as a whole. The Federal Reserve, the Federal Deposit Insurance Corporation (FDIC), and the U.S. Department of the Treasury stepped in quickly to stop that contagion, and the strategy worked: deposit flows returned to normal, and stress in the banking system slowly abated.
+
+[SECTION]
+
+This experience has changed everyone's perception of the possible speed of bank runs. What occurred in two or three weeks or, in some cases, many months in previous episodes may, in the modern era, now occur in hours. These issues are top of mind as we review and consider future adjustments to the way in which we should supervise and regulate liquidity risk.
+
+[SECTION]
+
+Monetization Issues
+We also saw during this period that firms were not as well positioned to monetize (that is, to borrow against or be ready to sell) their assets as they should have been. Many underestimated the size and speed with which liquidity needs could appear. Banks of all sizes are expected to maintain contingency funding plans (CFPs) to meet potential stressed liquidity outflows.7 In response to the Global Financial Crisis, regulators also now require large banks to maintain a multi-week buffer of high-quality liquid assets (HQLA) that can be easily converted to reserves even during times of stress.8
+
+[SECTION]
+
+These HQLA buffers are essential to ensuring funding resilience at large firms. The March stress episode, however, highlighted the fact that, in practice, there can be operational impediments to a bank's ability to monetize its liquidity buffers in large volumes and in a rapid time frame in acute stress. In a world in which a bank run took place over a matter of weeks, it was reasonable to assume that a sufficient volume of the most liquid securities could be monetized to meet the demand for reserves associated with deposit withdrawals.
+
+[SECTION]
+
+But times have changed, and I see several flaws in our previous assumptions. First, it may be difficult for a firm to conduct significant asset sales in a short time frame without becoming the subject of adverse attention or, if the firm is large, without affecting market prices with fire sale effects and potentially leading to broader contagion. Second, the March stress underlined the possibility that private repo markets may not be a viable financing channel for banks that need to rapidly ramp up access, especially for banks that may not regularly transact in these markets, even if such repo markets can be a viable source of liquidity for banks that regularly tap such markets and have more gradual funding stresses. Sharp shifts in calls on private repo market capacity, particularly by firms experiencing stress, may not be easily met.
+
+[SECTION]
+
+In addition, it proved especially difficult to monetize assets in those cases in which firms held substantial amounts of longer-dated securities, with significant amounts of unrealized losses, as we saw in the experience of SVB. The experience showed that when these securities are sold and losses are realized, it understandably may send a negative signal to the market about the bank's viability. A compounding factor in these situations is that if the securities that a bank needs to sell are in held-to-maturity portfolios, the sales under acute stress can have a severe effect on the bank's balance sheet, as I discussed in a previous speech.9
+
+[SECTION]
+
+Discount Window Preparedness for Times of Stress
+While, as discussed, the discount window provides ready access to funding to help banks manage liquidity risks in normal conditions, it is also incredibly important that it be available to banks dealing with idiosyncratic or market-wide stress events. When other forms of funding or related market infrastructure are not immediately available, readiness to borrow via the discount windowâincluding with prepositioned collateralâis even more crucial. In contrast to private-sector liquidity sources, the Fed can provide immediate liquidity against a wide range of collateral to one or a number of depository institutions simultaneously. This function provides additional time for a more orderly monetization. An update on contingent liquidity readiness that the bank regulatory agencies published in July also makes clear that all of the agencies understand the importance of a bank's readiness to make use of the discount window.10
+
+[SECTION]
+
+The banks that failed because of the stress event that began in March had access to, and utilized, the Federal Reserve's discount window, and their failures were the result not of lack of access to the discount window but of basic mismanagement of interest rate and liquidity risk that left them effectively insolvent in the eyes of uninsured depositors and unable to stem bank runs. That said, they also faced internal operational challenges in quickly identifying and moving collateral that would have provided them additional borrowing capacity at the discount window. While this additional borrowing capacity would not have ultimately saved these banks given the speed and the severity of their deposit outflows, the lessons from managing their stress events can help others facing less acute events. Greater operational readiness can provide for greater optionality when a bank hits a bout of turbulence. Ready access to sufficient liquidity provides breathing room for a bank to determine and execute its path forward.
+
+[SECTION]
+
+There are two key aspects of discount window readiness: preparedness to access the discount window and prepositioning adequate amounts of collateral. In terms of preparedness, the majority of banks that are eligible to borrow from the discount window have the legal agreements in place. This is the first step. However, many of these banks had not recently tested their discount window access prior to the stress event. Engaging in testing through actual transactions at regular intervals is a key component of operational readiness. In the case of some banks, the amount of collateral prepositioned was also a tiny fraction of potentially flight-prone liabilities going into the stress event. This lack of pre-pledging is a concern for several reasons, including that certain collateral types can require more time to pledge. Less liquid collateral can take longer to be assessed and valued at the discount window, meaning that banks should not expect they can gain immediate liquidity against these assets. But these are the very assets that would be best pledged to the discount window, so that more liquid assets are held for other uses.
+
+[SECTION]
+
+The Intersection of Discount Window Readiness and Existing Liquidity Regulations
+The existing standards that require banks to hold HQLA buffers for self-insurance are an essential element of the regulatory framework. Requirements applying to large banks, like the liquidity coverage ratio and the net stable funding ratio, have meaningfully increased the resiliency of the banking system to liquidity stress and positioned large banks to deal better with a 30-day stress period. This type of self-insurance is critical to bank resilience and to the robustness of the financial system; however, these requirements may not, on their own, be sufficient to stem a rapid run. The speed of bank runs and the impediments to rapidly raising liquidity in private markets that may be needed in hours rather than days suggest it may be necessary to reexamine our requirements, including with respect to self-insurance standards and to discount window preparedness. The lessons from March also indicate that some forms of deposits, such as those from venture capital firms, high-net-worth individuals, crypto firms, and others, may be more prone to faster runs than previously assumed.
+
+[SECTION]
+
+As I have emphasized today, and in two previous speeches, the discount window is a tool that banks can and should use to help them respond to a wide array of conditions and provide additional time for orderly monetization of liquidity buffers in private markets, but only if banks are prepared to use it. Given these dynamics, we are currently studying what the lessons from March, and the variability in discount window preparedness across eligible banks, mean for the safety and soundness of individual banks and for the stability of the financial system more broadly. Since March, some banks have been assessing their operational readiness to tap the discount window, particularly relative to their runnable liabilities, such as uninsured deposits, and have been taking measures to test and pre-pledge assets where possible. Banks have also been reassessing their assumptions on the liquidity value of hold-to-maturity securities, given the experiences of March.
+
+[SECTION]
+
+International Coordination and Cooperation
+Let me wrap up by sharing some thoughts with you on international spillovers to liquidity stress events. Episodes of financial stress have, in some instances, gone hand in hand with stress in U.S. dollar funding markets. Foreign banks, which have more limited access to dollar deposits than U.S. banks and rely more heavily on dollar wholesale funding for their operations, are particularly vulnerable to dollar liquidity strains. Of course, these banks have an important role in providing credit to the U.S. economy, and strains that they experience can affect U.S. businesses and households. In addition, dollar funding markets are global, and so strains in one segment can have broader repercussions for market functioning.
+
+[SECTION]
+
+Foreign banks that have branches in the United States have access to the discount window. Outside the United States, some of these firms also have access to dollar liquidity from their own central banks. The Federal Reserve maintains swap lines with foreign central banks and also maintains the Foreign and International Monetary Authorities (FIMA) repo facility to provide dollar liquidity to foreign official counterparts. These facilities have proven effective in damping pressures in U.S. dollar funding markets when adverse pressures have emerged, pressures that could exacerbate strains in broader U.S. domestic financial markets. Indeed, during the Global Financial Crisis and the COVID-19 pandemic, the peak outstanding amounts for the swap lines were a little above and a little below $500 billion, respectively, making them among the most used of our liquidity facilities. As with all backstop facilities, however, it is not just their use that helps the smooth functioning of markets, but banks and central banks knowing that liquidity will be available when needed that helps to prevent liquidity hoarding and precautionary sales that can contribute to stresses. In part for this reason, the Federal Open Market Committee decided to make the swap lines and FIMA repo standing facilities, after initially setting the operations up only as temporary.11
+
+[SECTION]
+
+These observations underscore the importance of our ongoing communication and collaboration with our counterpartsâboth other central banks and regulatory authoritiesâin order to ensure that we have a comprehensive understanding of evolving financial market dynamics and cross-border linkages that can affect our respective financial markets and financial institutions and also so that we can work to address gaps before pressures emerge. In my experience, these cross-border collaborations have been essential in enhancing the resilience of individual banks and the robustness of the financial system. I am grateful to my colleagues for their collaboration, and again wish to express my admiration for Andreas Enria on his retirement.
+
+[SECTION]
+
+Thank you.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,319 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 06, 2008
+
+[SECTION]
+
+Governor Randall S. Kroszner
+
+[SECTION]
+
+At the Boston College Carroll School of Management Center for Asset Management, Boston, Massachusetts
+
+[SECTION]
+
+As all of you well know, turmoil in the mortgage and financial markets emerged just about one year ago. We are learning some important lessons as related events continue to unfold. Today, I will offer some thoughts on financial market developments and credit conditions. I will also discuss the prospects for recovery and repair of the mortgage markets, which I believe will be a gradual process that requires both market and regulatory discipline.
+
+[SECTION]
+
+There are some key factors that should contribute to the recovery and repair of mortgage markets. Greater transparency and less complexity in credit instruments will help to promote broader scrutiny of credit risk. Investors with more and better information from originators and sponsors of credit products will be able to more easily conduct proper due diligence and verify evaluations of credit risk. Financial institutions that develop and hold these instruments and that have similar or correlated exposures through various business lines should also strengthen risk-management practices. And supervisors of these institutions must insist on effective risk management and take the steps necessary to ensure that changes are implemented where needed.
+
+[SECTION]
+
+Financial Market Developments and Credit ConditionsThe tenor in the financial markets has generally improved this spring and, on the whole, strains have eased somewhat. Spreads between yields on corporate bonds and yields on Treasury securities are narrower than in March, as are spreads on credit default swaps for firms across a wide range of industries. Meanwhile, companies across the credit-quality spectrum have been able to issue quite a sizable volume of new bonds this spring. For example, last month alone, domestic nonfinancial corporations raised more than $50 billion in the bond market. In addition, in recent weeks, several large financial institutions have tapped long-term bond markets to shore up liquidity in the face of short-term funding markets that have remained under pressure.
+
+[SECTION]
+
+Financial institutions have also continued to tap the equity market to bolster capital depleted by losses on loans and securities in their portfolios.  Large financial institutions, especially in the United States and Europe, have reported credit losses and asset writedowns on the order of $300 billion. Moreover, tightness in credit markets has forced many of these institutions to bring onto their balance sheets a substantial volume of assets that were intended to be sold to investors or funded through off-balance sheet vehicles. As a consequence of these financial pressures and, in some cases, at the urging of supervisors, U.S. bank holding companies have raised more than $80 billion in capital so far this year.
+
+[SECTION]
+
+Despite the improvement in sentiment this spring, risk premiums in the bond and stock markets have remained wide by historical standards, suggesting that investors continue to be concerned about the economic outlook and the performance of specific industries and firms. Furthermore, credit conditions have remained tight. For example, in the Federal Reserve's most recent Senior Loan Officer Opinion Survey on Bank Lending Practices conducted in the spring, banks reported having further tightened lending standards and terms on a range of loans to households and businesses. The reduced availability of credit has come as the banking industry has continued to write down the value of security holdings and has seen rising charge-off rates on loans for residential construction and development projects, home equity lines of credit, and consumer auto loans and credit card accounts.
+
+[SECTION]
+
+Thus, while the recent ability of many financial institutions to raise capital from diverse sources has been encouraging, additional capital raising by financial institutions would support the extension of credit to households and businesses, and thus economic activity. Financial institutions should continue in their efforts to raise capital. Furthermore, larger capital cushions will not only provide a more solid footing for the broader economy, but will place firms in the position to benefit from profit opportunities as conditions in the financial markets and the economy evolve.
+
+[SECTION]
+
+Strains continue to result in restrictive conditions for home-mortgage borrowers. Securitizations of non-agency mortgage products remain stalled and new originations are being held in lenders' portfolios, pressuring their balance sheets and, for example, leaving the spread between interest rates offered on jumbo and conforming mortgages very high. The difficult conditions in the mortgage securitization markets, of course, put strains on the housing market itself. Recovery in the mortgage markets themselves is also likely to be tied to recovery in the housing markets.
+
+[SECTION]
+
+As you know, home sales have dropped appreciably and the build up of inventories of unsold homes has been significant. In addition, mortgage foreclosures have risen sharply, and the report released yesterday by the Mortgage Bankers Association indicated that foreclosures climbed further in the first quarter of this year. The most recent data continued to show that the severity of the foreclosure problem has been uneven across the country, with Arizona, California, Florida, Nevada, Michigan, and Ohio, for example, suffering from higher rates than many other parts of the country. The high rates of mortgage foreclosures are an urgent problem, and the Federal Reserve has been working hard to help prevent avoidable foreclosures and to promote responsible mortgage lending. I expect housing markets to recover only gradually as demand rebounds and excess inventories are worked off.  The regions of the country with the most severe housing downturns may need more time to recover than others.
+
+[SECTION]
+
+To sum up, rehabilitation in the mortgage securitizations markets, which have been particularly hard hit during the turmoil of the past year, will be a gradual process that will take time.
+
+[SECTION]
+
+Structured Financial Products and the Financial Market Turmoil As you know, the initial shock to financial markets was essentially a rapid deterioration in the performance of subprime and so-called alt-A mortgages in the United States, particularly among those originated after the middle of 2005.1  A large share of those mortgages were funded through structures known as mortgage-backed securities (MBSs), and many of those structures were, in turn, funded by other structures called collateralized debt obligations (CDOs), in which subprime and alt-A MBS represented the collateral.
+
+[SECTION]
+
+These CDOs were ultimately held by a wide range of investors and financial institutions. Much of the issuance of these securities over the past few years occurred in an environment of tightly compressed risk spreads--that is, the difference between the yields on what were perceived as relatively safe and relatively risky assets was much smaller than usual. Indeed, many of the structures seemed to be created to satisfy investors' strong demand for securities that carried investment-grade ratings but that might provide slightly higher yields than other investment-grade securities, such as corporate bonds. In many cases, however, investors seem to have been attracted to these structured securities without a thorough understanding of the underlying risk profiles.
+
+[SECTION]
+
+Although MBSs and CDOs have been around for many years, the more recent structures were significantly different and more complex than their earlier counterparts. Investors' earlier experience with CDOs, for example, was mainly limited to cases in which primary securities, such as corporate bonds, business loans, or other simple securities, formed the underlying collateral. In contrast, the more recent CDOs frequently were themselves backed by structured securities, resulting in so-called two-layer securitizations in which structured products are used to fund other structured products.
+
+[SECTION]
+
+These two-layer securitizations are inherently more complex and more exposed to tail risk than their earlier one-layer counterparts. Indeed, in its recent report on credit-risk transfer, the Joint Forum--an international collaboration of financial supervisors--noted a "cliff effect" that is associated with the distribution of returns that can be realized on the more senior tranches of two-layer securitizations.2  Simply put, the cliff effect refers to the fact that investors of higher-rated tranches of complex securities can expect to receive a small positive return in most circumstances, but they are vulnerable to extremely large losses in the rare event of widespread financial stress.
+
+[SECTION]
+
+Despite the greater complexity, it seems that many investors assumed that the evaluations of credit-rating agencies would work well and be sufficient for the new structured securities. Investors ended up relying too heavily on those assessments, rather than requiring ample information about the underlying assets and demanding extra transparency in order to estimate projected risk-return trade-offs.
+
+[SECTION]
+
+Role of Information and Transparency in the Corporate Bond MarketTo illustrate how important information and transparency will be in the recovery and repair process of the securitization markets going forward, it might be helpful to review a case in which, on the whole, market functioning has held up relatively well. I'm thinking specifically about the market for corporate bonds issued by investment-grade nonfinancial firms.
+
+[SECTION]
+
+Over the past year, investment-grade nonfinancial companies in the United States have been able to issue a sizable volume of traditional debt instruments rather consistently, even as demand for some other types of securities has been substantially curtailed. In addition, liquidity in the secondary markets for corporate bonds has generally been perceived to be much better than liquidity for non-agency mortgage-backed securities and for more-complex structured securities. Part of the reason that the markets for high-grade nonfinancial bonds have continued to function relatively well is that those securities have not experienced widespread ratings downgrades or defaults.
+
+[SECTION]
+
+In addition, the extensive amount of data available about nonfinancial corporations and the performance of corporate bonds over time has made it easier and less costly for investors to conduct due diligence--or to put it another way--to "trust but verify" credit-risk evaluations. The same cannot be said of many residential MBSs created over the past couple of years and the many complex structured products that held MBSs as collateral, where the complexity of the payoff structures (including cliff effects) made expected returns and risks more difficult to model.
+
+[SECTION]
+
+Recovery and Repair Going ForwardAs I have said, recovery in the mortgage market will take time and will require more market and regulatory discipline. I would now like to discuss this process in further detail as it relates to the credit-rating agencies, the originate-to-distribute model for mortgage lending, the important role of the new Basel II framework, and improvements in risk-management practices that financial institutions will need to make in several key areas.
+
+[SECTION]
+
+Credit-Rating AgenciesAs I mentioned, establishing sound and thorough independent risk evaluations is costly, particularly for complex structured products that have only recently been created.  To address problems with risk evaluations, the President's Working Group on Financial Markets (PWG) has recommended, among other things, that the credit-rating agencies themselves should display greater skepticism when they are presented with complex and opaque instruments to rate.3  The PWG also suggested that the credit-rating agencies would better serve investors by providing greater transparency about the models, estimation methods, and assumptions used to evaluate credit risk for complex structured securities. In addition, it is important for the rating agencies to clarify that a given rating applied to a complex structured credit product may have a different risk than the same rating applied to a simple security, such as a corporate bond.
+
+[SECTION]
+
+Originate-to-Distribute Approach to Mortgage LendingThe growth of the originate-to-distribute approach in the mortgage market played an important role in the rapid expansion of mortgage lending in the United States until the onset of the recent market turbulence. That expansion was concentrated in the subprime and alt A segments of the mortgage market, where underwriting deteriorated at the point of origination. To an ever-increasing extent from around the middle of 2005 until about a year ago, originators made loans that layered multiple sources of credit risk, including low documentation of borrower income, very high combined loan-to-value ratios, and loans with nontraditional payment schedules that sometimes allowed principal and interest payments to be deferred. In an environment of compressed risk spreads, investors have more difficulty signaling concerns about credit risk, which may have reduced the incentives for originators to maintain strict underwriting.
+
+[SECTION]
+
+I would expect the originate-to-distribute model to continue to be an important part of the modern financial market landscape, but, I hope, in a much stronger form. The model works best when the resulting credit instruments are less complex and opaque, as analysts and investors can evaluate the underlying risks with greater certainty. And originate-to-distribute is most effective when the incentives of originators and investors are closely aligned and when market pricing reinforces incentives for originators to perform careful underwriting. Firms surveyed about their risk-management practices, by a group of supervisory agencies from France, Germany, Switzerland, the United Kingdom, and the United States known as the Senior Supervisors Group (SSG), have emphasized the importance of understanding the quality of new credits that their businesses originate or purchase from others.4
+
+[SECTION]
+
+The process of recovery and repair in non-agency mortgage securitization markets would also be aided by more clarity and consistency in underwriting standards. This would provide more certainty to the mortgage market, thereby helping to revive investor confidence in this market and promote the flow of credit to borrowers. Both to protect consumers and to foster the revival of these markets, the Federal Reserve has proposed stricter underwriting rules for high-cost mortgages under the Home Ownership and Equity Protection Act (HOEPA), which could also help to increase the transparency and improve the quality of underlying assets in private mortgage pools.
+
+[SECTION]
+
+The Federal Reserve's proposed rules would better protect consumers from a range of unfair or deceptive mortgage lending and advertising practices. Our proposal includes four key protections for higher-priced mortgage loans secured by a consumer's principal dwelling: (1) creditors would be prohibited from engaging in a pattern or practice of extending credit without considering borrowers' ability to repay the loan; (2) creditors would be required to verify the income and assets they rely upon in making a loan; (3) prepayment penalties would only be permitted if certain conditions are met, including the condition that no penalty will apply for at least 60 days before any possible payment increase; and (4) creditors would have to establish escrow accounts for taxes and insurance. We are working toward issuing final regulations in July.
+
+[SECTION]
+
+Role of Basel IIIndividual institutions are responsible for maintaining sound risk-management practices.  But supervisors, of course, also have a role to play in both promoting effective risk management and offering incentives for bankers to make improvements to their practices.
+
+[SECTION]
+
+The new Basel II framework is a substantial supervisory initiative that seeks to improve risk-management practices at banking organizations. The framework more closely aligns regulatory capital requirements with actual risks, which should lead institutions to make better decisions about extending credit, mitigating risks, and determining overall capital needs. For example, unlike under Basel I, the risk weights applied to first-lien residential mortgages will be subject to a much more refined differentiation depending on characteristics such as the credit worthiness of the borrower and the potential for loss on the exposure. Similarly, Basel II attempts to more fully capture risks in securitization transactions held in the banking book. For example, under the securitization approach of Basel II, capital charges are based on explicit assessments of the credit quality of the instrument. In contrast, under Basel I, capital charges had little relationship to underlying risk, being based instead, for example, on an instrument's maturity and whether it was on- or off- balance sheet. This tended to create regulatory arbitrage incentives.
+
+[SECTION]
+
+Just as lessons learned from recent events can help bankers improve risk- management practices, they can also help supervisors further increase the effectiveness of the Basel II framework. For example, the Basel Committee on Banking Supervision plans to strengthen the resiliency of Basel II by revising it to establish higher capital requirements for certain complex structured credit products, such as CDOs of asset-backed securities, among other enhancements.5 The Basel Committee is also working with the International Organization of Securities Commissions to address treatement of securitization transactions held in the trading book.
+
+[SECTION]
+
+Improvements in Risk-Management PracticesStudies of last year's events have concluded that part of the reason that the problems with subprime and alt-A mortgages led to much wider financial market turmoil was weaknesses in the risk-management practices at some large global financial firms that created and held complex credit products. Recent events have highlighted the need for risk-management improvements in four fundamental areas: risk identification and measurement, liquidity risk management, valuation practices, and governance and risk control.
+
+[SECTION]
+
+The first area relates to risk identification and measurement. As all of you here know, good information is the lifeblood of sound risk management. A good risk-management structure is designed to identify the full spectrum of risks across the entire firm, gathering and processing information on an enterprise-wide basis in real time. In short, you cannot manage your risks if you do not know what they are.
+
+[SECTION]
+
+Recent events have illustrated that many large, complex institutions had exposures to subprime mortgages that ran across independent business lines, through off-balance-sheet conduits such as structured investment vehicles, and with respect to numerous counterparties such as monoline financial guarantors. But too few institutions fully recognized their aggregate exposure to risks that turned out to be highly correlated. Latent risks from certain complex products and certain risky activities are particularly problematic because they can manifest themselves when market turbulence sets in. Stress testing and scenario analysis are essential because they can reveal potential risk concentrations that may not be apparent when using information gleaned in normal times.
+
+[SECTION]
+
+A second fundamental area is liquidity risk management. Because of its central role in the business of banking, liquidity risk requires rigorous and effective management.  Recent events have shown that during times of systemwide stress, liquidity shocks can become correlated, so that the same factors that can lead to liquidity problems for the bank's assets or off-balance-sheet vehicles can simultaneously put pressure on a bank's own funding liquidity. Because risk concentrations have the potential to manifest themselves during times of stress and at that time adversely affect capital positions, it is particularly important that firms assess how liquidity events could place pressure on capital levels.
+
+[SECTION]
+
+Valuation practices are a third fundamental area. The SSG comparative survey I mentioned earlier provides evidence that those firms paying close attention to the problems associated with the valuation of financial instruments, particularly instruments for which markets were not deep, fared better than institutions paying less attention. These more successful firms developed in-house expertise to conduct independent valuations and refrained from relying solely on third-party assessments, which again underscores the need for firms to "trust but verify."
+
+[SECTION]
+
+A final fundamental area, governance and risk control, has been a key factor differentiating performance across financial institutions during the recent turmoil. Firms that operated with the two main ingredients for solid governance and controls--thorough information about potential risks provided to a senior management team that is engaged and willing to act and strong incentives throughout the organization--have come through this tumultuous period in better condition.  Incentive structures are most effective when clearly and consistently articulated and when they take into account a longer-horizon view of risks to the organization.
+
+[SECTION]
+
+Effective risk management remains sturdy and durable only if supported and enforced by strong and independent risk functions that produce unbiased information. Empowering independent risk managers results in clear, dispassionate thinking about the potential for concentration and correlation of risks across the entire firm, with no favoritism toward any business unit regardless of its current profitability. In other words, each institution should have a few people within the institution who--to paraphrase a former Federal Reserve Chairman--know when to take away the punch bowl when the party gets going. Being the party pooper, however, can be very difficult in any organization, and that is why it is crucial for the risk manager to be known as an independent voice who is influential with top management, and for top executives, of large or small firms, to set the appropriate "tone at the top" with respect to the importance of independent and unbiased risk evaluation.
+
+[SECTION]
+
+ConclusionAs market participants take steps to foster greater transparency and reduce the complexity of structured credit instruments, I believe that recovery and repair in the mortgage markets will take hold over time. Moreover, as financial institutions continue to attract capital and strengthen risk-management practices, and as supervisors ensure that banks take the necessary actions, institutions will become more resilient to shocks, and the overall financial system will be more robust as a result.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

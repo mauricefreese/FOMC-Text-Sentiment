@@ -1,0 +1,307 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 07, 2016
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At the "Policy Challenges in an Interconnected World" 32nd Annual National Association for Business Economics Economic Policy Conference, Washington, D.C.
+
+[SECTION]
+
+I am grateful to the National Association for Business Economics (NABE) for conferring the fourth annual NABE Paul A. Volcker Lifetime Achievement Award for Economic Policy on me, thereby allowing me the honor of following in the footsteps of Paul Volcker, Jean-Claude Trichet, and Alice Rivlin.1 The honor of receiving the award is enhanced by its bearing the name of Paul Volcker, a model citizen and public servant, and a giant in every sense among central bankers.
+
+[SECTION]
+
+One thinks of many things on an occasion such as this one. My mind goes back first to growing up in a very small town in Zambia, then Northern Rhodesia, and to the surprise and delight my parents would have felt at seeing me standing where I am now. They would have been even more delighted that my girlfriend, Rhoda, whom I met when my parents moved to a bigger town in Zimbabwe, and I have been happily married for 50 years. But that is not the story I will tell today. Rather, I want to talk about our field, macroeconomics, and some of the lessons we have learned in the course of the last 55 years--and I say 55 years, because in 1961, at the end of my school years, on the advice of a friend, I read Keynes's General Theory for the first time.
+
+[SECTION]
+
+Did I understand it? Certainly not. Was I captivated by it? Certainly, though "captured" is a more appropriate word than "captivated." Does it remain relevant? Certainly. Just a week ago I took it off the bookshelf to read parts of chapter 23, "Notes on Mercantilism, the Usury Laws, Stamped Money and Theories of Under-Consumption." Today that chapter would be headed "Protectionism, the Zero Lower Bound, and Secular Stagnation," with the importance of usury laws having diminished since 1936.
+
+[SECTION]
+
+There is an old joke about our field--not the one about the one-handed economist, nor the one about "assume you have a can opener," nor the one that ends, "If I were you, I wouldn't start from here." Rather it's the one about the Ph.D. economist who returns to his university for his class's 50th reunion. He asks if he can see the most recent Ph.D. generals exam. After a while it is brought to him. He reads it carefully, looking perplexed, and then says, "But this is exactly the same as the exam I wrote over 50 years ago." "Ah yes," says the professor. "It is the same, but all the answers are different."
+
+[SECTION]
+
+Is that really the case? Not really, though it is true to some extent in the realm of policy. To discuss the question of whether the answers to the questions of how to deal with macroeconomic policy problems have changed markedly over the past half-century or so, I will start by briefly sketching the structure of a basic macro model. The building blocks of this model are similar to those used in many macro models, including FRB/US, the Fed staff's large-scale model, and a variety of DSGE (dynamic stochastic general equilibrium) models used at the Fed and other central banks and by academic researchers.
+
+[SECTION]
+
+The structure of the model starts with the standard textbook equation for aggregate demand for domestically produced goods, namely:2
+
+[SECTION]
+
+When I was an undergraduate at the London School of Economics (LSE) between 1962 and 1965, we learned the IS-LM model, which combined the aggregate demand equation (1) with the money market equilibrium condition set out in (3). That was the basic understanding of the Keynesian model as crystallized by John Hicks, Franco Modigliani, and others, in which it was easy to add detail to the demand functions for private-sector consumption, C; for investment, I; for government spending, G; and for net exports. The Keynesian emphasis on aggregate demand and its determinants is one of the basic innovations of the Keynesian revolution, and one that makes it far easier to understand and explain what factors are determining output and employment.
+
+[SECTION]
+
+Continuing down the list, on price and wage dynamics, the Phillips curve has flattened somewhat since the 1950s and 1960s.3 Further, the role of expectations of inflation in the Phillips curve has been developed far beyond what was understood when A.W. Phillips--who was a New Zealander, an LSE faculty member, and a statistician and former engineer--discovered what later became the Phillips curve. The difference between the short- and long-run Phillips curves, which is now a staple of textbooks, was developed by Milton Friedman and Edmund Phelps, and the effect of making expectations rational or model consistent was emphasized by Robert Lucas, whose islands model provided an imperfect information reason for a nonvertical short-run Phillips curve. In Okun's law, the Okun coefficient--the coefficient specifying how much a change in the unemployment rate affects output--appears to have declined over time. So has the trend rate of productivity growth, which is a critical determinant of future levels of per capita income.
+
+[SECTION]
+
+In (3), the monetary equilibrium condition, the monetary policy decision was typically represented by the money stock at the LSE and perhaps also at the Massachusetts Institute of Technology (MIT) after the Keynesian revolution (after all, "L" represents the liquidity preference function and "M" the supply of money); now the money supply rule is replaced by an interest-rate setting rule, for instance a reaction function of some form, or by a calculated "optimal" policy based on a loss function.
+
+[SECTION]
+
+The development of the flexible inflation-targeting approach to monetary policy is one of the major achievements of modern macroeconomics. Flexible inflation targeting allows for flexibility in the speed with which the monetary authority plans on returning to the target inflation rate, and is thereby close to the dual mandate that the law assigns to the Fed.
+
+[SECTION]
+
+A great deal of progress has been made in developing the credit and financial intermediation block. As early as the 1960s, each of James Tobin, Milton Friedman, and Karl Brunner and Alan Meltzer wrote out models with more fully explicated financial sectors, based on demand functions for assets other than money. Later the demand functions were often replaced by pricing equations derived from the capital asset pricing model. Researchers at the Fed have been bold enough to add estimated term and risk premiums to the determination of the returns on some assets.4 They have concluded, inter alia, that the arguments we used to make about how easy it would be to measure expected inflation if the government would introduce inflation-indexed bonds failed to take into account that returns on bonds are affected by liquidity and risk premiums. This means that one of the major benefits that were expected from the introduction of inflation-indexed bonds (Treasury Inflation-Protected Securities, generally called TIPS), namely that they would provide a quick and reliable measure of inflation expectations, has not been borne out, and that we still have to struggle to get reasonable estimates of expected inflation.
+
+[SECTION]
+
+As students, we included NX, net exports, in the aggregate demand equation, but we did not generally solve for the exchange rate, possibly because the exchange rate was typically fixed. Later, in 1976, Rudi Dornbusch inaugurated modern international macroeconomics--and here I'm quoting from a speech by Ken Rogoff--in his famous overshooting model.5 As globalization of both goods and asset markets intensified over the next 40 years, the international aspects of trade in goods and assets occupied an increasingly important role in the economies of virtually all countries, not least the United States, and in macroeconomics.
+
+[SECTION]
+
+At the LSE, we took a course on the British economy from Frank Paish, whose lectures consisted of a series of charts, accompanied by narrative from the professor. He made a strong impression on me in a lecture in 1963, in which he said, "You see, it (the balance of payments deficit) goes up and it goes down, and it is clear that we are moving toward a balance of payments crisis in 1964." I waited and I watched, and the crisis appeared on schedule, as predicted. But Paish also warned us that forecasting was difficult, and gave us the advice "Never look back at your forecasts--you may lose your nerve." I pass that wisdom on to those of you who need it.
+
+[SECTION]
+
+I remember also my excitement at being told by a friend in a more senior class about the existence of econometric models of the entire economy. It was a wonderful moment. I understood that economic policy would from then on be easy: All that was necessary was to feed the data into the model and work out at what level to set the policy parameters. Unfortunately, it hasn't worked out that way. On the use of econometric models, I think often of something Paul Samuelson once said: "I'd rather have Bob Solow's views than the predictions of a model. But I'd rather have Solow with a model than without one."
+
+[SECTION]
+
+We learned a lot at the LSE. But wonderful as it was to be in London, and to meet people from all over the world for the first time, and to be able to travel to Europe and even to the Soviet Union with a student group, and to ski for the first time in my life in Austria, it gradually became clear to me that the center of the academic economics profession was not in London or Oxford or Cambridge, but in the United States.
+
+[SECTION]
+
+There was then the delicate business of applying to graduate school. There was a strong Chicago tendency among many of the lecturers at the LSE, but I wanted to go to MIT. When asked why, I gave a simple answer: "Samuelson and Solow." Fortunately, I got into MIT and had the opportunity of getting to know Samuelson and Solow and other great professors. And I also met the many outstanding students who were there at the time, among them Robert Merton. I took courses from Samuelson and Solow and other MIT stars, and I wrote my thesis under the guidance of Paul Samuelson and Frank Fisher. From there, my first job was at the University of Chicago--and I understood that I was very lucky to have been able to learn from the great economists at both MIT and Chicago. Among the many things I learned at Chicago was a Milton Friedman saying: "Man may not be rational, but he's a great rationalizer," which is a quote that often comes to mind when listening to stock market analysts.
+
+[SECTION]
+
+After four years at Chicago, I returned to the MIT Department of Economics, and thought that I would never leave--even more so when MIT succeeded in persuading Rudi Dornbusch, whom I had met when he was a student at Chicago, to move to MIT--thus giving him too the benefit of having learned his economics at both Chicago and MIT, and giving MIT the pleasure and benefit of having added a superb economist and human being to the collection of such people already present.
+
+[SECTION]
+
+MIT was still heavily involved in developing growth theory at the time I was a Ph.D. student there, from 1966 to 1969. We students were made aware of Kaldor's stylized facts about the process of growth, presented in his 1957 article "A Model of Economic Growth." They were:
+
+[SECTION]
+
+Well, that was then, and many of the problems we face in our economy now relate to the changes in the stylized facts about the behavior of the economy: Every one of Kaldor's stylized facts is no longer true, and unfortunately the changes are mostly in a direction that complicates the formulation of economic policy.6
+
+[SECTION]
+
+While the basic approach outlined so far remains valid, and can be used to address many macroeconomic policy issues, I would like briefly to take up several topics in more detail. Some of them are issues that have remained central to the macroeconomic agenda over the past 50 years, some have to my regret fallen off the agenda, and others are new to the agenda.
+
+[SECTION]
+
+The right guide to thinking in this case is given by a famous Herbert Stein line: "The difference between a growth rate of 1 percent and 2 percent is 100 percent." Why? Productivity growth is a major determinant of long-term growth. At a 1 percent growth rate, it takes income 70 years to double. At a 2 percent growth rate, it takes 35 years to double. That is to say, that with a growth rate of 1 percent per capita, it takes two generations for per capita income to double; at a 2 percent per capita growth rate, it takes one generation for per capita income to double. That is a massive difference, one that would very likely have severe consequences for the national mood, and possibly for economic policy. That is to say, there are few issues more important for the future of our economy, and those of every other country, than the rate of productivity growth.
+
+[SECTION]
+
+At this stage, we simply do not know what will happen to productivity growth.Robert Gordon of Northwestern University has just published an extremely interesting and pessimistic book that argues we will have to accept the fact that productivity will not grow in future at anything like the rates of the period before 1973. Others look around and see impressive changes in technology and cannot believe that productivity growth will not move back closer to the higher levels of yesteryear.7 A great deal of work is taking place to evaluate the data, but so far there is little evidence that data difficulties account for a significant part of the decline in productivity growth as calculated by the Bureau of Labor Statistics.8
+
+[SECTION]
+
+Critics have argued that QE has gradually become less effective over the years, and should no longer be used.It is extremely difficult to appraise the effectiveness of a program all of whose parameters have been announced at the beginning of the program. But I regard it as significant with respect to the effectiveness of QE that the taper tantrum in 2013, apparently caused by a belief that the Fed was going to wind down its purchases sooner than expected, had a major effect on interest rates.
+
+[SECTION]
+
+More recently, critics have argued that QE, together with negative interest rates, is no longer effective in either Japan or in the euro zone.That case has not yet been empirically established, and I believe that central banks still have the capacity through QE and other measures to run expansionary monetary policies, even at the zero lower bound.
+
+[SECTION]
+
+Thus was born or renewed the concept of secular stagnation--the view that the economy could find itself permanently in a situation of low demand, less than full employment, and low growth.10 That is not what happened after World War II, and the thought of secular stagnation was correspondingly laid aside, in part because of the growing confidence that intelligent economic policies--fiscal and monetary--could be relied on to help keep the economy at full employment with a reasonable growth rate.
+
+[SECTION]
+
+Recently, Larry Summers has forcefully restated the secular stagnation hypothesis, and argued that it accounts for the current slowness of economic growth in the United States and the rest of the industrialized world. The theoretical case for secular stagnation in the sense of a shortage of demand is tied to the question of the level of the interest rate that would be needed to generate a situation of full employment. If the equilibrium interest rate is negative, or very small, the economy is likely to find itself growing slowly, and frequently encountering the zero lower bound on the interest rate.
+
+[SECTION]
+
+Research has shown a declining trend in estimates of the equilibrium interest rate. That finding has become more firmly established since the start of the Great Recession and the global financial crisis.11 Moreover, the level of the equilibrium interest rate seems likely to rise only gradually to a longer-run level that would still be quite low by historical standards.
+
+[SECTION]
+
+What factors determine the equilibrium interest rate? Fundamentally, the balance of saving and investment demands. Several trends have been cited as possible factors contributing to a decline in the long-run equilibrium real rate. One likely factor is persistent weakness in aggregate demand. Among the many reasons for that, as Larry Summers has noted, is that the amount of physical capital that the revolutionary information technology firms with high stock market valuations have needed is remarkably small. The slowdown of productivity growth, which as already mentioned has been a prominent and deeply concerning feature of the past six years, is another important factor.12 Others have pointed to demographic trends resulting in there being a larger share of the population in age cohorts with high saving rates.13 Some have also pointed to high saving rates in many emerging market countries, coupled with a lack of suitable domestic investment opportunities in those countries, as putting downward pressure on rates in advanced economies--the global savings glut hypothesis advanced by Ben Bernanke and others at the Fed about a decade ago.14
+
+[SECTION]
+
+Whatever the cause, other things being equal, a lower level of the long-run equilibrium real rate suggests that the frequency and duration of future episodes in which monetary policy is constrained by the ZLB will be higher than in the past. Prior to the crisis, some research suggested that such episodes were likely to be relatively infrequent and generally short lived.15 The past several years certainly require us to reconsider that basic assumption. Moreover, recent experience in the United States and other countries has taught us that conducting monetary policy at the effective lower bound is challenging.16 And while unconventional policy tools such as forward guidance and asset purchases have been extremely helpful and effective, all central banks would prefer a situation with positive interest rates, restoring their ability to use the more traditional interest rate tool of monetary policy.17
+
+[SECTION]
+
+The answer to the question "Will the equilibrium interest rate remain at today's low levels permanently?" is also that we do not know. Many of the factors that determine the equilibrium interest rate, particularly productivity growth, are extremely difficult to forecast. At present, it looks likely that the equilibrium interest rate will remain low for the policy-relevant future, but there have in the past been both long swings and short-term changes in what can be thought of as equilibrium real rates.
+
+[SECTION]
+
+Eventually, history will give us the answer. But it is critical to emphasize that history's answer will depend also on future policies, monetary and other, notably including fiscal policy.
+
+[SECTION]
+
+Concluding Remarks
+Well, are the answers all different than they were 50 years ago? No. The basic framework we learned a half-century ago remains extremely useful. But also yes: Some of the answers are different because they were not on previous exams because the problems they deal with were not evident fifty years ago. So the advice to potential policymakers is simple: Learn as much as you can, for most of it will come in useful at some stage of your career; but never forget that identifying what is happening in the economy is essential to your ability to do your job, and for that you need to keep your eyes, your ears, and your mind open, and with regard to your mouth--to use it with caution.
+
+[SECTION]
+
+Many thanks again for this award and this opportunity to speak with you.
+
+[SECTION]
+

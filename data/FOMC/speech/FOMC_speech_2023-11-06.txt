@@ -1,0 +1,304 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 06, 2023
+
+[SECTION]
+
+Governor Lisa D. Cook
+
+[SECTION]
+
+At Duke University, Durham, North Carolina
+
+[SECTION]
+
+I am delighted to be back at Duke University after spending many summers of my childhood here with my family visiting my uncle and his family. As you might know, my uncle Samuel DuBois Cook was a political theorist and the first African American professor tenured at Duke and at a major southern university. My family and I have many fond memories on this campus.
+
+[SECTION]
+
+I am also happy to be with you in the Economics Department today to discuss financial stability.1
+
+[SECTION]
+
+My own work as an academic has frequently reinforced the importance of financial stability in the United States and abroad. Early in my career, I examined the impact of underdevelopment in the Russian banking system on growth in post-Soviet Russia and the instability that can occur in a poorly regulated financial system. Years later, as an economist on the Council of Economic Advisers, I saw how weaknesses in the financial system contributed to instability in the euro area. These formative experiences shaped my view that the Federal Reserve's work on financial stability is critical to the well-being of households, businesses, and the broader economy. This is one reason I particularly value the opportunity to serve on the Board's Committee on Financial Stability.
+
+[SECTION]
+
+I will focus my remarks on my assessment of financial stability risks, based on the Federal Reserve's framework for monitoring vulnerabilities in the financial system. In my view, our financial system is substantially more resilient than it was in the mid-2000s, reflecting progress by regulators and the private sector in boosting resilience. That said, we cannot be complacent, and I see some important risks.
+
+[SECTION]
+
+Achieving the Federal Reserve's dual mandate of maximum employment and stable prices depends on a stable financial system.2 We all saw how the Global Financial Crisis triggered the Great Recession and brought misery to countless millions who lost their jobs, homes, or investments.
+
+[SECTION]
+
+A stable financial system provides households, communities, and businesses with the financing they need to invest, grow, and participate in a well-functioning economyâeven when hit by adverse events or "shocks." Consistent with this view of financial stability, our framework for how we think about this goalâas laid out in our Financial Stability Report (FSR), which was just released in Octoberâdistinguishes between shocks to, and vulnerabilities of, the financial system.3 Importantly, and as we economists know, we cannot predict exogenous shocks, which are, by definition, the surprise events that will hit the financial system and economy. By contrast, vulnerabilitiesâthe aspects of the financial system that would exacerbate stressâtend to build up over time and can be identified, assessed, and monitored. In the example of the Global Financial Crisis, although it was widely recognized that housing valuations were high, the magnitude of the ensuing price drop was unexpected, or a shock. That shock was amplified by vulnerabilities that had built up within the financial system over time, including weak bank capital, excessive household debt, lax lending standards, and fragile short-term wholesale funding. One hard-learned lesson of the crisis is that the Fed and other regulators must watch closely for vulnerabilities that may build up within the financial system.
+
+[SECTION]
+
+Based on this experience, other historical episodes, and academic research, we focus, in the Board's FSR and other work, on assessing vulnerabilities across four broad categories related to asset valuations, borrowing by businesses and households, financial-sector leverage, and funding risks. We also consider, through contacts with market participants and experts, near-term risks that, if they were to come to pass, could interact with these vulnerabilities.
+
+[SECTION]
+
+Asset Valuations
+One key set of vulnerabilities stems from valuation pressures. The willingness of investors to take on risks is closely related to the economic and financial cycle. When their risk appetite drives prices higher relative to economic fundamentals, there may be a greater risk of outsized drops in prices that can be destabilizing.4 The Fed looks at a broad range of asset markets, including equities, Treasury securities, corporate bonds, loans, and real estate. This table from our FSR shows the sizes of the asset markets discussed in this section as of Q2, the most recent data available. The largest asset markets are those for residential real estate, equities, Treasury securities, and commercial real estate (CRE).5
+
+[SECTION]
+
+This year, asset valuations have generally risen notably above their historical levels. In particular, prices of residential and commercial properties remain above levels historically associated with fundamentals. House prices, relative to rents, are near all-time highs. Further, prices have started increasing again in recent months after falling for more than a year. Commercial property prices also remain high relative to rental income. I am watching closely the extent to which post-pandemic supply and demand patterns normalize. Demand in the office sector has remained weak, particularly in central business districts and coastal cities, with vacancy rates increasing further and rent growth declining. Finally, average delinquency rates for commercial mortgage-backed securities have moved up recently, as office and retail loan performance has deteriorated. If delinquency rates generate selling pressure or increase notably further and result in forced sales of properties, then CRE prices could decline sharply.
+
+[SECTION]
+
+Another notable market development has been the significant increase in longer-term bond yields since June. Decompositions between changes in expected rates and term premiums depend on the specific models and assumptions used, but I would say that an expectation of higher near-term policy rates does not appear to be causing the increase in longer-term rates.
+
+[SECTION]
+
+Business and Household Borrowings
+Valuation pressures are especially concerning if they are associated with excessive borrowing. If households or businesses borrow too much, they may be unable to service debt or could find themselves underwater if assets decline in value. Such stresses can propagate through the financial system, causing funding shortages that curtail credit and hamper economic activity. Of course, it is very difficult to tell in real time whether households and businesses are, in fact, borrowing "too much," so we rely on a range of benchmarks.
+
+[SECTION]
+
+Currently, business debt is at historically high levels relative to such benchmarks as gross domestic product (GDP) or business assets, although those ratios are significantly lower than the record highs reached at the onset of the pandemic. However, measures of the ability of firms to service their debt remain strong overall, supported by resilient corporate profits and limited effects to date from higher interest rates. The pass-through of higher interest rates into debt-servicing costs appears to be muted by the large share of long-term, fixed-rate liabilities. However, I note that for risky borrowers or those with high-yield or unrated debt, the ability to service their debt burdens has started to show signs of weakness, as would be expected in a rising interest rate environment, and could become further strained if corporate earnings fall due to a sharper-than-expected slowdown in economic activity.
+
+[SECTION]
+
+The household sector, taken as a whole, looks quite resilient. Household debt, including home mortgages, auto and student loans, and credit cards, remains at modest levels relative to GDP, and most of that debt is owed by households with strong credit histories or considerable home equity. Of course, we are seeing emerging signs of stress for households with lower credit scores, and individual borrowers may struggle with debt burdens in the face of economic hardships.
+
+[SECTION]
+
+Financial-Sector Leverage 
+Now to financial-sector leverage. As I mentioned earlier, we pay careful attention to our financial system's ability to support the activities of businesses and households. When financial institutions are overly indebted, adverse shocks can cause them to retrench more than they otherwise would, resulting in greater declines in economic activity. In extreme circumstances, such effects can lead to credit crunches and widespread economic dislocations. Similarly, some institutions may be forced to rapidly deleverage, stressing markets and forcing other institutions to also pull back.
+
+[SECTION]
+
+The United States has a large and vibrant financial system, so it is important to assess leverage across the broad array of nonbanks and banks of all sizes that provide credit to our economy. Starting with banks: The banking sector remains sound and resilient overall. Most banks continue to report solid capital levels well above regulatory requirements.
+
+[SECTION]
+
+The rise in interest rates over the past two years has contributed to robust bank profitability, as banks earned higher interest income on floating-rate loans while interest expense on many deposits remained well below market rates. At the same time, higher long-term interest rates also substantially affected the fair value of banks' holdings of fixed-rate assets. As we saw earlier this year, fair value losses on bank balance sheets, when combined with poor liquidity and interest rate risk management, can leave banks exposed to additional risk. While acute stresses have abated, I continue to monitor this situation closely.
+
+[SECTION]
+
+Some nonbanks can be quite leveraged. For example, available data suggest that hedge fund leverage remains elevated, especially for the largest hedge funds. It is important to better understand how their leveraged activities could impact the functioning of underlying markets.
+
+[SECTION]
+
+Funding Risks 
+Looking at funding, many financial institutions raise funds from the public with a commitment to return their money on short notice. But those institutions then invest much of those funds in assets that are hard to sell quickly or have a long maturity. This liquidity and maturity transformation can create strains across markets or institutions, particularly in the absence of a lender of last resort such as the Fed's discount window for commercial banks.
+
+[SECTION]
+
+In the banking industry, the deposit volatility that we saw earlier this year has abated. That said, some banks have had to turn to higher-cost funding sources to make up for lost deposits and face reduced market values for investment securities.
+
+[SECTION]
+
+Outside of banking, we also monitor a wide range of nonbank financial institutions (NBFIs) such as money market funds, open-end funds, insurers, central counterparties, and digital assets. Many of their activities give rise to a liquidity mismatch that could amplify market stress. They have daily or frequent redemption possibilities on the liability side while holding less-liquid assets. I think the Securities and Exchange Commission's (SEC) recent reform on money market funds and proposal for open-end funds are encouraging steps toward mitigating funding risks arising from nonbanks.
+
+[SECTION]
+
+Salient Near-Term Risks 
+Let me now describe how these vulnerabilities factor into how I see the resilience of the financial system. I will walk through how potential near-term risks could interact with current conditions in the United States, based in part on the regular outreach survey the Federal Reserve Bank of New York conducts to inform the discussion in the FSR.6 In recent outreach, as summarized in this figure from the FSR, contacts were particularly focused on the persistent inflationary pressures leading to further monetary tightening, the potential for significant losses on CRE and residential real estate, the reemergence of banking-sector stress, and market liquidity strains and volatility.
+
+[SECTION]
+
+Market participants and others remain attentive to the possible effects of higher interest rates on the financial sector. An unexpected sharp increase in rates could lead to heightened volatility in financial markets, stresses to market liquidity, and downward pressures for asset prices. Losses among financial intermediaries could lead to strains and a consequent reduction in credit supply.
+
+[SECTION]
+
+As I said earlier, the banking sector has stabilized since the period of acute stress earlier this year, and the system as a whole has ample capital and liquidity to withstand shocks. I continue to monitor the system for signs of renewed stresses.
+
+[SECTION]
+
+At the same time, vulnerabilities at certain NBFIs could play a key role in amplifying stress associated with tightening financial conditions and slowing economic activity. I am closely monitoring NBFIs with pronounced liquidity mismatches, such as certain money market funds and open-end funds, as well as those with significant leverage, such as hedge funds. For example, several indicators suggest that Treasury cash-futures basis tradesâtrades that involve the sale of a Treasury future and the purchase of a Treasury security deliverable into the futures contractâlikely gained in popularity recently. Because the basis trade is often highly leveraged, a funding shock or heightened volatility in Treasury markets could force hedge funds to abruptly unwind their positions at potentially distressed prices.
+
+[SECTION]
+
+I will keep an eye on how these leveraged trades might interact with Treasury market liquidity.
+
+[SECTION]
+
+Last but not least, transparency is vital for financial stability risk monitoring. I want to underscore some encouraging progress in improving data collection to enhance visibility into hedge fund activities.7 In addition to their ongoing work on emerging risks, the Financial Stability Oversight Council (FSOC), the Office of Financial Research (OFR), and individual FSOC agencies should continue to work together to ensure regulators have appropriate information to assess the financial stability risks posed by nonbank activities and their interconnectedness with banks. In conclusion, the financial system is substantially more resilient than it was in the mid-2000s. However, vulnerabilities have risen somewhat in recent years, as highlighted by fragilities at NBFIs, in the Treasury market, andâmost notably this yearâat some banks.
+
+[SECTION]
+
+Our framework and assessment of financial stability vulnerabilities help us understand these issues, but I am cognizant of the limitations. We cannotâand do not expect toâforesee all potential risks. The financial system is too complex and evolves too rapidly for that to be possible. What we can do is remain vigilant to emerging vulnerabilities and build resilience to a variety of potential shocks. I think it is particularly important to enhance resilience at large banks, and I support seeking public comment on federal banking agencies' Basel III endgame proposal on bank capital requirements. I will also focus on monitoring vulnerabilities at NBFIs and the functioning of Treasury markets. I strongly support continued efforts across the regulatory agencies to share more information and to boost resilience of the entire financial system.
+
+[SECTION]
+
+Looking forward, an area that I think deserves more attention is the financial stability implications of artificial intelligence (AI), especially its applications in financial services. I can imagine many of you, especially graduate students, are using or exploring the use of machine learning and other forms of AI in your research in economics. On the one hand, AI innovations could expand credit access for consumers and small businesses and bring greater efficiency to broader financial markets. On the other hand, the potential widespread adoption of powerful new AI, especially generative-AI applications, inevitably raises questions about potential benefits and risks to the stability of the financial system as a whole. Academics, regulators, and financial market participants are all looking carefully at AI, and more research is welcome as we move ahead in exploring the policy and regulatory issues related to AI.
+
+[SECTION]
+
+Thank you for inviting me to speak at Duke University.
+
+[SECTION]
+
+Accessible Version
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

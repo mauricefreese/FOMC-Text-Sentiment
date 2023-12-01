@@ -1,0 +1,199 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 07, 2023
+
+[SECTION]
+
+Governor Christopher J. Waller
+
+[SECTION]
+
+At "Beyond the Numbers," a conference hosted by the Research Division of the Federal Reserve Bank of St. Louis, St. Louis, Missouri
+
+[SECTION]
+
+Thank you, Katrina, for inviting me here today.1 As I hope you all know, the Federal Reserve uses monetary policy to achieve its dual mandate of maximum employment and price stability. One of my key roles as a policymaker is to help determine what stance of policy will move the economy closer to that reality. To do that, I need to try to understand where the economy stands and where it is headed. And to do that, I look at a variety of economic and financial data.
+
+[SECTION]
+
+I have a team of advisers who help me compile and analyze data. But you don't need your own team of economists to get a good idea of what's happening in the U.S. economy. The staff here at the Federal Reserve Bank of St. Louis has created an easy-to-use interactive tool that brings economic data to your fingertips. FRED (Federal Reserve Economic Data) allows the public to access, plot, and analyze thousands of economic data series. I often use FRED myself when I want to look up current and historical data.
+
+[SECTION]
+
+In fact, I thought for today's talk, I could use FRED to show some of the data series I consult when thinking about the economy. I'll start with some slides on economic activity and then move on to the labor market and inflation. I'll tell you how I am interpreting these data, what they have meant for policy to date, and offer a few caveats we should all keep in mind when using data. I will not be discussing my expectations for future monetary policy.
+
+[SECTION]
+
+Much of what I have shared today comes from an economic outlook speech I gave a few weeks back. If you would like to read the full remarks, you can look for those on the Board's website.2 I hope you do. But even more so, I hope these slides today have helped show that you and your students don't have to wait for a speech from a Fed policymaker to get an update on the U.S. economy. You can use FRED to access and analyze the data yourselves. I hope that reviewing these data series has been as fun for you as it has been for me or that at least I've sparked some ideas for how you can use this tool in the classroom. Thank you.
+
+[SECTION]
+
+Accessible Version
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

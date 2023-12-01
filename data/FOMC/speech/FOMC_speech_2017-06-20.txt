@@ -1,0 +1,291 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 20, 2017
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At the DNB-Riksbank Macroprudential Conference Series, Amsterdam, Netherlands
+
+[SECTION]
+
+It is often said that real estate is at the center of almost every financial crisis. That is not quite accurate, for financial crises can, and do, occur without a real estate crisis. But it is true that there is a strong link between financial crises and difficulties in the real estate sector.1 In their research about financial crises, Carmen Reinhart and Ken Rogoff document that the six major historical episodes of banking crises in advanced economies since the 1970s were all associated with a housing bust.2 Plus, the drop in house prices in a bust is often bigger following credit-fueled housing booms, and recessions associated with housing busts are two to three times more severe than other recessions.3 And, perhaps most significantly, real estate was at the center of the most recent crisis.
+
+[SECTION]
+
+In addition to its role in financial stability, or instability, housing is also a sector that draws on and faces heavy government intervention, even in economies that generally rely on market mechanisms. Coming out of the financial crisis, many jurisdictions are undergoing housing finance reforms, and enacting policies to prevent the next crisis. Today I would like to focus on where we now stand on the role of housing and real estate in financial crises, and what we should be doing about that situation. We shall discuss primarily the situation in the United States, and to a much lesser extent, that in other countries.
+
+[SECTION]
+
+Housing and Government
+Why are governments involved in housing markets? Housing is a basic human need, and politically importantââand rightly so. Using a once-popular term, housing is a merit goodââit can be produced by the private sector, but its benefit to society is deemed by many great enough that governments strive to make it widely available.4 As such, over the course of time, governments have supported homebuilding and in most countries have also encouraged homeownership.5
+
+[SECTION]
+
+Governments are involved in housing in a myriad of ways. One way is through incentives for homeownership. In many countries, including the United States, taxpayers can deduct interest paid on home mortgages, and various initiatives by state and local authorities support lower-income homebuyers. France and Germany created government-subsidized home-purchase savings accounts. And Canada allows early withdrawal from government-provided retirement pension funds for home purchases.6
+
+[SECTION]
+
+Andââas we all knowââgovernments are also involved in housing finance. They guarantee credit to consumers through housing agencies such as the U.S. Federal Housing Administration or the Canada Mortgage and Housing Corporation.7 The Canadian government also guarantees mortgages on banks' books. And at various points in time, jurisdictions have explicitly or implicitly backstopped various intermediaries critical to the mortgage market.
+
+[SECTION]
+
+Government intervention in the United States has also addressed the problem of the fundamental illiquidity of mortgages. Going back 100 years, before the Great Depression, the U.S. mortgage system relied on small institutions with local deposit bases and lending markets. In the face of widespread runs at the start of the Great Depression, banks holding large portfolios of illiquid home loans had to close, exacerbating the contraction. In response, the Congress established housing agencies as part of the New Deal to facilitate housing market liquidity by providing a way for banks to mutually insure and sell mortgages.8
+
+[SECTION]
+
+In time, the housing agencies, augmented by post-World War II efforts to increase homeownership, grew and became the familiar government-sponsored enterprises, or GSEs: Fannie, Freddie, and the Federal Home Loan Banks (FHLBs). The GSEs bought mortgages from both bank and nonbank mortgage originators, and in turn, the GSEs bundled these loans and securitized them; these mortgage-backed securities were then sold to investors. The resulting deep securitized market supported mortgage liquidity and led to broader homeownership.9
+
+[SECTION]
+
+Costs of Mortgage Credit
+While the benefits to society from homeownership could suggest a case for government involvement in securitization and other measures to expand mortgage credit availability, these benefits are not without costs. A rapid increase in mortgage credit, especially when it is accompanied by a rise in house prices, can threaten the resilience of the financial system.
+
+[SECTION]
+
+One particularly problematic policy is government guarantees of mortgage-related assets. Pre-crisis, U.S. agency mortgage-backed securities (MBS) were viewed by investors as having an implicit government guarantee, despite the GSEs' representations to the contrary. Because of the perceived guarantee, investors did not fully internalize the consequence of defaults, and so risk was mispriced in the agency MBS market. This mispricing can be notable, and is attributable not only to the improved liquidity, but also to implicit government guarantees.10 Taken together, the government guarantee and resulting lower mortgage rates likely boosted both mortgage credit extended and the rise in house prices in the run-up to the crisis.
+
+[SECTION]
+
+Another factor boosting credit availability and house price appreciation before the crisis was extensive securitization.11 In the United States, securitization through both public and private entities weakened the housing finance system by contributing to lax lending standards, rendering the mid-2000 house price bust more severe.12 Although the causes are somewhat obscure, it does seem that securitization weakened the link between the mortgage loan and the lender, resulting in risks that were not sufficiently calculated or internalized by institutions along the intermediation chain. For example, even without government involvement, in Spain, securitization grew rapidly in the early 2000s and accounted for about 45 percent of mortgage loans in 2007.13 Observers suggest that Spain's broad securitization practices led to lax lending standards and financial instability.14
+
+[SECTION]
+
+Yet, as the Irish experience suggests, housing finance systems are vulnerable even if they do not rely on securitization. Although securitization in Ireland amounted to only about 10 percent of outstanding mortgages in 2007, lax lending standards and light regulatory oversight contributed to the housing boom and bust in Ireland.15
+
+[SECTION]
+
+Macroprudential Policies
+To summarize, murky government guarantees, lax lending terms, and securitization were some of the key factors that made the housing crisis so severe. Since then, to damp the house price-credit cycle that can lead to a housing crisis, countries worldwide have worked to create or expand existing macroprudential policies that would, in principle, limit credit growth and the rate of house price appreciation.16
+
+[SECTION]
+
+Most macroprudential policies focus on borrowers. Loan-to-value (LTV) and debt-to-income (DTI) ratio limits aim to prevent borrowers from taking on excessive debt. The limits can also be adjusted in response to conditions in housing markets; for example, the Financial Policy Committee of the Bank of England has the authority to tighten LTV or DTI limits when threats to financial stability emerge from the U.K. housing market. Stricter LTV or DTI limits find some measure of success. One study conducted across 119 countries from 2000 to 2013 suggests that lower LTV limits lead to slower credit growth.17 In addition, evidence from a range of studies suggests that decreases in the LTV ratio lead to a slowing of the rate of house price appreciation.18 However, some other research suggests that the effectiveness of LTV limits is not significant or somewhat temporary.19
+
+[SECTION]
+
+Other macroprudential policies focus on lenders. First and foremost, tightening bank capital regulation enhances loss-absorbing capacity, strengthening financial system resilience. In addition, bank capital requirements for mortgages that increase when house prices rise may be used to lean against mortgage credit growth and house price appreciation.20 These policies are intended to make bank mortgage lending more expensive, leading borrowers to reduce their demand for credit, which tends to push house prices down. Estimates of the effects of such changes vary widely: After consideration of a range of estimates from the literature, an increase of 50 percentage points in the risk weights on mortgages would result in a house price decrease from as low as 0.6 percent to as high as 4.0 percent.21 These policies are more effective if borrowers are fairly sensitive to a rise in interest rates and if migration of intermediation outside the banking sector to nonbanks is limited.
+
+[SECTION]
+
+Of course, regulatory reforms and in some countries, macroprudential policiesââare still being implemented, and analysis is currently under way to monitor the effects. So far, research suggests that macroprudential tightening is associated with slower bank credit growth, slower housing credit growth, and less house price appreciation. Borrower, lender, and securitization-focused macroprudential policies are likely all useful in strengthening financial stability.
+
+[SECTION]
+
+Loan Modification in a Crisis
+Even though macroprudential policies reduce the incidence and severity of housing related crises, they may still occur. When house prices drop, households with mortgages may find themselves underwater, with the amount of their loan in excess of their home's current price. As Atif Mian and Amir Sufi have pointed out, this deterioration in household balance sheets can lead to a substantial drop in consumption and employment.22 Extensive mortgage foreclosures--that is, undertaking the legal process to evict borrowers and repossess the house and then selling the house--as a response to household distress can exacerbate the downturn by imposing substantial dead-weight costs and, as properties are sold, causing house prices to fall further.23
+
+[SECTION]
+
+Modifying loans rather than foreclosing on them, including measures such as reducing the principal balance of a loan or changing the loan terms, can allow borrowers to stay in their homes. In addition, it can substantially reduce the dead-weight costs of foreclosure.
+
+[SECTION]
+
+Yet in some countries, institutional or legal frictions impeded desired mortgage modifications during the recent crisis. And in many cases, governments stepped in to solve the problem. For example, U.S. mortgage loans that had been securitized into private-label MBS relied on the servicers of the loans to perform the modification. However, operational and legal procedures for servicers to do so were limited, and, as a result, foreclosure, rather than modification, was commonly used in the early stages of the crisis. In 2008, new U.S. government policies were introduced to address the lack of modifications. These policies helped in three ways. First, they standardized protocols for modification, which provided servicers of private-label securities some sense of common practice. Second, they provided financial incentives to servicers for modifying loans. Third, they established key criteria for judging whether modifications were sustainable or not, particularly limits on mortgage payments as a percentage of household income. This last policy was to ensure that borrowers could actually repay the modified loans, which prompted lenders to agree more readily to the modification policies in the first place.
+
+[SECTION]
+
+Ireland and Spain also aimed to restructure nonperforming loans. Again, government involvement was necessary to push these initiatives forward. In Ireland, mortgage arrears continued to accumulate until the introduction of the Mortgage Arrears Resolution Targets scheme in 2013, and in Spain, about 10 percent of mortgages were restructured by 2014, following government initiatives to protect vulnerable households.24 Public initiatives promoting socially desirable mortgage modifications in times of crises tend to be accompanied by explicit public fund support even though government guarantees may be absent in normal times.
+
+[SECTION]
+
+What Has Been Done? What Needs to Be Done?
+With the recent crisis fresh in mind, a number of countries have taken steps to strengthen the resilience of their housing finance systems. Many of the most egregious practices that emerged during the lending boom in the United Statesââsuch as no- or low-documentation loans or negatively amortizing mortgagesââhave been severely limited. Other jurisdictions are taking actions as well. Canadian authorities withdrew government insurance backing on non-amortizing lines of credit secured by homes. The United States and the European Union required issuers of securities to retain some of the credit risk in them to better align incentives among participants (although in the United States, MBS issued by Fannie and Freddie are currently exempt from this requirement). And post-crisis, many countries are more actively pursuing macroprudential policies, particularly those targeted at the housing sector.25 New Zealand, Norway, and Denmark instituted tighter LTV limits or guidelines for areas that had overheating housing markets. Globally, the introduction of new capital and liquidity regulations has increased the resilience of the banking system.
+
+[SECTION]
+
+But memories fade. Fannie, Freddie, and the Federal Housing Administration are now the dominant providers of mortgage funding, and the FHLBs have expanded their balance sheets notably. House prices are now high and rising in several countries, perhaps as a result of extended periods of low interest rates.
+
+[SECTION]
+
+What should be done as we move ahead?
+
+[SECTION]
+
+First, macroprudential policies can help reduce the incidence and severity of housing crises. While some policies focus on the cost of mortgage credit, others attempt directly to restrict households' ability to borrow. Each policy has its own merits and working out their respective advantages is important.
+
+[SECTION]
+
+Second, government involvement can promote the social benefits of homeownership, but those benefits come at a cost, both directly, for example through the beneficial tax treatment of homeownership, and indirectly through government assumption of risk. To that extent, government support, where present, should be explicit rather than implicit, and the costs should be balanced against the benefits, including greater liquidity in housing finance engendered through a uniform, guaranteed instrument.
+
+[SECTION]
+
+Third, a capital regime that takes the possibility of severe stress seriously is important to calm markets and restart the normal process of intermediation should a crisis materialize. A well-capitalized banking system is a necessary condition for stability in bank-based financial systems as well as those with large nonbank sectors. This necessity points to the importance of having resilient banking systems and also stress testing the system against scenarios with sharp declines in house prices.
+
+[SECTION]
+
+Fourth, rules and expectations for mortgage modifications and foreclosure should be clear and workable. Past experience suggests that both lenders and borrowers benefit substantially from avoiding costly foreclosures. Housing-sector reforms should consider polices that promote efficient modifications in systemic crises.
+
+[SECTION]
+
+In the United States, as around the world, much has been done. The core of the financial system is much stronger, the worst lending practices have been curtailed, much progress has been made in processes to reduce unnecessary foreclosures, and the actions associated with the Housing and Economic Recovery Act of 2008 created some improvement over the previous ambiguity surrounding the status of government support for Fannie and Freddie.
+
+[SECTION]
+
+But there is more to be done, and much improvement to be preserved and built on, for the world as we know it cannot afford another pair of crises of the magnitude of the Great Recession and the Global Financial Crisis.
+
+[SECTION]
+

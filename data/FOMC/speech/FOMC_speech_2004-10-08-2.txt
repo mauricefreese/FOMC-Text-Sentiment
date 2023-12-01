@@ -1,0 +1,468 @@
+Panel discussion:  What Have We Learned Since October 1979?
+
+[SECTION]
+
+
+
+[SECTION]
+
+The question
+asked of this panel is, "What have we learned since October 1979?" The
+evidence suggests that we have learned quite a bit. Most notably, monetary
+policy-makers, political leaders, and the public have been persuaded by two
+decades of experience that low and stable inflation has very substantial economic
+benefits.
+
+[SECTION]
+
+This consensus marks
+a considerable change from the views held by many economists at the time that
+Paul Volcker became Fed Chairman. In 1979, most economists would have agreed that,
+in principle, low inflation promotes economic growth and efficiency in the long
+run. However, many also believed that, in the range of inflation rates
+typically experienced by industrial countries, the benefits of low inflation
+are probably small--particularly when set against the short-run costs of a
+major disinflation, as the United States faced at that time. Indeed, some
+economists would have held that low-inflation policies would likely prove
+counterproductive even in the long run, if an increased focus on inflation inhibited
+monetary policy-makers from responding adequately to fluctuations in economic
+activity and employment.
+
+[SECTION]
+
+As it turned out, the
+low-inflation era of the past two decades has seen not only significant
+improvements in economic growth and productivity but also a marked reduction
+in economic volatility, both in the United States and abroad, a phenomenon that
+has been dubbed "the Great Moderation." Recessions have become less
+frequent and milder, and quarter-to-quarter volatility in output and employment
+has declined significantly as well. The sources of the Great Moderation remain
+somewhat controversial, but as I have argued elsewhere, there is evidence for
+the view that improved control of inflation has contributed in important
+measure to this welcome change in the economy (Bernanke, 2004). Paul Volcker and
+his colleagues on the Federal Open Market Committee deserve enormous credit
+both for recognizing the crucial importance of achieving low and stable
+inflation and for the courage and perseverance with which they tackled America's
+critical inflation problem.
+
+[SECTION]
+
+I could say much
+more about Volcker's achievement and its lasting benefits, but I am sure that
+many other speakers will cover that ground. Instead, in my remaining time, I
+will focus on some lessons that economists have drawn from the Volcker regime regarding
+the importance of credibility in central banking and how that credibility can
+be obtained. As usual, the views I will express are my own and are not
+necessarily shared by my colleagues in the Federal Reserve System.
+
+[SECTION]
+
+Volcker could not
+have accomplished what he did, of course, had he not been appointed to the
+chairmanship by President Jimmy Carter. In retrospect, however, Carter's appointment
+decision seems at least a bit incongruous. Why would the President appoint as
+head of the central bank an individual whose economic views and policy goals
+(not to mention personal style) seemed, at least on the surface, quite
+different from his own? However, not long into Volcker's term, a staff economist
+at the Board of Governors produced a paper that explained why Carter's decision
+may in fact have been quite sensible from the President's, and indeed the
+society's, point of view. Although the question seems a narrow one, the
+insights of the paper had far broader application; indeed, this research has substantially
+advanced our understanding of the links among central bank credibility, central
+bank structure, and the effectiveness of monetary policy.
+
+[SECTION]
+
+Insiders will have
+already guessed that the Board economist to whom I refer is Kenneth Rogoff, currently
+a professor of economics at Harvard, and that the paper in question is Ken's
+1985 article, "The Optimal Degree of Commitment to an Intermediate
+Monetary Target" (Rogoff, 1985).1
+The insights of the Rogoff paper are well worth recalling today. Rather than
+considering the paper in isolation, however, I will place it in the context of
+two other classic papers on credibility and central bank design, an earlier
+work by Finn Kydland and Edward Prescott and a later piece by Carl Walsh. As I
+proceed, I will note what I see to be the important lessons and the practical
+implications of this line of research.2
+
+[SECTION]
+
+Central bankers
+have long recognized at some level that the credibility of their pronouncements
+matters. I think it is fair to say, however, that in the late 1960s and 1970s,
+as the U.S. inflation crisis was building, economists and policymakers did not
+fully understand or appreciate the determinants of credibility and its link to
+policy outcomes. In 1977, however, Finn Kydland and Edward Prescott published
+a classic paper, entitled "Rules Rather than Discretion: The Inconsistency
+of Optimal Plans" (Kydland and Prescott, 1977), that provided the first
+modern analysis of these issues.3
+Specifically, Kydland and Prescott demonstrated why, in many situations, economic
+outcomes will be better if policymakers are able to make credible commitments,
+or promises, about certain aspects of the policies they will follow in the
+future. "Credible" in this context means that the public believes
+that the policymakers will keep their promises, even if they face incentives to
+renege.
+
+[SECTION]
+
+In particular, as
+one of Kydland and Prescott's examples illustrates, monetary policy-makers will
+generally find it advantageous to commit publicly to following policies that
+will produce low inflation. If the policymakers' statements are believed (that
+is, if they are credible), then the public will expect inflation to be low, and
+demands for wage and price increases should accordingly be moderate. In a
+virtuous circle, this cooperative behavior by the public makes the central bank's
+commitment to low inflation easier to fulfill. In contrast, if the public is
+skeptical of the central bank's commitment to low inflation (for example, if it
+believes that the central bank may give in to the temptation to overstimulate
+the economy for the sake of short-term employment gains), then the public's
+inflation expectations will be higher than they otherwise would be. Expectations
+of high inflation lead to more-aggressive wage and price demands, which make
+achieving and maintaining low inflation more difficult and costly (in terms of
+lost output and employment) for the central bank.
+
+[SECTION]
+
+Providing a clear
+explanation of why credibility is important for effective policymaking, as
+Kydland and Prescott did, was an important step. However, these authors
+largely left open the critical issue of how a central bank is supposed to
+obtain credibility in the first place. Here is where Rogoff's seminal article
+took up the thread.4
+Motivated by the example of Carter and Volcker, Rogoff's paper showed
+analytically why even a president who is not particularly averse to inflation,
+or at least no more so than the average member of the general public, might
+find it in his interest to appoint a well-known "inflation hawk" to
+head the central bank. The benefit of appointing a hawkish central banker is
+the increased inflation-fighting credibility that such an appointment brings.
+The public is certainly more likely to believe an inflation hawk when he
+promises to contain inflation because they understand that, as someone who is
+intrinsically averse to inflation, he is unlikely to renege on his commitment.
+As increased credibility allows the central bank to achieve low inflation at a
+smaller cost than a non-credible central bank can, the president may well find,
+somewhat paradoxically, that he prefers the economic outcomes achieved under
+the hawkish central banker to those that could have been obtained under a
+central banker with views closer to his own and those of the public.
+
+[SECTION]
+
+Appointing an
+inflation hawk to head the central bank may not be enough to ensure credibility
+for monetary policy, however. As Rogoff noted in his article, for this
+strategy to confer significant credibility benefits, the central bank must be
+perceived by the public as being sufficiently independent from the rest of the
+government to be immune to short-term political pressures. Thus Rogoff's proposed
+strategy was really two-pronged: The appointment of inflation-averse central
+bankers must be combined with measures to ensure central bank independence. These
+ideas, supported by a great deal of empirical work, have proven highly influential.5
+Indeed, the credibility benefits of central bank autonomy have been widely
+recognized in the past twenty years, not only in the academic literature but,
+far more consequentially, in the real-world design of central banking
+institutions. For example, in the United Kingdom, the euro area, Japan, and
+numerous other places, recent legislation or other government action has
+palpably strengthened the independence of the central banks.6
+
+[SECTION]
+
+Rogoff's proposed
+solution to the credibility problems of central banks does have some
+limitations, however, as Ken recognized both in his paper and in subsequent
+work. First, although an inflation-averse central banker enhances credibility
+and delivers lower inflation on average, he may not respond to shocks to the
+economy in the socially desirable way. For example, faced with an aggregate
+supply shock (such as a sharp rise in oil prices), an inflation-averse central
+banker will tend to react too aggressively (from society's point of view) to
+contain the inflationary impact of the shock, with insufficient attention to
+the consequences of his policy for output and employment.7
+Second, contrary to an assumption of Rogoff's paper, in practice the policy
+preferences of a newly appointed central banker will not be precisely known by
+the public but must be inferred from policy actions. (Certainly the public's
+perceptions of Chairman Volcker's views and objectives evolved over time.)
+Knowing that the public must make such inferences might tempt a central banker
+to misrepresent the state of the economy (Canzoneri, 1985) or even to take
+suboptimal policy decisions; for example, the central banker may feel compelled
+to tighten policy more aggressively than is warranted in order to convince the
+public of his determination to fight inflation. The public's need to infer the
+central banker's policy preferences may even generate increased economic
+instability, as has been shown in a lively recent literature on the macroeconomic
+consequences of learning.8
+
+[SECTION]
+
+The third
+pathbreaking paper I will mention today, a 1995 article by Carl Walsh entitled "Optimal
+Contracts for Central Bankers," was an attempt to address both of these issues.9
+To do so, Walsh conducted a thought experiment. He asked his readers to
+imagine that the government or society could offer the head of the central bank
+a performance contract, one that includes explicit monetary rewards or
+penalties that depend on the economic outcomes that occur under his watch.
+Remarkably, Walsh showed that, in principle, a relatively simple contract
+between the government and the central bank would lead to the implementation of
+monetary policies that would be both credible and fully optimal. Under this
+contract, the government provides the central banker with a base level of
+compensation but then applies a penalty that depends on the realized rate of
+inflation--the higher the observed inflation rate, the greater the penalty.
+
+[SECTION]
+
+If the public
+understands the nature of the contract, and if the penalty assessed for
+permitting inflation is large enough to affect central bank behavior, the
+existence of the contract would give credence to central bank promises to keep
+the inflation rate low (that is, the contract would provide credibility).10
+Walsh's contract has in common with Rogoff's approach the idea that, in a
+world of imperfect credibility, giving the central banker an objective function
+that differs from the true objectives of society may be useful. However, Walsh
+also shows that the contracting approach ameliorates the two problems
+associated with Rogoff's approach. First, under the Walsh contract, the
+central banker has incentives not only to achieve the target rate of inflation
+but also to respond in the socially optimal manner to supply shocks.11
+Second, as the inflation objective and the central banker's incentive scheme
+are made explicit by the contract, the public's problem of inferring the
+central banker's policy preferences is significantly reduced.
+
+[SECTION]
+
+There have been a
+few attempts in the real world to implement an incentive contract for central
+bankers--most famously a plan proposed to the New Zealand legislature, though
+never adopted, which provided for firing the governor of the central bank if
+the inflation rate deviated too far from the government's inflation objective.12
+But Walsh's contracts are best treated as a metaphor rather than as a literal
+proposal for central bank reform. Although the pay of central bankers is
+unlikely ever to depend directly on the realized rate of inflation, central
+bankers, like most people, care about many other aspects of their jobs,
+including their professional reputations, the prestige of the institutions in
+which they serve, and the probability that they will be reappointed.
+
+[SECTION]
+
+Walsh's analysis
+and many subsequent refinements by other authors suggest that central bank
+performance might be improved if the government set explicit performance
+standards for the central bank (perhaps as part of the institution's charter or
+enabling legislation) and regularly compared objectives and outcomes. Alternatively,
+because central banks may possess the greater expertise in determining what
+economic outcomes are both feasible and most desirable, macroeconomic goals
+might be set through a joint exercise of the government and the central bank.
+Many countries have established targets for inflation, for example, and central
+bankers in those countries evidently make strong efforts to attain those
+targets. The Federal Reserve Act does not set quantitative goals for the U.S.
+central bank, but it does specify the objectives of price stability and maximum
+sustainable employment and requires the central bank to present semi-annual
+reports to the Congress on monetary policy and the state of the economy.
+Accountability to the public as well as to the legislature is also important;
+for this reason, the central bank should explain regularly what it is trying to
+achieve and why. In sum, Walsh's paper can be read as providing theoretical
+support for an explicit, well-designed, and transparent framework for monetary
+policy, one which sets forth the objectives of policy and holds central bankers
+accountable for reaching those objectives (or, at least, for providing a
+detailed and plausible explanation of why the objectives were missed).
+
+[SECTION]
+
+In the simple
+model that Walsh analyzes, the optimal contract provides all the incentives
+needed to induce the best possible monetary policy, so that appointing a hawkish
+central banker is no longer beneficial. However, in practice--because Walsh's
+optimal contracts can be roughly approximated at best, because both the
+incentives and the policy decisions faced by central bankers are far more
+complex than can be captured by simple models, and because the appointment of
+an inflation-averse central banker may provide additional assurance to the
+public that the government and the central bank will keep their promises--the
+Walsh approach and the Rogoff approach are almost certainly complementary.13
+That is, a clear, well-articulated monetary policy framework; inflation-averse
+central bankers; and autonomy for central banks in the execution of policy are
+all likely to contribute to increased central bank credibility and hence better
+policy outcomes. Of course, other factors that I could not cover in this short
+review, such as the central bank's reputation for veracity as established over
+time, may also strengthen its credibility (Barro and Gordon, 1983b; Backus and
+Driffill, 1985).14
+
+[SECTION]
+
+Let me end where I
+began, with reference to Paul Volcker and his contributions. I have discussed
+today how Volcker's personality and performance inspired one seminal piece of
+research about the determinants of central bank credibility. In focusing on a
+few pieces of academic research, however, I have greatly understated the impact
+of the Volcker era on views about central banking. The Volcker disinflation (and
+analogous episodes in the United Kingdom, Canada, and elsewhere) was
+undoubtedly a major catalyst for an explosion of fresh thinking by economists
+and policymakers about central bank credibility, how it is obtained, and its benefits
+for monetary policy-making. Over the past two decades, this new thinking has
+contributed to a wave of changes in central banking, particularly with respect
+to the institutional design of central banks and the establishment of new
+frameworks for the making of monetary policy.
+
+[SECTION]
+
+Ironically, the applicability
+of the ideas stimulated by the Volcker chairmanship to the experience of the U.S.
+economy under his stewardship remains unclear. Though the appointment of
+Volcker undoubtedly increased the credibility of the Federal Reserve, the
+Volcker disinflation was far from a costless affair, being associated with a
+minor recession in 1980 and a deep recession in 1981-82.15
+Evidently, Volcker's personal credibility notwithstanding, Americans' memories
+of the inflationary 1970s were too fresh for their inflation expectations to
+change quickly. It is difficult to know whether alternative tactics would have
+helped; for example, the announcement of explicit inflation objectives (which
+would certainly have been a radical idea at the time) might have helped guide
+inflation expectations downward more quickly, but they might also have created
+a political backlash that would have doomed the entire effort. Perhaps no
+policy approach or set of institutional arrangements could have eliminated the
+1970s inflation at a lower cost than was actually incurred. If so, then the
+significance of Paul Volcker's appointment was not its immediate effect on
+expectations or credibility but rather the fact that he was one of the rare
+individuals tough enough and with sufficient foresight to do what had to be
+done. By doing what was necessary to achieve price stability, the Volcker Fed
+laid the groundwork for two decades, so far, of strong economic performance.
+
+[SECTION]
+
+Backus, David, and John Driffill (1985). "Inflation and
+Reputation," American Economic Review (75), June, pp. 530-8.
+
+[SECTION]
+
+Barro, Robert, and David Gordon (1983a). "A Positive
+Theory of Monetary Policy in a Natural Rate Model," Journal of
+Political Economy (91), pp. 589-610.
+
+[SECTION]
+
+Barro, Robert, and David Gordon (1983b). "Rules,
+Discretion, and Reputation in a Model of Monetary Policy," Journal of
+Monetary Economics (12), pp. 101-21.
+
+[SECTION]
+
+Bernanke, Ben (2004). "The Great Moderation,"
+remarks before the Eastern Economic Association, Washington, D.C., February 20.
+
+[SECTION]
+
+Calvo, Guillermo (1978). "On the Time Consistency of
+the Optimal Policy in a Monetary Economy," Econometrica (46),
+November, pp. 1411-28.
+
+[SECTION]
+
+Canzoneri, Matthew (1985). "Monetary Policy Games and
+the Role of Private Information," American Economic Review (75),
+September, pp. 547-64.
+
+[SECTION]
+
+Erceg, Christopher, and Andrew Levin (2001). "Imperfect
+Credibility and Inflation Persistence," Board of Governors of the Federal
+Reserve System, Finance and Economics Discussion Series, 2001-45 (October).
+
+[SECTION]
+
+Evans, George, and Seppo Honkopohja (2001). Learning and
+Expectations in Macroeconomics. Princeton, N. J.: Princeton University
+Press.
+
+[SECTION]
+
+Herrendorf, Berthold, and Ben Lockwood (1997). "Rogoff's
+'Conservative' Central Banker Restored," Journal of Money, Credit, and
+Banking (29), November, pp. 476-95.
+
+[SECTION]
+
+Kydland, Finn, and Edward Prescott (1977). "Rules
+Rather than Discretion: The Inconsistency of Optimal Plans," Journal of
+Political Economy (85), June, pp. 473-92.
+
+[SECTION]
+
+Lohmann, Suzanne (1992). "Optimal Commitment in
+Monetary Policy: Credibility versus Flexibility," American Economic
+Review (82), March, pp. 273-86.
+
+[SECTION]
+
+Orphanides, Athanasios, and John C. Williams (forthcoming).
+"Imperfect Knowledge, Inflation Expectations, and Monetary Policy," in
+B. Bernanke and M. Woodford, eds., The Inflation Targeting Debate. Chicago,
+ Ill.: University of Chicago Press for NBER.
+
+[SECTION]
+
+Persson, Torsten, and Guido Tabellini (1993). "Designing
+Institutions for Monetary Stability," Carnegie-Rochester Conference
+Series on Public Policy (39), pp. 53-84.
+
+[SECTION]
+
+Rogoff, Kenneth (1985). "The Optimal Degree of
+Commitment to an Intermediate Monetary Target," Quarterly Journal of
+Economics (100), November, pp. 1169-89.
+
+[SECTION]
+
+Rogoff, Kenneth (1987). "Reputational Constraints on
+Monetary Policy," Carnegie Rochester Conference Series on
+Public Policy (26), pp. 141-82.
+
+[SECTION]
+
+Svensson, Lars (1997). "Optimal Inflation Contracts, 'Conservative'
+Central Banks, and Linear Inflation Contracts," American Economic
+Review (87), March, pp. 98-114.
+
+[SECTION]
+
+Walsh, Carl (1995). "Optimal Contracts for Central
+Bankers," American Economic Review (85), March, pp. 150-67.
+
+[SECTION]
+
+Walsh, Carl (2003). Monetary Theory and Policy, 2nd
+ed. Cambridge, Mass: MIT Press.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+[T]he paper was
+mainly written at the Board in 1982 . . . It came out as an IMF working paper
+in February 1983 (I was visiting there), and then the same version came out as
+an International Finance Discussion paper [at the Board of Governors] in
+September 1983 . . . The original version of the paper . . . featured inflation
+targeting. Much like the published paper, I suggested that having an
+independent central bank can be a solution to the time consistency [that is,
+credibility] problem if we give the bank an intermediate target and some
+(unspecified) incentive to hit the target . . . I had the conservative central
+banker idea in there as well, as one practical way to ensure the central bank
+placed a high weight on inflation. Larry Summers, my editor at the [Quarterly
+Journal of Economics], urged me to move that idea up to the front section
+and place inflation targeting second. This, of course, is how the paper ended
+up.
+
+[SECTION]
+
+[Regarding the
+Fed], Dale Henderson and Matt Canzoneri liked the paper very much . . . many
+other researchers gave me feedback on my paper (including Peter Tinsley, Ed
+Offenbacher, Bob Flood, Jo Anna Gray, and many others) . . . Last but perhaps
+most important, there is absolutely no doubt that the paper was inspired by my
+experience watching the Volcker Fed at close range. I never would have written
+it had I not . . . ended up as an economist at the Board.
+
+[SECTION]
+
+Return 
+        to top
+
+[SECTION]
+
+2004 Speeches

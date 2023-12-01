@@ -1,0 +1,321 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 13, 2023
+
+[SECTION]
+
+Governor Lisa D. Cook
+
+[SECTION]
+
+At the 2023 Spring Commencement, Tuskegee University, Tuskegee, Alabama
+
+[SECTION]
+
+Thank you for that kind introduction, Dr. Chambers.
+
+[SECTION]
+
+Hello, Tuskegee University Class of 2023!
+
+[SECTION]
+
+It is a distinct pleasure and tremendous honor to return to the great Tuskegee University as your commencement speaker and to share this day with you, your friends, and your family. The last time I was here, I participated in a symposium in honor of the late Andrew Brimmer, the economist, first African American to serve on the Federal Reserve Board, and former chair of the Board of Trustees of Tuskegee. I would like to thank my family from all over the country for joining me here today. This graduation is an especially celebratory day in your life because you made it through the upheaval of the pandemic and the disruption and uncertainty it brought. That makes this occasion all the more meaningful. And today you will receive diplomas from one of the most prestigious institutions of higher learning and innovation-centered universities in the world.
+
+[SECTION]
+
+That is cause for pride and joy. And I think we should start with a round of applause for the graduates!
+
+[SECTION]
+
+Let's also take a moment to appreciate the friends, families, instructors, professors, and staff who supported and helped you get to this memorable day with a round of applause.
+
+[SECTION]
+
+And a round of applause for the best HBCU in Americaâthat is, apart from my alma mater, Spelman College. I have to say that if I ever want to visit family in Atlanta again.
+
+[SECTION]
+
+The pride that you feel in your soon-to-be alma mater will stay with you. As you make your way in the world, Tuskegee and its rich heritage will always be a part of you and your story of achievement. And it will always be a place to call home. You will inspire others to know and attend HBCUs, and they, like you, will look back with reverence and gratitude and feel a connection to an enduring legacy.
+
+[SECTION]
+
+Inspiration
+Inspiration fuels me. And I have been lucky to have many who have inspired me over the course of my life.
+
+[SECTION]
+
+As a young girl growing up in Milledgeville, Georgia, that inspiration came from family and extended family who were trailblazers in their own right, some of whom are Tuskegee alumni.
+
+[SECTION]
+
+They were pioneers in many fields and worked at the forefront of the Civil Rights Movement. And they set examples that told me, loud and clear, that I could excel at anything productive in life that I put my mind to. And the HBCUs we attended imparted this same lesson when they told us that you should let your reach exceed your grasp.
+
+[SECTION]
+
+My parents, uncles, aunts, and cousins reached far. My mother, Mary Murray Cook, integrated her faculty, as did my uncle, Samuel DuBois Cook, who became the first tenured Black faculty member at a major southern university, Duke, and president of another HBCU, Dillard University. And Floyd McKissick, Sr., who was one of Martin Luther King, Jr.,'s deputies, spoke at the March on Washington for Jobs and Freedom and integrated the University of North Carolina School of Law.
+
+[SECTION]
+
+Like many of you, because of these role models, I never thought that there were things I was not capable of. We learn from the world around us. And, while I saw the lasting imprint of segregation and gender expectations, the world around meâthe one populated by my family, friends, extended family, and church membersâthoroughly contradicted them. My mother and aunts were professors and teachers in math and science. One aunt, Dr. Loretta Murray Braxton, was chair of the math department at Virginia State University for decades, and another aunt, Wivona Murray Ward, who is with me here today and just celebrated her 85th birthday, was a math teacher in the Norfolk, Virginia, public school system for 35 years.
+
+[SECTION]
+
+They were models of excellence, making math and science a home and a comfort, nurturing my innate curiosity wherever it roamed.
+
+[SECTION]
+
+That curiosityâas it did for all of youâeventually led me here to Tuskegee. Learning starts with discovery, proceeds to mastery, and, with enough curiosity, tenacity, and encouragement, eventually achieves innovation. And that is what makes Tuskegee so vital to you, our nation, and, indeed, the world.
+
+[SECTION]
+
+My research in the economics of innovation led me squarely to your most famous professor, George Washington Carver, one of America's most prolific innovators. As you know, his work on crop rotation is credited with saving southern agriculture from the twin ravages of soil depletion and the boll weevil. And just for fun, he developed synthetics for adhesives, flour, instant coffee, milk flakes, Worcestershire sauceâyes, Worcestershire sauceâand hundreds and hundreds of other products.
+
+[SECTION]
+
+In the course of building what was at the time the most extensive data set of African American inventors and patentees, I was struck to find that he only patented three discoveries out of more than one thousand. Why? In part, Carver was unable to obtain patents, because plants could not be patented in the U.S. for most of his career. But another reason speaks to Tuskegee's broader mission and effect on the world. You are heirs to a university dedicated to spreading knowledge for the betterment of all humanity. Why even try to patent all those opportunities to improve the human condition, when Dr. Carver's mission was to see his ideas sown as widely as the crops he wished to seed across the South?
+
+[SECTION]
+
+To be sure, Tuskegee University's legacy of nurturing invention and innovation extends to the present day. In the early 2000s, the first inventor I ever interviewed for my research was the inventor of the Super Soaker, Nerf guns, and nuclear power technology for spacecraft. Dr. Lonnie G. Johnson, a Tuskegee-trained mechanical and nuclear engineer, has been called one of "the most brilliant inventors of our time."1 It's not just for Super Soakers. After stints in the U.S. Air Force, NASA (National Aeronautics and Space Administration), and the Jet Propulsion Laboratory, he is now working on next-generation rechargeable batteries and energy production, as well as developing new scientists, inventors, and innovators through his lab. Think about what all that could mean.
+
+[SECTION]
+
+The innovation that comes from a special place like Tuskegee matters. It is through innovation that our economy becomes more productive, bringing down costs, pushing up growth, and lifting our standard of living. My research shows that diverse patent teams are more productive than less diverse onesâthe more people with different ways of solving problems, the more likely they are to come up with novel ideas and solutions. This is also why every innovation, in whatever discipline, you bring into the world will help not only yourselves but everyone here and everyone everywhere.
+
+[SECTION]
+
+Growing up with innovators, I am naturally drawn to stories about creativity and invention, about new ways to solve problems, and the people who lead the way. In my own field of economics, one of those people was Dr. Sadie Tanner Mossell Alexander.
+
+[SECTION]
+
+For anyone unfamiliar with Dr. Alexander, she was the first African American to earn a Ph.D. in economics, which was at the University of Pennsylvania in 1921. She also happened to be the first national president of Delta Sigma Theta Sorority, which some of you might know something about. Sadie Alexander's story resonated with me for many reasons. I was fascinated by her life and work. I admired her intellect and determination. And, in a life-changing revelation, she introduced me to economics.
+
+[SECTION]
+
+In the sixth grade, I entered the county social science fair with a project inspired by Dr. Alexander's work: identifying the major causes of unemployment among Black Americans.
+
+[SECTION]
+
+Sadie Alexander was never able to practice as an economist. She was actively denied entry to the profession she would make history in on the basis of her race and sex. When I think about the work it takes to write a dissertation and earn a Ph.D. in economics, that outcome is even harder to wrap my head around. I do not think I would have it in me to do what she did next. She went on to become the first Black woman to earn a law degree from the University of Pennsylvania and the first Black woman to pass the bar and practice in the state of Pennsylvania.
+
+[SECTION]
+
+Dr. Alexander's passion for economics never left her. She continued to think and write about economic issues, and she applied that perspective to her legal work and her public service. When doors closed on her, she found windows.
+
+[SECTION]
+
+That quality, that perspective on life, can mean the difference between good and great or great and excellent.
+
+[SECTION]
+
+Looking at the lives of George Washington Carver, Lonnie Johnson, and Sadie Alexander, we can conclude that one of the most important assets any person can have is creative adaptability. No one is good at absolutely everythingâI admit Sadie T.M. Alexander comes close. Shuri, of Black Panther fame, comes even closer. We all face hurdles, roadblocks, barriers.
+
+[SECTION]
+
+One of my barriers was exactly 60 feet long. You see, when I was a Girl Scout, playing softball, it became clear slowlyâand I mean that literallyâthat I did not haveâlet's put this delicatelyârunning ability. I could run, but it was more like a trot. I was a good catcher but just was not a fast runner.
+
+[SECTION]
+
+Well, my mom's view was, "Okay. You're a slow runner. We know that, so you will have to find another way. It's not a death knell if you can't run the bases. You will just have to learn how to hit home runs, like Hank Aaron."
+
+[SECTION]
+
+Sure, that's easy. Just learn how to be Hank Aaron. If you are not familiar with Hank Aaronâborn not far from here in Mobile, Alabamaâand if you don't know about the home run records Aaron set and the racial barriers he broke throughout his baseball career, you can think of Steph Curry, famed basketball player for the Golden State Warriors. Steph capitalized on his skillâand the three-pointer.
+
+[SECTION]
+
+As my mom and dad started teaching me, we watched and studied, and I dedicated myself to learning as much as I could about Hank Aaron and his technique. Now, I did not perfect it. But I learned how to do my own teen version of it. And, with a lot of help from my teammates, we wound up winning the Middle Georgia Girl Scouts softball championship.
+
+[SECTION]
+
+It cemented in me long ago that you do not have to accept your real or perceived station in life. You do not have to accept that your flat feet and slow run will hold you back. You will find your way around it, over it, through it. You find your Hank Aaron. Or your Sadie Alexander, Lonnie Johnson, or George Washington Carver. You find your inspiration.
+
+[SECTION]
+
+On this day, you also inspire me. Tuskegee is the top producer of Black Ph.D.'s in material science and engineering in the U.S., tops in producing Black aerospace engineers, and a leader in graduating Black chemical, electrical, and mechanical engineers.
+
+[SECTION]
+
+You did that, and you will do that. But no one walks across a stage like this alone.
+
+[SECTION]
+
+Your friends, family, communities, and forbearers walk with you. You carry their hopes and dreams along with your own. Those dreams lift you up, today and every day that follows, as you go out and make your mark on the world. And I know you are going to make your mark.
+
+[SECTION]
+
+Conclusion
+I have a mug with one of Sadie T.M. Alexander's favorite sayings on it. It is something that inspires me and that I pass on to others. And I know you will do this out in that big, limitless world you are stepping into: "Knock those doors down!"
+
+[SECTION]
+
+Congratulations, Tuskegee University Class of 2023! I cannot wait to see you go out into the world and knock those doors down!
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

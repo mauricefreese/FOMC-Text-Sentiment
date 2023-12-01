@@ -1,0 +1,248 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 06, 2015
+
+[SECTION]
+
+Chair Janet L. Yellen
+
+[SECTION]
+
+At the "Finance and Society," a conference sponsored by  Institute for New Economic Thinking, Washington, D.C.
+
+[SECTION]
+
+Let me begin by thanking the organizers for inviting me to participate in this important dialogue on the role of finance in society. The financial sector is vital to the economy.  A well-functioning financial sector promotes job creation, innovation, and inclusive economic growth. But when the incentives facing financial firms are distorted, these firms may act in ways that can harm society. Appropriate regulation, coupled with vigilant supervision, is essential to address these issues.
+
+[SECTION]
+
+Unfortunately, in the years preceding the financial crisis, all too many firms took on risks they could neither measure nor manage. Leverage, interconnectedness, and maturity and liquidity transformation escalated to dangerous levels across the financial system. The result was the most severe financial crisis and economic downturn since the Great Depression. Almost 9 million Americans lost their jobs, roughly twice as many lost their homes, and all too many households ended up underwater on their mortgages and overburdened with debt. To be sure, some individuals and families borrowed unwisely, but too often financial institutions encouraged the behavior that resulted in such excessive debt.
+
+[SECTION]
+
+In my remarks today I will discuss some important reasons why the incentives facing financial institutions were distorted and the steps that regulators are taking to realign those incentives.
+
+[SECTION]
+
+The Important Role of the Financial Sector
+       Before discussing the incentives that contributed to the buildup of risk at financial institutions, I would like to highlight the important contributions that the financial sector makes to the economy and society. First and foremost, financial institutions channel society's scarce savings to productive investments, thereby promoting business formation and job creation. Access to capital is important for all firms, but it is particularly vital for startups and young firms, which often lack a sufficient stream of earnings to increase employment and internally finance capital spending. Indeed, research shows that more highly developed financial systems disproportionately benefit entrepreneurship.1
+
+[SECTION]
+
+The financial sector also helps households save for retirement, purchase homes and cars, and weather unexpected developments. Many financial innovations, such as the increased availability of low-cost mutual funds, have improved opportunities for households to participate in asset markets and diversify their holdings.2 Expanded credit access has helped households maintain living standards when suffering job loss, illness, or other unexpected contingencies.3 Technological innovations have increased the ease and convenience with which individuals make and receive payments.4
+
+[SECTION]
+
+The contribution of the financial sector to household risk management and business investment, as well as the significant contribution of financial-sector development to economic growth, has been documented in many studies.5 Such research shows that, across countries and over time, financial development, up to a point, has disproportionately benefited the poor and served to alleviate economic inequality.6
+
+[SECTION]
+
+Distorted Incentives in the Financial Sector
+       Despite these benefits, as we have seen, actions by financial institutions have the potential to inflict harm on society. Instead of promoting financial security through prudent mortgage underwriting, the financial sector prior to the crisis facilitated a bubble in the housing market and too often encouraged households to take on mortgages they neither understood nor could afford. Recent research has raised important questions about the benefits and costs of the rapid growth of the financial services industry in the United States over the past 40 years.7
+
+[SECTION]
+
+A combination of responses to distorted incentives by players throughout the financial system created an environment conducive to a crisis. Excessive leverage placed institutions at great risk of insolvency in the event that severe, albeit low-probability, problems materialized. Overreliance on fragile short-term funding by many institutions left the system vulnerable to runs. And excessive risk-taking increased the probability that severe problems would, in fact, materialize. Moreover, regulators--and the structure of the regulatory system itself--did not keep up with changes in the financial sector and were insufficiently attuned to systemic risks. Once concerns began to develop about escalating losses at large firms, insufficient liquidity and capital interacted in an adverse feedback loop. Funding pressures contributed to "fire sales" of financial assets and losses, reducing capital levels and heightening liquidity pressures--culminating in the near collapse of the financial system in late 2008.
+
+[SECTION]
+
+Capital and liquidity
+       Several factors encouraged excessive leverage, including market perceptions that some institutions were "too big to fail."8 Financial institutions also had an incentive to engage in regulatory arbitrage, moving assets to undercapitalized off-balance-sheet vehicles. The complexity of the largest banking organizations also may have impeded market discipline. In addition, financial intermediation outside of the traditional banking sector grew rapidly in the years up to 2007, leaving gaps in the regulatory umbrella. And conflicts in the incentives facing managers, shareholders, and creditors may have induced banks to increase leverage.9
+
+[SECTION]
+
+To strengthen banks' resilience, the Federal Reserve and the other banking agencies have substantially increased capital requirements. Regulatory minimums for capital relative to risk-weighted assets are significantly higher, and capital requirements now focus on the highest-quality capital, such as common equity. In addition to risk-based standards, bank holding companies and depositories face a leverage ratio requirement. Also, significantly higher capital standards--both risk-weighted and leverage ratios--are being applied to the most systemically important banking organizations. Such surcharges are appropriate because of the substantial harm that the failure of a systemic institution would inflict on the financial system and the economy. Higher capital standards provide large, complex institutions with an incentive to reduce their systemic footprint. We are also employing annual stress tests to gauge large institutions' ability to weather a very severe downturn and distress of counterparties and, importantly, continue lending to households and businesses. Firms that do not meet these standards face restrictions on dividends and share buybacks. As a result of these changes, for the largest banks, Tier 1 common equity--the highest-quality form of capital‑‑has more than doubled since the financial crisis.
+
+[SECTION]
+
+New liquidity regulations will also improve incentives in the financial system. Prior to the crisis, institutions' incentives to rely on short-term borrowing to fund investments in riskier or less liquid instruments were distorted in two important ways. First, many investors were willing to accept a very low interest rate on short-term liabilities of financial institutions or on securitizations without demanding adequate compensation for severe-but-unlikely risks, such as a temporary loss of market liquidity. Perhaps these firms expected government support or simply considered illiquidity a very remote possibility. Second, institutions' attempts to shift their holdings once concerns about credit or liquidity risk arose created a fire-sale dynamic that amplified declines in market values, causing unanticipated spillovers onto other institutions and across markets.10
+
+[SECTION]
+
+Recently implemented regulations aim to strengthen liquidity. For example, a new liquidity coverage ratio requires internationally active banking organizations to hold sufficient high-quality liquid assets to meet their projected net cash outflows during a 30-day stress period. A new process--the Comprehensive Liquidity Analysis and Review--sets supervisory expectations for liquidity-risk management and evaluates institutions' practices against these benchmarks. A proposal for a net stable funding ratio would require better liquidity management at horizons beyond that covered by the liquidity coverage ratio. A proposed capital surcharge for the largest firms would discourage overreliance on short-term wholesale funding. Also, the Securities and Exchange Commission has adopted changes in regulations that may help avoid future runs on prime money market mutual funds (that is, money funds that invest primarily in corporate debt securities). And reforms in the triparty repo market have reduced risks associated with intraday exposures.
+
+[SECTION]
+
+Large, complex institutions and too big to fail
+       In the aftermath of the crisis, the Congress tasked the banking regulators with challenging and changing the perception that any financial institution is too big to fail by ensuring that even very large banking organizations can be resolved without harming financial stability. Steps are under way to achieve this objective. In particular, banking organizations are required to prepare "living wills"--plans for their rapid and orderly resolution in the event of insolvency. Regulators are considering requiring that bank holding companies have sufficient total loss-absorbing capacity, including long-term debt, to enable them to be wound down without government support.11 In addition, the Federal Deposit Insurance Corporation has designed a strategy that it could deploy (known as Single Point of Entry) to resolve a systemically important institution in an orderly manner.
+
+[SECTION]
+
+The crisis also revealed that risk management at large, complex financial institutions was insufficient to handle the risks that some firms had taken. Compensation systems all too frequently failed to appropriately account for longer-term risks undertaken by employees. And lax controls in some cases contributed to unethical and illegal behavior by banking organizations and their employees. The Federal Reserve has made improving risk management and internal controls a top priority. For example, the Comprehensive Capital Analysis and Review, which includes the stress tests that I mentioned, also involves an evaluation to ensure firms have a sound process in place for measuring and monitoring the risks they are taking and for matching their capital levels to those risks. Also, supervisors from the Fed and other agencies have pressed firms to improve their internal controls and to make their boards of directors more directly responsible for compensation decisions and employee conduct.
+
+[SECTION]
+
+Changes to Regulatory and Supervisory Focus
+       As I noted, the financial crisis revealed weaknesses in our nation's system for supervising and regulating the financial industry. Prior to the crisis, regulatory agencies, including the Federal Reserve, focused on the safety and soundness of individual firms--as required by their legislative mandate at the time--rather than the stability of the financial system as a whole. Our regulatory system did not provide any supervisory watchdog with responsibility for identifying and addressing risks associated with activities and institutions that were outside the regulatory perimeter. The rapid growth of the "shadow" nonbank financial sector left significant gaps in regulation.
+
+[SECTION]
+
+In response, the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) expanded the mandate and authority of the Federal Reserve to allow it to consider risks to financial stability in supervising financial firms under its charge. Within the Federal Reserve System, we have reorganized our supervision of the most systemically important institutions to emphasize what we call a "horizontal perspective," which examines institutions as a group and in comparative terms, focusing on their interaction with the broader financial system. We also created a new office within the Fed to identify emerging risks to stability in the broader financial system--both the bank and nonbank financial sectors--and to develop policies to mitigate systemic risk. The Dodd-Frank Act created the interagency Financial Stability Oversight Council, chaired by the Treasury Secretary, and the Federal Reserve is a member. It is charged with identifying systemically important financial institutions and systemically risky activities that are not subject to consolidated supervision and designating those institutions and activities for appropriate supervision. And it is charged with encouraging greater information sharing and policy coordination across financial regulatory agencies.
+
+[SECTION]
+
+Where We Stand
+       My topic is broad, and my time is short. Let me end with three thoughts. First, I believe that we and other supervisory agencies have made significant progress in addressing incentive problems within the financial sector, especially within the banking sector. Second, policymakers, including those of us at the Federal Reserve, remain watchful for areas in need of further action or in which the steps taken to date need to be adjusted. And, third, engagement with the broader public is crucial to ensuring that any future steps move our financial system closer to where it should be. Active debate and discussion of these issues at this conference and in other forums is important to improve our understanding of the challenges that remain.
+
+[SECTION]
+

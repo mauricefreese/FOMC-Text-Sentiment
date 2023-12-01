@@ -1,0 +1,291 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 25, 2009
+
+[SECTION]
+
+Governor Daniel K. Tarullo
+
+[SECTION]
+
+At the Interagency Community Affairs Conference, Arlington, Virginia
+
+[SECTION]
+
+Thank you for the invitation to speak today at the Interagency Community Affairs Conference. The conference agenda is certainly an ambitious one--covering a range of topics, from affordable housing to small business lending to neighborhood stabilization. The ambitiousness is certainly warranted by the challenges faced by agency Community Affairs offices. Much of your work has addressed problems that were persistent even in times of good economic performance in the country as a whole. The financial crisis and ensuing recession have only compounded these problems. While we have seen some leveling out of economic activity and can reasonably anticipate the resumption of economic growth, the recovery may well be gradual and halting. National unemployment is likely to continue upward for a time, with further increases in the already especially high unemployment rates in many disadvantaged and minority communities. Likewise, the stabilization we have seen in the housing market does not mean the end of the wave of foreclosures breaking upon so many neighborhoods across the nation.
+
+[SECTION]
+
+Against this difficult backdrop, the accomplishments and potential of the Community Affairs functions of the agencies represented here are all the more impressive. While I have long been familiar with the consumer protection responsibilities of the Federal Reserve, it was only after I joined the Board of Governors in January of this year that I gained an appreciation for the scope of Community Affairs activities. I would like to take the time you have given me this morning to review the evolution of the Community Affairs function at the Federal Reserve and to offer a few thoughts on how it might evolve further to respond to the fallout from the turmoil of the past few years. Although my remarks will be largely focused on the Federal Reserve, I suspect that parallel ideas are applicable to the other regulatory agencies.
+
+[SECTION]
+
+Origins of the Community Affairs Function When the Community Affairs program was established in the Federal Reserve System, its principal mission was facilitating regulatory compliance under the Community Reinvestment Act (CRA). As those of you in this room well know, the CRA does not stipulate minimum levels of lending, investments, or services by financial institutions. Rather, the law begins with the general obligation of financial institutions to help meet the credit needs of their communities, including low- and moderate-income parts of those communities, consistent with safe and sound banking practices. It then requires that we, as regulators, evaluate financial institutions' performance in meeting those credit needs and to consider that performance, as reflected in individual institutions' CRA ratings, when reviewing applications for mergers, acquisitions, and branches.
+
+[SECTION]
+
+The 1977 enactment of the CRA thus created a novel approach to, and a novel set of incentives for, promoting interaction between lenders and community organizations. In light of early experience with this innovative statutory regime, the Board in 1984 mandated that each Reserve Bank appoint a Community Affairs Officer to help financial institutions understand the law's requirements. The Community Affairs Officers serve as conduits for information to facilitate relationships between bankers and community organizations and to help them develop new approaches to meeting local credit needs.
+
+[SECTION]
+
+Building Out the Community Affairs FunctionWhile CRA compliance remains its foundation, the Community Affairs function at the Federal Reserve has grown considerably over time and now includes sharing information and forging partnerships to promote community development, as well as an increasingly important research and data analysis component. This evolution responded directly to needs identified by Community Affairs staff as important for achieving the goals that motivated CRA in the first place. Let me now explain the rationales for these three activities--information sharing, forging partnerships, and research and data analysis--and provide a few examples of each type of work.
+
+[SECTION]
+
+Information-Sharing For most of the agencies represented here today, the most basic extension of Community Affairs work beyond CRA compliance has probably been in the area of information-sharing. At the Federal Reserve, Community Affairs has developed channels for information-sharing among practitioners and policymakers on what works and, perhaps as important, what does not work in addressing issues in low- and moderate-income communities. In addition to offering newsletters and other publications, Reserve Bank activities include sponsoring or participating in conferences, meetings, and other forums designed to bring experts together to address emerging community development issues.
+
+[SECTION]
+
+Last year, for example, in addition to the Reserve Banks presenting programs focused on local foreclosure issues in their separate Districts, the System coordinated a series of five national conferences addressing the impact of foreclosures on neighborhoods under the title Recovery, Rebuilding, Renewal. This series sought to identify the issues facing communities as the depth of the foreclosure problem was unfolding and to formulate strategies for stabilizing neighborhoods in both strong and weak market areas.
+
+[SECTION]
+
+This year, the Board's Community Affairs staff is hosting a series of forums looking at a variety of affordable rental housing issues, including managing scattered-site rental housing portfolios and financing small multifamily projects. A forum focused on low-income housing tax credits is scheduled for November. These forums, which are designed for industry leaders, key decision makers, and other stakeholders, present research results and innovative policy ideas on how to increase rental housing opportunities at a time when high foreclosure rates and credit tightening have increased demand for affordable rental housing. The forums also serve as a place where stakeholders can begin a discussion of critical community development issues that may not be addressed elsewhere.
+
+[SECTION]
+
+Traditionally, Community Affairs has aimed its information-sharing activities primarily at community groups that assist borrowers, such as homeownership- and credit-counseling organizations. In light of the growing problem of scam artists preying on homeowners in distress by offering help with foreclosures, Community Affairs concluded that it needed to reach consumers directly. As a result, the Federal Reserve developed a multi-pronged, Systemwide public information campaign to combat these foreclosure-rescue scams, which seek to make a quick profit by charging fees or collecting mortgage payments without passing them on to the lender.
+
+[SECTION]
+
+One element of the public information campaign was a public service announcement (PSA) developed by the Board that ran in movie theaters in markets hit hard by foreclosures. The PSA refers viewers to the Federal Reserve's website for information on how to avoid foreclosure scams. To leverage this information further, the Reserve Banks conducted local marketing efforts, in many cases tailoring the message so as to promote local scam-prevention resources. They also offered technical assistance to local and regional nonprofits, banks, and task forces.
+
+[SECTION]
+
+Such a public information campaign is a bit of a departure for Community Affairs. But unusual times can require unusual tactics. The program had some second-order benefits as well, in the form of media coverage that reached an even wider audience with a warning about the proliferation of foreclosure scams.
+
+[SECTION]
+
+Forging Partnerships As many of you know from your own agencies' activities, the forging of partnerships to promote access to credit in low- and moderate-income communities is in some sense a natural extension of the information-sharing role I have just described. An effective partnership of community actors can be a self-sustaining source of knowledge dissemination and creation. The Federal Reserve has taken advantage of the presence of Community Affairs staff at each of its twelve Reserve Banks and their twenty-four branch offices to forge local partnerships aimed at promoting access to credit in low- and moderate-income communities.
+
+[SECTION]
+
+These partnerships have covered a variety of subjects, including microfinance lending coalitions and "bank on" initiatives to promote the availability of basic financial services to the unbanked. Some partnerships have involved the Internal Revenue Service and local governments in an effort to increase the use of such programs as the Earned Income Tax Credit (EITC).
+
+[SECTION]
+
+Success in these efforts depends crucially on the enterprising spirit of Community Affairs Officers, as well as their familiarity with their communities. One especially interesting example is the work undertaken by the Federal Reserve Bank of Minneapolis to create a model uniform commercial code (UCC) to promote full access to credit and other financial services for individuals and businesses in Indian Country.1 This project, which was developed under the leadership of Community Affairs staff working with the National Conference of Commissioners on Uniform State Laws and tribal government representatives, addresses barriers to lending in Indian Country by providing certainty with respect to the legal rights associated with financial transactions. The model code was adopted by the Crow tribe in early 2008, and several other tribes are in the process of adopting it.
+
+[SECTION]
+
+The Reserve Bank has followed up by creating Indian Business Alliances, first in Montana and then in other Ninth District states. These networks of stakeholders interested in the development of Native American businesses promote the exchange of information about such matters as tribal governance, infrastructure, and financing and other resources for business owners.
+
+[SECTION]
+
+Research and Data Analysis Nearly every Reserve Bank has added analytical capacity to complement the outreach and publications work of its Community Affairs staff. As a result, we have been able to provide reliable information on foreclosure trends in low- and moderate-income areas. Community Affairs offices across the country have been disseminating foreclosure data to local community groups, counseling agencies, financial institutions, and others working to help troubled borrowers and communities.
+
+[SECTION]
+
+By leveraging all of the analytic resources of the Federal Reserve System, we have also provided information at the national level, such as the dynamic maps of foreclosure trends posted on the Federal Reserve Bank of New York's website. The maps are complemented by data that illustrate the regional variations in the condition of securitized, owner-occupied subprime and alt-A mortgage loans across the United States. We believe that these regularly updated reports have been useful to local leaders, who face the difficult task of allocating scarce resources to achieve the greatest possible neighborhood stabilization.
+
+[SECTION]
+
+While the analysis of foreclosure data has been useful, the mortgage crisis has revealed the dearth of systematic information on other housing-related issues such as loan modifications, the disposition of real estate owned (REO) property, and neighborhood stabilization. These data gaps continue to hinder our collective ability as a government to respond most effectively to the high rates of foreclosure in low- and moderate-income communities. Federal Reserve Community Affairs staff are designing a research project that will provide both quantitative and qualitative information on neighborhood stabilization strategies in communities across the country. By combining local data with survey information, Community Affairs is working to identify which REO disposition strategies using Neighborhood Stabilization Program (NSP) funds have been most successful and to disseminate best practices information in a timely manner.
+
+[SECTION]
+
+This analysis of the NSP builds on work previously undertaken by the Federal Reserve System in its study of the effects of concentrated poverty in 16 case study areas across the country. The resulting report was published jointly with the Brookings Institution in 2008.2 It reflects the efforts of staff at all 12 Reserve Banks and the Board of Governors to assess concentrated poverty in urban and rural areas, in older "weak" market cities and newer "strong" market areas, and in immigrant and Native American communities. In covering a variety of communities, the report tried to add depth to the existing literature on poverty and to offer insights into the relationship between public services and private investment.
+
+[SECTION]
+
+Challenges for the FutureAs I noted at the outset, I have been impressed by the range of Community Affairs activities already under way at the Federal Reserve. But as I also suggested earlier, economic conditions in low- and moderate-income communities are likely to be especially challenging for some time to come. Our agencies can do more, particularly in increasing the range and quality of information available to policymakers. In this spirit, I offer some thoughts on the further evolution of Community Affairs work. While these ideas are specifically relevant to the Federal Reserve, I hope they will help provoke thinking by those of you not in the Federal Reserve about appropriate next steps at your own agencies.
+
+[SECTION]
+
+First, Community Affairs should evaluate ways to provide policymakers with regular, standardized information on low- and moderate-income communities. As I have described, the Community Affairs function generates valuable information in each of the Reserve Bank Districts. The challenge is to provide that information to policymakers in a timely way and in a form that allows comparison over time and across different geographic areas. This is an obvious challenge, not only for the familiar reasons associated with creating a new data series, but also because of the diversity of the communities for which information would need to be collected and standardized. But effective policy will most readily be developed where illuminating anecdotal or local information is supplemented with a system of data collection and analysis.
+
+[SECTION]
+
+Second, we need to work on institutionalizing the channels through which useful information flows between Community Affairs staff and the other parts of our organizations. In a large organization with highly specialized staff, this is no small task. But it is an important one. Information is most useful when it is shared and analyzed. More-efficient communication across functions should further the supervisory, enforcement, and research missions of our institutions, as well as the effectiveness of Community Affairs itself.
+
+[SECTION]
+
+Third, Community Affairs, like most parts of most organizations, could profit from broadening its sources of information and perspective--in organizational jargon, to redouble outreach efforts. Outreach to community and consumer groups has long been a focus of the Federal Reserve and other regulatory agencies' Community Affairs functions. Nonetheless, subtle variations in local market conditions make a broad outreach strategy imperative, and crucial to understanding the issues facing low- and moderate-income communities. Moreover, there is a tendency in most organizations to fall into the habit of consulting with the same groups of actors each time a new issue arises. But even the best-informed and most reliable of outside groups do not have a monopoly on relevant knowledge. Giving others a voice can improve the quality and fairness of our policies.
+
+[SECTION]
+
+ConclusionLow- and moderate-income communities are always especially vulnerable to economic downturns compared with more-affluent areas, and are typically slower to recover. The severe recession through which our country suffered in 2008 and that continued into this year has had an even greater impact on these communities, because subprime mortgages had become so prominent in recent years and defaults have consequently been so elevated. I can imagine the frustration many of you must have felt as you witnessed the effects of bad lending practices--first on individuals, then on their communities, and finally on the country as a whole. I know the challenges you have faced over the past two years and continue to confront today.
+
+[SECTION]
+
+Yet I hardly need tell you that your work has never been more important. It is precisely because this crisis has had a disproportionate effect on the communities you serve that I attach such importance to your mission--to help those who live in these communities rebuild their finances and their lives through access to responsible credit and appropriate financial services. All of our agencies need to innovate and cooperate. We must exchange ideas among ourselves even as we facilitate information-sharing among community development groups.
+
+[SECTION]
+
+Let me close by thanking you for all the work you have done in the past and ask--perhaps a bit unreasonably, but for reasons I hope you understand--that you achieve even more in the future.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+2.The Enduring Challenge of Concentrated Poverty in America, The Federal Reserve System Community Affairs Offices and the Brookings Institution, 2008. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

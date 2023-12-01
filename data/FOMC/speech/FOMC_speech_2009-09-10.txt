@@ -1,0 +1,223 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 10, 2009
+
+[SECTION]
+
+Vice Chairman Donald L. Kohn
+
+[SECTION]
+
+At the Brookings Institution, Washington, D.C.
+
+[SECTION]
+
+I appreciate the opportunity to comment on Ricardo Reis's paper, "Interpreting the Unconventional U.S. Monetary Policy of 2007-09." In this paper, Ricardo classifies critical aspects of monetary policy over the past two years and uses models and his own analysis to interpret and evaluate these policies. I very much enjoyed reading the paper and thinking through the issues he raises and will discuss a few of them this afternoon.1
+
+[SECTION]
+
+An important contribution of the paper is a new, stylized model of capital market frictions, which is used to study how credit policies affect capital allocation by providing funds to different kinds of financial intermediaries, including nonbanks and institutional investors. I am not going to comment much on the details of the model, but I do want to draw attention to the conclusion from the model that favors the provision of central bank credit to so-called traders, which are characterized as financial intermediaries that leverage their own capital as well as client funds to invest in securitized loans. The Federal Reserve has indeed recognized the importance of securitization, and, working together with the Treasury, it created the Term Asset-Backed Securities Loan Facility, or TALF, precisely to support the market for securitized assets. In addition, by making credit available to primary dealers, it supported trading and liquidity in a variety of securities markets.
+
+[SECTION]
+
+However, this stylized model does not capture the heterogeneity in lending activity that we see in our economy. In the model, all loans are equally eligible for securitization once they have been originated by the lenders. Providing funds to traders thus benefits all lenders and entrepreneurs similarly. In reality, not every borrower would benefit equally if the Federal Reserve were to backstop only the securitized loan market without providing liquidity to commercial banks and other institutions. Banks and other intermediaries are at least as important in ensuring a healthy flow of credit to creditworthy borrowers, and it would be very disruptive if a scramble by such intermediaries to meet funding shortfalls in a panic led to fire sales of assets or a freeze in lending. Thus, lending to banks should remain a central part of the Federal Reserve's toolbox.
+
+[SECTION]
+
+I agree with Ricardo that, at least prior to his effort, no off-the-shelf model was available for analyzing much of what has happened over the past two years, and further research in this direction is essential. Still, we were certainly not without guidance from well-established principles when we formulated policies to address the financial crisis. In designing our liquidity facilities we were guided by the time-tested precepts derived from the work of Walter Bagehot.2 Those precepts hold that central banks can and should ameliorate financial crises by providing ample credit to a wide set of borrowers, as long as the borrowers are solvent, the loans are provided against good collateral, and a penalty rate is charged. Such lending addresses discontinuities in investor behavior in a crisis in which uncertainty sets off flights to liquidity and safety that feed on themselves and then circle back on the economy in adverse feedback loops--a dynamic not fully captured by Ricardo's model.
+
+[SECTION]
+
+The liquidity measures we took during the financial crisis, although unprecedented in their details, were generally consistent with Bagehot's principles and aimed at short-circuiting these feedback loops. The Federal Reserve lends only against collateral that meets specific quality requirements, and it applies haircuts where appropriate. Beyond the collateral, in many cases we also have recourse to the borrowing institution for repayment. In the case of the TALF, we are backstopped by the Treasury. In addition, the terms and conditions of most of our facilities are designed to be unattractive under normal market conditions, thus preserving borrowers' incentives to obtain funds in the market when markets are operating normally. Apart from a very small number of exceptions involving systemically important institutions, such features have limited the extent to which the Federal Reserve has taken on credit risk, and the overall credit risk involved in our lending during the crisis has been small.
+
+[SECTION]
+
+In Ricardo's view, if the collateral had really been good, private institutions would have lent against it. However, as has been recognized since Bagehot, private lenders, acting to protect themselves, typically severely curtail lending during a financial crisis, irrespective of the quality of the available collateral.3 The central bank--because it is not liquidity constrained and has the infrastructure in place to make loans against a variety of collateral--is well positioned to make those loans in the interest of financial stability, and can make them without taking on significant credit risk, as long as its lending is secured by sound collateral. A key function of the central bank is to lend in such circumstances to contain the crisis and mitigate its effects on the economy.
+
+[SECTION]
+
+Ricardo's model does not directly address central banks' long-term asset purchases, but in one place the paper seems to question their effectiveness. Our framework for this aspect of our credit policies relied on preferred habitats of investors and imperfect arbitrage. There was ample evidence that private agents had especially strong preferences for safe and liquid short-term assets in the crisis; in those circumstances, sizable purchases of longer-term assets by the central bank can have an appreciable effect on the cost of capital to households and businesses. The marked adjustments in interest rates in the wake of the announcements of such actions, both in the United States and elsewhere, suggest that market participants also saw them in this light.
+
+[SECTION]
+
+Ricardo raises the possibility that our credit policies, together with the payment of interest on reserves, could leave the Federal Reserve dependent on the fiscal authorities for funding our expenses, with adverse implications for our ability to conduct a sound monetary policy. This outcome seems extremely remote. As I've already noted, the Federal Reserve's exposure to credit losses is quite limited. Certainly, the Federal Reserve's interest expense will increase when short-term rates move up from the current very low level because of the payment of interest on reserve balances. However, the Federal Reserve will continue to earn substantial net income over the next few years under all but the most remote contingencies, for at least two reasons. First, currency, on which we pay no interest, will remain a substantial a portion of our liabilities. And second, we will have sizable earnings on our assets. Short-term interest rates would have to rise very high very quickly for interest on reserves to outweigh the interest we are earning on our longer-term asset portfolio. With the global economy quite weak and inflation low, a large and rapid rise seems quite improbable. Moreover, even in the unlikely event that a sharp rise in interest rates forced us to suspend remittances to the Treasury temporarily, we would still maintain our ability to implement monetary policy to foster our statutory objectives of maximum employment and stable prices.
+
+[SECTION]
+
+As Ricardo points out, paying interest on reserve balances also has important benefits and will play a key role in our exit from unusually accommodative policies when the time comes. Raising the interest paid on those balances should provide substantial leverage over other short-term market interest rates because banks generally should not be willing to lend reserves in the federal funds market at rates below what they could earn simply by holding reserve balances.4 Against that background, Ricardo questions why the Federal Reserve is highlighting the availability of reserve-draining tools since the level of reserves should not impede the usual transmission mechanism of tighter policy working through interest rates. However, neutralizing or draining reserves could be helpful in tightening the link between the interest rate on excess reserves and other short-term interest rates. And the presence of a large volume of reserves on bank balance sheets--even when remunerated--could have undesired effects on the portfolio decisions of banks. So we continue to develop tools that enable the Federal Open Market Committee (FOMC) to drain or neutralize large volumes of reserves were the Committee to decide that doing so would support its objectives.5
+
+[SECTION]
+
+Finally, Ricardo notes that the theoretical literature on monetary policy in a liquidity trap commonly prescribes targeting higher-than-normal inflation rates even beyond the point of economic recovery, so that real interest rates decline by more and thus provide greater stimulus for the economy. The arguments in favor of such a policy hinge on a clear understanding on the part of the public that the central bank will tolerate increased inflation only temporarily--say, for a few years once the economy has recovered--before returning to the original inflation target in the long term. Notably, although many central banks have put their policy rates near zero, none have adopted this prescription. In the theoretical environment considered by the paper, long-run inflation expectations are perfectly anchored. In reality, however, the anchoring of inflation expectations has been a hard-won achievement of monetary policy over the past few decades, and we should not take this stability for granted. Models are by their nature only a stylized representation of reality, and a policy of achieving "temporarily" higher inflation over the medium term would run the risk of altering inflation expectations beyond the horizon that is desirable. Were that to happen, the costs of bringing expectations back to their current anchored state might be quite high. But while the Federal Reserve has not attempted to raise medium-term inflation expectations as prescribed by the theories discussed in the paper, it has taken numerous steps to lower real interest rates for private borrowers and keep inflation expectations from slipping to undesirably low levels in order to prevent unwanted disinflation. These steps include the credit policies I discussed earlier, the provision of forward guidance that the level of short-term interest rates is expected to remain quite low "for an extended period" conditional on the outlook for the economy and inflation, and the publication of the longer-run inflation objectives of FOMC members.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

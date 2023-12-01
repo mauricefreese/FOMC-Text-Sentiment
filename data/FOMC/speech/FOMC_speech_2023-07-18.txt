@@ -1,0 +1,265 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 18, 2023
+
+[SECTION]
+
+Vice Chair for Supervision Michael S. Barr
+
+[SECTION]
+
+At "Fair Housing at 55âAdvancing a Blueprint for Equity" National Fair Housing Alliance 2023 National Conference, Washington, D.C.
+
+[SECTION]
+
+Thank you for the invitation to join you in commemorating 55 years since the Fair Housing Act became law.1 Along with the Voting Rights Act, the Fair Housing Act was an essential step in making good on the promise of the Civil Rights Act, and of the vision of Dr. Martin Luther King, to build a fair and equal society. Let me also acknowledge the work of the National Fair Housing Alliance (NFHA), its members, and their partner organizations in pursuit of this goal.
+
+[SECTION]
+
+As with other aspects of America's journey toward equality, today we can recognize the progress made in fair housing while also acknowledging how much farther we have to go and recommitting ourselves to reaching that destination. We need to do that because everyone deserves a fair and equal opportunity. And as we saw in the global financial crisis, failure to pay attention to discriminatory and predatory practices can have a devastating effect on our economy.
+
+[SECTION]
+
+Fair Lending Supervision and Enforcement
+I'll start with a few words on the Federal Reserve's role in eradicating discrimination in lending. As we are here to commemorate, Congress acted in 1968 to make discrimination in housing illegal with the Fair Housing Act, and it passed the Equal Credit Opportunity Act (ECOA) in 1974 to bar lending discrimination.
+
+[SECTION]
+
+These landmark lawsânow 55 and 40 years oldâare the foundation of the Federal Reserve's work in this area, we use our supervisory and enforcement authority to ensure these laws are followed. Fair lending violations can come in the form of disparate treatment, which is when a lender treats a credit applicant differently on the basis of a prohibited factor, as well as disparate impact, when a lender applies a racially neutral policy or practice that disproportionately excludes or burdens certain persons on a prohibited basis. We believe that the disparate impact test is an important tool to ensure that lending decisions are fair.
+
+[SECTION]
+
+Congress provided regulators with supervisory and enforcement tools to help ensure that supervised firms resolve consumer protection weaknesses as well as the more pervasive risk-management issues that often lead to those weaknesses. We evaluate fair lending at each consumer compliance exam and engage a specialized team of lawyers, economists, and analysts to help ensure we evaluate fair lending issues thoroughly and consistently across firms. In these examinations, we evaluate the potential for discriminatory conduct based on the lending activities of the institution and the risk that discriminatory conduct may occur with respect to each of these activities.2 Our examinations look at outcomesâwhat was a firm's lending record on mortgages? Were there disparities in pricing? What was the extent of customer complaints? We also look under the hood, considering a firm's marketing and outreach, the discretion and financial incentives granted to loan officers, and a firm's branching strategy.
+
+[SECTION]
+
+If we determine that a bank has engaged in a pattern or practice of discrimination, we refer the matter to the Department of Justice (DOJ). Federal Reserve referrals have resulted in DOJ actions in critical areas, such as redlining and mortgage-pricing discrimination.3 Last fall, the DOJ took action against a bank for mortgage pricing discrimination based on a Federal Reserve referral.4
+
+[SECTION]
+
+Beyond referring matters to the DOJ, we have a broad array of tools to address consumer compliance violations and deficiencies, including supervisory findings and memoranda of understanding that require the bank to take corrective action and remediate consumer harm. We also conduct outreach efforts that actively promote sound compliance management practices and programs, including regular outreach by our Reserve Banks to state member banks and our public webinar series.5
+
+[SECTION]
+
+Fair Lending Implications of Innovation
+As our financial system evolves, it is critical that we adapt our application of the Fair Housing Act and ECOA to deal with technological change and other developments.
+
+[SECTION]
+
+The digital economy has produced alternative data sources, some of which can provide a window into the creditworthiness of an individual who does not have a standard credit history. And new artificial intelligence techniques such as machine learning have the potential to leverage these data at scale and at low cost to expand credit to people who otherwise can't access it. While these technologies have enormous potential, they also carry risks of violating fair lending laws and perpetuating the very disparities that they have the potential to address. Use of machine learning or other artificial intelligence may perpetuate or even amplify bias or inaccuracies inherent in the data used to train the system or make incorrect predictions if that data set is incomplete or nonrepresentative.6 There are also risks that the data points used could be correlated with a protected class and lack a sufficient nexus to creditworthiness.
+
+[SECTION]
+
+For instance, digital redlining in marketingâthe use of criteria to exclude majority-minority communities or minority applicationsâis one risk, and it has already been the subject of several settlements, including one several years ago involving the NFHA and Facebook.7 Digital redlining may result if advertisers select their audiences based on a characteristic that is correlated with protected characteristics.8 New technologies can also result in "reverse redlining," or steering in the advertisement of more expensive or otherwise inferior products to minority communities.
+
+[SECTION]
+
+These risks are amplified when a model is opaque and lacks a sufficient degree of explainabilityâthe degree to which the bank can understand how data, variables, and other features inform the credit decisions.
+
+[SECTION]
+
+While banks are still in the early days of adopting artificial intelligence and other machine learning technologies, we are working to ensure that our supervision keeps pace. Through our supervisory process, we evaluate whether firms have proper risk management and controls, including with respect to those new technologies.9
+
+[SECTION]
+
+CRA Final Rule
+Following the Fair Housing Act and ECOA, Congress recognized that more needed to be done to address redlining and other systemic inequities in access to credit, investment, and banking services and it passed the Community Reinvestment Act (CRA) in 1977 to do that.
+
+[SECTION]
+
+I have spent much of my career thinking and writing about aspects of fair lending and the role of the CRA, and I'm honored for the opportunity to now lead the Federal Reserve's efforts to update the rule. As you are well aware, the Federal Reserve is working in partnership with the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) to release a final rule for the CRA. The proposal would adapt the regulations to address changes in the banking sector, including internet and mobile banking, and update the approach to assessment areas. It also would provide more clarity, consistency, and transparency for CRA evaluations and eligible activities. The agencies are benefitting from the thoughtful comment letters we received on the proposal, and all three agencies are hard at work finalizing the rule. Once finalized, it is my hope and belief that this new CRA final rule, in parallel with the existing protections of the Fair Housing Act and ECOA, will support bank lending, investing, and services that meet the needs of all communities, including those that continue to be underserved.
+
+[SECTION]
+
+Special Purpose Credit Programs
+And to that end, let me highlight one way that public interest and trade groups and banks can come together to bring credit to where it counts. Special Purpose Credit Programs (SPCPs) are one method to address discrimination and bias in mortgage credit transactions, and many large financial institutions have publicly stated that they initiated or expanded special purpose credit programs in the past year. As you know, SPCPs support the creation of lending products to promote access to credit for economically disadvantaged groups of people and can be designed to benefit those who are members of protected classes under Fair Lending laws. In 2022, federal agencies, including the Federal Reserve, issued a statement to remind creditors of the process for creating these programs.10 I know that NFHA worked with the Mortgage Bankers Association on an online toolkit for banks to create SPCPs, and that many large banks have adopted this approach.11
+
+[SECTION]
+
+Policy Developments to Address Appraisal Discrimination and Bias in Housing Mortgage Credit Transactions
+Let me touch on two recent initiatives we've taken to address appraisal discrimination and bias in housing mortgage credit transactions. On June 1 of this year, several agencies invited public comment on a proposed rule designed to ensure the credibility and integrity of automated valuation models.12 On June 8, the agencies also invited public comment on guidance that would highlight risks associated with deficient home appraisals. The guidance describes how financial institutions may incorporate "reconsiderations of value" into their processes and controls around home appraisals.13 Deficient collateral valuations can contain inaccuracies because of errors, omissions, or discrimination that affects the value of the appraisal, and a reconsideration of value may help to properly value the real estate. I am fully supportive of both these proposals because homeownership is an important way for families to build wealth, and we should give them every opportunity to share in those benefits.
+
+[SECTION]
+
+Conclusion
+In closing, promoting fair and equitable treatment to all consumers is the right thing to do, and this is also just good business. Ensuring that potential borrowers are treated equally can mean developing previously underserved communities, creating more opportunities for lending, and expanding markets which can result in better returns for banks.
+
+[SECTION]
+
+Fair lending is safe and sound lending. By adopting sound credit policies that include fair lending principles and controls on loan officer discretion, and by maintaining strong compliance management practices, banks can help advance a safer and fairer financial system.
+
+[SECTION]
+
+Let me stress how important it is to remain ever vigilant against discrimination in credit transactions. I appreciate the work of NFHA, you in the audience, and others, who are on the front lines of fighting discrimination in housing and lending. Thank you, for inviting me here today, and enjoy the conference.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

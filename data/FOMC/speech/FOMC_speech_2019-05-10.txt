@@ -1,0 +1,400 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 10, 2019
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At "Renewing the Promise of the Middle Class" 2019 Federal Reserve System Community Development Research Conference, Washington, D.C.
+
+[SECTION]
+
+It is good to be here at the Federal Reserve System's Community Development Research Conference. This year, our conference is focusing on renewing the promise of the middle class, a topic that goes to the heart of the American dream and underpins the vibrancy of our democracy and society.1
+
+[SECTION]
+
+What Does It Mean to Be Part of the Middle Class?
+Before I dig into the data, I want to touch on what it means to be a part of the middle class, recognizing aspirations differ from person to person. From a purely economic perspective, being middle class commonly means having financial security and the ability to invest for our futures and for our children. In turn, having a strong middle class implies that families with average incomes have the purchasing power to consume and the savings to invest. So a strong middle class is often seen as a cornerstone of a vibrant economy and, beyond that, a resilient democracy.2
+
+[SECTION]
+
+In recent years, households at the middle of the income distribution have faced a number of challenges. That raises the question of whether middle-class living standards are within reach for middle-income Americans in today's economy.
+
+[SECTION]
+
+There are a number of ways to define middle income. I will primarily focus on households between the 40th and 70th percentiles of the income distribution. In 2018, these households had incomes between $40,000 and $85,000.3
+
+[SECTION]
+
+To explore the issues associated with financial resilience and intergenerational financial well-being, it is necessary to go beyond measures of income and better understand household assets and liabilities.
+
+[SECTION]
+
+Today I will share with you findings from a promising new data resource developed by Federal Reserve staff, the Distributional Financial Accounts (DFAs). These accounts combine household-level data on balance sheets, incomes, and demographic characteristics of families in the United States from the triennial Survey of Consumer Finances (SCF) with aggregate data from the Financial Accounts of the United States to track the distribution of these household assets and liabilities on a quarterly basis.4 The timeliness of the data, which are currently available through the fourth quarter of 2018, can provide valuable insights into how different types of households are faring over the business cycle.
+
+[SECTION]
+
+I will also share some new results from the 2018 Survey of Household Economics and Decisionmaking (SHED), which deliver further insights on the financial resilience of households, particularly those with low and moderate income, on an annual basis.5 These results are slated for release soon.
+
+[SECTION]
+
+Wealth across Households
+Let us start by taking a look at how the wealth of middle-income households has evolved over recent years.6 Over the past three decades, the wealth of middle-income households increased an average of about 1 percent per year, adjusted for inflation (figure 1).7 That compares with average annual growth of 2.6 percent in real gross domestic income over this period. By comparison, the average wealth of the households in the top decile of the income distribution has increased three times faster per year, on average, than the wealth of middle-income households, more than doubling over the period as a whole.
+
+[SECTION]
+
+The past decade is even more sobering. Middle-income families still have not fully recovered the wealth they lost in the Great Recession. On average, households at all levels of income lost wealth as a result of the declines in asset prices and rise in unemployment during the crisis (figure 2). But the recovery in wealth since the Great Recession has been much less for middle- and lower-income households than for higher-income households. The wealth of the top 10 percent of households is 19 percent higher than before the recession, even after factoring in the decline in stock prices at the end of last year. In contrast, the wealth of middle-income families still has not returned to its pre-crisis level, and lower-income families have a wealth shortfall of 16 percent.8
+
+[SECTION]
+
+The gap is also large in absolute terms. At the end of 2018, the average middle-income household had wealth of about $340,000, while the average households in the top 10 percent of the income distribution had wealth of about $4.5 million (figure 3). The average wealth of the top income decile is now 13 times higher than that of the middle-income group, while it was 7 times higher in 1989.
+
+[SECTION]
+
+Given these developments, it is no surprise that the share of wealth held by middle-income households has declined over the past three decades. However, the extent of the decline is nonetheless striking: Today the 30 percent of households between the 40th and 70th percentiles of the income distribution hold 13 percent of all wealth, down from 19 percent over the past three decades (figure 4). The top 10 percent of households by income now own 57 percent of all wealthâup from 47 percent 30 years ago. The 10 percent of households with the highest income hold more of the national wealth than the remaining 90 percent of households combined.
+
+[SECTION]
+
+Do Middle-Income Households Have Middle-Class Economic Security?
+Having sketched out the contours of the overall level and growth of wealth owned by middle-income households, let us now turn to economic security. Basic financial security is one important marker of the middle class. Wealth is an important source of economic resilience for households, allowing them to handle unexpected expenses as well as providing them with the financial security to manage the usual changes in income over a lifetime. When we dig into the various liquid savings, assets, and liabilities that underlie the overall wealth numbers for middle-income households, the picture suggests limited room to absorb volatility in cash flows. Many middle-income families have relatively little in easily accessible, or liquid, savings, carry a significant amount of debt, and are concerned about the adequacy of their retirement savings.
+
+[SECTION]
+
+Liquid savings
+By drawing from several household surveys conducted by the Federal Reserve, we can gain important insights into how assets and liabilities of middle-income households affect their economic security. Research based on the 2016 SCF shows that only about one-fourth of middle-income households have enough liquid savings to cover six months of expensesâthe amount often recommended by financial advisersâand only 4 in 10 could cover three months of expenses.9 The majority of middle-income households thus do not have sufficient liquid savings to weather a typical material financial disruptionâfor instance, one associated with a temporary job loss or illness.
+
+[SECTION]
+
+Even modest unexpected expenses could be disruptive for many middle-income families. According to the forthcoming results from the 2018 SHED, one-third of middle-income adults said that they would borrow money, sell something, or not be able to pay an unexpected $400 expense (figure 5).10 Drilling down further indicates that while 6 percent of middle-income adults said they would not be able to pay the expense using any means, 27 percent would borrow or sell something to pay the expense.
+
+[SECTION]
+
+The reliance on credit to meet unexpected expenses is pronounced among those already carrying a balance on their credit cards. Nearly 3 in 10 middle-income adults carry a balance on their credit card most or all of the time, and the same households are five times as likely to borrow if faced with a $400 expense as those who never carry a balance.
+
+[SECTION]
+
+Borrowing money is not the only way that middle-income households cope with unexpected expenses. In 2018, one-fourth of middle-income adults said they skipped some kind of medical care because of its cost, suggesting insufficient savings can have implications for physical health as well as financial health. Thus, low levels of savings can create a challenging cycle when material disruptions in income, or even smaller unexpected expenses, spiral into a broader financial setback.
+
+[SECTION]
+
+Financial security in retirement
+A key component of middle-class financial security is the cushion of savings to cover retirement. Here, the DFAs suggest some progress. One of the innovations of the DFAs is that they include defined benefit plans from the Financial Accounts in addition to defined contribution plans, whereas measures of household pension wealth in the SCF are confined to the latter. The balances in defined contribution plans, such as 401(k)s, in which retirement savings accumulate in an account, are typically simpler to measure. By contrast, the value of defined benefit plans requires estimating how much the future fixed payments each year in retirement are worth today. These future payments are a sizable asset for households, currently estimated at about $15 trillion, or about 70 percent of total pension assets.11
+
+[SECTION]
+
+The DFAs indicate that the average pension wealth for middle-income householdsâincluding both types of plansâhas increased 2.5 percent per year over the past three decades (figure 6). Pension assets are now the largest asset held by middle-income households, representing 40 percent of their wealth, substantially exceeding the 22 percent share of home equity in their wealth.
+
+[SECTION]
+
+In part, the growth in pension balances reflects the sustained decrease in long-term interest rates over this period, which has boosted the value of the future fixed payments associated with defined benefit pensions. It reflects the aging of the population, since households near or in retirement age have the largest accumulated levels of pension savings and are also likely hold a relatively greater share of defined benefit plans (figure 7).
+
+[SECTION]
+
+How do we square the growth in pension assets with survey evidence indicating that many households in the middle of the income distribution are concerned that they will not have enough to live on in retirement? Only 35 percent of middle-income adults, who are not retired, say that their retirement saving is on track, and 16 percent of middle-income adults do not have any money saved for retirement.12 In part, this may reflect the long-term shift by employers to defined contribution plans and away from defined benefit plans, especially in the private sector. While in 1989 more middle-income households had a defined benefit pension than a defined contribution plan, the reverse has been true since 1989.13 With defined contribution plans, employees have to decide how much they will save and how they will invest, and they face uncertainty regarding how much savings will be available in retirement. Those who save and invest effectively can help secure their retirement. But those who opt out, save too little, or make investment choices that turn out to yield low returns may find themselves unprepared as retirement approaches, despite years of hard work. Two-thirds of middle-income adults who hold self-directed accounts, including defined contribution plans and individual retirement accounts, say that they have little or no comfort in managing the investments.14
+
+[SECTION]
+
+Assets and liabilities
+Stepping back, it is instructive to look at the evolution of the underlying assets and liabilities of middle-class households more broadly. The liabilities of the average middle-income household have nearly doubled over the past three decades, while assets have increased only 50 percent (figure 8). The gap between the relative growth of liabilities and assets peaked during the financial crisis and has narrowed somewhat for middle-income households more recently. While mortgages rose and fell sharply around the Great Recession, the rise in consumer debt, such as credit cards, auto loans, and student loans, has been relatively steady.
+
+[SECTION]
+
+The rapid growth in liabilities reflects both short-term cash flow management and longer-term investments. Taking on debt is an important way for middle-income families to help buffer unexpected expenses or a temporary loss of income, as indicated by the 8 in 10 middle-income adults who are at least somewhat confident that they could obtain an additional credit card if they applied for it.15 Debt is also a critical mechanism for making key middle-class investments, which I turn to next.
+
+[SECTION]
+
+Investing in the Future
+There is a palpable sense that the opportunity to reach the middle class and remain in it is receding for many middle-income households. Many households find it challenging to make key middle-class investments because incomes at the middle are not keeping up with the rising costs of education and homeownership, and it is difficult to save enough. Often, making these investments requires having some savings in the first placeâfor instance, to make a down payment on a home, forgo income for a few years while paying tuition, or secure credit for a small business.
+
+[SECTION]
+
+Disparities by race and ethnicity
+This challenge is compounded for some racial and ethnic minority groups that have experienced large and persistent racial gaps in wealth. In 2016, the average wealth of white households ($933,700) was seven times the average wealth of black households ($138,200) and five times that of Hispanic households ($191,200). Even among households at the middle of the income distribution, the average wealth in 2016 of white households ($277,200) was roughly one and a half times that of black households ($179,700) and nearly three times that of Hispanic households ($95,400).16 Differences in educational attainment cannot fully account for these disparities: The average wealth of black households in which the head had a bachelor's degree ($271,200) was 26 percent less than that of white households in which the head did not attend college ($367,800).17
+
+[SECTION]
+
+This matters not least because disparities in wealth often are inherited.18 The prospects that a young person will reach the middle class often depend on attributes he or she inheritsâsuch as the income, wealth, education, age, race, and ethnicity of his or her parents.19 Beyond financial wealth, children inherit intangible assets that affect their ability to access information and social networks that help in obtaining jobs and taking advantage of educational and other wealth-building opportunities.
+
+[SECTION]
+
+Homeownership
+Owning a home has been a key marker of middle-class status for many Americans. The accumulation of equity in a home is the primary form of wealth building and economic security for many middle-class families. Homeownership is valued for nonfinancial reasons as well, such as protection against unwanted moves and the freedom to make alterations and investments in the home.20
+
+[SECTION]
+
+However, the financial crisis brought into focus that there are also risks associated with homeownership. Home equityâdefined as the difference between the house value and the mortgage balanceâfor an average middle-income household peaked at $90,200 in late 2005, then declined by almost two-thirds through 2011 (figure 9). By the end of 2018, after several years of rising house prices, the home equity of the average middle-income family was still below the pre-recession peak and not much above the value in 1989.
+
+[SECTION]
+
+Middle-income households saw such steep declines in their average home equity during the Great Recession because they had taken on a high level of mortgage debt relative to their house values.21 This high leverage amplified the effect of the fall in house prices on their wealth. Moreover, the homeownership rates of middle-income households also declined during the recession, so they did not benefit as much from the subsequent rebound in house prices since 2013 as did higher-income families.
+
+[SECTION]
+
+The recent decline in homeownership rates does not appear to reflect a change in attitudes toward homeownership, as recent surveys show that the desire to own a home remains strong.22 Instead, it appears house prices are rising faster than income for many middle-income families, putting homeownership out of reach. By 2017, the median sales price for a single-family home was about four times median household income, up from three times median income in 1988.23 The homeownership rate for middle-income families was 68 percent in 2016, down from its peak in 2004 of 74 percent.24 For black households, the declines during and after the recession erased a decade of increases in homeownershipâthe homeownership rate for black households across the income spectrum was 42 percent in 2018, the same as the rate in the mid-1990s.25 The homeownership rate of Hispanics also declined with the recession but has recovered somewhat, reaching 47 percent in 2018.
+
+[SECTION]
+
+With homeownership lower and home prices rising faster than incomes, renting is also taking a bigger slice of many middle-income households' earnings, leaving less savings for a down payment, an unexpected expense, or other investments. From 2007 to 2018, the share of income spent on rent rose from 18 percent to 25 percent for middle-income renters.26
+
+[SECTION]
+
+Many middle-income families struggle to afford rent, particularly in the high-demand areas where jobs are most available, underscoring the need for more workforce housing. One way to increase the supply of middle-income housing is to reduce exclusionary zoning and other land-use restrictions that limit the supply of housing and keep prices high.27 Often put in place in areas with single-family homes to block the development of affordable, multifamily housing, these policies also have contributed to the persistence of racially segregated neighborhoods. The challenge is to increase accessibility to workforce and affordable housing in ways that address legacy disparities.28
+
+[SECTION]
+
+Skills, education, and student debt
+Manufacturing and the skilled trades have provided an important pathway to the middle class for many workers, enabling them to own their homes, educate their children, and retire securely. Today, though, many face uncertainties associated with the decline in manufacturing jobs, the erosion of employee benefits, and reduced bargaining power. Increasingly, the onus is on individuals to ensure that their skills are marketable and up-to-date in a highly competitive global marketplace with growing automation.
+
+[SECTION]
+
+Juan Salgado, the chancellor of the City Colleges of Chicago and our closing keynote speaker, has emphasized the role of community colleges in offering affordable, quality education and training.29 Students can begin with a certificate program in advanced manufacturing and continue either to a bachelor's degree in engineering at a nearby public university or to the workplace, acquiring marketable skills likely at lower cost than if they had started at a four-year college. Similar programs around the country help provide accessible pathways to the middle class.
+
+[SECTION]
+
+For others, college is seen as an important pathway to middle-class economic security. The average wealth of households with a college degree significantly exceeds the average wealth of those without a college degree (figure 10). A key reason is that college graduates generally have higher incomes. Graduates with a bachelor's degree have median weekly earnings that are about 65 percent higher than high school graduates and unemployment rates that are 2 percentage points lower, and they are often better positioned to adapt to changes in the labor market.30
+
+[SECTION]
+
+However, the cost of higher education has been rising, placing an increasing financial burden on many middle-income households. Between 2008 and 2018, tuition and fees at four-year public colleges rose more than six times faster than real median incomes.31 Moreover, as Federal Reserve Bank of Chicago President Evans discussed, while there are benefits associated with attending college, there are also some financial risks, and the returns to education vary widely. While two-thirds of individuals with a bachelor's degree or more say that the lifetime financial benefits of their education exceed its costs, those who do not complete their degree are half as likely to report net benefits from their studies.32 And some groups face higher barriers in accessing college: Children of parents who did not attend college are far less likely to attend college due to financial and informational barriers, and those who do start college are more likely to drop out.33
+
+[SECTION]
+
+For many middle-income families, affording post-secondary education means taking on a sobering amount of student debt. Total student loan debt, in inflation-adjusted terms, more than doubled from 2006 to 2018 (figure 11).34 Repayment of student loans can be challenging. In 2018, 2 in 10 middle-income adults with education debt were behind on their payments, and those who did not complete a degree were nearly twice as likely to be behind.35 Repayment status also differs by the type of institution attended. Among middle-income adults with education debt, 30 percent who attended for-profit institutions were behind on student loan payments, compared with 17 percent of those who attended public institutions and 12 percent who attended not-for-profit private institutions.
+
+[SECTION]
+
+Investing in higher education may come at the cost of deferring or forgoing other investments. For example, higher tuition costsâreflected in increasing student loan debtâtogether with the rising costs of homeownership, have left many middle-income households in a poor position to save for a down payment or handle a mortgage. Researchers at the Fed have estimated that roughly 20 percent of the decline in homeownership among young adults can be attributed to their increased student loans since 2005. This suggests that more than 400,000 young individuals would have owned a home in 2014 had it not been for the rise in student debt.36
+
+[SECTION]
+
+Businesses and stock ownership
+Another concern is that high debt may hinder people seeking to start a business. Starting a business is a classic pathway to securing a foothold in the middle class. This has been particularly true for members of some groups that historically have faced challenges in the labor market, particularly minorities and first-generation Americans.37
+
+[SECTION]
+
+Aspiring small business owners with student loans may lack the financial ability to invest in starting a business while staying current on payments. One study found that individuals with student loan debt are less likely to start a business, and those who do are more likely to fall behind on their loan payments.38 Another study found that growth in student loan debt resulted in a 14 percent reduction in small business formation in counties over a 10-year period.39
+
+[SECTION]
+
+The personal assets of small business owners have been an important source of capital for entrepreneurs as they seek to start and sustain a small business. As wealth for middle-income households has stagnated, reliance on this source of capital has declined in recent years.40 Very small firms depend heavily on personal debt for start-up and working capital. Owners of smaller firms often struggle to qualify for bank credit, and among those that apply and are denied, low credit scores and insufficient credit history are the most frequently cited reasons.
+
+[SECTION]
+
+More broadly, a key reason that middle-income households have not seen wealth increases commensurate with high-income households is that they have not benefited as much from the strong performance of stocks and privately held businesses. In inflation-adjusted terms, total business assets (including corporate stocks, mutual funds, and unincorporated businesses) have more than tripled since 1989. Similarly, the average business assets of top-income households have more than tripled since 1989. But the average business assets of middle-income families have grown only 31 percent since 1989 and are lower than they were before the Great Recession (figure 12). Stock market participation fell for middle-income families after the Great Recession, so they have not benefited as much from the subsequent rise in stock prices.41 By 2018, the 30 percent of households in the middle of the income distribution held only 6 percent of aggregate business assets, while the top 10 percent of households held over threeâfourths.
+
+[SECTION]
+
+Maximum Employment, Wages, and Wealth
+With lower net worth and financial assets, the livelihoods of most middle-income families, other than retirees, depend primarily on compensation from working. So the robustness of labor income over time is central to the ability of middle-income families to achieve and maintain middle-class financial security. While the strengthening of the labor market over the course of this extended recovery has benefited middle-income families, the long-term decline in the share of national income going to wage earners is concerning.
+
+[SECTION]
+
+The Congress put maximum employment right at the heart of the Federal Reserve's mandate, alongside price stability. In fact, we are one of only a handful of central banks that have the explicit responsibility to promote maximum employment. Given that households at the middle of the income distribution rely primarily on wage income, our full employment mandate has served the country well during this extended recovery.
+
+[SECTION]
+
+The gains to workers, including those in the middle class, from the strong labor market are clear. Unemployment is now at 3.6 percentâits lowest level in 50 years. Employment rates of adults in their prime working years (ages 25 to 54) have been rising steadily during the expansion and recently reached their pre-recession peak of 80 percent.42 Importantly, wage growth has begun to pick up after years of slow gains.
+
+[SECTION]
+
+It is notable that the near recovery in middle-class wealth from the Great Recession did not take hold until the labor market began to strengthen. While higher-income households saw their wealth begin to recover as soon as financial markets stabilized in early 2009, middle-income households did not see their wealth begin to recover until 2010, when the unemployment rate began to decline (figure 13).
+
+[SECTION]
+
+Even as we welcome the many benefits of the current strong job market, longer-term trends raise concerns. Labor market disparities by race have been an enduring feature of the labor market for decades. The unemployment rate of blacks, while near its historical low, remains at about 7 percent, twice the unemployment rate of whites. Recent research suggests that the strong labor market may be helping to narrow some of the long-standing disparities for some racial minorities and women, although the results are tentative and very modest.43
+
+[SECTION]
+
+The progressive long-term decline in the share of national income that goes to workers through wages is concerning for middle-income households. The share going to workersâwhich economists call the labor shareâtranslates into how much of our economic output shows up in people's paychecks. The decline in the labor share goes to the heart of the rising inequality of wealth and the unequal sharing of prosperity.
+
+[SECTION]
+
+Several explanations have been put forward for the decline in the labor share. The increasing concentration of industries into the hands of a few firms has likely reduced the bargaining power of workers.44 Increasing automation in the workplace is also a factor, along with the ongoing effects of globalization and offshoring. Earnings have declined as the job market has shifted away from important middle-income occupations. Manufacturing, for example, employs vastly fewer people now than it has historically.45 It is important to understand the relative importance of these different drivers, as they have different implications for the overall health of the economy and for policies to support middle-income families.
+
+[SECTION]
+
+Monetary policy aims to influence employment and inflation over the business cycle, as opposed to addressing these longer-run structural changes. But the distribution of income and wealth may have important implications for macroeconomic developments, such as the evolution of consumption, which is the single biggest engine of growth in our economy. That is why the Federal Reserve has a significant interest in understanding distributional developments and their implications.
+
+[SECTION]
+
+Recent research finds that households with lower levels of wealth spend a larger fraction of any income gains than households with higher levels of wealth.46 Consequently, an economy that delivers an increasing share of income gains to high-wealth households could result in less growth in consumer demand than one in which the gains are distributed more equally. In fact, the recovery of consumer spending after the Great Recession was slower than the recovery in aggregate household income and net worth would previously have suggested, and rising inequality is one plausible explanation.47
+
+[SECTION]
+
+Conclusion
+The discrepancy between slow growth in income and wealth, on the one hand, and rising costs of housing, health care, and education, on the other, may be making it more difficult for middle-income families to achieve middle-class financial security. Long-term, the shifting of wealth and income to the top of the distribution and away from the middle could pose challenges to the health and resilience of our economy. These are important questions, and I am pleased that this conference is bringing to light interesting research to shed light on them.
+
+[SECTION]
+
+Accessible Version
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

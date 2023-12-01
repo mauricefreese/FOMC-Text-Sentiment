@@ -1,0 +1,246 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 20, 2018
+
+[SECTION]
+
+Chairman Jerome H. Powell
+
+[SECTION]
+
+At "Price and Wage-Setting in Advanced Economies," an ECB Forum on Central Banking, Sintra, Portugal
+
+[SECTION]
+
+Nine years into an expansion that has sometimes proceeded slowly, the U.S. economy is performing very well. Growth is meaningfully above most estimates of its long-term trend--though admittedly, that trend is not as strong as we would like it to be. The labor market is particularly robust, with unemployment at its lowest level since April 2000. Inflation has moved up close to our 2 percent objective, although we have yet to see it remain near that objective on a sustained basis.
+
+[SECTION]
+
+Today, most Americans who want jobs can find them. High demand for workers should support wage growth and labor force participation--the latter a measure on which the United States now lags most other advanced economies.1 A tight labor market may also lead businesses to invest more in technology and training, which should support productivity growth. And groups such as some racial and ethnic minorities that still have higher unemployment and lower participation rates could see increasing benefits from a tight labor market.2 In short, there is a lot to like about low unemployment.
+
+[SECTION]
+
+Achieving our statutory goal of maximum employment in a context of price stability and financial stability is both our responsibility and our challenge. Earlier in the expansion, as the economy recovered, the need for highly accommodative monetary policy was clear. But with unemployment low and expected to decline further, inflation close to our objective, and the risks to the outlook roughly balanced, the case for continued gradual increases in the federal funds rate is strong.
+
+[SECTION]
+
+Current Labor Market Conditions
+At 3.8 percent, the unemployment rate is below most estimates of its long-run level, which are now clustered in the mid-4s. Many other labor market indicators also suggest an economy near full employment. To name just a few, these indicators include an elevated level of job vacancies. For the first time since the Labor Department began collecting the data in 2000, there are now more job vacancies than there are people counted as unemployed. In addition, the rate at which workers are quitting their jobs is elevated, a sign that workers are able to find another job when they seek one. And surveys show that businesses are finding it difficult to fill vacancies, and that households perceive jobs as plentiful.
+
+[SECTION]
+
+Some other indicators are less clear. The labor force participation rate of prime-age workers has moved up in recent years but remains below pre-crisis levels.3 In addition, wage growth has been moderate, consistent with low productivity growth but also an indication that the labor market is not excessively tight.
+
+[SECTION]
+
+Looking ahead, the job market is likely to strengthen further. Real gross domestic product in the United States is now reported to have risen 2-3/4 percent over the past four quarters, well above most estimates of its long-run trend. Expansionary fiscal policy is expected to add to aggregate demand over the next few years. Many forecasters expect the unemployment rate to fall into the mid-3s and to remain there for an extended period. If that comes to pass, it will mean the lowest unemployment in the United States since the late 1960s.
+
+[SECTION]
+
+A historical comparison
+Because we have so little experience with very low unemployment, it is interesting to compare today's labor market with that earlier period. Unemployment was below 4 percent from February 1966 through January 1970. During that time, inflation as measured by the price index for personal consumption expenditures increased from below 2 percent in 1965 to about 5 percent in 1970. In hindsight, unemployment is now widely thought to have been unsustainably low at that time and to have contributed to escalating inflation.
+
+[SECTION]
+
+But how significant is this precedent for today? The U.S. economy has changed in many ways over the past 50 years. By some estimates, the natural rate of unemployment is substantially lower now.4 For example, the Congressional Budget Office now estimates that the natural rate was about 5â3/4 percent (and rising) in the late 1960s, compared with 4-3/4 percent at present.5
+
+[SECTION]
+
+Rising education levels do point to a decline in the natural rate since the 1960s, because more highly educated people are less likely to be unemployed. The share of the population with a college degree has risen from less than 15 percent in the late 1960s to nearly 40 percent now, and the share with less than a high school degree has declined from 45 percent to about 5 percent.6 Another important difference from the 1960s is that inflation has been low and stable for an extended period, which has better anchored inflation expectations. Today policymakers have a greater appreciation of the role expectations play in inflation dynamics and a clearer commitment to maintaining low and stable inflation.
+
+[SECTION]
+
+Unfortunately, with the passage of a half-century and important changes in the structure of our economy and in central bank practices, in my view the historical comparison does not shed as much light as we might have hoped.
+
+[SECTION]
+
+Questions prompted by a tight labor market
+The lack of useful historical precedent leaves us with some uncertainty about the answers to several important and challenging questions. First, estimates of the natural rate of unemployment by Federal Open Market Committee (FOMC) participants and others have drifted lower as unemployment has declined without much apparent reaction from inflation. How reliable are these estimates? Natural rate estimates have always been uncertain, and may be even more so now as inflation has become less responsive to the unemployment rate.7 The anchoring of expectations is a welcome development and has likely played a role in flattening the Phillips curve. But a flatter Phillips curve makes it harder to assess whether movements in inflation reflect the cyclical position of the economy or other influences.
+
+[SECTION]
+
+Second, what would be the consequences for inflation if unemployment were to run well below the natural rate for an extended period? The flat Phillips curve suggests that the implications for inflation might not be large, although a very tight labor market could lead to larger, nonlinear effects. Research on this question is ambiguous, again reflecting the limited historical experience.8 We should also remember that where inflation expectations are well anchored, it is likely because central banks have kept inflation under control. If central banks were instead to try to exploit the nonresponsiveness of inflation to low unemployment and push resource utilization significantly and persistently past sustainable levels, the public might begin to question our commitment to low inflation, and expectations could come under upward pressure. So far, we see no signs of this. If anything, some measures of longer-term inflation expectations in the United States have edged lower in recent years.
+
+[SECTION]
+
+Third, can persistently strong economic conditions pose financial stability risks? Of course, strong economic conditions are a good thing! Such conditions can make the financial system better able to absorb shocks through strong balance sheets and investor confidence. But we have often seen confidence become overconfidence and lead to excessive borrowing and risk-taking, leaving the financial system more vulnerable. Indeed, the fact that the two most recent U.S. recessions stemmed principally from financial imbalances, not high inflation, highlights the importance of closely monitoring financial conditions. Today I see U.S. financial stability vulnerabilities as moderate and broadly in line with their long-run averages. While some asset prices are high by historical standards, I do not see broad signs of excessive borrowing or leverage. In addition, banks have far greater levels of capital and liquidity than before the crisis.
+
+[SECTION]
+
+Fourth, while persistently strong economic conditions can pose risks to inflation and perhaps financial stability, we can also ask whether there may be lasting benefits. As I mentioned, a tight labor market could draw more people into the labor force. In fact, as the labor market has tightened, more workers have been moving back to work and off disability rolls.9 There could also be benefits to productivity and potential growth. All told, though, the persistence of any such "positive hysteresis" benefits is uncertain, since, again, the historical evidence is sparse and inconclusive.
+
+[SECTION]
+
+Conclusion
+
+[SECTION]
+
+As is often the case, in the current environment, significant uncertainty attends the process of making monetary policy. Today, with the economy strong and risks to the outlook balanced, the case for continued gradual increases in the federal funds rate remains strong and broadly supported among FOMC participants.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

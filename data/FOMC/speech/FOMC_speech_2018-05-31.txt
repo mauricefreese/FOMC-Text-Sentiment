@@ -1,0 +1,297 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 31, 2018
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At the Forecasters Club of New York, New York, New York
+
+[SECTION]
+
+I appreciate the opportunity to join the Forecasters Club to discuss the path ahead for our economy and monetary policy.1 In the months ahead, I expect to see tightening resource utilization in the U.S. economy as rising fiscal stimulus reinforces above-trend growth. Continued gradual increases in the federal funds rate are likely to be consistent with sustaining strong labor market conditions and inflation around target, with the balance sheet running off gradually and predictably in the background. This outlook suggests a policy path that moves gradually from modestly accommodative today to neutral--and, after some time, modestly beyond neutral--against the backdrop of a longer-run neutral rate that is likely to remain low by historical standards. Let me consider each element in turn
+
+[SECTION]
+
+Growing above Trend
+Although indicators of economic activity were on the soft side earlier in the year, the outlook for the remainder of 2018 remains quite positive, supported by sizable fiscal stimulus as well as still-accommodative financial conditions.
+
+[SECTION]
+
+In the latest report, real gross domestic product (GDP) increased 2.2 percent at an annual rate in the first quarter of 2018, a slowdown from the 3 percent pace in the final three quarters of 2017. The first-quarter slowdown was especially noticeable in consumer spending, which increased at only a 1 percent pace last quarter, compared with 2-3/4 percent in 2017. By contrast, business fixed investment increased 9 percent at an annual rate last quarter, surpassing its robust 2017 pace.
+
+[SECTION]
+
+I expect real GDP growth to pick up in the next few quarters. In particular, the fundamentals for consumer spending are favorable: Income gains have been strong, consumer confidence remains solid, and employment prospects remain bright. And business investment should remain solid, with drilling and mining bolstered by increased oil prices.
+
+[SECTION]
+
+Moreover, the sizable fiscal stimulus that is in train is likely to provide a tailwind to growth in the second half of the year and beyond.2 From a position of full employment, the economy will likely receive a substantial boost from $1.5 trillion in personal and corporate tax cuts and a $300 billion increase in federal spending, with estimates suggesting a boost to the growth rate of real GDP of about 3/4 percent this year and next.3
+
+[SECTION]
+
+Risks and Uncertainties
+In short, with a tightening labor market and inflation near target, fiscal stimulus in the pipeline suggests some risk to the upside. By contrast, recent developments abroad suggest some risk to the downside.
+
+[SECTION]
+
+Global growth has been synchronized over the past year, but recent developments pose some risk. Political developments in Italy have reintroduced some risk, and financial conditions in the euro area have worsened somewhat in response. With some uptick in political uncertainty, and inflation still below target in the euro area and Japan, monetary policies among the advanced economies look likely to be divergent for some time. In addition, some emerging markets may find conditions more challenging. An environment with a strengthening dollar, rising energy prices, and the possibility of rising rates raises the risks of capital flow reversals in some emerging markets that have seen increased borrowing from abroad. Although stresses have been contained to a few vulnerable countries so far, the risk of a broader pullback bears watching. In addition, uncertainty over trade clouds the horizon. An escalation in measures and countermeasures--although an outside risk--could prove disruptive at home and abroad.
+
+[SECTION]
+
+Sustaining Full Employment
+Here at home, the labor market is strong. So far this year, payroll gains have averaged 200,000 per month, sufficient to put further downward pressure on unemployment. Indeed, the unemployment rate moved down to 3.9 percent in April following six consecutive months at 4.1 percent. The unemployment rate for African Americans dropped in April to 6.6 percent, which is the lowest level recorded since this series began in 1972 but still high relative to other groups.
+
+[SECTION]
+
+It is difficult to know how much slack remains. April's 3.9 percent unemployment rate was the lowest reading since December 2000. If the unemployment rate falls another couple of tenths--which seems likely, based on recent trends--it will be at its lowest level since 1969. Although the late 1960s marked the beginning of what is now called the Great Inflation, it is worth keeping in mind that there have been important shifts in the labor market since that time. For example, educational attainment is much higher today than it was in the 1960s, and college degree holders tend to have much lower unemployment rates, on average, than those with a high school degree or less.4
+
+[SECTION]
+
+While the unemployment rate is now lower than before the financial crisis, the employment-to-population ratio for prime-age workers remains about 1 percentage point below its pre-crisis level. It is an open question what portion of the prime-age Americans who are out of the labor force may prove responsive to tight labor market conditions.
+
+[SECTION]
+
+While it is difficult to know with precision how much slack still remains, I am seeing more evidence that labor markets are tightening, and wages are accelerating, although at a measured pace. The 12-month change in the employment cost index (ECI) for private industry workers in the first quarter was 2.8 percent, up from 2.3 percent in the year-earlier period. By way of comparison, in the period from 2005 to 2007, just before the financial crisis, the ECI rose a bit more than 3 percent at an annual rate, while core personal consumption expenditures (PCE) inflation was around 2-1/4 percent. I am hearing anecdotes of labor market shortages in particular occupations and sectors, echoing a theme in our recent Beige Book. Going forward, I will be looking for confirmation in other measures of wages that labor market tightness is feeding through to wage gains.
+
+[SECTION]
+
+Sustainably Achieving Our Inflation Objective
+Turning to the second leg of our dual mandate, in the most recent data, the trailing 12-month change in core PCE prices was 1.8 percent, up from a year earlier, when core PCE prices increased only 1.6 percent. Overall PCE prices, which include the volatile food and energy sectors, increased 2.0 percent, largely reflecting the recent run-up in crude oil prices. While the recent core PCE data are somewhat encouraging, we will want to see inflation coming in around target on a sustained basis after seven years of below-target readings.
+
+[SECTION]
+
+As I have noted before, the persistence of subdued inflation, despite an unemployment rate that has moved below most estimates of its natural rate, suggests some risk that underlying inflation--the slow-moving trend that exerts a pull on wage and price setting--may have softened.5 For example, some survey measures of longer-run inflation expectations are currently lower than they were before the financial crisis, as are most estimates based on statistical filters. Inflation compensation has moved up recently but is still running somewhat below levels that prevailed before the crisis.
+
+[SECTION]
+
+Re-anchoring underlying inflation at the Federal Open Market Committee's (FOMC) 2 percent objective is an important goal. Recent research has highlighted the downside risks to inflation and inflation expectations that are posed by the effective lower bound on nominal interest rates, and it underscores the importance of ensuring underlying inflation does not slip below target in today's new normal.6 In that regard, if we were to see a mild, temporary overshoot of the inflation target, this could well be consistent with the symmetry of the FOMC's target and may help nudge underlying inflation back to target.7
+
+[SECTION]
+
+In short, it is reassuring to see core PCE inflation moving up, along with market-based measures of inflation compensation retracing earlier declines. After seven years of below-target inflation, it will be important to see inflation coming in around target on a sustained basis to be confident that underlying trend inflation is running at 2 percent.
+
+[SECTION]
+
+The Yield Curve
+Even though longer-term Treasury yields have moved up, on net, since the beginning of the year, there has been growing attention of late to the possibility of an inversion of the yield curve--that is, circumstances in which short-term interest rates exceed long-term interest rates on Treasury securities. Historically, yield curve inversions have had a reliable track record of predicting recessions in the United States.8 Since 1960, there has only been one case where the 3-month Treasury yield has moved above the 10-year Treasury yield and a recession has not followed--in 1966.9
+
+[SECTION]
+
+This correlation between yield curve inversions and recessions might arise for a variety of reasons. First, let us take a case where short-term rates rise relative to long-term rates. When the FOMC is undertaking a deliberate tightening in policy, short-term interest rates typically rise, as do expectations of short-term interest rates in the medium term, while interest rates in the distant future may be less affected. For example, if short-term interest rates were raised to stabilize temporary swings in the economy, the logic of the expectations hypothesis would suggest that long rates would not rise as much. And if tighter monetary policy were to weaken the economy with a lag, this would lead to long rates not rising by as much or at all.
+
+[SECTION]
+
+Second, let us take a case where long-term rates decline relative to short-term rates, perhaps reflecting a flight to safety. If market participants become concerned about a future macroeconomic risk that could lead to a weaker economy, this concern would tend to lower expected longer-term interest rates, both because monetary policy would be expected to become more accommodative in the future and because market participants may increase their relative holdings of safe assets, such as Treasury securities. In this case, longer-dated Treasury yields may fall, and if short-term interest rates do not adjust commensurately, the yield curve will invert ahead of a weaker economy.
+
+[SECTION]
+
+Turning to current conditions, the spread between the 10-year and 3-month Treasury yields has declined from 375 basis points in early 2010 to about 125 basis points in the first quarter of this year. While that represents a considerable flattening, the current spread between the 10-year and 3-month yields is only about 20 basis points narrower than the average over the 45 years before the financial crisis.
+
+[SECTION]
+
+As we try to assess the implications of this flattening of the yield curve, it is important to take into account the very low level of the current 10-year yield by historical standards. For the 20 years before the crisis, the 10-year Treasury yield averaged about 6â1/4 percent, compared with recent readings around 3 percent. One reason the 10-year Treasury yield may be unusually low is that market expectations of interest rates in the longer run may be unusually low. A second reason may be that the term premium--the extra compensation an investor would demand for investing in a 10-year bond rather than rolling over a shorter-dated instrument repeatedly over a 10-year period--has fallen to levels that are very low by historical standards. According to one estimate from Federal Reserve Board staff, the term premium has tended to be slightly negative in recent years. By contrast, when the spread between the 10-year and 3-month Treasury yields was at its peak in early 2010, this measure of the term premium was close to 100 basis points.10
+
+[SECTION]
+
+Other things being equal, a smaller term premium will make the yield curve flatter by lowering the long end of the curve. With the term premium today very low by historical standards, this may temper somewhat the conclusions that we can draw from a pattern that we have seen historically in periods with a higher term premium. With a very low term premium, any given amount of monetary policy tightening will lead to an inversion sooner so that even a modest tightening that might not have led to an inversion in the past could do so today.
+
+[SECTION]
+
+There are a number of possible explanations of the low level of the term premium. The asset purchases of the Federal Reserve and other central banks may be contributing factors. The goal of these policies was to lower longer-term interest rates--and in many cases, expressly by lowering term premiums. A number of studies suggest that these polices have indeed been successful in lowering term premiums.11
+
+[SECTION]
+
+A second reason the term premium may be lower than in the past is the changing correlation between stock and bond returns, likely caused by changes in expected inflation outcomes.12 While in the 1970s and 1980s stock and bond returns tended to be positively correlated, more recently the correlation has tended to be negative. With an inverse correlation, bonds recently have been a good hedge for stocks, and that correlation may have contributed to lower bond term premiums by increasing the demand for bonds as an instrument for hedging portfolio risks. This changed correlation between stock and bond returns in turn may be related to better anchored inflation expectations following a long period of low and stable inflation.
+
+[SECTION]
+
+Looking ahead, it seems likely the term premium will increase somewhat, although perhaps not to the levels seen historically. On the one hand, a continued gradual runoff of the balance sheet of the Federal Reserve and reduced bond buying by other central banks will tend to put upward pressure on the term premium. On the other hand, the FOMC's demonstrated commitment to maintaining low and stable inflation makes it unlikely that expectations of high inflation will reemerge. Thus, on balance, while term premiums may recover somewhat from their recent depressed values, it is unlikely they will return to the high levels of earlier decades.
+
+[SECTION]
+
+The Path of Policy
+In the median outlook in the FOMC's Summary of Economic Projections (SEP), the federal funds rate is projected to reach its longer-run value by 2019 and exceed it in 2020. If the 10-year term premium were to stay very low, that path would likely imply a yield curve inversion. But for the reasons I just noted, if the term premium remains low by historical standards, there would probably be less adverse signal from any given yield curve spread.
+
+[SECTION]
+
+It is important to emphasize that the flattening yield curve suggested by the SEP median is associated with a policy path calibrated to sustain full employment and inflation around target. So while I will keep a close watch on the yield curve as an important signal on how tight financial conditions are becoming, I consider it as just one among several important indicators. Yield curve movements will need to be interpreted within the broader context of financial conditions and the outlook and will be one of many considerations informing my assessment of appropriate policy.
+
+[SECTION]
+
+As suggested by the SEP median path, I believe that the forward-guidance language in the Committee statement that was introduced a few years ago that "the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run" is growing stale and may no longer serve its original purpose. For purposes of comparison, in March 2016, the median of SEP projections for the federal funds rate path had the funds rate rising to 3.0 percent and remaining below the longer run value that was projected to be 3.3 percent. A year later, the median projection of the longer-run federal funds rate fell. In the March 2018 SEP, the median projection of the federal funds rate peaks at 3.4 percent in 2020--1/2 percentage point above the median projection of its longer-run value of 2.9 percent. It is worth noting that this progression reflects a decrease in the long-run federal funds rate as much as an increase in the medium-run federal funds rate.
+
+[SECTION]
+
+Conclusion
+In an environment of tightening resource utilization and above-trend growth, with sizable fiscal stimulus likely to provide a boost to demand in the near-to-medium term that should fade somewhat further out, it seems likely that the neutral rate could rise in the medium term above its longer-run value. I expect current tailwinds to boost the neutral rate gradually over the medium term but leave little imprint on the long-run neutral rate. The short-run level of the neutral rate should rise gradually because the forces that are moving the economy from headwinds to tailwinds are likely to play out gradually. Although the tax cuts are already in place, their effects may not be fully felt for a few years, and the spend-out from the recent budget agreement may occur with some delay. A gradual pace is also warranted in light of the long period of undershooting the inflation target.
+
+[SECTION]
+
+I would not underestimate the challenge of calibrating monetary policy to sustain full employment and re-anchor trend inflation around 2 percent, while adjusting to sizable stimulus at a time when resource constraints are tightening and the economy is growing above trend. I continue to view gradual increases in the federal funds rate as the appropriate path, although I will remain vigilant for the emergence of risks and prepared to adjust if conditions change.
+
+[SECTION]
+

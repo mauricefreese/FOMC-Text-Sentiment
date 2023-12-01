@@ -1,0 +1,239 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 09, 2019
+
+[SECTION]
+
+Chair Jerome H. Powell
+
+[SECTION]
+
+At "Stress Testing: A Discussion and Review," a research conference at the Federal Reserve Bank of Boston, Boston, Massachusetts
+
+[SECTION]
+
+Accessible Keys for Video
+
+[SECTION]
+
+[Space Bar] toggles play/pause;
+
+[SECTION]
+
+[Right/Left Arrows] seeks the video forwards and back (5 sec );
+
+[SECTION]
+
+[Up/Down Arrows] increase/decrease volume;
+
+[SECTION]
+
+[M] toggles mute on/off;
+
+[SECTION]
+
+[F] toggles fullscreen on/off (Except IE 11);
+
+[SECTION]
+
+The [Tab] key may be used in combination with the [Enter/Return] key to navigate and activate control buttons, such as caption on/off.
+
+[SECTION]
+
+Good morning everyone and thank you to President Rosengren and the Boston Fed for hosting this conference.
+
+[SECTION]
+
+The Federal Reserve is strongly committed to stress testing as a cornerstone of our bank supervisory and financial stability missions. Stress testing is perhaps the most successful supervisory innovation of the post-crisis era. But if stress tests are to continue to serve their critical function, they will need to evolve in the years ahead to keep pace with the ever-changing financial system, as they have since the first round of tests in 2009.
+
+[SECTION]
+
+Before looking to the future, let me recall a bit of history. A little more than 10 years ago, the United States and the world teetered on the brink of economic catastrophe. What was urgently needed was a way to restore confidence in the financial systemâa daunting challenge. Neither the banks, nor the regulators, nor the public had a reliable sense of the strength and resilience of our major banks. The announcement of forward-looking stress-testing results in May 2009 helped restore confidence and stabilize banks by providing a credible and independent picture of their finances.1 These original stress tests evolved into the Comprehensive Capital Analysis and Review, or CCAR, program, which has served to institutionalize capital planning by firms, and supervision by the Fed, as a forward-looking endeavor.
+
+[SECTION]
+
+Since 2009, large banks have added more than $800 billion in common equity capital, giving them a much thicker cushion to deal with losses. Banks have gotten much better at assessing and managing their risks, effectively tracking commitments across their organizations, anticipating capital needs, and planning for different scenarios.
+
+[SECTION]
+
+The stress tests of the futureâ5 and 10 years from nowâwill need to continue to ensure that banks remain able, even in a severe downturn, to provide the credit that households and businesses depend on. As financial institutions and the financial system evolve, stress testing will need to keep up. When the next episode of financial instability presents itself, it may do so in a messy and unexpected way. Banks will need to be ready not just for expected risks, but for unexpected ones. Thus, the tests will need to vary from year to year, and to explore even quite unlikely scenarios.
+
+[SECTION]
+
+If the stress tests do not evolve, they risk becoming a compliance exercise, breeding complacency from both supervisors and banks. We might also, inadvertently, encourage the development of a banking system where, over time, all banks would look much alike rather than the banking system we want and need, one with diverse institutions with different business models. We simply can't let these things happen.
+
+[SECTION]
+
+The purpose of today's gathering is to help us think about how to ensure the tests continue to foster a dynamic banking system, financial stability, and a healthy and growing economy. We have invited a wide range participantsâfellow regulators, bankers, analysts, academics, and community groupsâwith diverse perspectives. Because we do not claim a monopoly on knowledge or wisdom, we have invited many who have disagreed with us in the past. I strongly believe that diverse perspectives and healthy debate will sharpen our thinking and lead us to better answers.
+
+[SECTION]
+
+I'm sorry I'm not able to be with you today. And I want to particularly thank all of the speakers, discussants, and other participants for helping us grapple with the challenges of ensuring that tomorrow's stress tests remain as effective and vigorous as they are today. Thank you.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

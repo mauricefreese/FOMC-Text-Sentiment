@@ -1,0 +1,204 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 12, 2021
+
+[SECTION]
+
+Vice Chair Richard H. Clarida
+
+[SECTION]
+
+At the 2021 Institute of International Finance Annual Membership Meeting: Sustainable Economic Growth and Financial Stability in a Diverging, Decarbonizing, Digitizing, Indebted World, Washington, D.C. (via webcast)
+
+[SECTION]
+
+It is my pleasure to meet virtually with you today at the 2021 Institute of International Finance Annual Membership Meeting.1 I regret that we are not meeting in person, but I look forward, as always, to a conversation with my good friend and one-time colleague Tim Adams. But first, please allow me to offer a few remarks on the economic outlook and Federal Reserve monetary policy.
+
+[SECTION]
+
+Current Economic Situation and Outlook
+Indicators of economic activity and employment reveal that the economy continues to strengthen. Real gross domestic product (GDP) rose at a strong 6.4 percent pace in the first half of the year, and growth is widely expected to continue at a robust, if perhaps somewhat slower, pace in the second half of the year. If so, GDP growth this calendar year could be the fastest since 1983. That said, the data also indicate that a surge in COVID-19 cases in the summer and supply-chain bottlenecks held back economic activity in the third quarter.
+
+[SECTION]
+
+As with overall economic activity, conditions in the labor market have continued to improve. Job gains as measured by the payroll survey have averaged 550,000 per month over the past three months. Labor market progress this year, as measured by the Kansas City Fed's Labor Market Conditions Indicators, has been notable, with this index of 24 labor market indicators since December 2020 closing two-thirds of its shortfall relative to its pre-pandemic level.2 Nonetheless, factors related to the pandemic, such as caregiving obligations and ongoing fears of the virus, continue to weigh on employment and participation. Thus, the course of the labor market, and indeed that of the economy, continues to depend on the course of the virus.
+
+[SECTION]
+
+Since February 2020, core PCE (personal consumption expenditures) price inflation is running at a 2.9 percent annual pace that is well above what I would consider to be a moderate overshoot of our 2 percent longer-run goal for inflation. Fully reopening the $20 trillion economy this year is taking longer and costing more than it did to shut it down last year. In particular, the reopening has been characterized by significant sectoral shifts in both aggregate demand and supply, and these shifts are causing widespread bottlenecks and triggering substantial changes in the relative price and wage structure of the economy. A similar reopening dynamic is playing out in other advanced economies, such as Canada and the United Kingdom. As these relative price adjustments work their way through the economy, measured inflation rises. But I continue to believe that the underlying rate inflation in the U.S. economy is hovering close to our 2 percent longer-run objective and, thus, that the unwelcome surge in inflation this year, once these relative price adjustments are complete and bottlenecks have unclogged, will in the end prove to be largely transitory. And this is a forecast that is shared by the vast majority of economists in the private sector, such as those surveyed by Bloomberg and Blue Chip. That said, I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends, in particular measures of inflation expectations, including the Board staff's index of common inflation expectations.3 As Chair Powell has indicated, if we did see indicators of inflation expectations moving up and running persistently above levels consistent with our price stability mandate, monetary policy would react to that. But that is not the case at present.
+
+[SECTION]
+
+The September Decision and the Forward Guidance in Our FOMC Statement 
+Let me now say a few words about the decisions reached at our September FOMC meeting. Since our December 2020 meeting, the Committee has indicated that it will continue to maintain the pace of Treasury and mortgage-backed securities purchases at $80 billion and $40 billion per month, respectively, until "substantial further progress" has been made toward our maximum-employment and price-stability goals.4 At our September meeting, the Committee continued to discuss the progress made toward these goals, and I myself believe that the "substantial further progress" standard has more than been met with regard to our price-stability mandate and has all but been met with regard to our employment mandate. If progress continues broadly as expected, the Committee in September judged that a moderation in the pace of asset purchases may soon be warranted. At our meeting, we also discussed the appropriate pace of tapering asset purchases once economic conditions satisfy the criterion laid out in the Committee's guidance. While no decisions were made, participants generally view that, so long as the recovery remains on track, a gradual tapering of our asset purchases that concludes around the middle of next year may soon be warranted.
+
+[SECTION]
+
+It is important to note that any future decision the Committee might make with regard to the pace of asset purchases will not be intended to carry a signal about the timing of a future decision to raise the target range for the federal funds rate, a policy decision for which we have articulated a different and substantially more stringent test. As we reaffirmed in September, we continue to expect that it will be appropriate to maintain the current 0 to 1/4 percent target range for the federal funds rate until labor market conditions have reached levels consistent with the Committee's assessment of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time. At least half of the 18 FOMC participants in their Summary of Economic Projections (SEP) submissions projected that these necessary threshold conditions for liftoff will be met by December 2022, and all participants but 1 project that these conditions will be met by December 2023.5 These projections are entirely consistent with the new monetary policy framework adopted unanimously by the Committee in August 2020.6 In the context of our new framework, as I have noted before, while the effective lower bound (ELB) can be a constraint on monetary policy, the ELB is not a constraint on fiscal policy, and appropriate monetary policy under our new framework, to me, mustâand certainly canâincorporate this reality. Indeed, under present circumstances, I judge that the support to aggregate demand from fiscal policyâincluding the nearly $2 trillion in accumulated excess savings accruing from (as yet) unspent transfer paymentsâin tandem with appropriate monetary policy, can fully offset the constraint, highlighted in our Statement on Longer-Run Goals and Monetary Policy Strategy, that the ELB imposes on the ability of an inflation-targeting monetary policy, acting on its own and in the absence of sufficient fiscal support, to restore, following a recession, maximum employment and price stability while keeping inflation expectations well anchored at the 2 percent longer-run goal.7
+
+[SECTION]
+
+Thank you very much for your time and attention. I look forward, as always, to my conversation with Tim.
+
+[SECTION]
+

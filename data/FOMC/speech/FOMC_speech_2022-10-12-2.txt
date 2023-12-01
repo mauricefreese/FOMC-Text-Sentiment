@@ -1,0 +1,267 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 12, 2022
+
+[SECTION]
+
+Governor Michelle W. Bowman
+
+[SECTION]
+
+At the Money Marketeers of New York University, New York, New York
+
+[SECTION]
+
+Thanks to the Money Marketeers for inviting me to share my perspective on the conduct of monetary policy in the current environment of unacceptably high inflation. It is a pleasure to be here with you this evening.
+
+[SECTION]
+
+I will focus my remarks today on the use of explicit forward guidance as a tool for monetary policy.1 Before I start, let me briefly discuss near-term monetary policy. You likely already know that I have fully supported the Federal Open Market Committee's (FOMC) decisions over the past several meetings. Those decisions were to increase the target range for the federal funds rate in 75 basis point increments, and the federal funds rate now stands at 3 to 3-1/4 percent. Inflation is much too high, and I strongly believe that bringing inflation back to our target is a necessary condition for meeting the goals mandated by Congress of price stability and maximum employment on a sustainable basis.
+
+[SECTION]
+
+Naturally, the focus is now on what will happen at the next FOMC meeting and beyond. At this point, for me, it comes down to what the incoming data and other economic information will tell us about the outlook for inflation. If we do not see signs that inflation is moving down, my view continues to be that sizable increases in the target range for the federal funds rate should remain on the table. However, if inflation starts to decline, I believe a slower pace of rate increases would be appropriate. To bring inflation down in a consistent and lasting way, the federal funds rate will need to move up to a restrictive level and remain there for some time. However, it is not yet clear how high we will need to raise the federal funds rate and how much time will pass before we begin to see inflation moving back down in a consistent and lasting way.
+
+[SECTION]
+
+My general point is that inflation is much too high, and the outlook for inflation remains significantly uncertain. This uncertainty makes it very challenging to provide precise guidance on the path for the federal funds rate. With this in mind, I will turn to the main topic I'd like to discuss today, which is the potential role that explicit forward guidance can play as a monetary policy tool.
+
+[SECTION]
+
+Forward guidance is official FOMC communication that is intended to signal to the public the likely future path of monetary policy. In my remarks today, I will refer to explicit forward guidance as forward guidance that references specific economic outcomes that would need to be achieved, or a specific amount of time that would need to pass, before the Committee would take or consider taking a particular policy action.2 To be considered forward guidance, a statement does not need to be explicit about future policy actions or the timing of potential actions. It may be more qualitative in describing likely policy actions that may be taken in the future and, in some cases, may only describe how the FOMC will be thinking about its future decisions rather than signaling the likely future direction of policy actions. The intent of all forward guidance is to influence the public's expectations about the FOMC's future monetary policy actions, and in doing so, affect longer-term interest rates and broader financial conditions to help support a path for inflation and economic activity that would be consistent with accomplishing t the Committee's price-stability and maximum-employment goals.
+
+[SECTION]
+
+As you know, over the past 20 years or so the Federal Reserve has increased the transparency and the frequency of its communications with the public, including through more frequent use of forward guidance in describing its monetary policy decisions. Let me stress here that I view clear and transparent communication with the public from the Federal Reserve as crucial to enable a better understanding of and to reinforce the effectiveness of our monetary policy actions, all of which help keep us accountable to the public. Over about the past 10 years, the use of explicit forward guidance has become an integral part of the Federal Reserve's monetary policy toolkit. In fact, explicit forward guidance is generally seen by many as especially helpful when use of the Committee's main monetary policy tool (changes to the federal funds rate) is constrained. This is when the rate has been lowered to zero, which we also call the effective lower bound.
+
+[SECTION]
+
+It is important to note that the degree of specificity contained in the Committee's forward guidance comes with tradeoffs. Explicit forward guidance hasn't always been viewed as a helpful addition to the monetary policy toolkit, particularly before the 2008 financial crisis. Before that time, while there was some acknowledgement that forward guidance could meaningfully affect financial conditions, there was a great deal of concern about the "costs and risks" of providing this type of guidance.3 These costs and risks included the confusion and potential financial market volatility that could result if the public did not fully understand the Committee's forward guidance. Another common concern was that, if the Committee had to alter its forward guidance too frequently in response to rapidly changing economic conditions, its forward guidance could become ineffective (meaning that the public could heavily discount or simply disregard the guidance) or, worse, the public could come to question the Committee's overall credibility.
+
+[SECTION]
+
+A related worry was that if the Committee were too slow to alter its forward guidanceâperhaps because it feared an outsized market reaction or a loss of credibilityâmonetary policy could be more likely to fall behind the curve. In this regard, one cost of providing explicit forward guidance would be a loss of the flexibility needed to respond to changes in economic conditions as required by the pursuit of our price-stability and maximum-employment goals. On the whole, there was a consensus before the turn of the century that cost-benefit considerations did not favor the use of explicit forward guidance as a monetary policy tool. This was especially true when the benefits from providing such guidanceâtightening or easing financial conditionsâcould be achieved in a more straightforward way. This could be accomplished in two waysâfirst, through simple changes in the federal funds rate and second, relying on the public to infer any future moves in the policy rate based on their own assessments of the FOMC's likely policy reactions to developments in inflation and economic activity.
+
+[SECTION]
+
+Over time, Federal Reserve officials began to more seriously consider the possible benefits that forward guidance could provide to the effectiveness of the FOMC's monetary policy decisions by influencing longer-term interest rates in a way that aided the Committee's achievement of its statutory price stability and maximum-employment goals. Starting in 1999, the FOMC began to release a public statement after each of its meetings. And beginning in 2000, in addition to describing the current policy decision, the post-meeting statement contained a paragraph on the "balance of risks" that was meant to indicate how the Committee "assesses the risks of heightened inflation pressures or economic weakness in the foreseeable future."4 The time frame in the new language was intended to cover a period extending beyond the next FOMC meeting and was meant to give an indication of the likely direction of future policy decisions based on the Committee's assessment of the economic outlook. Beginning in 2003, the FOMC post-meeting statement began to include more direct, but still qualitative, forward guidance regarding the future path of the federal funds rate.5 Notably, this forward guidance did not reference explicit outcomes or specific timelines that would guide the FOMC's future policy decisions. Evidence suggests that the shift toward more transparent communication by the FOMC in the early 2000s, including its use of forward guidance, allowed financial market participants to better anticipate changes in the stance of monetary policy, which were then reflected in broader financial conditions.6
+
+[SECTION]
+
+The 2008 financial crisis significantly altered most assessments of the costs and benefits of providing more explicit forward guidance. With the federal funds rate remaining at near-zero levels for several years after that crisis, the Committee had to look for new tools to change its policy stance and affect financial conditions. Explicit forward guidance and large-scale asset purchases quickly emerged as the two main new tools of monetary policy.
+
+[SECTION]
+
+In a way, explicit forward guidance was seen as providing monetary policy accommodation when the current setting of the federal funds rate could not.7 By providing guidance on specific outcomes that would need to be achieved before the FOMC would consider raising the target range for the federal funds rate, the Committee could help reduce uncertainty regarding its future policy decisions and keep longer-term interest rates low as the economic recovery progressed.8 In addition, with the risks to the outlook generally seen as tilted to the downside in the years that followed the financial crisis, using explicit forward guidance to signal a "low for longer" policy was not seen as posing significant risks to the Committee's credibility, because short-term interest rates were generally expected to remain unusually low during those years. I should note, however, that even then, low-for-long policies did raise some financial stability concerns, such as those related to reach-for-yield behavior. In addition, the outcome-based forward guidance employed by the FOMC in the years following the financial crisis explicitly recognized the possibility that inflationary pressures could emerge. It incorporated a version of an "escape clause" in its forward guidance that would prompt a reconsideration of the policy stance should such inflationary pressures emerge. In particular, in its December 2012 statement, the Committee noted that it expected the target range for the federal funds rate to remain at 0 to 1/4 percent for "at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored."9
+
+[SECTION]
+
+Of course, today's circumstances are much different from those we faced during most of the decade that followed the 2008 financial crisis. I will focus here on two features of our current environment that I see as especially relevant for assessing the role of explicit forward guidance as a monetary policy tool in the current conduct of monetary policy. The first is that with inflation unacceptably high and the resulting urgent need to remove monetary policy accommodation, the federal funds rate is no longer near zero. The Committee can now indicate its intended stance of monetary policy through changes to the target range for the federal funds rateâits stated primary tool of monetary policyârather than relying on more unconventional monetary policy tools, such as forward guidance and balance sheet policy, to serve as the main indicators of the stance of monetary policy. The second is that the outlook for inflation and economic activity is especially uncertain, with significant two-sided risks. Gone are the days when the risks to the outlook were skewed to the downside, especially with respect to inflation. And two-sided risks to economic activity are also widely recognized by the public, with press reports of an overheating labor market often featured alongside discussions of high or rising recession risks.
+
+[SECTION]
+
+In our current environment, I view the benefits of providing explicit forward guidance as lower than they were in the years immediately after the 2008 crisis. Given that the federal funds rate is now well above zero, the FOMC can communicate changes in the stance of monetary policy through changes in the target range for the federal funds rate and not rely on explicit forward guidance as it did when the federal funds rate was at the effective lower bound.
+
+[SECTION]
+
+And I would argue that the costs and risks of providing explicit forward guidance are now higher than they were in the decade that followed the last financial crisis. For example, relative to current conditions, it was easier and less risky to provide explicit forward guidance back then (especially guidance of the low-for-longer variety). After all, back then, the economy was still weighed down by the after-effects of the 2008 financial crisis, and inflation was running persistently below our 2 percent target.
+
+[SECTION]
+
+Let's contrast those conditions with the ones we face today. With uncertainty about the economic outlook unusually high today, the pre-2000s concerns about providing explicit forward guidance have regained their relevance. High uncertainty about the outlook puts a premium on flexibility, andâto the extent that the Committee sees a cost to frequent changes to its forward guidanceâthe provision of explicit forward guidance could reduce the Committee's flexibility to respond to unexpected changes in economic conditions.
+
+[SECTION]
+
+The Committee's experience in the second half of last year illustrates this point. Looking back, one might reasonably argue that during that time the Committee's explicit forward guidance for both the federal funds rate and asset purchases contributed to a situation where the stance of monetary policy remained too accommodative for too longâeven as inflation was rising and showing signs of becoming more broad-based than previously thought. The facts on the ground were changing quickly and significantly, but the communication of our policy stance was not keeping pace, which meant that our policy stance was not keeping pace.
+
+[SECTION]
+
+As late as November 2021, our forward guidance still indicated that the Committee intended to keep the target range for the federal funds rate at 0 to 1/4 percent "until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time."10 And we were still purchasing assets at the same pace we had earlier in the year, although we did announce in November 2021 that we would start slowing the pace of our purchases in December.11 With the benefit of hindsight, one might ask whether we would have moved sooner to remove monetary policy accommodation if we hadn't been so explicit about our forward guidance in prior monthsâparticularly forward guidance that had set such a high bar for slowing our asset purchases and starting to raise rates. Of course, the fact that some of the data that were directly relevant to our decision-making did not accurately reflect the economic conditions prevailing at the timeâand which were subsequently revisedâlikely also led to a delay in the removal of monetary policy accommodation in 2021.
+
+[SECTION]
+
+More generally, I will note that high uncertainty and two-sided risks to the outlook raise some practical questions for the use of explicit forward guidance in the current monetary policy environment. For example, how can the Committee provide explicit forward guidance about the path of the federal funds rate when overall macroeconomic uncertainty makes it more challenging for the Committee to know beforehand the size and timing of its future policy moves?
+
+[SECTION]
+
+Putting it all together, what lessons can we take for the use of explicit forward guidance in today's economic environment? A key point to me is that a cost-benefit analysis similar to that which I've just discussed here suggests that the case for explicit forward guidance is much less compelling today than it was in the years that immediately followed the 2008 financial crisis. My own view is that discussions about the use of explicit forward guidance as a policy tool should be limited. It should be used during periods when the Committee cannot adjust the federal funds rate any lower due to the effective lower bound, and when the Committee also has reasonable confidence that that the federal funds rate will need to remain near zero for a period of time to stimulate growth and when inflationary pressures are expected to be subdued. Even in such periods, the Committee should recognize possible risks to a low-for-long monetary policy stance, including upside risks to inflation, and provide escape clauses that would detail the circumstances that would cause the Committee to reevaluate its policy stance.
+
+[SECTION]
+
+Outside of such periods, our focus should be on changes in the target range for the federal funds rateâthe Committee's primary tool for implementing monetary policy decisionsâin communicating the stance of monetary policy and in providing more qualitative guidance regarding how the Committee will be thinking about its future policy decisions. Our recent experience with using qualitative forward guidance in our post-meeting statements illustrates this point. In the first half of this year, when the Committee began to signal that it would increase the target range for the federal funds rate and that it anticipated that "ongoing increases in the target range will be appropriate," longer-term interest rates rose and financial conditions tightened.12 However, being more explicit in our communications regarding the likely size of the increases in the target range at each future meeting was not helpful during this time, because our decisions depended on the incoming data and its implications for the outlook.
+
+[SECTION]
+
+Before I conclude, I will emphasize, again, that, my reservations about explicit forward guidance notwithstanding, I am a strong believer in the role of communication in the conduct of monetary policy. Clear and transparent communications with the public reinforce the effectiveness of our monetary policy and keep us accountable to the public. Under current circumstances, however, the best we can do on the public communications front is, first, to continue to stress our unwavering resolve to do what is needed to restore price stability. Second, as Chair Powell noted recently, we should acknowledge that the outlook for inflation and economic activity is subject to unusual uncertainty, and that, as a result, we will be making our policy decisions on a meeting-by-meeting basis. Third, we should continue to reiterate that we will remain "highly attentive to inflation risks."13 This is probably the best and clearest forward guidance we can provide at this point.
+
+[SECTION]
+
+Thank you again for the opportunity to share my views with you today.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

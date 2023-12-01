@@ -1,0 +1,285 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 11, 2016
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At the 20th Annual Conference of the Central Bank of Chile, Santiago, Chile (via videoconference)
+
+[SECTION]
+
+Accessible Keys for Video
+
+[SECTION]
+
+[Space Bar] toggles play/pause;
+
+[SECTION]
+
+[Right/Left Arrows] seeks the video forwards and back (5 sec );
+
+[SECTION]
+
+[Up/Down Arrows] increase/decrease volume;
+
+[SECTION]
+
+[M] toggles mute on/off;
+
+[SECTION]
+
+[F] toggles fullscreen on/off (Except IE 11);
+
+[SECTION]
+
+The [Tab] key may be used in combination with the [Enter/Return] key to navigate and activate control buttons, such as caption on/off.
+
+[SECTION]
+
+I am grateful for the invitation to speak to you today about how U.S. monetary policy affects the global economy and how foreign economic events affect U.S. monetary policy. Given the importance of the United States in international trade and in the global financial system, the monetary policy actions of the Federal Reserve influence the global economy through a wide range of trade and financial channels. As I will discuss, each foreign economy may be affected quite differently by U.S. monetary policy actions, and each may view spillovers from U.S. monetary policy as desirable or undesirable. Even so, I am reasonably confident that the spillovers from ongoing U.S. monetary policy normalization will generally prove manageable for foreign economies.1
+
+[SECTION]
+
+While most of my discussion will focus on monetary policy spillovers, I will begin by underscoring a different aspect of the interconnectedness of the U.S. economy--namely, how foreign developments have an important influence on U.S. output and inflation, and hence on the conduct of U.S. monetary policy.
+
+[SECTION]
+
+How Foreign Developments Influence U.S. Monetary Policy
+The U.S. economy is affected significantly by foreign developments through both trade and financial channels. Given that about one-eighth of the goods and services produced in the United States are exported, a sizable component of U.S. aggregate demand depends on foreign consumption and investment decisions, and hence ultimately on the economic health of foreign economies. The high degree of interconnectedness between domestic and foreign financial intermediaries--banks, the nonbank financial sector, and insurers, among others--means that developments in foreign financial markets tend to reverberate quickly back to the United States, including through changes in asset prices and risk tolerance. The pronounced tightening of U.S. financial conditions during the euro-area sovereign debt crisis that occurred from 2011 to 2012 illustrated the strength of these financial ties.
+
+[SECTION]
+
+During the past couple of years, foreign developments have at times been a substantial headwind for the U.S. economy. Although financial conditions have improved markedly in the advanced foreign economies and their monetary policy has been highly accommodative, these economies have yet to break out from the tepid growth they have experienced since the global financial crisis. Growth in the emerging market economies has also been disappointingly slow. For example, gross domestic product (GDP) growth in Latin America declined to zero last year, far below the 3 to 4 percent growth rates achieved in the first few years of this decade.2 The emerging market economies (EMEs) have weathered several bouts of financial market turbulence, including earlier this year, due to market concerns about economic growth in China and about its exchange rate system. With foreign growth relatively weak, the prospect of a gradual normalization of U.S. monetary policy contributed to a large appreciation of the dollar since mid-2014, with the real effective exchange value of the dollar rising around 17 percent.
+
+[SECTION]
+
+These global developments materially slowed progress toward the Federal Reserve's employment and inflation objectives. The sizable appreciation of the dollar has been a substantial drag on U.S. exports over the past two years, and hence subtracted from economic growth. The stronger dollar, in concert with lower oil and other commodity prices, has also markedly reduced import price inflation and has been a factor keeping inflation well below the Federal Open Market Committee's (FOMC) 2 percent goal.3 These developments have influenced the FOMC's decisions to maintain a very accommodative monetary policy longer than members of the FOMC had expected in 2014 and through the end of 2015.
+
+[SECTION]
+
+Financial market conditions have generally improved relative to earlier in the year, with even the initial market turbulence following the Brexit vote appearing fairly short lived. I am cautiously optimistic that the drag on the U.S. economy and inflation from past dollar appreciation may have mostly worked itself out, and that foreign economies are on a somewhat more secure footing that poses smaller downside risks to the U.S. economy. It is also possible that foreign economies may outperform forecasts, which would provide a boost to U.S. employment prospects and also to inflation. While forecasts are inherently uncertain, we will, as always, pay close attention to foreign developments, given their significant consequences for the U.S. economy, and take such developments into account in determining the appropriate stance of U.S. monetary policy.
+
+[SECTION]
+
+Key Channels through Which U.S. Monetary Policy Affects Foreign Economies
+I have focused thus far on the effects of global developments on the U.S. economy and financial markets and argued that these developments may have an important influence on U.S. monetary policy actions. I will next consider how U.S. monetary policy actions tend to affect foreign economies. Spillovers from the policy actions of major central banks, including especially those of the Federal Reserve, have been the focus of analysis and debate for decades and have attracted considerable attention since the global financial crisis.4 Foreign economies were affected when the Fed engaged in unconventional monetary policy stimulus and will likely experience some effects of the Fed's ongoing normalization of policy.
+
+[SECTION]
+
+The Federal Reserve's focus on supporting domestic objectives for inflation and employment has sometimes been criticized as having potentially undesirable effects on the global economy. The unconventional policies that the Federal Reserve implemented following the global financial crisis, and particularly our large-scale asset purchases, have been characterized by some observers as supporting the U.S. economy by putting downward pressure on the dollar and thus hurting our trading partners.5
+
+[SECTION]
+
+My reading of the evidence is that, overall, Federal Reserve policies during that period probably boosted foreign economic output. It is indeed likely that the depreciation of the dollar that accompanied U.S. asset purchases and forward guidance reduced foreign net exports and thus weighed on foreign GDP through the exchange rate channel. However, our accommodative policies also increased U.S. domestic demand, a second key channel of transmission that operated to boost the net exports of our foreign trading partners. Empirical estimates suggest that these countervailing effects roughly canceled each other out, on average, for our trading partners so that their net exports were not very much affected.6 Moreover, insofar as our unconventional policies reduced global interest rates and boosted asset prices--a third channel that tended to expand foreign as well as domestic demand--these actions were probably mildly stimulative for the global economy.
+
+[SECTION]
+
+It may be helpful to provide some ballpark numerical estimates of how these different channels are likely to play out in determining the overall spillovers to foreign GDP by drawing on the research of my Federal Reserve colleagues.7 Specifically, they considered the spillovers from a hypothetical easing of Fed policy scaled to cause the yield on a 10-year U.S. Treasury note to fall 25 basis points.8 This easing by the Fed raises U.S. GDP about 0.5 percent, and--based on event-study analysis--causes the U.S. dollar to depreciate by about 1 percent or perhaps a bit less. While foreign exports are hurt due to the implied appreciation of foreign currencies--reducing foreign GDP about 0.15 percent, according to their estimates--foreign exports are boosted by nearly the same amount due to the policy-induced expansion of U.S. domestic demand. Thus, the overall effect on foreign GDP arising through these two trade channels is negligible. However, given that the fall in U.S. interest rates tends to reduce foreign interest rates--at least on average--by around half as much, my colleagues concluded that U.S. monetary stimulus likely has noticeable positive spillovers to foreign economies.
+
+[SECTION]
+
+Of course, there is considerable variation in how Fed policy actions--whether easing or tightening--affect the output of different foreign economies. Economies with more open capital accounts and that keep their exchange rate relatively stable against the dollar experience larger positive effects on their GDP of an expansionary Fed monetary policy action. The larger positive spillovers reflect the fact that their own interest rates move more in lockstep with U.S. interest rates, while the effects on their traded goods sector from the exchange rate channel are smaller. For example, Hong Kong, which has pegged its currency to the U.S. dollar at a fixed exchange rate since 1983, is an extreme illustration of an economy in which Fed actions pass through almost one to one to domestic interest rates. Conversely, spillovers from U.S. policy actions tend to be smaller to economies that have flexible exchange rates and adjust their policy rates based on domestic conditions; or, alternatively, to economies with less open capital accounts such as China.
+
+[SECTION]
+
+Most of the advanced foreign economies eventually welcomed the positive spillovers to their domestic output that were due to U.S. unconventional monetary policy easing. Because these economies generally experienced slower recoveries than the United States as well as undesirably low inflation, their central banks also wanted to pursue highly accommodative policies and took complementary actions--including forward guidance and large-scale asset purchases--to spur economic recovery.
+
+[SECTION]
+
+By contrast, the Fed's monetary easing presented the EMEs with more difficult tradeoffs. Output in many EMEs expanded rapidly during the recovery from the global financial crisis, fueled by strong capital inflows and a boom in oil and commodity prices. Given that the Fed's easing raised equity prices and strengthened the demand for risky assets around the globe, it probably contributed to the growing resource pressures in some of these economies. EMEs had to choose between an accommodative monetary policy that was more in line with the United States and other advanced economies versus a tighter policy stance likely to cause their exchange rates to appreciate markedly and possibly cause a relatively sharp contraction in the tradable sectors of their economies. While the more accommodative stance had the attractive feature that it would lessen the hurt to the export sector, the downside was that it was more likely to lead to overheating and high inflation that could be costly to correct.
+
+[SECTION]
+
+My sense is that most EME central banks had considerable latitude to keep inflation near target and output near potential through maintaining a relatively tight policy, and thus to limit spillovers from easing by the advanced economies. But while I think that there is a strong case for focusing on a limited set of objectives, including to ensure that inflation expectations remain firmly anchored, it is also important to recognize the tough tradeoffs faced by EME central banks given their understandable desire to avoid causing a sharp slowdown in exports. The tradeoff faced by EME central bankers helps illustrate some of the challenges posed by monetary policy divergence between the United States and other economies closely tied to it through economic and financial channels.
+
+[SECTION]
+
+Notwithstanding these challenges, I should underscore that the Federal Reserve's aggressive monetary easing contributed to a faster stabilization and recovery of the U.S. economy. This benefited the global economy by mitigating a major source of downside risk, thus improving global risk sentiment and confidence. Moreover, the Fed's monetary policy actions were reinforced by many steps to help safeguard the U.S. financial system and increase its resilience to shocks. These efforts included strengthening the banking system's capital buffers, implementing stress tests, reforming short-term wholesale funding markets, and developing swap lines with foreign central banks to help alleviate shortages of dollar liquidity during periods of financial stress. While ultimately aimed at the well-being of U.S. households and firms in pursuit of our domestic objectives, these efforts to improve U.S. financial stability also had favorable externalities for the global financial system and thus helped the global recovery.
+
+[SECTION]
+
+U.S. Monetary Policy Going Forward: Prospective Divergence
+Policy divergence remains a familiar theme today, but the focus has obviously shifted to the consequences of a tightening in U.S. monetary policy on the rest of the global economy. In my view, the Fed appears reasonably close to achieving both the inflation and employment components of its mandate. Accordingly, the case for removing accommodation gradually is quite strong, keeping in mind that the future is uncertain and that monetary policy is not on a preset course. By contrast, the major foreign economies--including the advanced foreign economies and many EMEs--are at a different state of their business cycle and likely to maintain a high level of accommodation for some time or even ease further. So there is likely to be considerable policy rate divergence for some time. What are the likely consequences of this divergence for the foreign economies?
+
+[SECTION]
+
+The "taper tantrum" that occurred in the middle of 2013 is interpreted by many observers as illustrating how monetary tightening by the Federal Reserve can exert a strong contractionary effect on our foreign trading partners through its effect on global financial conditions, just as the high level of Fed accommodation after the financial crisis provided a net boost to the global economy. Indeed, the large rise in U.S. bond yields during this episode precipitated a nearly commensurate rise in interest rates in many foreign economies and caused the prices of risky assets to fall globally. EMEs with weak fundamentals experienced sharp capital outflows, an abrupt tightening of financial conditions, and large exchange rate depreciations.9 The EME experience in 2013 seemed reminiscent of past episodes of U.S. tightening--including in the 1980s and again in the mid-1990s--that had sizable adverse spillovers to EMEs, particularly in Latin America.
+
+[SECTION]
+
+I am reasonably optimistic that the spillovers from ongoing U.S. normalization will be manageable for the foreign economies, including the EMEs. While there will almost inevitably be some bumps along the road, there are a number of reasons why I think that that policy normalization will not cause sizable disruptions for our trading partners:
+
+[SECTION]
+
+While there are good grounds to expect that spillovers from U.S. monetary policy actions will be manageable for most of our trading partners, events may unfold differently than expected. To illustrate, a noticeably faster U.S. recovery would require a more rapid removal of U.S. accommodation and could exert noticeably larger spillovers abroad by putting more upward pressure on foreign interest rates and by inducing larger depreciations of foreign currencies. Despite greater policy divergence, many of our trading partners would receive a net boost to their GDP provided that the stimulus to their exports--from stronger U.S. demand and a weaker domestic currency--was sufficient to offset possible tightening in their financial conditions. But other economies might be hurt as a weaker currency could lead to balance sheet deterioration and rising risk spreads, especially if their central banks were called on to tighten monetary policy to keep inflation at bay.
+
+[SECTION]
+
+While such uncertainty is a constant feature of the landscape we confront as policymakers, both the U.S. and global economies will be served best if we keep our own houses in order and ensure that policy rates are adjusted as appropriate to achieve our inflation and employment objectives. In my view, the prospects of a continued steady expansion in the U.S. economy are maximized to the extent that we proceed with a gradual removal of accommodation. Such a gradual approach to tightening policy will also help mitigate the risk of undesirable spillovers abroad--including by reducing the risk of having to tighten more abruptly later on--and in turn promote a stronger global economy.
+
+[SECTION]
+

@@ -1,0 +1,269 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 14, 2023
+
+[SECTION]
+
+Vice Chair Philip N. Jefferson
+
+[SECTION]
+
+At  âGlobal Risk, Uncertainty, and Volatility,â a research conference sponsored by  the Federal Reserve Board of Governors, Swiss National Bank and the Bank for International Settlements, Zurich, Switzerland (virtual)
+
+[SECTION]
+
+Introduction
+Thank you for the opportunity to speak with you today. I am very much attuned to the important work that you're doing on uncertainty. Indeed, as a monetary policymaker, the subject is rarely far from my mind. It's not a new subject, of course. John Maynard Keynes and Frank Knight provided book-length treatments of the subject a century ago (Keynes, 1921; Knight, 1921). In addition, in 2003, Alan Greenspan observed, "Uncertainty is not just an important feature of the monetary policy landscape; it is the defining characteristic of that landscape" (Greenspan, 2003).
+
+[SECTION]
+
+Before I begin, let me remind you that the views I express today are my own and are not necessarily shared by my colleagues in the Federal Reserve System.
+
+[SECTION]
+
+My plan is to talk about recent advances in how to measure uncertainty, what may cause uncertainty, what effect uncertainty may have on economic outcomes, and the conduct of monetary policy in the presence of uncertainty.
+
+[SECTION]
+
+Defining and measuring uncertainty
+Uncertainty is not directly observable in the same way inflation and economic output are observable. It is therefore more difficult to measure. To complicate matters further, there are three related concepts that are often used interchangeably: risk, volatility, and uncertainty. According to Frank Knight, risk describes a situation in which the outcome is unknown, but the probability distribution governing that outcome is known. Volatility, often used synonymously with risk, is a statistical measure of the variation in observed outcomes. In contrast, uncertainty is characterized by both an unknown outcome and an unknown probability distribution. These concepts are used interchangeably, in part, because empirically it can be difficult to identify them separately, and because they all capture aspects of what policymakers do not know when making decisions. Therefore, the uncertainty measures I will discuss are a mixture of these three concepts, and a theme for me will be the necessity of monetary policymakers to consider what they don't know in their decisionmaking, an argument often attributed to Friedrich Hayek (1974).
+
+[SECTION]
+
+Notwithstanding the difficulty in measuring uncertainty, economists have developed tools to assess it. In fact, in the past two decades, there has been tremendous growth in research devoted to the subject. In my talk today, I will focus on four broad categories of uncertainty measures: text-based, survey-based, econometric-based, and financial market-based measures.1 There have been advances in all four categories, and there are advantages and disadvantages to each of these measures.
+
+[SECTION]
+
+One example of text-based measures of uncertainty is that by Baker, Bloom, and Davis (2016), who created an uncertainty index based on the number of leading newspaper articles that contain a combination of words related to economic policy uncertainty. They showed that newspaper text-based measures are highly correlated with stock price volatility, and that higher values of these measures are associated with lower investment and employment. An advantage of these measures is that they are high-frequency, real-time measures that can narrow the type of uncertainty being measured by linking particular words regarding uncertainty to a specific topic, such as inflation or monetary policy. A limitation of these measures is that they suffer from dual causality with the economic outcomes we are trying to measure, and therefore it is difficult to use them to ascertain what impact (if any) uncertainty has on economic outcomes. For example, does stock price volatility cause journalists to worry about uncertainty, or is the uncertainty discussed in newspaper articles causing volatility? I note, though, that this disadvantage is common to all four broad categories of uncertainty measures to greater or lesser degrees.
+
+[SECTION]
+
+The second set of uncertainty measures is survey based. These measures use responses to questions by households, businesses, and market participants about their forecasts and how certain they are about those forecasts. Advantages of survey-based measures are that they are explicit about the segments of society facing uncertainty, and they are relatively precise in pinpointing the horizon over which the uncertainty prevails. Disadvantages are that these measures are not necessarily timely in capturing uncertainty around fast-breaking new events, and, depending on the issue, they may be less representative than those based on the news.
+
+[SECTION]
+
+The third set of uncertainty measures is econometric based. In general, these calculate how far off econometric model forecasts are from actual values at each point in time. Intuitively, when uncertainty increases, it becomes harder to predict economic variables. Advantages of these measures are that they are easy to interpret and calculate and are less prone to dual causality associated with the economic outcomes of interest. Disadvantages are that they are sensitive to the choice of the econometric forecasting model used to calculate them, and their timeliness depends on the availability of the data the forecasting model uses.
+
+[SECTION]
+
+The last set of uncertainty measures is market-based measures, which use financial market prices to estimate either realized volatility or option-implied volatility. For example, one widely used uncertainty measure is the Chicago Board of Options Exchange's Volatility Index, the VIX, which is calculated using equity index options that measure market participants' expectations for the volatility of the S&P 500 index over the coming 30 days. The advantages and disadvantages of these measures are similar to the text-based measures: They are high-frequency, real-time estimates of market participants' views, but they suffer from dual causality with the economic outcomes we are trying to measure. An additional disadvantage is that it is often difficult to specify the type of uncertainty being measured.
+
+[SECTION]
+
+Current state of uncertainty
+Based on the range of measures discussed above, what can we say about the current state of uncertainty? Figure 1 shows three measures of uncertainty. The red line is an econometric-based measure constructed by Federal Reserve Board staff (Londono, Ma, and Wilson, 2023) called U.S. economic uncertainty. According to this measure, U.S. economic uncertainty reached an all-time high at the onset of the pandemic, came down slightly after the pandemic, but has remained elevated ever since. Consistent with this measure, policymakers, including Federal Open Market Committee (FOMC) participants and central bankers around the globe, have been emphasizing the elevated level of uncertainty, especially related to inflation, and the challenge this poses for monetary policy. Since the onset of the pandemic, most FOMC participants have been indicating in the Summary of Economic Projections that they view uncertainty around their forecast of personal consumption expenditure inflation to be higher than the average level of uncertainty over the past 20 years. But we policymakers are not alone in this. The July 2023 and September 2023 issues of the Federal Reserve Beige Book, which summarizes the commentary on current economic conditions of businesses, repeat the words "uncertain" and "uncertainty" much more than the historical average and with much of the uncertainty associated with inflation.2
+
+[SECTION]
+
+In contrast to policymakers and commentary from businesses and the econometric-based U.S. economic uncertainty measure, the other two uncertainty measures in figure 1âthe VIX index, the black line, and the news-based economic policy uncertainty measure, the blue lineâdeclined quickly after the onset of the pandemic in 2020 and have remained relatively subdued since then. One interpretation of the divergence in the measures is that they are capturing different aspects of uncertainty. Over the past year or so, the lack of predictability of economic outcomes, as captured by the elevated econometric-based U.S. economic uncertainty measure, did not lead to heightened expectations of near-term equity market volatility by market participants or to a higher frequency of discussions of economic policy uncertainty in the news. This leads me to the next topics I want to discussânamely, what causes uncertainty to increase, and does it matter that the harder-to-predict outcomes are not correlated, at least for now, with a higher VIX index?
+
+[SECTION]
+
+What causes uncertainty to increase?
+Figure 2 shows the econometric-based U.S. economic uncertainty measure since 1960, scaled in standard deviations from its mean. The figure illustrates a certainty about uncertainty: Uncertainty tends to increase during recessions, the shaded gray areas in the graph. Economic theory offers four mechanisms through which bad eventsâsuch as recessions, oil supply disruptions, terrorist attacks, wars, and pandemicsâcan increase uncertainty (Bloom, 2014). First, it is easier to predict the future when "business as usual" prevails in a growing economy (Orlik and Veldkamp, 2022). Forecasting is harder during recessions and when bad events hit the economy. This was especially the case during the pandemic, a once-in-a-century disturbance of worldwide consequence. Some have even argued that the pandemic has caused structural changes that will make it harder to predict future economic outcomes. Second, when business is good, firms are trading actively, which helps to generate and spread information (Van Nieuwerburgh and Veldkamp 2006; Fajgelbaum, Schaal, and Taschereau-Dumouchel, 2017). Bad events disrupt trading activity and the flow of information, and this lack of information increases uncertainty. Third, public policy that is unclear, hyperactive, or both may raise uncertainty (Pastor and Veronesi, 2013). Fourth, when business is slow, it is cheap to try new ideas and to divert unused resources to research and development; this dynamic leads to microeconomic uncertainty, which may in turn lead to macroeconomic uncertainty (Bachmann and Moscarini, 2011; D'Erasmo and Moscoso-Boedo, 2011).
+
+[SECTION]
+
+Of these four theoretical mechanisms, the first one strikes me as a highly likely explanation for uncertainty remaining high today. We are still learning about the effects of pandemic-specific factors on the economy. Additionally, heightened geopolitical risks have recently contributed to increased uncertainty.3
+
+[SECTION]
+
+In figure 3, I decompose the econometric-based U.S. economic uncertainty measure into three subcomponents to investigate which economic outcomes are harder to predict since the pandemic and after the increase in geopolitical tensions. The subcomponents are inflation indicators, the black line; labor market conditions, the red line; and economic output, the blue line. All three subcomponents rose significantly during the pandemic but have behaved quite differently since 2021, with inflation uncertainty becoming the dominant source of aggregate economic uncertainty, especially since the Russian invasion of Ukraine. A message one could take from this is that, through the eyes of an econometrician with a rich set of predictors, inflation over the past two years was objectively difficult to predict.
+
+[SECTION]
+
+The rise in inflation and inflation uncertainty in the post-COVID era has been a global phenomenon. The left panel of slide 7, figure 4.1, plots an econometric-based foreign economic uncertainty index calculated as the equally weighted average of the measures of 38 foreign countries. As in the case of the U.S. economic uncertainty index, the foreign index spikes around the Global Financial Crisis and soars around the COVID pandemic, and it has remained quite elevated since, at around 3 standard deviations from its historical mean. The right panel of slide 7, figure 4.2, shows the components of foreign economic uncertainty: inflation, the black line; labor, the red line; and output, the blue line. Again, as in the U.S., foreign inflation uncertainty has become the dominant source of economic uncertainty.
+
+[SECTION]
+
+What effect may uncertainty have on economic outcomes? 
+Now that I have established that some measures of economic uncertainty are elevated, one may wonder, to what extent does it matter? Economic theory offers at least two channels for uncertainty to influence growth negatively.4 The first channel comes from the "real options" literature and the fact that the option value of waiting to make decisions increases with uncertainty (for example, Bernanke, 1983). According to this theory, it is optimal for firms to not invest and to not hire new employees when uncertainty is high. This lack of investment and hiring in turn exacerbates recessions. The second channel comes from the reaction of financial markets to uncertainty. Investors require compensation for higher risk and uncertainty in the form of higher risk premia, which manifests in lower equity prices, and higher borrowing costs. In the presence of financial constraints, these tighter financial conditions will reduce economic growth (for example, Christiano, Motto, and Rostagno, 2014). In addition, higher uncertainty is often accompanied by higher equity market volatility and illiquidity, which in turn exacerbates uncertainty. As I mentioned earlier, the elevated econometric-based uncertainty measure this past year has not been accompanied by higher equity market volatility, as measured by the VIX index. This suggests that the economic effects of the higher economic uncertainty may be somewhat mitigated, relative to the more serious case where higher economic uncertainty is accompanied by a higher VIX index (Ludvigson, Ma, and Ng, 2021).
+
+[SECTION]
+
+Because uncertainty can influence growth negatively, policymakers often aim to reduce uncertainty about their objectives. One way they attempt to do this is by adopting a systematic approach to achieving their objectives, as circumstances allow. This point leads me to my final topic, the conduct of monetary policy in the presence of uncertainty.
+
+[SECTION]
+
+What should policy makers do when uncertainty is high?
+In 1967, William Brainard argued that uncertainty about the power of monetary policy implied that policy should respond more cautiously to shocks than would be the case if this uncertainty did not exist (Brainard, 1967). Brainard's attenuation principle is a classic example of what has come to be known as the Bayesian approach to uncertainty and is often cited as the foundation for gradualism in the adjustment of monetary policy: Calculate what you think your best policy response is for the economy you observeâand then do less.
+
+[SECTION]
+
+It is often suggested, however, that the ambiguity aversion approach to uncertainty leads to anti-attenuation. That is, in the face of uncertainty over which a policymaker is unwilling or unable to attach prior probabilities, the appropriate response is to apply stronger monetary medicine than in the certainty equivalence case. For example, as Chair Powell mentioned in a speech in 2018 that, during crisis periods, words like "we will do whatever it takes" will likely be more effective than "we will take cautious steps" (Powell, 2018).
+
+[SECTION]
+
+Advocates for both approaches have their theoretical justifications. In practice, however, the best response to uncertainty can be context specific and can vary over time.5 Fortunately, sometimes the context leads to the same conclusion, broadly speaking, regardless of the approach. One case of perennial interest to central bankers is inflation persistence where both the Bayesian and ambiguity aversion approaches tend to lead to policy that is stronger than the certainty equivalent case to forestall the possibility of inflationary forces becoming embedded in inflation expectations.6
+
+[SECTION]
+
+Conclusions
+Let me end where I began. Monetary policymakers need to consider what they don't know in their decisionmaking, along with what they do know. This is not a new idea. We have long appreciated that policy decisions under uncertainty should consider a range of possible scenarios about the state, and the structure, of the economy. Economic history and recent research have sharpened some of the questions, even if they have not produced the easy policy narratives we might prefer. What is clear is that policy decisions taken under uncertainty may look quite different from those that would be optimal under certainty, and properly so.
+
+[SECTION]
+
+The fact that economic agents are uncertain about their environment and must learn about the economyâand policyâmeans that monetary policy can be a positive force in stabilizing expectations. In my thinking, this prospect serves as a reason for central banks to strive for predictability and transparency in policy actions and communications while avoiding the hubris of overrepresenting the state of our knowledge.
+
+[SECTION]
+

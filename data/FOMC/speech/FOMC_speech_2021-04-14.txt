@@ -1,0 +1,254 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 14, 2021
+
+[SECTION]
+
+Vice Chair Richard H. Clarida
+
+[SECTION]
+
+At "SOMC: The Federal Reserveâs New Policy Framework" a forum sponsored by the Manhattan Institute's Shadow Open Market Committee, New York, New York (via webcast)
+
+[SECTION]
+
+On August 27, the Federal Open Market Committee (FOMC) unanimously approved a revised Statement on Longer-Run Goals and Monetary Policy Strategy, and, at its September and December FOMC meetings, the Committee made material changes to its forward guidance to bring it into line with this new policy framework.1 Before I discuss the new framework and the policy implications that flow from it, I will first review some important changes in the U.S. economy that motivated the Committee to assess ways we could refine our strategy, tools, and communication practices to achieve and sustain our goals in the economy in which we operate today and for the foreseeable future.2
+
+[SECTION]
+
+Shifting Stars and the End of "Copacetic Coincidence"
+Perhaps the most significant change in our understanding of the economy since the Federal Reserve formally adopted inflation targeting in 2012 has been the substantial decline in estimates of the neutral real interest rate, r*, that, over the longer run, is consistent with our maximum-employment and price-stability mandates. Whereas in January 2012 the median FOMC participant projected a longer-run r* of 2.25 percent and a neutral nominal policy rate of 4.25 percent, as of March 2021, the median FOMC participant projected a longer-run r* equal to just 0.5 percent, which implies a neutral setting for the federal funds rate of 2.5 percent.3 Moreover, as is well appreciated, the decline in neutral policy rates since the Global Financial Crisis (GFC) is a global phenomenon that is widely expected by forecasters and financial markets to persist for years to come (Clarida, 2019).
+
+[SECTION]
+
+The substantial decline in the neutral policy rate since 2012 has critical implications for monetary policy because it leaves the FOMC with less conventional policy space to cut rates to offset adverse shocks to aggregate demand. This development, in turn, makes it more likely that recessions will impart elevated risks of more persistent downward pressure on inflation and inflation expectations as well as upward pressure on unemployment that the Federal Reserve's monetary policy shouldâin design and implementationâseek to offset throughout the business cycle and not just in downturns themselves.
+
+[SECTION]
+
+With regard to inflation expectations, there is broad agreement that achieving price stability on a sustainable basis requires that long-run inflation expectations be well anchored at the rate of inflation consistent with the price-stability goal. The pre-GFC academic literature (Clarida, Galí, and Gertler, 1999; Woodford, 2003) derived the important result that a credible inflation-targeting monetary policy strategy that is not constrained by the effective lower bound (ELB) can deliver, under either rational expectations or linear least-squares learning (Bullard and Mitra, 2002), inflation expectations that themselves are well anchored at the inflation target. In other words, absent a binding ELB constraint, a policy that targets actual inflation in these models delivers long-run inflation expectations well anchored at the target "for free." And, indeed, in the 15 years before December 2008, when the federal funds rate first hit the ELBâa period when, de facto, if not de jure the Federal Reserve conducted a monetary policy that was interpreted to be targeting an inflation rate of 2 percent (Clarida, Galí, and Gertler, 2000)âpersonal consumption expenditures (PCE) inflation averaged very close to 2 percent (see figure 1).
+
+[SECTION]
+
+But this "copacetic coincidence" no longer holds in a world of low r* in which adverse aggregate demand shocks drive the economy in downturns to the ELB. In this case, economic analysis indicates that flexible inflation-targeting monetary policy cannot be relied on to deliver inflation expectations that are anchored at the target but instead will tend to deliver inflation expectations that, in each business cycle, become anchored at a level below the target (Mishkin, 2016). This finding is the crucial insight in my colleague John Williams's research with Thomas Mertens (2019) and in the research of Bernanke, Kiley, and Roberts (2019). This downward bias in inflation expectations under inflation targeting in an ELB world can in turn reduce already scarce policy spaceâbecause nominal interest rates reflect both real rates and expected inflationâand it can open up the risk of the downward spiral in both actual and expected inflation that has been observed in some other major economies.
+
+[SECTION]
+
+Two other, related developments that have also become more evident than they appeared in 2012 are that price inflation seems empirically to be less responsive to resource slack, and that estimates of resource slack based on historically estimated price Phillips curve relationships are less reliable and subject to more material revision than was once commonly believed. For example, in the face of declining unemployment rates that did not result in excessive cost-push pressure to price inflation, the median of the Committee's projections of u*âthe rate of unemployment consistent in the longer run with the 2 percent inflation objectiveâhas been repeatedly revised lower, from 5.5 percent in January 2012 to 4 percent as of the March 2021 Summary of Economic Projections (SEP). In the past several years of the previous expansion, declines in the unemployment rate occurred in tandem with a notable and, to me, welcome increase in real wages that was accompanied by an increase in labor's share of national income, but not a surge in price inflation to a pace inconsistent with our price-stability mandate and well-anchored inflation expectations. Indeed, this pattern of mid-cycle declines in unemployment coincident with noninflationary increases in real wages and labor's share has been evident in the U.S. data since the 1990s (Clarida, 2016; Heise, Karahan, and Sahin, 2020; Feroli, Silver, and Edgerton, 2021).
+
+[SECTION]
+
+The New Framework and Price Stability
+I will now discuss the implications of the new framework for the Federal Reserve's price-stability mandate before turning to its implications for the maximum-employment mandate. Five features of the new framework and fall 2020 FOMC statements define how the Committee will seek to achieve its price-stability mandate over time.
+
+[SECTION]
+
+First, the Committee expects to delay liftoff from the ELB until PCE inflation has risen to 2 percent and other complementary conditions, consistent with achieving this goal on a sustained basis, have also been met.4
+
+[SECTION]
+
+Second, with inflation having run persistently below 2 percent, the Committee will aim to achieve inflation moderately above 2 percent for some time in the service of keeping longer-term inflation expectations well anchored at the 2 percent longer-run goal.5
+
+[SECTION]
+
+Third, the Committee expects that appropriate monetary policy will remain accommodative for some time after the conditions to commence policy normalization have been met.6
+
+[SECTION]
+
+Fourth, policy will aim over time to return inflation to its longer-run goal, which remains 2 percent, but not below, once the conditions to commence policy normalization have been met.7
+
+[SECTION]
+
+Fifth, inflation that averages 2 percent over time represents an ex ante aspiration of the FOMC but not a time inconsistent ex post commitment.8
+
+[SECTION]
+
+As I highlighted in speeches at the Brookings Institution in November and the Hoover Institution in January, I believe that a useful way to summarize the framework defined by these five features is temporary price-level targeting (TPLT, at the ELB) that reverts to flexible inflation targeting (once the conditions for liftoff have been reached).9 Just such a framework has been analyzed by Bernanke, Kiley, and Roberts (2019) and Bernanke (2020), who in turn build on earlier work by Evans (2012), Reifschneider and Williams (2000), and Eggertsson and Woodford (2003), among many others.
+
+[SECTION]
+
+A policy that delays liftoff from the ELB until a threshold for average inflation has been reached is one element of a TPLT strategy. Starting with our September FOMC statement, we communicated that inflation reaching 2 percent is a necessary condition for liftoff from the ELB. TPLT with such a one-year memory has been studied by Bernanke, Kiley, and Roberts (2019). The FOMC also indicated in these statements that the Committee expects to delay liftoff until inflation is "on track to moderately exceed 2 percent for some time." What "moderately" and "for some time" mean will depend on the initial conditions at liftoff (just as they do under other versions of TPLT), and the Committee's judgment on the projected duration and magnitude of the deviation from the 2 percent inflation goal will be communicated in the quarterly SEP for inflation.
+
+[SECTION]
+
+Our new framework is asymmetric. That is, as in the TPLT studies cited earlier, the goal of monetary policy after lifting off from the ELB is to return inflation to its 2 percent longer-run goal, but not to push inflation below 2 percent. In the case of the Federal Reserve, we have highlighted that making sure that inflation expectations remain anchored at our 2 percent objective is just such a consideration. Speaking for myself, I follow closely the Fed staff's index of common inflation expectations (CIE)âwhich is now updated quarterly on the Board's websiteâas a relevant indicator that this goal is being met (see figure 2).10 Other things being equal, my desired pace of policy normalization post liftoff to return inflation to 2 percent would be somewhat slower than otherwise if the CIE index at the time of liftoff is below the pre-ELB level.
+
+[SECTION]
+
+Our framework aims ex ante for inflation to average 2 percent over time but does not make a commitment to achieve ex post inflation outcomes that average 2 percent under any and all circumstances. The same is true for the TPLT studies I cited earlier. In these studies, the only way in which average inflation enters the policy rule is through the timing of liftoff itself. Yet in stochastic simulations of the FRB/US model under TPLT with a one-year memory that reverts to flexible inflation targeting after liftoff, inflation does average very close to 2 percent (see the table). The model of Mertens and Williams (2019) delivers a similar outcome: Even though the policy reaction function in their model does not incorporate an ex post makeup element, it delivers a long-run (unconditional) average rate of inflation equal to target by aiming for a moderate inflation overshoot away from the ELB that is calibrated to offset the inflation shortfall caused by the ELB.
+
+[SECTION]
+
+The New Framework and Maximum Employment
+I turn now to the maximum-employment mandate. An important evolution in our new framework is that the Committee now defines maximum employment as the highest level of employment that does not generate sustained pressures that put the price-stability mandate at risk.11 As a practical matter, this means to me that when the unemployment rate is elevated relative to my SEP projection of its long-run natural level, monetary policy should, as before, continue to be calibrated to eliminate such employment shortfalls, so long as doing so does not put the price-stability mandate at risk. Indeed, in our September and subsequent FOMC statements, we indicated that we expect it will be appropriate to keep the federal funds rate in the current 0 to 25 basis point target range until inflation has reached 2 percent (on an annual basis) and labor market conditions have reached levels consistent with the Committee's assessment of maximum employment. Moreover, in our December and subsequent FOMC statements, we have indicated that we expect to continue our Treasury and MBS purchases at least at the current pace until we have made substantial further progress toward achieving these dual mandate goals. In our new framework, when in a business cycle expansion labor market indicators return to a range that in the Committee's judgment is broadly consistent with its maximum-employment mandate, it will be data on inflation itself that policy will react to, but, going forward, policy will not tighten solely because the unemployment rate has fallen below any particular econometric estimate of its long-run natural level. Of note, the relevance of uncertainty about the natural rate of unemployment or the output gap for monetary policy reaction functions is a long-studied topic that remains important.12 For example, Berge (2020) provides a discussion around the difficult task of estimating the output gap (see figure 3).
+
+[SECTION]
+
+These considerations have an important implication for the Taylor-type policy reaction function I consult. Consistent with our new framework, the relevant policy rule benchmark I will consult once the conditions for liftoff have been met is an inertial Taylor-type rule with a coefficient of zero on the unemployment gap, a coefficient of 1.5 on the gap between core PCE inflation and the 2 percent longer-run goal, and a neutral real policy rate equal to my SEP projection of long-run r*.13 The most recent Monetary Policy Report features a box on policy rules, including a Taylor-type "shortfalls" rule in which the federal funds rate reacts only to shortfalls of employment from the Committee's best judgment of its maximum level but reverts to the rule previously described once that level of employment is reached (see figure 4).14
+
+[SECTION]
+
+Concluding Remarks
+In closing, I think of our new flexible average inflation-targeting framework as a combination of TPLT at the ELB, to which TPLT reverts once the conditions to commence policy normalization articulated in our most recent FOMC statement have been met. In this sense, our new framework indeed represents an evolution, not a revolution, from the flexible inflation-targeting framework in place since 2012. Thank you very much for your time and attention, and I look forward to my conversation with Peter Ireland and Athanasios Orphanides.
+
+[SECTION]
+

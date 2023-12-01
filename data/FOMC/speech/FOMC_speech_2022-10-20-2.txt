@@ -1,0 +1,251 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 20, 2022
+
+[SECTION]
+
+Governor Michelle W. Bowman
+
+[SECTION]
+
+At "Toward an Inclusive Recovery," a research seminar sponsored by the Board of Governors of the Federal Reserve System, Washington, D.C. (via webcast)
+
+[SECTION]
+
+Accessible Keys for Video
+
+[SECTION]
+
+[Space Bar] toggles play/pause;
+
+[SECTION]
+
+[Right/Left Arrows] seeks the video forwards and back (5 sec );
+
+[SECTION]
+
+[Up/Down Arrows] increase/decrease volume;
+
+[SECTION]
+
+[M] toggles mute on/off;
+
+[SECTION]
+
+[F] toggles fullscreen on/off (Except IE 11);
+
+[SECTION]
+
+The [Tab] key may be used in combination with the [Enter/Return] key to navigate and activate control buttons, such as caption on/off.
+
+[SECTION]
+
+Welcome, and thank you for joining us to discuss topics important to the nation's economy. This research seminar is part of the Federal Reserve's series of events called "Toward an Inclusive Recovery."
+
+[SECTION]
+
+Today's seminar, hosted by the Board of Governors, will focus on how the COVID-19 pandemic affected educational outcomes and the subsequent impact we anticipate for transitions to the labor force. We have invited accomplished researchers to discuss their workâand what practical lessons might be drawn from itâthat could help inform community development practice and public policy considerations.
+
+[SECTION]
+
+As I am sure you are aware, the pandemic created significant disruptions for our students and the education system. At the onset of the pandemic, steps taken to slow the spread of COVID-19 resulted in widespread closures of businesses and schools. Many, myself included, were immediately concerned about the negative effects on education from changes that included shifting to virtual instruction, lack of access to technology, and changes to the accessibility and provision of childcare. It is critical to consider that access to education at every step along a student's learning path serves as a pipeline into the labor force and enables future generations of Americans to participate and thrive in our dynamic labor market. The disruption of education throughout the pandemic undoubtedly led to an absence of workers in the labor force, creating a shortage that held back the early economic recovery.
+
+[SECTION]
+
+Education outcomes, including learning losses and achievements, take time to measure, aggregate, and analyze. As we enter the fourth academic year affected by the pandemic, data on student performance are becoming more available. Much of this early data confirms our initial concerns. For example, early test scores show that throughout the country nine-year-olds suffered a decline in learning outcomes during the pandemic. But other data also indicate that learning losses were unequal and disproportionately affected low-performing students and low-income students.
+
+[SECTION]
+
+It is likely that the sudden shift to online classes contributed to the learning declines. According to the Board's 2020 Survey of Household Economics and Decisionmaking (the SHED), only 22 percent of parents with children attending virtual classes agreed that their children learned as much as they would have attending classes in person at school. I hope that the return to in-person learning and reopening of schools will enable children to resume normal learning and that academic achievement will rebound.
+
+[SECTION]
+
+It seems that even with this return to in-person attendance, many schools are struggling to provide students with the same quality of education as they did pre-pandemic. With the return to onsite education, many schools are confronting challenges that impair their ability to meet the educational needs of students. A number of educators appear to have left the profession, as indicated by the nearly 100,000 more job openings for teachers in July 2022 than before the pandemic.1
+
+[SECTION]
+
+Complicating these issues, across the country the return to in-person instruction has been met by an increase in chronic absenteeism, which is defined as a student missing at least 10 percent of school days in a school year. Compared to a typical school year pre-pandemic, 72 percent of U.S. public schools reported an increase in chronic absenteeism among their students during the 2021â22 school year, which is a 39 percent increase over the previous year.2
+
+[SECTION]
+
+Missed school typically means missed learning, so chronic absenteeism is a key metric of school performance. It's likely that these challenges will result in lower graduation rates and possibly less stable employment than would have otherwise been the case.
+
+[SECTION]
+
+These outcomes raise difficult questions about how to best respond to the needs of students and educators going forward. For example, how can curricula be adjusted to meet students where they are today, after nearly three years of pandemic-impacted learning? How can we best re-engage the larger proportion of students who may have become disconnected as a result of these pandemic-related disruptions to their education? What does this all mean for the future of the labor force?
+
+[SECTION]
+
+In addition to the challenges facing primary and secondary education, higher education was not immune to pandemic disruptions. Like K-12 education, studies show that online instruction reduced the academic performance of college students.3 In addition, we have seen declines in both college enrollment and the rate of first-year college students who continue their education into a second year.4 These declines are most pronounced at community colleges and open-access programs. Some of this decline was due to a supply-induced shortage resulting from colleges unable to offer remote learning options for many technical and vocational programs. The reduction in these "hands-on" programs, such as air-conditioning repair and auto detailing, had a greater impact on male enrollment and may lead to labor supply shortages for some of these skills-based professions.5
+
+[SECTION]
+
+Education is the greatest and most effective input into the future of our labor market. In order to have the strongest possible labor force in the future, it is critical to understand and act immediately to address the educational losses experienced during the pandemic. I'm sure there's much to learn about how these education challenges, both longstanding and more recent, will ultimately affect the job market. That's a question of particular interest to policymakers, and it's one of the most important reasons that we host events like this seminar. I look forward to hearing from the experts we have invited here today to discuss ideas to successfully and quickly address academic declines, expand K-12 education options, improve higher education outcomes, and prepare this generation to participate and thrive in the future labor force.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

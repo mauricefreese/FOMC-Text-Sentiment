@@ -1,0 +1,299 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 28, 2017
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At the Northwestern Kellogg Public-Private Interface Conference on "New Developments in Consumer Finance: Research & Practice"
+
+[SECTION]
+
+We can learn a lot from the evolution of smartphones as we try to envisage where the fintech ecosystem--and banks' role within it--might be heading in the future. Smartphones have ushered in an age when different companies can easily work with each other's products to seamlessly provide services to consumers. Today I want to reflect on what we might learn from that model about the increasingly interconnected world of financial services.
+
+[SECTION]
+
+On the 10th anniversary of the iPhone, a Wired.com article revealed that even Steve Jobs hadn't predicted the smartphone's potential as a platform.1 Apple was just trying to design an iPod that made phone calls. Today, the average American spends five hours a day on their phone, unlocking it an average of 80 times daily.2 Even the Supreme Court has noted that smartphones are now "such a pervasive and insistent part of daily life that the proverbial visitor from Mars might conclude they were an important feature of human anatomy."3
+
+[SECTION]
+
+Of course, we aren't using these appendages primarily to make phone calls. Instead, we mainly use our smartphones to access applications (apps).4 In June of last year, Apple announced that over 2 million apps were available on its App Store.5 For the most part, these apps were not created or even envisaged by Apple. These apps have been downloaded 130 billion times, generating over $50 billion in revenue for third-party developers.6
+
+[SECTION]
+
+The iPhone is a key platform on which that app ecosystem operates. How did that happen? Apple essentially made the smartphone a toolkit for third-party developers to experiment, innovate, build, and scale new apps. It did so by investing heavily in developing open application programming interfaces (APIs) that provided third-party developers clear instructions and open access to the iPhone platform. This strategy enabled those outside developers to build new applications that delivered Apple's customers additional value by taking advantage of the existing functionality of the iPhone. Specifically, this open architecture makes available to outside developers clear instructions that enable them to use the iPhone's various sensors, processors, displays, and other interfaces in combination with their own code to develop new products.
+
+[SECTION]
+
+On top of that, a robust secondary layer of developers use the APIs of other developers in their technology stacks to quickly assemble new business models. Take ride-sharing services, for instance. They have built multibillion-dollar businesses that are, in large part, dependent on combinations of APIs from different companies. They may use Google Maps' APIs for location services, Stripe or Braintree's APIs for payments, Twilio's APIs for text messaging, and Amazon Web Services' or IBM's APIs for computing power. All of these products, and more, work seamlessly together in real time to provide products that are so ubiquitous that we now use them as verbs for how we navigate the world. We "Uber" to the store or "Snapchat" a friend.
+
+[SECTION]
+
+Risks and Opportunities in an Increasingly Interconnected World
+There is every reason to expect financial services to make a similar transition to an increasingly interconnected digital world. By now, we've all heard estimates of the thousands of fintech companies that have launched in the past few years and the billions of investment dollars that are flooding into this sector.7 But for all of the talk of "disruption," I want to underscore an important point: More often than not, there is a banking organization somewhere in the fintech stack. Just as third-party app developers rely on smartphone sensors, processors, and interfaces, fintech developers need banks somewhere in the stack for such things as: (a) access to consumer deposits or related account data, (b) access to payment systems, (c) credit origination, or (d) compliance management.8 For instance, account comparison services rely on access to data from consumers' bank accounts. Savings and investment apps analyze transactions data from bank accounts to understand how to optimize performance and manage the funds consumers hold in those accounts. Digital wallets draw funds from payment cards or bank accounts. Marketplace loans most often depend on loan origination by a bank partner. And payment innovations often "settle up" over legacy payment rails, like the automated clearinghouse system.9 In short, the software stacks of almost all fintech apps point to a bank at one layer or another.
+
+[SECTION]
+
+So as fintech companies and banks are catching up to the interconnected world, the various players are sorting out how best to do the connecting. Much of the work so far has been focused on the technical challenges, which are notable. Most banks' core systems are amalgams of computing mainframes built decades ago before the Internet or cloud computing were widely available and, in many cases, stitched together over the course of mergers and consolidations.10 It takes a lot of investment to securely convert that infrastructure to platforms that can operate in real-time with ready access for Internet-native third-party developers.
+
+[SECTION]
+
+But important policy, regulatory, and legal questions also demand attention. And that is where the smartphone analogy loses its power. On balance, bank activities are much more highly regulated than smartphones. Those regulations enable consumers to trust their banks to secure their funds and maintain the integrity of their transactions. While "run fast and break things" may be a popular mantra in the technology field, it is ill suited to an arena where a serious breach could undermine confidence in the payments system. Indeed, some of the key underpinnings of consumer protection and safety and soundness in the banking world--that consumers should be exceptionally careful in granting account access, that in certain conditions banks could be presumed to bear liability for unauthorized charges, and that banks can be held responsible for ensuring that service providers and vendors do right by their customers--sit uneasily alongside the requisites of openness, connectivity, and data access that enable today's app ecosystem.11 For instance, before entering an outsourcing arrangement, a bank is expected to consider whether the service provider's internal processes or systems (or even human error at the outside party) could expose the bank and its customers to potential losses or expose the bank's customers to fraud and the bank to litigation; whether the service provider complies with applicable laws and regulation; and whether poor performance by that outside party could materially harm the bank's public reputation.
+
+[SECTION]
+
+The smartphone app ecosystem developed without the regulations or associated guardrails pertaining to institutions that people trust to hold their life savings. For instance, when Pokémon Go was first launched, its creator, Niantic, used an outdated Google API to verify consumer identities. This created confusion about whether millions of consumers had unwittingly granted Niantic full access to their e-mails, contact lists, and calendars.12 However, it did not stand in the way of Pokémon Go subsequently being downloaded a half billion times.13 In contrast, these kinds of mistakes in the banking sector could raise grave concerns about consumer data privacy and security and the integrity of consumer transactions data. That's why banks are expected to conduct extensive risk assessments and due diligence of their service providers, extending even to operations and internal controls, among other requirements.14 While that helps ensure a safe and sound banking system, that also makes it more challenging for both the banks and fintech companies to harness safely the interconnectivity that has powered other parts of the digital world.
+
+[SECTION]
+
+Different Approaches to the Fintech Stack
+Because of the high stakes, fintech firms, banks, data aggregators, consumer groups, and regulators are all still figuring out how best to do the connecting. There are a few alternative approaches in operation today, with various advantages and drawbacks.
+
+[SECTION]
+
+A number of large banks have developed or are in the process of developing interfaces to allow outside developers access to their platforms under controlled conditions. Similar to Apple opening the APIs of its phones and operating systems, these financial companies are working to provide APIs to outside developers, who can then build new products on the banks' platforms.15 It is worth highlighting that platform APIs generally vary in their degree of openness, even in the smartphone world. If a developer wants to use a Google Maps API to embed a map in her application, she first must create a developer account with Google, agreeing to Google's terms and conditions. This means she will have entered a contract with the owner of the API, and the terms and conditions may differ depending on how sensitive the particular API is. Google may require only a minimum amount of information for a developer that wants to use an API to display a map. Google may, however, require more information about a developer that wants to use a different API to monitor the history of a consumer's physical locations over the previous week. And in some cases, the competitive interests of Google and a third-party app developer may diverge over time, such that the original terms of access are no longer acceptable.16
+
+[SECTION]
+
+The fact that it is possible and indeed relatively common for the API provider--the platform--to require specific controls and protections over the use of that API raises complicated issues when imported to the banking world. As banks have considered how to facilitate connectivity, the considerations include not only technical issues and the associated investment, but also the important legal questions associated with operating in a highly regulated sector. The banks' terms of access may be determined in third-party service provider agreements that may offer different degrees of access. These may affect not only what types of protections and vetting are appropriate for different types of access over consumers' funds and data held at a bank in order to enable the bank to fulfill its obligations for data security and other consumer protections, but also the competitive position of the bank relative to third-party developers.
+
+[SECTION]
+
+There is a second broad type of approach in which many banks have entered into agreements with specialized companies that essentially act as middlemen, frequently described as "data aggregators." These banks may lack the budgets and expertise to create their own open APIs or may not see that as a key element in their business strategies. Data aggregators collect consumer financial account data from banks, on the one hand, and then provide access to that data to fintech developers, on the other hand.17 Data aggregators organize the data they collect from banks and other data sources and then offer their own suite of open APIs to outside developers. By partnering with data aggregators, banks can open their systems to thousands of developers, without having to invest in creating and maintaining their own open APIs. This also allows fintech developers to build their products around the APIs of two or three data aggregators, rather than 15,000 different banks and other data sources. And, if agreements between data aggregators and banks are structured as data aggregators performing outsourced services to banks, the bank should be able to conduct the appropriate due diligence of its vendors, whose services to those banks may be subject to examination by safety and soundness regulators.18
+
+[SECTION]
+
+Some banks have opted for a more "closed" approach to fintech developers by entering into individual agreements with specific technology providers or data aggregators.19 These agreements often impose specific requirements rather than simply facilitating structured data feeds. These banks negotiate for greater control over their systems by limiting who is accessing their data--often to a specific third party's suite of products. Likewise, many banks use these agreements to limit what types of data will be shared. For instance, banks may share information about the balances in consumers' accounts but decline to share information about fees or other pricing. While recognizing the legitimate need for vetting of third parties for purposes of the banks fulfilling their responsibilities, including for data privacy and security, some consumer groups have suggested that the standards for vetting should be commonly agreed to and transparent to ensure that banks do not restrict access for competitive reasons and that consumers should be able to decide what data to make available to third-party fintech applications.20
+
+[SECTION]
+
+A third set of banks may be unable or unwilling to provide permissioned access, for reasons ranging from fears about increased competition to concerns about the cost and complexity of ensuring compliance with underlying laws and regulations. At the very least, banks may have reasonable concerns about being able to see, if not control, which third-party developers will have access to the banking data that is provided by the data aggregators. Accordingly, even banks that have previously provided structured data feeds to data aggregators may decide to limit or block access.21 In such cases, however, data aggregators can still move forward to collect consumer data for use by fintech developers without the permission or even potentially without the knowledge of the bank. Instead, data aggregators and fintech developers directly ask consumers to give them their online banking logins and passwords. Then, in a process commonly called "screen scraping," data aggregators log onto banks' online consumer websites, as if they were the actual consumers, and extract information. Some banks report that as much as 20 to 40 percent of online banking logins is attributable to data aggregators. They even assert that they have trouble distinguishing whether a computer system that is logging in multiple times a day is a consumer, a data aggregator, or a cyber attack.
+
+[SECTION]
+
+For community banks with limited resources, the necessary investments in API technology and in negotiating and overseeing data-sharing agreements with data aggregators and third-party providers may be beyond their reach, especially as they usually rely on service providers for their core technology. Some fintech firms argue that screen scraping--which has drawn the most complaints about data security--may be the most effective tool for the customers of small community banks to access the financial apps they prefer--and thereby necessary to remain competitive until more effective broader industry solutions are developed.
+
+[SECTION]
+
+Clearly, getting these connectivity questions right, including the need to manage the consumer protection risks, is critically important. It could make the difference between a world in which the fintech wave helps community banks become the platforms of the future, on the one hand, or, on the other hand, a world in which fintech instead further widens the gulf between community banks and the largest banks.
+
+[SECTION]
+
+Tradeoffs
+The different approaches to integrating banks into the fintech stack represent different risks and tradeoffs. Connectivity solutions that require intermediaries such as data aggregators and rely on screen scraping potentially create repositories of consumer credentials for hackers to target. Banks argue that if such a repository is breached, thousands of banks could be impacted.22 Further complicating things, because screen scrapers operate without contractual relationships with the banks from which they pull information, banks have little leverage or ability to vet the security of the screen scrapers' systems and methods or their overall risk. In these circumstances, some commentators have noted that if a data aggregator or third-party developer is breached, it may not be clear who would bear responsibility for any losses--the bank, the data aggregator, the fintech developer, or the consumer. Some third-party developers have included terms and conditions that specifically limit their liability to consumers.23 It is not clear the extent to which many consumers understand the risks involved with sharing their banking credentials, the more limited liability accepted by many third-party developers relative to their bank or credit card issuer, and the fact that the third-party developers may in turn provide those credentials to others in some instances.
+
+[SECTION]
+
+On the other side of the debate, fintech companies are concerned that banks could use their control over consumer data access in the context of bilateral contracts with data aggregators to leverage their position in order to impede competition elsewhere in the stack. This argument about access and competition echoes similar concerns in the smartphone arena.24
+
+[SECTION]
+
+Further, third-party developers argue that open standards for data access can help banks meet consumers' expectations for mobile banking by providing access to the fintech apps that best serve their needs. The relatively open architecture of the iPhone platform means that Apple profits from outside developers' products without having to design or invest in them directly. For instance, Apple didn't include a home-grown mapping app during the first few years of the iPhone.25 Instead, it relied on Google to provide that important function for its smartphones before trying to build its own mapping tool--a process that took a number of iterations before getting it right. Open platform strategies may mean that banks can essentially outsource product development to fintech firms.26 This could be a boon--particularly for small community banks that would not have to worry about developing the best consumer interface, mobile app, digital wallet, or lending product. The bank would only have to worry about getting the connections to an open API right and then reap the benefits of the innovation by third parties.
+
+[SECTION]
+
+Regulatory Developments
+As regulators, we have a responsibility to ensure that the institutions subject to our supervision are operated safely and soundly and that they comply with applicable statutes and regulations. More broadly, we have a strong interest in permitting socially beneficial innovations to flourish, while ensuring the risks that they may present are appropriately managed, consistent with the legal requirements. We do not want to unnecessarily restrict innovations that can benefit consumers and small businesses through expanded access to financial services or greater efficiency, convenience, and reduced transaction costs. Nor do we want to drive these activities away from regulated banks and toward less governed spaces in the financial system.
+
+[SECTION]
+
+Regulators in the United Kingdom and continental Europe have recently outlined new approaches to facilitate connectivity in financial services, while attempting to mitigate the associated risks. In August 2016, the UK Competition & Markets Authority (CMA) released a package of mandates aimed at increasing competition for consumer and small business current accounts (akin to U.S. checking accounts).27 This year nine of the country's largest banks were required to create open APIs to share nonsensitive, non-consumer-specific information, like pricing, fees, terms, and conditions as well as branch and automated teller machine locations.28 This initial limited sharing of information has started communication and collaboration across the industry on areas like data standards and organizational governance, which will facilitate work on more contentious questions. Before March 2018, the CMA is scheduled to enforce a broader package of reforms, including mandating that the nine banks create APIs that allow third-party banks and nonbanks to access consumer accounts for reading transaction data and payment initiation.
+
+[SECTION]
+
+In the European Union, beginning in 2018, member states will be required to start implementing the European Parliament's revised Payment Services Directive (PSD2).29 Among other elements, PSD2 created licensing regimes for third parties that access bank accounts for purposes of initiating payment orders or consolidating information with consumers' consent.30 The directive mandates that banks allow these licensed third parties to access their consumer accounts (with consumer permission) without premising such access on contractual agreements with the banks. Indeed, PSD2 requires that credit institutions not block or hinder access to payment accounts and that licensed third parties have access to credit institutions' payment accounts services in an objective, nondiscriminatory, and proportionate manner. When credit institutions do reject access, they are required to provide the relevant authorities detailed reasoning for the rejection.
+
+[SECTION]
+
+The directive attempts to mitigate the attendant data-security and consumer-protection risks with a number of measures that, by and large, are not readily available policy options in the United States. Importantly, third parties that access bank accounts will be subject to licensing and registration requirements, as well as associated capital and insurance requirements. Moreover, the directive envisions that electronic payments will be authorized by two-factor authentication--for example "something you know" and "something you are."31
+
+[SECTION]
+
+The United States is likely to address these issues in a different way, at least initially, given that regulatory authorities are more broadly distributed, and the relevant statutory language predates these technological developments. The Consumer Financial Protection Bureau (CFPB) issued a Request for Information last fall to explore issues surrounding consumers' granting access to account information to third parties.32 Of course, safety and soundness regulation--and with it, concerns about data security, cyber security, and vendor risk management--is distributed among a number of regulators. For instance, there may be value to examining the vendor risk management guidance so that it facilitates banks connecting more securely and efficiently with the fintech apps that consumers prefer.33 Similarly, it could be useful to periodically assess whether and how authority under the Bank Service Company Act might pertain to developments in the fast evolving fintech sector. In addition, the private sector is continuing to actively experiment with a variety of different approaches to the connectivity question and may itself move toward one or more widely accepted standards. Accordingly, efforts to craft approaches that enhance connectivity while mitigating the associated risks will likely benefit from the engagement of multiple agencies, along with input from the private sector and other stakeholders.
+
+[SECTION]
+
+Separately, the Office of the Comptroller of the Currency (OCC), which is responsible for administering national bank charters, has announced that it is exploring offering "special purpose national bank charters" to fintech companies.34 As envisioned by the OCC, obtaining a special purpose charter would have the practical effect of allowing certain fintech companies (companies that make loans, make payments, or accept deposits) to potentially bypass the need for connecting to a bank for certain purposes in favor of becoming licensed as banks themselves. The OCC's proposal raises interpretive and policy issues for the Federal Reserve regarding whether charter recipients would become Federal Reserve members or have access to Federal Reserve accounts and services, such as direct access to payment systems. If the OCC proposal is finalized, the Federal Reserve would have to closely analyze these issues with respect to any fintech firms that express an interest in moving forward with an application.
+
+[SECTION]
+
+When Apple launched the iPhone in 2007, who could have predicted that it would net billions from a game like Pokémon Go, which involved no investment, development, or advertising on Apple's part beyond opening its platform to developers? It is still too early to have any confidence that we know which fintech innovations will prove to be the most long-lasting or widely adopted. By the same token, the fintech industry is still figuring out the fundamental questions of the best ways to make the necessary connections to the banking platforms to facilitate consumers' ability to better monitor and manage their financial lives, while providing the level of data security and protection they have come to rely on from their banks.35 Change is surely coming, as financial products and services move onto interconnected platforms. As the sector evolves, it's important that all parties involved pay close attention not only to the technical questions, but to the requisite regulatory, policy, and legal considerations to ensure continued trust and confidence in the financial system.
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am grateful to Kelvin Chen for his assistance in preparing this text.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

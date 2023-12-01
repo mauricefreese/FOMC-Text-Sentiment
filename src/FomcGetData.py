@@ -41,7 +41,7 @@ if __name__ == '__main__':
         print("Please specify the first argument from ", content_type_all)
         sys.exit(1)
     
-    if (from_year < 1980) or (from_year > 2020):
+    if (from_year < 1980) or (from_year > 2023):
         print("Usage: ", pg_name)
         print("Please specify the second argument between 1980 and 2020")
         sys.exit(1)

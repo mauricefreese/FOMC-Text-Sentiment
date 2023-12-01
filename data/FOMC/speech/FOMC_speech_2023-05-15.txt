@@ -1,0 +1,287 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 15, 2023
+
+[SECTION]
+
+Governor Lisa D. Cook
+
+[SECTION]
+
+At the Spring 2023 Economics Commencement Ceremony, University of California, Berkeley, Berkeley, California
+
+[SECTION]
+
+Thank you, Professor Eichengreen, for that kind introduction.
+
+[SECTION]
+
+Hello, Berkeley Class of 2023!
+
+[SECTION]
+
+It is good to be back in Golden Bear and Berkeley Bowl territory. It is good to see so many old friends. I am especially grateful to friends and family from near and far who have joined me here today.
+
+[SECTION]
+
+It is a great honor and a profound pleasure to be here to congratulate you, the class of 2023, and to welcome you to the field of economics. Let's give the econ graduates assembled here a big Cal cheer.
+
+[SECTION]
+
+Graduates, you worked very hard to be here today, but your parents, professors, family, and friends deserve your thanks for this accomplishment as well. Let's give a cheer back to those who supported you and lifted you up.
+
+[SECTION]
+
+"Commencement"âI love that word. An ending to education and training that is also a beginning, with all the promise, nerves, hard work, hope, and opportunity that define this moment.
+
+[SECTION]
+
+As economists, we think a lot about intertemporal dynamicsâwhat comes before, during, and after an event. So, let us recognize that this beginning came after years of sacrifice, compounded by the uncertainty of a pandemic, and added to the extraordinary stress and joys involved in acquiring the powerful tools economics provides. Your degree attests to this work, and it is worth saying that we see all of this in you today. For graduate students in particular, we professors spend a lot of time trying to convince you that a completed dissertation signals the commencement of your career as an economist, not a magnum opus that signals the culmination or end of your career. Believe me when I say, the richest and most rewarding work still lies ahead!
+
+[SECTION]
+
+And that is why we see more in you. You are the future of a profession that has a profound effect on how we understand and shape our world. I want to say a little bit about that future today, and the importance of curiosity, of data, and different perspectives in shaping the future.
+
+[SECTION]
+
+Let's start with curiosity. Economists and other professionals who are supposed to be experts can be uncomfortable admitting they have things to learn. So curiosity that is celebrated when we are younger is later too often trivialized and dismissed. For my part, I have always taken curiosity seriously and consider it to be a sharp tool, a constant companion, a reliable point of entry, and a wise counselor.
+
+[SECTION]
+
+When I was a Ph.D. student here, I was known to prowl the hallways armed with questions for any professor who might have insights. These faculty have been extremely generous with their thoughts and suggestions, and I have called on them throughout my career, whether to discuss research or policy. And I learned a great deal from my classmates with whom I shared, debated, and clarified ideas, exchanged data, and connected as friends and colleagues.
+
+[SECTION]
+
+I arrived on Berkeley's campus as the Iron Curtain was falling. In fact, I arrived on campus in 1991 the week the Soviet Union started breaking up and the Russian Soviet Socialist Republic became the Russian Federation. This series of events gave the world an unfiltered view of a Russian economy blinking into the sunlight after decades of central planning and stagnation. What would happen? That questionâthat curiosityâled me to plow through Tsarist-era statistical tables stashed in the depths of Bancroft Library and then sent me on to the offices of the Russian Statistical Agency and, finally, to obscure Moscow offices and more informal venues for interviews with skittish Russian bankers and entrepreneurs.
+
+[SECTION]
+
+I credit my Berkeley professors for their guidance and wisdom in supporting the curiosity that took me to Moscow and for asking tough questions that prepared me to succeed there and in my dissertationâquestions that stick with me to this day. In a brand-new banking system emerging in a country with limited recent history of free markets and little experience with the rule of law, why should any of our standard models apply? And the bigger question: If we have no models that do apply, can you find new models that might? I will return to this in a moment.
+
+[SECTION]
+
+Fortunately, I was raised in a large extended family where spiky challenges and enigmatic riddles were called Tuesday. It's best to expect and embrace them. My parents, aunts, uncles, cousins, and church members desegregated their workplaces, schools, and universities. Through it all, I was taught by example that the strongest armor and surest path forward lay in education.
+
+[SECTION]
+
+Education brought me into contact with a story and a mind that shaped my entire life: Dr. Sadie Tanner Mossell Alexander. Sadie T.M. Alexander was the first national president of Delta Sigma Theta, and I learned about her story when my mother brought a Delta chapter to Georgia College and State University, where she was a professor and where my sisters and I grew up. Dr. Alexander was also the first African American to receive a Ph.D. in economics in 1921, 21 years after our own Jessica Peixotto who was the first woman faculty member in the Berkeley economics department and the second woman to receive a PhD at Berkeley. Sadie Alexander inspired my sixth-grade self to research the causes of African American unemployment for the county social science fair.
+
+[SECTION]
+
+In her dissertation at the University of Pennsylvania, Dr. Alexander set out to explore "what in our judgment constitutes a fair standard of living" for the Black families that were streaming north in search of opportunity as the boll weevil ravaged crops in the South and World War I drew workers into factories.1 Now, I learned a lot from looking into the nervous eyes of Russian bankers, and I highly recommend field work for any aspiring Ph.D.'s here, but Dr. Alexander managed to interview 100 families in the course of three months, raising the bar for all of us. She painstakingly translated her surveys into a database to determine what income provided a sufficient standard of living. Which brings us to data.
+
+[SECTION]
+
+Curiosity is like an appetizer. It gets the meal started, but data are the main course. Without data, your curiosity might yield some opinions. But, as economists, we know that is not evidence. The kind of curiosity and commitment to data that drove Sadie T.M. Alexander also compelled me as a researcher to assemble the most extensive database then available of African American inventors and patent holders. I was curious what effect the lack of rule of law might have on innovation, which undergirds productivity and economic growth, and whether innovation was self-sustaining or contingent on factors like personal security and rule of law. I needed to find the data and generate new data sets to fully understand and explore these questions. And to have actual results to analyze, present, and publish.
+
+[SECTION]
+
+Unfortunately, we can only imagine what other questions, what other data, Sadie T.M. Alexander would have developed to enrich the field of economics, because she was never able to pursue her chosen field. Discrimination barred that door, so she opened another: becoming a lawyer. Let's just take a moment to stand in awe of the imagination, determination, and willpower at work there.
+
+[SECTION]
+
+This gets us to perspectives. Sadie T.M. Alexander interviewed 100 families to bring forth data illuminating the conditions driving one of the largest migrations in American history. That was a vital economic question, informed and directed by the life experience and skills of a specific person. And it is a standard all of us as members of this influential field can and should aspire to meet.
+
+[SECTION]
+
+The Department of Economics at the University of California, Berkeley, is one of the richest sources of diverse talent and perspectives in the world. In our field, we study the behavior of entire populations, and that means our field must reflect the range of people and experiences we aspire to understand. Which brings us to your perspective.
+
+[SECTION]
+
+As economists, you share a common mastery of analytical tools that can yield powerful insights about how our society functions. The field of study that binds us gives priority to rigorous use of data and transparent debate. But the type of data you seek, the way you formulate questions, and the shades of meaning you tease out from the resultsâthese are drawn from your unique history, lived experience, and perspective. Economics needs that. Our society needs the fresh puzzles you will uncover, seek answers to, and, I am confident, resolve. There are so many new and old questions in economics to address that I am tempted to stop right now and put you all to work. Don't worry, I'm almost done, and the problem sets and exams are over, at least for now. But if you are looking for places to start, think about all the sources of new data at our fingertips. I don't mean to be the old person in the room today, but there was no Google Patents search tool, Twitter and Twitter API, or Python to scrape LinkedIn pages. There was just barely the internet and email, and I had an AOL email account when I was at Cal. I digress.
+
+[SECTION]
+
+The very important empirical revolution in economics is fully in swing, and many of your professors are significant contributors to it.
+
+[SECTION]
+
+During the pandemic, you could track comfort with social interactions using Open Table reservations. I don't have to tell you all how closely you can track rents in pricey Bay Area neighborhoods using tools like Zillow, Apartments.com, and Apartment List. These types of housing data inform the Federal Reserve's understanding of inflation. I am confident your generation will transform our capability to use high-frequency, real-time data, applying your unique perspectives to deepen our understanding of how our economy is evolving.
+
+[SECTION]
+
+I will leave you with this one last thought. Give greatest scope to your curiosity, your love of data, and your unique perspective, with special attention to where things no longer seem to be working as well as they used to. Seek out structural breaks, discontinuities, mysteriesâthings we just don't understand. Those are the hard questions. The ones where answers are most needed.
+
+[SECTION]
+
+I mentioned models earlier. Extend the ones we have and write down some new ones. We need them. Too many old models are, well, creaky and not serving us as well as they used to right now. And in uncertain environments, like post-Soviet Russia, it was better to count construction cranes dotting the skyline rather than input data that were neither valid nor reliable into a macro model developed for economies with functioning market systems. Build some new models, throw in some new data, and see what happens.
+
+[SECTION]
+
+In closing, it is an exciting, extraordinary time to be an economist, given the many unsettled questions in economics, the infinite and growing number of data sets, and the proliferation of useful tools and helpful means of collaboration. This empirical revolution does not exclude theory. We must continually refine our understanding of how various data sets, sectors of the economy, households, et cetera, interact with one another.
+
+[SECTION]
+
+Berkeley econ grads, it is my pleasure to now welcome you as colleagues. And as you follow your curiosity and put your toolkit to use, I will evoke Dr. Sadie T.M. Alexander again. One of her favorite sayings, which she clearly adhered to throughout her life, was "Knock those doors down!" This is my wish for you as you proceed to the world beyond Sather Gate, Sproul Plaza, and Evans Hall.
+
+[SECTION]
+
+Congratulations, again, Berkeley economics Class of 2023! Go change the world. Knock those doors down! I can't wait to see you do it!
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

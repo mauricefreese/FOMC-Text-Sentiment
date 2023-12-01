@@ -1,0 +1,235 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 25, 2019
+
+[SECTION]
+
+Chair Jerome H. Powell
+
+[SECTION]
+
+At the Council on Foreign Relations, New York, New York
+
+[SECTION]
+
+Good afternoon. It is a pleasure to speak at the Council on Foreign Relations. I will begin with a progress report on the broad public review my Federal Reserve colleagues and I are conducting of the strategy, tools, and communication practices we use to achieve the objectives Congress has assigned to us by lawâmaximum employment and price stability, or the dual mandate. Then I will discuss the outlook for the U.S. economy and monetary policy. I look forward to the discussion that will follow.
+
+[SECTION]
+
+During our public review, we are seeking perspectives from people across the nation, and we are doing so through open public meetings live-streamed on the internet. Let me share some of the thinking behind this review, which is the first of its nature we have undertaken. The Fed is insulated from short-term political pressuresâwhat is often referred to as our "independence." Congress chose to insulate the Fed this way because it had seen the damage that often arises when policy bends to short-term political interests. Central banks in major democracies around the world have similar independence.
+
+[SECTION]
+
+Along with this independence comes the obligation to explain clearly what we are doing and why we are doing it, so that the public and their elected representatives in Congress can hold us accountable. But real accountability demands more of us than clear explanation: We must listen. We must actively engage those we serve to understand how we can more effectively and faithfully use the powers they have entrusted to us. That is why we are formally and publicly opening our decisionmaking to suggestions, scrutiny, and critique. With unemployment low, the economy growing, and inflation near our symmetric 2 percent objective, this is a good time to undertake such a review.
+
+[SECTION]
+
+Another factor motivating the review is that the challenges of monetary policymaking have changed in a fundamental way in recent years. Interest rates are lower than in the past, and likely to remain so. The persistence of lower rates means that, when the economy turns down, interest rates will more likely fall close to zeroâtheir effective lower bound (ELB). Proximity to the ELB poses new problems to central banks and calls for new ideas. We hope to benefit from the best thinking on these issues.
+
+[SECTION]
+
+At the heart of the review are our Fed Listens events, which include town hallâstyle meetings in all 12 Federal Reserve Districts. These meetings bring together people with wide-ranging perspectives, interests, and expertise. We also want to benefit from the insights of leading economic researchers. We recently held a conference at the Federal Reserve Bank of Chicago that combined research presentations by top scholars with roundtable discussions among leaders of organizations that serve union workers, low- and moderate-income communities, small businesses, and people struggling to find work.
+
+[SECTION]
+
+We have been listening. What have we heard? Scholars at the Chicago event offered a range of views on how well our monetary policy tools have effectively promoted our dual mandate. We learned more about cutting-edge ways to measure job market conditions. We heard the latest perspectives on what financial and trade links with the rest of the world mean for the conduct of monetary policy. We heard scholarly views on the interplay between monetary policy and financial stability. And we heard a review of the clarity and the efficacy of our communications.
+
+[SECTION]
+
+Like many others at the conference, I was particularly struck by two panels that included people who work every day in low- and middle-income communities. What we heard, loud and clear, was that today's tight labor markets mean that the benefits of this long recovery are now reaching these communities to a degree that has not been felt for many years. We heard of companies, communities, and schools working together to bring employers the productive workers they needâand of employers working creatively to structure jobs so that employees can do their jobs while coping with the demands of family and life beyond the workplace. We heard that many people who, in the past, struggled to stay in the workforce are now getting an opportunity to add new and better chapters to their life stories. All of this underscores how important it is to sustain this expansion.
+
+[SECTION]
+
+The conference generated vibrant discussions. We heard that we are doing many things well, that we have much we can improve, and that there are different views about which is which. That disagreement is neither surprising nor unwelcome. The questions we are confronting about monetary policymaking and communication, particularly those relating to the ELB, are difficult ones that have grown in urgency over the past two decades. That is why it is so important that we actively seek opinions, ideas, and critiques from people throughout the economy to refine our understanding of how best to use the monetary policy powers Congress has granted us.
+
+[SECTION]
+
+Beginning soon, the Federal Open Market Committee (FOMC) will devote time at its regular meetings to assess the lessons from these events, supported by analysis by staff from around the Federal Reserve System. We will publicly report the conclusions of our discussions, likely during the first half of next year. In the meantime, anyone who is interested in learning more can find information on the Federal Reserve Board's website.1
+
+[SECTION]
+
+Let me turn now from the longer-term issues that are the focus of the review to the nearer-term outlook for the economy and for monetary policy. So far this year, the economy has performed reasonably well. Solid fundamentals are supporting continued growth and strong job creation, keeping the unemployment rate near historic lows. Although inflation has been running somewhat below our symmetric 2 percent objective, we have expected it to pick up, supported by solid growth and a strong job market. Along with this favorable picture, we have been mindful of some ongoing crosscurrents, including trade developments and concerns about global growth. When the FOMC met at the start of May, tentative evidence suggested these crosscurrents were moderating, and we saw no strong case for adjusting our policy rate.
+
+[SECTION]
+
+Since then, the picture has changed. The crosscurrents have reemerged, with apparent progress on trade turning to greater uncertainty and with incoming data raising renewed concerns about the strength of the global economy. Our contacts in business and agriculture report heightened concerns over trade developments. These concerns may have contributed to the drop in business confidence in some recent surveys and may be starting to show through to incoming data. For example, the limited available evidence we have suggests that investment by businesses has slowed from the pace earlier in the year.
+
+[SECTION]
+
+Against the backdrop of heightened uncertainties, the baseline outlook of my FOMC colleagues, like that of many other forecasters, remains favorable, with unemployment remaining near historic lows. Inflation is expected to return to 2 percent over time, but at a somewhat slower pace than we foresaw earlier in the year. However, the risks to this favorable baseline outlook appear to have grown.
+
+[SECTION]
+
+Last week, my FOMC colleagues and I held our regular meeting to assess the stance of monetary policy. We did not change the setting for our main policy tool, the target range for the federal funds rate, but we did make significant changes in our policy statement. Since the beginning of the year, we had been taking a patient stance toward assessing the need for any policy change. We now state that the Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.
+
+[SECTION]
+
+The question my colleagues and I are grappling with is whether these uncertainties will continue to weigh on the outlook and thus call for additional policy accommodation. Many FOMC participants judge that the case for somewhat more accommodative policy has strengthened. But we are also mindful that monetary policy should not overreact to any individual data point or short-term swing in sentiment. Doing so would risk adding even more uncertainty to the outlook. We will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

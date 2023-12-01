@@ -1,0 +1,141 @@
+Supervisory and Regulatory Responses to Financial Innovation and Industry Dynamics
+
+[SECTION]
+
+It is a pleasure to be here and participate in your discussions of current changes in bank regulatory policies.  In your program this morning, you have already heard a lot about the Federal Reserve Board's Regulation Y proposal, and I will not repeat the details.  Still, I think it would be useful to highlight two of the key principles the Board identified in seeking comment on Regulation Y -- two principles that I believe illustrate a more general restructuring of the Board's overall approach to regulation and supervision.  These principles also animate the Board's recent proposals in the section 20 area and elsewhere.
+
+[SECTION]
+
+First, in proposing to expand the laundry list of activities in which a bank holding company may engage, the Board stated that, to the extent possible, the restrictions a bank holding company faces in conducting a specific activity should be no more onerous than those applying to an insured depository institution conducting the same activity.
+
+[SECTION]
+
+Second, in proposing to streamline the application process for bank holding company acquisitions, the Board stated that review of those applications should focus on how the proposal would affect the organization -- as opposed to serving as a vehicle for comprehensively evaluating and addressing supervisory issues at the applicant organization.  Put another way, well-managed, well-capitalized institutions who have demonstrated that they are serving the needs of their community should have greater freedom to expand and innovate.
+
+[SECTION]
+
+I believe these two principles reflect the Board's recognition that technological and financial innovation is remaking the banking industry.  Regulatory and supervisory approaches should also adapt to the changing environment.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+Regulation Y and Section 20 Initiatives
+	As you know, the dramatic changes which have swept over the banking industry the past several years have also affected the entire financial services industry.  Advances in telecommunications and computer technology have provided banks and their competitors with new and more efficient opportunities to expand regionally, nationally and globally.  At the same time financial innovation has enabled institutions to fine tune and expand product lines and activities.
+
+[SECTION]
+
+The structure of the industry is also changing as the recent wave of mergers among larger organizations and the advent of true interstate banking speed the pace of industry consolidation.  Despite this consolidation, however, competition in the industry is increasing.  Smaller banks are becoming more efficient, and the competition with nonbank financial institutions is growing steadily.
+
+[SECTION]
+
+As a result of all these changes, the banking industry is now competing with an increasing number of financial service providers on a dynamic playing field.  Unfortunately, the nation's banking laws have not been updated to reflect this changing environment.  As the risks of holding company activities become increasingly transparent, it becomes increasingly anomalous that the banking laws severely restrict two banking related activities -- underwriting and dealing in securities and insurance.  Except for some types of insurance underwriting, these activities are generally no more risky, and often significantly less risky, than many activities in which banks routinely engage -- namely, lending.
+
+[SECTION]
+
+Although I remain hopeful that Congress will address some of these issues, we at the Board are trying to provide banks as much latitude, commensurate with risk, that existing laws allow.  We have recognized in the Regulation Y proposal that if banks may engage in a given activity, there is no logic in prohibiting or imposing any additional restrictions on that activity when it is conducted in a holding company.
+
+[SECTION]
+
+Similarly, in the section 20 arena, the Board recently eliminated a restriction on cross-marketing and employee interlocks between a bank and a securities affiliate, and substantially reduced restrictions on director and officer interlocks.  Here again, part of the calculus was whether there was anything unique to a section 20 subsidiary that warranted firewalls that are not imposed on any other type of bank affiliate engaged in activities posing similar risks.  The answer was generally, "No."
+
+[SECTION]
+
+I expect that the Board will be asking the same question when we undertake a more comprehensive review of the other firewalls in the coming months.  While there may be legal or reputational risks unique to affiliation with a securities firm that justify some of the existing restrictions, many firewalls may not address such risks and thus can no longer be justified.
+
+[SECTION]
+
+Finally, I believe that these issues will be hotly debated in the coming months as Congress considers repealing not only section 20 of the Glass-Steagall Act, but all of the Glass-Steagall Act.  I expect Congress will also consider the repercussions of the Comptroller's decision of last week to allow a bank's operating subsidiaries to engage in activities forbidden the bank.  Here the debate becomes more subtle -- not about whether an activity is appropriate for a bank holding company, but rather where in the bank holding company it should be conducted.  In particular, should riskier activities be conducted in separately capitalized affiliates of banks, or as subsidiaries of banks, under the federal safety net and with the benefit of the federal subsidy inherent in that safety net.  There also appear to me some unanswered legal and accounting questions relating to the separateness of a bank and its operating subsidiary.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+Changes in Bank Supervision
+	As the industry changes, the nature of supervision is also undergoing significant change.  The traditional goals of supervisors remain the same -- that is, to ensure the safety and soundness of financial institutions so that they do not become a source of systemic risk, pose a threat to the payment system, or burden taxpayers with unnecessary losses.   However, supervisors are looking to accomplish these goals in ways that are more risk-focused and burden-sensitive.
+
+[SECTION]
+
+An example of such change that was put forward in the Regulation Y proposal is the reassessment of the role of an application in the supervisory process.  This step parallels recent Congressional action to eliminate the prior approval process entirely for strong bank holding companies wishing to engage in previously approved nonbanking activities -- legislation proposed and supported by the Board.
+
+[SECTION]
+
+In the past, the Board may have tended to use the application process to address and resolve supervisory issues at the applicant organization -- sometimes involving matters that had little to do with the proposed acquisition or activity.  The Board's proposal to limit the application process to ensuring that it assesses only the pertinent issues relating to an application, including the statutory and regulatory factors the Board must consider, clearly signals that the Board intends to reduce the role of the application process as a supervisory tool.  Supervisory matters that are not significant to an organization's overall well-being or which are not related to a specific application under consideration are best addressed through other, more targeted supervisory actions.  These tools include the advancement of guidance on sound banking practices, enhanced off-site surveillance, the move to risk-focused examinations, and an increasing emphasis on improving market transparency through better public disclosure of the risk profiles of financial institutions.  I believe these initiatives are more efficient and effective in meeting supervisory goals and would like to briefly discuss some initiatives in each of these areas.
+
+[SECTION]
+
+First, we are expanding efforts to promote sound banking practices.  Through our evaluations of many institutions, we as regulators are in a unique position to identify and promote sound risk management practices within the industry.  In earlier years, supervisors used guidance for relatively narrow purposes--typically to advise examiners or bankers on interpretations of existing regulations or procedures for compliance.  Today, guidance is moving away from narrow, compliance-oriented prescriptions toward the identification and dissemination of sound practices for managing the risks involved in the various activities banks conduct.
+
+[SECTION]
+
+Please note my emphasis on "sound," not "best," practices.  Sound practices reflect those minimum principles to be employed to ensure that the activity is conducted prudently.  Best practice, in my view, can and does occur in institutions of every size, shape and level of sophistication, but supervisors should focus on sound practices and leave the determination of what is "best" to the judgment of individual institutions.
+
+[SECTION]
+
+For example, since 1993, the U.S. banking agencies have issued a series of instructions, policy statements, and examination manuals stressing the importance of managing various risks posed by the institution's activities.  The most notable example is the guidance issued in 1993 and 1994 on derivatives and trading activities.  This initiative has continued to encompass investment activities, and, this summer, interagency guidance on sound practices for managing interest rate risk exposures was issued.  I believe the dissemination of this type of guidance is a good example of supervisors adding value, and we expect to continue to emphasize this approach in the future.
+
+[SECTION]
+
+We are also attempting to make greater use of the banking industry's sound, internally developed models and practices in risk management in order to reduce regulatory burden and to improve the effectiveness of our supervision.  For example, the agencies' newly revised capital standards for market risk related to a bank's trading activities will permit large trading banks to use their internal "value-at-risk" models to calculate their capital requirements for market risk, subject to examiner oversight and a few regulatory constraints.
+
+[SECTION]
+
+Another area where regulators are innovating is in the examination process.   The cornerstone of the bank supervisory process is the verification of prudent practices and financial condition through on-site examinations, coupled with off-site surveillance.  Traditionally, on-site examinations have focused on compliance issues and verifying the condition of the institution at a point in time by reconciling accounts, testing individual transactions and performing ratio analysis.  This process is changing.
+
+[SECTION]
+
+For example, examiners are now placing more emphasis on evaluating the soundness of a bank's process for managing and controlling risks.  Testing the soundness of the institution's risk management and internal control processes provides greater assurance of an institution's soundness on an ongoing basis.  To fully implement this approach, this year the Federal Reserve began assigning a formal rating to risk management in our examination reports.  This change reflects the increasing importance we place on sound management and adequate internal controls.
+
+[SECTION]
+
+To improve the examination process, the Federal Reserve and other banking agencies are also emphasizing more pre-visitation planning in order to better identify those areas of a bank's activities that pose the greatest risk.  In other words, the examination scope is now more customized and focused.
+
+[SECTION]
+
+We are also making greater use of computer technology in the examination process, using automated systems that permit examiners to download data from a bank's computer, analyze portfolios on their personal computers, and identify concentrations and other characteristics within the bank's loan portfolio.  As a result, examiners should be able to reduce materially the amount of time they spend on manual operations and should be able to devote more time to identifying and evaluating risks.
+
+[SECTION]
+
+I would emphasize, however, that although we are revising the on-site examination process, the Board remains convinced of its fundamental importance.  Although performance-based regulation has much to commend it, and is already used as a tool by all the agencies, we find that our examiners generally detect problems before they manifest themselves in lower capital ratios, downgrades from rating services, or criticism from outside auditors.  Simply put, there really is no substitute for a hands-on review by persons unbeholden in any way to the institution.
+
+[SECTION]
+
+Another area of innovative change relates to surveillance activities between on-site examinations.  Traditionally, surveillance efforts have relied on standardized ratios and screens compiled through regulatory reporting forms.  However, those screens are sometimes not flexible or comprehensive enough to provide a true profile of the bank's risk.  One enhancement we are making to our surveillance activities is to tailor the information we collect to the bank's activities, including making greater use of the bank's own internal management reports and the results of internal risk models.  In recent years, for example, the Federal Reserve has begun to collect internal loan classification reports prepared by most of our larger banks, as well as other information generated by their internal risk management systems.  Such changes merely reflect the evolving nature of bank activities and the improved procedures banks have for measuring risks and managing their activities.
+
+[SECTION]
+
+As with examinations, disclosure practices of the past also focused narrowly on the financial condition of the institution at a point in time, using conventional accounting and regulatory measures.  Today, however, disclosures are expanding to include a description not only of the level of risk taken by the company but also of management's philosophy for managing and controlling risk.  This improved transparency enhances market discipline and rewards prudent management.  We have already done much to improve disclosures for derivatives and market risks, and we will continue to urge better and more broadly based disclosure on all of an institution's major activities and exposures.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+Conclusion
+	I hope this review of supervisory initiatives illustrates that supervisors are making concerted efforts to keep pace with market practices and financial innovations.  Just as innovation poses new challenges to the industry, it also poses challenges to supervisors.  I believe the Board is responding and is making significant progress in adapting its existing supervisory regimes.  But as we make changes to our own processes to make regulations less burdensome and to allow increased activities by banking organizations, we are finding that the supervisory process is becoming more important, not less important, in meeting our responsibilities for a safe and sound banking system.
+
+[SECTION]
+
+Thank you.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1996 Speeches
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+To comment on this site, please fill out our feedback
+form.
+Last update: November 25, 1996 1:30 PM

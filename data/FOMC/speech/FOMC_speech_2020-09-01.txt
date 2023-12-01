@@ -1,0 +1,250 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 01, 2020
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At "How the Fed Will Respond to the COVID-19 Recession in an Era of Low Rates and Low Inflation," an event hosted by the Hutchins Center on Fiscal and Monetary Policy at the Brookings Institution, Washington, D.C. (via webcast)
+
+[SECTION]
+
+I want to thank David Wessel for hosting this event. It is an honor to be here with Ben Bernanke and Janet Yellen, who pioneered the original Statement on Longer-Run Goals and Monetary Policy Strategy in 2012. It is a pleasure to discuss the new statement, unanimously approved by the Federal Open Market Committee (FOMC) last week.1 By bringing our longer-run goals and strategy into alignment with key longer-run changes in the economy, the new statement will strengthen our support for the recovery. In my view, the new statement breaks important ground and will serve the country well as we respond to the economic repercussions of the COVID-19 crisis.
+
+[SECTION]
+
+Key Longer-Run Changes in the Economy
+Three related features of the economy's new normal called for the reassessment of the Committee's longer-run goals and strategy.2 First, the equilibrium interest rate has fallen to low levels, which implies a large decline in how much we can cut interest rates to support the economy. 3 That was abundantly clear in March, when we were able to cut the policy rate by only 1-1/2 percentage points before hitting the effective lower boundâin contrast to previous decades when the policy rate would have been cut by 4-1/2 to 5 percentage points, on average, to buffer the economy from an adverse shock. The reduced scope to cut the interest rate could increase the frequency and duration of periods when the policy rate is pinned close to zero, unemployment is elevated, and inflation is below target. In turn, the greater likelihood of extended periods of low inflation at the lower bound risks eroding inflation expectations and further compressing the scope for cutting the interest rate. The risk here is a downward spiral where the scope for cutting the interest rate gets compressed even further, the lower bound binds even more frequently, and it becomes increasingly difficult to move inflation expectations and inflation back up to target. The experience of some foreign central banks illustrates the challenges associated with such a downward spiral.
+
+[SECTION]
+
+Second, underlying trend inflation appears to be somewhat below the Committee's 2 percent objective, according to various statistical filters.4 The near decade of inflation persistently short of 2 percent creates the risk that households and businesses come to expect inflation to run persistently below target and change their behavior in a way that fulfills that expectation, which greatly complicates the task of monetary policy. While inflation expectations are difficult to measure with precision, some market-based and survey-based indicators show signs of a downward drift. Ensuring that longer-term inflation expectations are well-anchored at 2 percent is critical to achieving target inflation.
+
+[SECTION]
+
+Finally, the sensitivity of price inflation to labor market tightness is very low relative to earlier decades, which is what economists mean when they say that the Phillips curve is flat.5 A flat Phillips curve has the important advantage of allowing employment to continue expanding for longer without generating inflationary pressures, thereby providing job opportunities to people that might not otherwise have them. It also means that it is harder to achieve our 2 percent inflation objective on a sustained basis when inflation expectations have drifted below 2 percent.
+
+[SECTION]
+
+Key Changes in the Statement on Longer-Run Goals and Strategy
+The new statement on goals and strategy responds to these features of the new normal in a compelling and pragmatic way by making four important changes. First, the statement defines the statutory maximum level of employment as a broad-based and inclusive goal and eliminates the reference to a numerical estimate of the longer-run normal unemployment rate.6 The longstanding presumption that accommodation should be reduced preemptively when the unemployment rate nears the neutral rate in anticipation of high inflation that is unlikely to materialize risks an unwarranted loss of opportunity for many Americans. The decision to allow the labor market to continue healing after the unemployment rate effectively reached the 5 percent median Summary of Economic Projections (SEP) estimate of the normal unemployment rate in the fourth quarter of 2015 supported a further decrease of 3-1/2 percentage points in the Black unemployment rate and of 2-1/4 percentage points in the Hispanic unemployment rate, as well as an increase of nearly 3 percentage points in the labor force participation rate of prime-age women. It also created conditions for the entry of a further 3-1/2 million prime-age Americans into the labor force, a movement of nearly 1 million people out of long-term unemployment, and opportunities for 2 million involuntary part-time workers to secure full-time jobs.7 Beyond that, had the changes to monetary policy goals and strategy we made in the new statement been in place several years ago, it is likely that accommodation would have been withdrawn later, and the gains would have been greater.
+
+[SECTION]
+
+Instead of an aggregate "normal" unemployment rate, the Committee's commitment to defining the maximum level of employment as a broad-based and inclusive goal, together with our continued commitment to consider a wide range of indicators, may be particularly significant for the groups that are most vulnerable to employment fluctuations.8 Both research and experience suggest the groups that face the greatest structural challenges in the labor market are likely to be the first to experience layoffs during downturns and the last to experience employment gains during recoveries. Research by the Federal Reserve Board staff finds that unemployment rates, as well as patterns of job loss and labor force entry and exit, are more cyclically sensitive for Blacks and Hispanics than for whites, and observable worker characteristics can explain very little of these differentials.9 A similar observation was one of the key takeaways from the Fed Listens sessions we held around the country.10 Juan Salgado, chancellor of the City Colleges of Chicago, described how last year's tight labor market was finally giving his students, who are largely Black and Latinx, the opportunity to apprentice with local businesses in jobs that historically have not been open to them.11 Moreover, earnings from wages are particularly important for these groups, who have large and persistent wealth gaps and derive a smaller share of their income from financial asset holdings or from business ownership.12
+
+[SECTION]
+
+Second, to address the downward bias to inflation associated with the proximity to the effective lower bound, the statement adopts a flexible inflation averaging strategy that seeks to achieve inflation that averages 2 percent over time in order to ensure longer-term inflation expectations are well anchored at 2 percent. Flexible average inflation targeting (FAIT) is a consequential change in strategy. By committing to seek inflation that averages 2 percent over time, FAIT means that appropriate monetary policy would likely aim to achieve inflation moderately above 2 percent for a time to compensate for a period, such as the present, when it has been persistently below 2 percent.13 Consistent with this, I would expect the Committee to accommodate rather than offset inflationary pressures moderately above 2 percent, in a process of opportunistic reflation.
+
+[SECTION]
+
+Flexible average inflation targeting is a pragmatic way to implement a makeup strategy, which is essential to arrest any downward drift in inflation expectations.14 While a formal average inflation target (AIT) rule is appealing in theory, there are likely to be communications and implementation challenges in practice related to time-consistency and the mechanical nature of such rules. Analysis suggests it could take many years with a formal AIT rule to return the price level to target following a lower-bound episode, and a mechanical AIT rule is likely to become increasingly difficult to explain and implement as conditions change over time.15 In contrast, FAIT is better suited for the highly uncertain and dynamic context in which policymaking takes place.
+
+[SECTION]
+
+In my mind, the commitment to undertake a review of the new strategy and goals in roughly five years is a necessary complement to the flexibility embedded in the new inflation averaging strategy. Since the Committee is adopting a new approach, it is prudent and pragmatic to review it after gaining some practical experience with it over five years. As such, the five-year review will provide a vital checkpoint to see how well flexible average inflation targeting is working and, in my thinking, provide some insights into an appropriate makeup period. Depending on conditions at the time of the review, the Committee will have the opportunity to tweak FAIT or to make a more fundamental change, if deemed necessary.
+
+[SECTION]
+
+Third, the statement highlights an important change in the Committee's reaction function. Whereas previously it sought to mitigate deviations of employment and inflation from their targets in either direction, the Committee will now seek "to mitigate shortfalls of employment from the Committee's assessment of its maximum level and deviations of inflation from its longer-run goal." This change implies that the Committee effectively will set monetary policy to minimize the welfare costs of shortfalls of employment from its maximum and not preemptively withdraw support based on a historically steeper Phillips curve that is not currently in evidence and inflation that is correspondingly much less likely to materialize.16 Consistent with this, the statement drops language about a "balanced approach" that might be interpreted as calling for the preemptive withdrawal of accommodation and replaces it with a more accurate description of how we pursue our dual-mandate goals in parallel.
+
+[SECTION]
+
+Fourth and finally, the statement codifies the key lesson from the Global Financial Crisisâthat financial stability is necessary for the achievement of our statutory goals of maximum employment and price stability. The same changes in the macroeconomic environment that prompted our monetary policy review have important implications for financial stability. Historically, when the Phillips curve was steeper, inflation tended to rise as the economy heated up. The rise in inflation would prompt the Federal Reserve to raise interest rates to restrictive levels, which would have the effect of tightening financial conditions more broadly. In contrast, the past few cycles did not see this kind of behavior, and in each case, financial imbalances, rather than goods and services inflation, were notably elevated at the onset of the downturn.
+
+[SECTION]
+
+With a flat Phillips curve and low inflation, the Committee would have to sustain the federal funds rate below the neutral rate for much longer in order to push inflation back to target sustainably. The resulting expectation of lower-for-longer interest rates, along with sustained high rates of resource utilization, is conducive to increasing risk appetite, reach-for-yield behavior, and incentives for leverageâwhich can boost financial imbalances as an expansion extends. In this way, the combination of a low neutral rate, a flat Phillips curve, and low underlying inflation can lead to more cyclical volatility in asset prices. With financial stability risks more tightly linked to the business cycle, it is vital to use macroprudential as well as standard prudential tools as the first line of defense in order to allow monetary policy to remain focused on achieving maximum employment and 2 percent average inflation.17
+
+[SECTION]
+
+Supporting the Recovery
+The Committee's new statement on goals and strategy will put us in a stronger position to support a full and timely recovery in employment and average inflation of 2 percent. Overall financial conditions are supportive. Encouragingly, the housing sector has rebounded strongly from its initial decline, supported by historically low mortgage rates, and consumer spending on goods has held up well, in part reflecting earlier fiscal support.18 At the same time, however, the strong pace of improvement in employment in May and June, which was importantly driven by recall hiring out of temporary layoffs, appears to have slowed.19 And on the inflation front, despite some bounceback in July, inflation remains weaker than pre-crisis, and it is likely to take some time to return closer to target.20
+
+[SECTION]
+
+Looking ahead, the economy continues to face considerable uncertainty associated with the vagaries of the COVID-19 pandemic, and risks are tilted to the downside. The longer COVID-19-related uncertainty persists, the greater the risk of shuttered businesses and permanent layoffs in some sectors. While the virus remains the most important factor, the magnitude and timing of further fiscal support is a key factor for the outlook. As was true in the first phase of the crisis, fiscal support will remain essential to sustaining many families and businesses.
+
+[SECTION]
+
+With the recovery likely to face COVID-19-related headwinds for some time, in coming months, it will be important for monetary policy to pivot from stabilization to accommodation. As we move to the next phase of monetary policy, we will be guided by the Committee's new goals and strategy statement. It will be important to provide the requisite accommodation to achieve maximum employment and average inflation of 2 percent over time, following persistent underperformance. While the Committee did not anticipate the unprecedented challenge of the COVID-19 pandemic when the review was launched, the new statement puts us in a stronger position to support a full and timely recovery.21
+
+[SECTION]
+
+See the Board's website for the new statement at https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf. Information about the review of monetary policy strategy, tools, and communications is available at https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications.htm.
+
+[SECTION]
+
+See Jerome H. Powell (2019), "Monetary Policy: Normalization and the Road Ahead," speech delivered at the 2019 SIEPR Economic Summit, Stanford Institute of Economic Policy Research, Stanford, California, March 8; Richard H. Clarida (2019), "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices," speech delivered at the 2019 U.S. Monetary Policy Forum, sponsored by the Initiative on Global Markets at the University of Chicago Booth School of Business, New York, February 22. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

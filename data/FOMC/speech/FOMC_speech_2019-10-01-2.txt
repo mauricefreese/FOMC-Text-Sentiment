@@ -1,0 +1,199 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 01, 2019
+
+[SECTION]
+
+Vice Chair Richard H. Clarida
+
+[SECTION]
+
+At "Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics," a research conference sponsored by the Federal Reserve Board, Washington, D.C.
+
+[SECTION]
+
+Good morning, and welcome to the Federal Reserve Board's research conference "Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics." Here at the Fed, we are continually assessing the current state of the economy, updating our outlook for economic activity, and estimating the risks around that outlook. In this environment, we assess a broad array of government and private-sector data to determine what they imply for the achievement of the Fed's statutory goals of maximum employment and price stability. As a result, this conference and the range of topics on your agenda for today and tomorrow are highly relevant for us. More timely and accurate information sourced from nontraditional data and the use of new techniques should permit Board staff economists to make better estimates of the evolving news and what it implies for the economic outlook and allow policymakers to make better-informed decisions.
+
+[SECTION]
+
+Over these next two days, you will hear about the use of new tools and nontraditional data sources and what they say for the assessment of inflation and the labor market; about the use of new methods for forecasting; and about extracting information from text and using textual analysis to evaluate regulatory complexity and understand central bank communications. You no doubt will have many conversations in this room and during breaks about the usefulness of big data and new techniques for macroeconomic analysis. I am pleased to see some former colleagues and important contributors to macroeconomics and measurement on your conference program, such as Erica Groshen; Ron Jarmin; Matthew Shapiro; Hal Varian; and David Wilcox, who recently left the Fed for other pastures.
+
+[SECTION]
+
+I would also like to acknowledge the diversity this conference offers. This conference is interdisciplinary, bringing together people from many different fields of studyâeconomists, computer scientists, and statisticiansâas well as people from many different types of institutions, including universities, central bank research departments, statistical agencies, and the private sector. We all stand to benefit from work across disciplines, and the connections forged at conferences such as this one can be highly fruitful.
+
+[SECTION]
+
+To a large extent, the use of nontraditional data, machine learning, and natural language processing in macroeconomics and for policy is only just in its infancy. In many cases, we are unsure of the efficacy or benefits of these approaches. Coordination between statistical agencies and policymaking institutions will help us achieve our shared goalâa better understanding of the economy. To this end, the discussions on the use of big data and new techniques for central banking and on the possibilities for cooperation between private companies and government agencies should be particularly helpful. Moreover, I strongly encourage you to continue your discussions after the conference ends and to seek opportunities for joint work so that we can further develop our understanding of big data and textual analysis.
+
+[SECTION]
+
+Now I would like to invite the participants in the session on alternative data on inflation and the labor market to come to the podium. Welcome to the Federal Reserve, and I wish you a successful two days.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

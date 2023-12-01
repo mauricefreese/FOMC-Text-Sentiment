@@ -1,0 +1,313 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 02, 2023
+
+[SECTION]
+
+Vice Chair for Supervision Michael S. Barr
+
+[SECTION]
+
+At the Forecasters Club of New York, New York, New York
+
+[SECTION]
+
+Thank you for the opportunity to speak to you. I would like to talk with you today about the intersection of my two roles at the Federal Reserve as the Vice Chair for Supervision at the Federal Reserve Board and as a member of the Federal Open Market Committee (FOMC).1 In particular, I'll focus on the interaction of monetary policy and financial stability policy.
+
+[SECTION]
+
+Views on Monetary Policy and Current Conditions
+First, my views on current monetary policy.
+
+[SECTION]
+
+I am squarely focused on our dual mandate to promote maximum employment and stable prices for the American people. I strongly agree with the point that Chair Powell has made often, which is that without price stability, the economy does not work for anyone. Price stability is crucial to achieving a sustained period of strong labor market conditions that benefit all.
+
+[SECTION]
+
+I joined the FOMC last year at a time when the headline CPI inflation was peaking at about 9 percent, and we had begun our policy response. There has been a lot of progress since tightening the stance of policy began last year. In August, the 12-month change in CPI inflation was about 3-3/4 percent. The Committee has raised the federal funds rate 5-1/4 percentage points while also reducing the Fed's securities holdings by about $1 trillion. Our strong measures have ensured that inflation expectations remain well anchored.
+
+[SECTION]
+
+While inflation has been moderating, incoming data on economic activity have shown considerably more resilience than I had expected. We are being helped by improvements in supply. I now see a higher probability than I did previously of the U.S. economy achieving a return to price stability without the degree of job losses that have typically accompanied significant monetary policy tightening cycles. However, the historical record cautions that this outcome could be quite difficult to achieve.
+
+[SECTION]
+
+Of course, the labor market is tight and the data show that employment continued to expand through August, but incoming data also suggest we are making progress on bringing labor demand and supply back into better balance. Job growth has moderated while labor force participation has continued to improve. Immigration has increased, and job vacancies have moved down toward a more normal level.
+
+[SECTION]
+
+My baseline projection is for real GDP growth to moderate to somewhat below its potential rate over the next year as restrictive monetary policy and tighter financial conditions restrain economic activity, and I expect this below-trend growth will be associated with some further softening in the labor market. As we watch how conditions evolve, I remain highly attuned to risks to achieving both components of our mandate.
+
+[SECTION]
+
+There is a robust debate about the lags of monetary policy transmission; how long it takes for past tightening to come into full effect. While these lags are difficult to estimate, I expect that the full effects of past tightening are yet to come in the months ahead. I strongly agree with what Chair Powell has said about where we are in the tightening cycle. Given how far we have come, we are now at a point where we can proceed carefully as we determine the extent of monetary policy restriction that is needed. In my view, the most important question at this point is not whether an additional rate increase is needed this year or not, but rather how long we will need to hold rates at a sufficiently restrictive level to achieve our goals. I expect it will take some time. I will continue to evaluate a range of incoming data as I make my assessments at upcoming meetings. As a part of this, I continue to track the cost and availability of credit to the economy, as I will discuss later in these remarks.
+
+[SECTION]
+
+Monetary Policy and Financial Stability
+Now let me turn to my focus today, which is the interaction of monetary policy and financial stability. Monetary policy affects the cost and quantity of credit in the economy, usually in a broad-based and gradual fashion. Financial instability, however, can affect the cost and quantity of credit in an acute and abrupt fashion. Both forces have an effect on economic activity, as the flow of credit to businesses and households is crucial for spending, hiring, and production, underpinning economic growth.
+
+[SECTION]
+
+Financial stability was a key motivation for the creation of the Federal Reserve System in 1913.2 Although the term "financial stability" wasn't in the vernacular at the time, the Fed was established in part to provide "an elastic currency"âa major concern in an era when periodic strains in the banking sector resulted in currency hoarding and widespread bank runs and failures, causing severe harm to our economy. For much of our subsequent history, however, the Federal Reserve tended to consider financial stability and monetary policy separately.3 That perspective changed considerably in the years after the Global Financial Crisis, which had many implications for how we think about financial stability and the role of the Federal Reserve. The Dodd-Frank Act was pivotal in reducing financial-sector vulnerabilities that contributed to the crisis, as were attendant reforms to capital and liquidity rules that strengthened the resiliency of the banking system.
+
+[SECTION]
+
+Financial Stability Considerations in a Low-Rate Environment 
+After the Global Financial Crisis, the Federal Reserve kept interest rates low for years to revive a badly damaged economy. Researchers, market participants, and policymakers took note of the potential for very low interest rates to encourage investors to "reach for yield"âthat is, to take increased risk in pursuing higher returns on their investments. This behavior can include taking on increased interest rate, credit, and liquidity risk. In some ways, investor reach for yield is an indication that monetary policy is helping stimulate economic activity. Lowering borrowing costs increases the expected return on any investment that is financed. This means that lower rates result in more investments or projects getting the green light. As a result, more people get jobs as economic activity increases.
+
+[SECTION]
+
+But in that environment of record low interest rates, and with the ravages of the financial crisis a fresh memory, people rightly wondered whether the incentive to reach for yield would drive excessive risk-taking, leading to a buildup in vulnerabilities that could ultimately threaten the stability of the financial system and the economy. Were those risks so considerable that financial stability concerns should be taken into consideration in making monetary policy decisions?4 At the same time, some risks were moving outside the banking system, leading some to worry that measures to build resilience at banks would miss these risks. Indeed, as then-Governor Jeremy Stein famously pointed out, monetary policy "gets in all the cracks" and therefore could push back against excessive risk-taking, not only in banks, but across the financial system.5 Despite these concerns, financial stability risks were contained until the pandemic.
+
+[SECTION]
+
+Financial Stability Consideration of Moving from Low Rates to Rising Rates 
+The pandemic resulted in an unprecedented mismatch between demand and supply, both here and abroad, and these forces were the initial impetus for high inflation. The shift from an environment of generally low and slowly adjusting rates to the rapid and near-simultaneous tightening of monetary policy around the world that began last year set the stage for additional stresses in the financial system. For example, in the United Kingdom, an initial jump in the yields on longer-maturity government bonds was amplified by distress at liability-driven investment funds. These funds had become popular with many pension funds during the low-rate period and faced a liquidity squeeze, as they had to rapidly post collateral to cover derivatives losses. This led to widespread disruptions in the gilt market last fall, requiring the Bank of England to undertake a temporary and targeted program of purchases of long-dated government bonds.6
+
+[SECTION]
+
+Here in the United States, starting in 2022, the FOMC began a period of rapid and substantial increases in the federal funds target range to combat inflation that was much too high. While most banks were well positioned to handle rate increases, higher interest rates had a severe effect on the balance sheets of banks that had not managed their interest rate risk appropriately. This mismanagement came into acute focus when Silicon Valley Bank (SVB) announced it had realized a large loss from the sale of securities that had declined in value and that it intended to raise capital to fill that hole. Uninsured depositors abruptly ran on the bankâwith actual and planned flight totaling roughly 85 percent of its deposits within 24 hoursâand it failed instantly. SVB's failure caused widespread contagion that led quickly to the failure of Signature Bank and eventually to the failure of First Republic Bank, and it posed acute stress on other banks. The stress only abated after invocation of the systemic risk exception that permitted the Federal Deposit Insurance Corporation to protect all depositors (including uninsured depositors) of the failed banks and the creation of the Bank Term Funding Program (BTFP) using the Fed's emergency lending authorities. The BTFP allowed banks to get access to Fed liquidity based on the par value of their high-quality securities at fixed rates for up to a year.
+
+[SECTION]
+
+This response helped calm conditions in the banking sector. Deposit flows returned to normal, and the prospect of a widespread and acute bank credit contraction receded. Such a contraction could well have harmed the economy and even triggered a recession. Indeed, one recent study looked at data for 46 countries over 150 years and found that episodes of bank stress are frequently followed by significant drops in bank lending and economic activity that persist for many years.7 Despite the effectiveness of our response to the March stress events, the question again arose whether monetary policy goals were in conflict with financial stability.
+
+[SECTION]
+
+Given these historical experiences, I think it is particularly important that we watch closely how both monetary policy and the effects of the March banking stress are affecting bank behavior and the provision of credit to the economy. Recent data are consistent with pressures on banks easing relative to March. Nevertheless, although deposit volatility has abated, some banks have had to turn to higher-cost funding sources to make up for lost deposits. And core loan growth appears to be relatively stagnant in banks of all sizes. While low loan growth can be explained in part by weaker demand for loans in response to higher costs of credit, it is also driven in part by banks tightening their standards, as they reported they were doing in the past several releases of the Senior Loan Officer Opinion Survey on Bank Lending Practices.8
+
+[SECTION]
+
+As we continue to track developments, we are also continuing to learn from this episode. As I have discussed in other remarks, as well as in congressional testimony, we are using lessons learned from the March episode to consider how we can both enhance our supervision and adjust our regulations as appropriate to address risks at the institutions over which we have supervisory and regulatory authority.
+
+[SECTION]
+
+A stable financial system is a necessary condition for sustainably achieving the FOMC's monetary policy goals of maximum employment and stable prices. It is critical that banks have enough capital to remain resilient to those stresses. The safety and soundness of the banking sector is paramount in achieving both our monetary policy and financial stability goals. Everyone in America depends on a safe and stable financial system that channels credit to businesses so they can grow and hire workers, and to households so they can deal with the ups and downs in the economy and invest in the future. Of course, major portions of the financial sector are not subject to federal prudential regulation. As I noted in a speech on bank capital earlier this year, we also need to worry about how risk outside the banking sector can threaten financial stability, as stress in broader financial markets is often transmitted to the banking system.9 So we need to take a broad view of financial stability.
+
+[SECTION]
+
+Perspectives from the Literature and the Policy Debate 
+Recent experience lines up with academic research. I see three basic findings.10 First, when financial intermediaries, such as banks, play the important role of channeling funds from savers to borrowers, they frequently do so through various forms of maturity and credit transformation. This transformation results in the creation of risk on their balance sheets. Issuing short-term, liquid liabilities (including uninsured deposits) to fund longer-term, less liquid assets is one example of maturity transformation. These assets, such as loans, can have a credit risk component as well. These types of activities are key aspects of how the financial system supports the economy. But they can also lead to a buildup of financial vulnerabilities. And, of course, banks also engage in trading activities with their own set of exposures to market risk, a concern for regulation and supervision.
+
+[SECTION]
+
+The second conclusion of researchers is that such financial vulnerabilities can amplify the effects of adverse shocks to the economy, as witnessed during the Global Financial Crisis.
+
+[SECTION]
+
+And third, there is some evidence that monetary policy can affect financial vulnerabilities. I described, for example, how a low-rate environment can affect investors' inclination to reach for yield and how a rising rate environment can expose poor asset-liability management.
+
+[SECTION]
+
+While there is some agreement among researchers about how monetary policy can affect the accumulation of financial vulnerabilities, there is more debate about whether monetary policy decisionmaking should be affected by concerns about financial stability. One view is that there is often a discernable tradeoff between the objectives of monetary policy and financial stability, and that monetary policy decisions should consider the consequences for the stability of the financial system.11 Another view is that there should be a strict separation of monetary policy and financial stability policy. According to this perspective, these goals are often complementary, particularly over the longer run, and even in cases when they do clash, the conflicts are short lived and better dealt with through specific and separate sets of tools. For example, Ben Bernanke, Don Kohn, and Lars Svensson, among others, have argued that the likely costs of using monetary policy to address financial stability risks outweigh the benefits.12 My view is somewhere in the middle of these two perspectives. Let me explain what I mean.
+
+[SECTION]
+
+Monetary policy is a blunt tool, affecting every individual, investor, and business. In contrast, financial stability threats can emerge from discrete parts of the financial system. Correctly calibrating monetary policy to target a financial vulnerability specific to one part of the financial system is likely not possible. Moreover, a monetary policy response, even to a broad-based search for yield, might require an increase in rates so large that it causes broad-based economic harm.13 In addition, if a segment of the financial system comes under stress but does not affect broader credit conditions, easing funding costs to the entire economy through monetary policy may not be appropriate. Targeted supervisory and regulatory action is often more effective. If financial stress is so large that it causes a macroeconomic downturn, then monetary policy and financial stability policy are well aligned, and the objective function can be clearly defined as restoring economic growth. Therefore, monetary policymakers are generally best served by focusing squarely on their macroeconomic objectives.
+
+[SECTION]
+
+That said, policymakers need to be cognizant of what is happening in the financial system and of any accumulation of financial stability risks, as these risks can be a threat to achieving the dual mandate. As the first line of defense, where we have authority, supervision and regulation are best positioned to address vulnerabilities in the financial system as they emerge. If these tools are properly deployed, these actions may be sufficient. But sometimes they won't be. Turning back to the SVB example, the bank failed because of a textbook case of mismanagement, particularly of interest rate and liquidity risk.14 The result was that the firm's collapse created financial stability risks that required emergency intervention.
+
+[SECTION]
+
+Monetary policy cannot be indifferent to financial stability risks. When financial stability events materialize, they can significantly affect both the price and quantity of credit to the economy. At that point, financial stability problems become a monetary policy concern, as they can adversely affect the flow of credit to households and businesses as well as depress economic activity.
+
+[SECTION]
+
+As I mentioned earlier, in its deliberations about monetary policy, the FOMC considers how credit conditions are affecting the economy. We receive regular briefings on financial stability risks, briefings that I find hugely valuable. But we also need to be conscious of the inherent limits in our ability to foresee how the financial system will respond to shocks given its complexity and evolving nature. Our ability to address financial stability risks has been greatly improved by the reforms of the Dodd-Frank Act and enhanced bank capital and liquidity requirements. But we can expect that the economy remains vulnerable to unanticipated shocks that affect both financial stability and economic growth. While continuing to bolster the resilience of the financial sector where we have authority to do so, we must also continue to monitor how emerging financial-sector risks may threaten the broader economy.
+
+[SECTION]
+
+Concluding Thoughts on Federal Reserve Liquidity Provision 
+I would like to wrap up my thoughts today by discussing one of the Federal Reserve's oldest tools of both monetary policy and financial stability: the discount window. I will again harken back to our founding and note that providing backstop liquidity to banks is one of the original purposes of the Federal Reserve System.15
+
+[SECTION]
+
+Today, the discount window plays an important role. Currently, the primary credit rate, which is the rate available to banks in generally sound financial condition, is set at the top of the target range for the federal funds rate. In this way, this tool, as well as the standing repo facility, which also has a rate currently set at the top of the target range, can help keep the federal funds rate within the target range established by the FOMC if pressures arise in short-term funding markets.16 For the discount window to support rate control, however, banks need to be willing and prepared to use it when other means of supporting their funding and liquidityâsuch as tapping the federal funds marketâare more expensive. I have been working to ensure that eligible institutions know that supervisors expect them to be ready and willing to use the discount window. We recently published a joint-agency message on the importance of readiness to tap contingency funding sources, including the discount window.17
+
+[SECTION]
+
+Readiness to use the discount window is also crucial when it comes to financial stability. When the system is hit with a shock that results in widespread stress, funding markets are often unable to effectively distribute liquidity. In these cases, the discount window can be particularly important both to the institutions that need liquidity and to the Federal Reserve's efforts to stop dysfunction from spreading and restore stability, but, again, only if banks do the work ahead of time and are ready and able to use it. As we saw in March, many banks found that having more than one option at the ready to monetize assets was important. Other sources of funds to banks, even the Federal Home Loan Banks, are dependent on private-sector financial market functioning to provide liquidity to their customers. When the market isn't working, such sources of funding and liquidity come under strain.18
+
+[SECTION]
+
+In contrast, even when banks find that other sources of funds are not available, the discount window can provide liquidity to every eligible institution that is prepared to use it. In this way, the discount window is an important means of supporting financial stability.
+
+[SECTION]
+
+In conclusion, monetary policy needs to be cognizant of the risks that financial stress can lead to abrupt changes in the price and quantity of credit, and thus can cause significant harm to the real economy. At the same time, focusing monetary policy decisions on macroeconomic objectives and using other tools for financial stability is likely the most prudent path. Even as we address the lessons from past financial stress, the Federal Reserve must be vigilant about potential risks to financial stability that may lie ahead. Financial institutions need to have an array of both public and private contingent funding sources immediately available to weather a variety of conditions.
+
+[SECTION]
+
+Thank you, and I am happy to take questions.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

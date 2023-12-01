@@ -1,0 +1,280 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 01, 2017
+
+[SECTION]
+
+Governor Jerome H. Powell
+
+[SECTION]
+
+At the Economic Club of New York, New York, New York
+
+[SECTION]
+
+Thank you for the opportunity to speak here at the Economic Club of New York. Today I will discuss the ongoing progress of our economy and the prospects for returning both the federal funds rate and the size of the Fed's balance sheet to more normal levels. As always, the views I express here are mine and not necessarily those of the Federal Open Market Committee (FOMC).
+
+[SECTION]
+
+Economic Developments
+The Federal Reserve is committed to fulfilling our statutory mandate of stable prices and maximum employment. To begin with the labor market, many indicators suggest that the economy is close to full employment. In April, the unemployment rate was 4.4 percent, a level not reached since May 2007 and below most current estimates of the natural rate of unemployment (figure 1).1 Estimates of the natural rate are inherently uncertain, but other labor market measures are also near their pre-crisis levels, including a broader measure of labor market underutilization that includes those who would like to work but have not recently looked for a job and those working part time who want full-time work.2 The labor force participation rate, which had declined sharply after the crisis, has now been roughly stable for 3-1/2 years, which represents an improvement against its estimated downward trend (figure 2). Participation is now close to estimates of its trend level.3
+
+[SECTION]
+
+Wage data have gradually moved up, consistent with a tightening labor market. Although average hourly earnings are rising only about 2.5 percent per year, slower than before the crisis, much of that downshift may reflect the slowdown in productivity growth we have experienced. For example, over the past three years, unit labor costs--that is, nominal wages adjusted for increases in productivity--have been generally rising a bit faster than prices.4
+
+[SECTION]
+
+Turning to inflation, the FOMC interprets price stability to mean inflation of 2 percent as measured by the price index for personal consumption expenditures (PCE).5 This objective is symmetric, so the Committee would be concerned if inflation were to run persistently above or below this target. Inflation has run below 2 percent for most of the period since the financial crisis, reflecting generally soft economic conditions as well as transitory factors such as the earlier declines in energy prices. But over the past two years, inflation has moved gradually closer to our objective. Prices rose 1.6 percent over the 12 months ending in April, compared with only 0.2 percent two years earlier (figure 3). But much of that movement reflects price changes in the often-volatile energy and food components of the index. Core inflation, which excludes food and energy prices, has proven historically to be a better indicator of where overall inflation is heading, although it, too, can be affected by transitory factors such as import prices. Core inflation was 1.5 percent for the 12 months through April. This measure has also risen since 2015, although its gradual increase appears to have paused because of weak inflation readings for March and April. Some of the recent weakness can be explained by transitory factors. And there are good reasons to expect that inflation will resume its gradual rise. Incoming spending data have been relatively strong, and the labor market should continue to tighten, exerting some upward pressure on wages and prices. Nonetheless, it is important that the Committee assess incoming inflation data carefully and continue to demonstrate a strong commitment to achieving our symmetric 2 percent objective.
+
+[SECTION]
+
+Despite strong job gains, very weak productivity gains have led to disappointingly slow economic growth of only about 2 percent over the course of this expansion (figure 4). While monetary policy can contribute to growth by supporting a durable expansion in a context of price stability, it cannot reliably affect the long-run sustainable level of the economy's growth.6 The success of monetary policy should be judged by the economy's performance against our statutory mandates of price stability and maximum employment. Today, the economy is as close to our assigned goals as it has been for many years (figure 5).
+
+[SECTION]
+
+My baseline expectation is that the economy will continue on a path of growth of about 2 percent, strong job creation and tightening labor markets, and inflation moving up toward our 2 percent target. I expect that unemployment will decline a bit further and remain at low levels for some time, which could draw more workers into the workforce, put upward pressure on wages, or cause businesses to invest more as labor costs rise, all of which I would view as desirable outcomes. Risks to the forecast now seem more balanced than they have been for some time. In particular, the global picture has brightened as growth and inflation have broadly moved up for the first time in several years. Here at home, risks seem both moderate and balanced, including the downside risk of lower inflation and the upside risk of labor market overheating.
+
+[SECTION]
+
+Monetary Policy Normalization
+The healthy state of our economy and favorable outlook suggest that the FOMC should continue the process of normalizing monetary policy. The Committee has been patient in raising rates, and that patience has paid dividends. While the recent performance of the labor market might warrant a faster pace of tightening, inflation has been below target for five years and has moved up only slowly toward 2 percent, which argues for continued patience, especially if that progress slows or stalls. If the economy performs about as expected, I would view it as appropriate to continue to gradually raise rates. I would also see it as appropriate to begin the process of reducing the size of the balance sheet later this year. Of course, both decisions will depend on the performance of the economy.
+
+[SECTION]
+
+To put this process in context, consider where we have come from. Ten years ago, in the summer of 2007, we were just entering the most painful economic crisis since the Great Depression. The crisis and its aftermath prompted large-scale policy interventions by the Federal Reserve and other authorities to avert the collapse of the financial system and prevent the economy from spiraling into depression.
+
+[SECTION]
+
+Most of the Federal Reserve's targeted financial measures--such as liquidity facilities to ensure the flow of credit to households and businesses--were withdrawn soon after the crisis as orderly conditions resumed in financial markets. In contrast, the FOMC's easing of monetary policy increased over time as the longer-term economic effects of the crisis gradually became clear. From 2007 through 2013, the FOMC added ever greater support for the economy.7 From late 2008, with rates pinned at the zero lower bound, the Committee resorted to unconventional policies to put additional downward pressure on long-term rates, including strong calendar-based forward guidance regarding the likely future path of the federal funds rate, and several rounds of large-scale asset purchases (often referred to as quantitative easing (QE)).8
+
+[SECTION]
+
+Both the federal funds rate and the balance sheet are currently set at levels intended to provide significant support to economic activity. Normalization of the stance of monetary policy will return both tools to a more neutral setting over time. That process can be said to have begun in 2014, when the FOMC ended its asset purchases and began active discussions on lifting the federal funds rate from its lower bound.9 Our first rate hike came in December 2015, with another in December 2016, and one additional increase so far this year. The normalization process is projected to have several years left to run.
+
+[SECTION]
+
+In the case of the federal funds rate, the endpoint of that process will occur when our target reaches the long-run neutral rate of interest. Estimates of that rate are subject to significant uncertainty. The median estimate of its level by FOMC participants in March was 3 percent, more than a full percentage point below pre-crisis estimates. This decline in the long-run neutral rate, and an even larger decline in the short-run neutral rate, imply that even the very low rates of recent years may be providing less support to the economy than may appear. At present, the median FOMC participant estimates that we will reach a long-run neutral level by year-end 2019 if the economy performs about as expected (figure 6).
+
+[SECTION]
+
+The Balance Sheet
+In September 2014, the FOMC outlined its plans for the balance sheet. That initial guidance has been supplemented over time in other FOMC communications, most recently in the minutes of the May meeting. Here is a summary of the key points:
+
+[SECTION]
+
+Taken together, the Committee's communications present the broad outline of our likely approach to normalizing the balance sheet. Although the process of normalizing the size of the balance sheet will be in the background, that process will interact with the Committee's decisions regarding the federal funds rate. As the Fed's balance sheet shrinks, so debt held by the public will grow, which in theory should tighten financial conditions by putting upward pressure on long-term rates. Any such tightening could affect the Committee's decisions on the federal funds rate. But how big is this effect likely to be?
+
+[SECTION]
+
+Model-based approaches to that question estimate changes to financial conditions through increases in the term premium as the balance sheet shrinks. These estimates vary but are generally modest.16 One reason is that, for several years, the FOMC has signaled its intention to normalize the balance sheet as economic conditions allow, and so some of the effects of normalization should already be priced in. A recent research paper by Federal Reserve staff estimated that unconventional policies are holding down term premiums by about 100 basis points, but that these effects should decline to about 85 basis points by the end of 2017 as market participants see the normalization process approaching.17 The same approach suggests that bringing forward the date of the start of the anticipated phasing out of the Federal Reserve's reinvestments from mid-2018 to the end of 2017 should have raised the term premium by only about 5 basis points.18 Of course, markets sometimes react quite differently than expected, as the 2013 taper tantrum showed.
+
+[SECTION]
+
+The market's response to recent changes in expectations for reinvestment policy also suggests that there need not be a major reaction when the Committee begins to phase out reinvestments. Long-term rates did not react strongly to the reinvestment discussions in the minutes for the FOMC's March and May meetings, which led market participants to bring forward their expectations about the starting date for this process by about six months (figure 7).19 A recent survey of economists also suggests that they expect that a gradual, well-telegraphed reduction in the Fed's balance sheet should have modest effects.20 These results augur well for an orderly phaseout of reinvestments. If changes to reinvestment policy do tighten financial conditions more than anticipated, then I expect that the FOMC would take that into account.
+
+[SECTION]
+
+The Long-Run Framework
+Over the next few years, the runoff of assets acquired through QE is expected to reduce the balance sheet substantially below its current level of $4.5 trillion. In the long run, the ultimate size of the balance sheet will depend mainly on the demand for Federal Reserve liabilities--currency, reserves, and other liabilities--and on the Committee's long-run framework for setting interest rates.21
+
+[SECTION]
+
+The next slide compares the Fed's balance sheet of May 2007 with that of May 2017 (figure 8). On the asset side, the balance sheet increased by about $3.5 trillion as the FOMC acquired securities in its QE programs. These assets were matched on the liability side of the Federal Reserve's balance sheet by a $2.2 trillion increase in reserve balances held by commercial banks, a $700 billion increase in currency outstanding, and a $500 billion increase in other liabilities.
+
+[SECTION]
+
+As can be seen more clearly in the next slide, prior to the crisis, currency was the Fed's main liability (figure 9). Currency outstanding has nearly doubled over the past 10 years to $1.5 trillion, growing at a compound annual rate of 6.8 percent. This growth reflects strong domestic and international demand for U.S. currency, which is expected to continue. The eventual level of demand for reserves is less certain but is highly likely to exceed pre-crisis levels when reserve balances averaged only about $15 billion. Reserves are the ultimate "safe asset," and demand for safe assets has increased substantially over time because of long-run trends, including regulatory requirements. Other liabilities include the Treasury General Account, the foreign repurchase agreement (or repo) pool, balances held at the Fed by designated financial market utilities, and other items.
+
+[SECTION]
+
+To gain a sense of the possible long-run size of the balance sheet, the next slide shows simulations under three different assumptions for the ultimate level of reserve balances: $100 billion, $600 billion, and $1 trillion (figure 10).22 These simulations show that, due to the growth of currency and other liabilities, the balance sheet will remain considerably above its pre-crisis levels even if reserves were to fall back to $100 billion (the black line). At its current growth rate, currency in circulation would reach $2 trillion by 2022 and $2.8 trillion in 2027. Even in the low case in which reserves decline to $100 billion, our balance sheet would be about $2.4 trillion in 2022 and would grow from there in line with currency demand. If the long-run level of reserves is $600 billion in 2022, then the balance sheet would be about $2.9 trillion.23
+
+[SECTION]
+
+The appropriate long-run level of reserves will also depend on the operating framework the Committee chooses. Before the crisis, reserves were scarce, and the Committee used open market operations to control the federal funds rate by managing reserve supply. This process was operationally and resource intensive for the Desk and its counterparties. As a consequence of QE, however, reserves have been highly abundant and will remain so for some years. To affect financial conditions, the Federal Reserve has therefore used administered rates, including the interest rate paid on excess reserves (IOER) and, more recently, the offering rate of the overnight reverse repurchase agreement (ON RRP) facility. This approach, sometimes referred to as a "floor system," is simple to operate and has provided good control over the federal funds rate. In November 2016, when the Committee discussed using a floor system as part of its longer-run framework, I was among those who saw such an approach as "likely to be relatively simple and efficient to administer, relatively straightforward to communicate, and effective in enabling interest rate control across a wide range of circumstances."24
+
+[SECTION]
+
+Some have advocated a return to a framework similar to the pre-2007 system, in which the volume of reserves would likely be far below its present level and the federal funds rate would be managed by frequent open market operations.25 This "corridor" framework remains a feasible option, although, in my view, it may be less robust over time than a floor system.
+
+[SECTION]
+
+Concluding Remarks
+After a tumultuous decade, the economy is now close to full employment and price stability. The problems that some commentators predicted have not come to pass. Accommodative policy did not generate high inflation or excessive credit growth; rather, it helped restore full employment and return inflation closer to our 2 percent goal. The current discussions of the normalization of monetary policy are a result of that success.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Accessible Version
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

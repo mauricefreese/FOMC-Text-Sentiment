@@ -1,0 +1,275 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 09, 2013
+
+[SECTION]
+
+Governor Elizabeth A. Duke
+
+[SECTION]
+
+At the Housing Policy Executive Council, Washington, D.C.
+
+[SECTION]
+
+Since joining the Board in 2008 amid a crisis centered on mortgage lending, I have focused much of my attention on housing and mortgage markets, issues surrounding foreclosures, and neighborhood stabilization. In March of this year, I laid out my thoughts on current conditions in the housing and mortgage markets in a speech to the Mortgage Bankers Association.1 Today I will summarize and update that information with a focus on mortgage credit conditions. Before I proceed, I should note that the views I express are my own and not necessarily those of my colleagues on the Board of Governors or the Federal Open Market Committee.
+
+[SECTION]
+
+A sustained recovery in the housing market appears to be under way. House prices, as measured by a variety of national indexes, have risen 6 to 11 percent since the beginning of 2012 (figure 1).2 The recovery of house prices has been broad based geographically, with 90 percent of local markets having experienced price gains over the year ending in February. Also since the beginning of 2012, housing starts and permits have risen by nearly 30 percent (figure 2), while new and existing home sales have also seen double-digit growth rates. Homebuilder sentiment has improved notably, and real estate agents report stronger traffic of people shopping for homes (figure 3).3 In national surveys, households report that low interest rates and house prices make it a good time to buy a home; they also appear more certain that house price gains will continue (figure 4).4
+
+[SECTION]
+
+Despite the recent gains, the level of housing market activity remains low. Existing home sales are currently at levels in line with those seen in the late 1990s, while single-family starts and permits are at levels commensurate with the early 1990s. And applications for home-purchase mortgages, as measured by the Mortgage Bankers Association index, were at a level in line with that of the mid-1990s (figure 5). The subdued level of mortgage purchase originations is particularly striking given the record low mortgage rates that have prevailed in recent years.
+
+[SECTION]
+
+The drop in originations has been most pronounced among borrowers with lower credit scores. For example, between 2007 and 2012, originations of prime purchase mortgages fell about 30 percent for borrowers with credit scores greater than 780, compared with a drop of about 90 percent for borrowers with credit scores between 620 and 680 (figure 6).5 Originations are virtually nonexistent for borrowers with credit scores below 620. The distribution of credit scores in these purchase origination data tells the same story in a different way: The median credit score on these originations rose from 730 in 2007 to 770 in 2013, whereas scores for mortgages at the 10th percentile rose from 640 to 690 (figure 7).
+
+[SECTION]
+
+Many borrowers who have faced difficulty in obtaining prime mortgages have turned to mortgages insured or guaranteed by the Federal Housing Administration (FHA), the U.S. Department of Veterans Affairs (VA), or the Rural Housing Service (RHS). Data collected under the Home Mortgage Disclosure Act indicate that the share of purchase mortgages guaranteed or insured by the FHA, the VA, or the RHS rose from 5 percent in 2006 to more than 40 percent in 2011 (figure 8).6 But here, too, loan originations appear to have contracted for borrowers with low credit scores. The median credit score on FHA purchase originations increased from 625 in 2007 to 690 in 2013, while the 10th percentile has increased from 550 to 650 (figure 9).7
+
+[SECTION]
+
+Part of the contraction in loan originations to households with lower credit scores may reflect weak demand among these potential homebuyers. Although we have little data on this point, it may be the case that such households suffered disproportionately from the sharp rise in unemployment during the recession and thus have not been in a financial position to purchase a home.
+
+[SECTION]
+
+There is evidence that tight mortgage lending conditions may also be a factor in the contraction in originations. Data from lender rate quotes suggest that almost all lenders have been offering quotes (through the daily "rate sheets" provided to mortgage brokers) on mortgages eligible for sale to the government-sponsored enterprises (GSEs) to borrowers with credit scores of 750 over the past two years.8 Most lenders have been willing to offer quotes to borrowers with credit scores of 680 as well. Fewer than two-thirds of lenders, though, are willing to extend mortgage offers to consumers with credit scores of 620 (figure 10).9 And this statistic may overstate the availability of credit to borrowers with lower credit scores: The rates on many of these offers might be unattractive, and borrowers whose credit scores indicate eligibility may not meet other aspects of the underwriting criteria.
+
+[SECTION]
+
+Tight credit conditions also appear to be part of the story for FHA-insured loans. In the Federal Reserve's October 2012 Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS), one-half to two-thirds of respondents indicated that they were less likely than in 2006 to originate an FHA loan to a borrower with a credit score of 580 or 620 (figure 11). Standards have tightened a bit further since: In the April 2013 SLOOS, about 30 percent of lenders reported that they were less likely than a year ago to originate FHA mortgages to borrowers with a credit score of 580 or 620 (figure 12).10
+
+[SECTION]
+
+The April SLOOS offers some clues about why mortgage credit is so tight for borrowers with lower credit scores. Banks participating in the survey identified a familiar assortment of factors as damping their willingness to extend any type of loan to these borrowers: the risk that lenders will be required to repurchase defaulted loans from the GSEs ("putback" risk), the outlook for house prices and economic activity, capacity constraints, the risk-adjusted opportunity cost of such loans, servicing costs, balance sheet or warehousing capacity, guarantee fees charged by the GSEs, borrowers' ability to obtain private mortgage insurance or second liens, and investor appetite for private-label mortgage securitizations. Respondents appeared to put particular weight on GSE putbacks, the economic outlook, and the risk-adjusted opportunity cost. In addition, several large banks cited capacity constraints and borrowers' difficulties in obtaining private mortgage insurance or second liens as at least somewhat important factors in restraining their willingness to approve such loans.
+
+[SECTION]
+
+Over time, some of these factors should exert less of a drag on mortgage credit availability. For example, as the economic and housing market recovery continues, lenders should gain confidence that mortgage loans will perform well, and they should expand their lending accordingly.
+
+[SECTION]
+
+Capacity constraints will likely also ease. Refinancing applications have expanded much more over the past year and a half than lenders' ability to process these loans. For example, one measure of capacity constraints--the number of real estate credit employees--has only edged up over this period (figure 13). When capacity constraints are binding, lenders may prioritize the processing of easier-to-complete or more profitable loan applications. Indeed, preliminary research by the Board's staff suggests that the increase in the refinance workload during the past 18 months appears to have been associated with a 25 to 35 percent decrease in purchase originations among borrowers with credit scores between 620 and 680 and a 10 to 15 percent decrease among borrowers with credit scores between 680 and 710.11 Any such crowding-out effect should start to unwind as the current refinancing boom decelerates.
+
+[SECTION]
+
+Other factors holding back mortgage credit, however, may be slower to unwind. As the SLOOS results indicate, lenders remain concerned about putback risk. The ability to hold lenders accountable for poorly underwritten loans is a significant protection for taxpayers. However, if lenders are unsure about the conditions under which they will be required to repurchase loans sold to the GSEs, they may shy away from originating loans to borrowers whose risk profiles indicate a higher likelihood of default. The Federal Housing Finance Agency launched an important initiative last year to clarify the liabilities associated with representations and warranties, but, so far, putback risk appears to still weigh on the mortgage market.
+
+[SECTION]
+
+Mortgage servicing standards, particularly for delinquent loans, are more stringent than in the past due to settlement actions and consent orders. Servicing rules recently released by the Consumer Financial Protection Bureau (CFPB) will extend many of these standards to all lenders.12 These standards remedy past abuses and provide important protections to borrowers, but also increase the cost of servicing nonperforming loans. This issue is compounded by current servicing compensation arrangements under which servicers receive the same fee for the routine processing of current loans as they do for the more expensive processing of delinquent loans. This model--especially in conjunction with higher default-servicing costs--gives lenders an incentive to avoid originating loans to borrowers who are more likely to default. A change to servicer compensation models for delinquent loans could alleviate some of these concerns.
+
+[SECTION]
+
+Government regulations will also affect the cost of mortgage credit. In January, the CFPB released rules, in addition to those for servicing standards, on ability-to-repay requirements, the definition of a qualified mortgage (QM), and loan originator compensation.13 The Federal Reserve and other agencies are in the process of moving forward on proposed rulemakings that would implement revised regulatory capital requirements and the requirements for risk retention mandated by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, which include an exemption for mortgages that meet the definition of qualified residential mortgages (QRM).
+
+[SECTION]
+
+As the regulatory capital and risk retention requirements are still under deliberation, I won't comment on these regulations today. However, I will share a few thoughts on the possible effects of the QM rulemaking on access to credit.
+
+[SECTION]
+
+As background, the QM rule is part of a larger ability-to-repay rulemaking that requires lenders to make a reasonable and good faith determination that the borrower can repay the loan. The rulemaking addresses the lax underwriting practices that flourished during the housing boom by setting minimum underwriting standards and by providing borrowers with protections against lending abuses. In particular, borrowers can sue the lender for violations of the ability-to-repay rules and claim monetary damages. If the original lender sells or securitizes the loan, the borrower can claim these damages at any time in a foreclosure action taken by the lender or any assignee. If the mortgage meets the QM standard, however, the lender receives greater protection from such potential lawsuits because it is presumed that the borrower had the ability to repay the loan.
+
+[SECTION]
+
+Loans that fall outside the QM standard may be more costly to originate than loans that meet the standard for at least four reasons, all else being equal. The first reason is the possible increase in foreclosure losses and litigation costs. Although these costs, in the aggregate, are expected to be small, their full extent will not be known until the courts settle any ability-to-repay suits that may be brought forward.14 The second reason is that mortgages that do not meet the QM definition will also not qualify as QRMs, so lenders will be required to hold some of the risk if these loans are securitized.15 The third reason is that loan originators will have better information than investors on the quality of the underwriting decision. Investors may demand a premium to compensate them for the concern that originators might sell them the loans most vulnerable to ability-to-repay lawsuits. The fourth reason is that the non-QM market, at least initially, may be small and illiquid, which would increase the cost of these loans.
+
+[SECTION]
+
+The higher costs associated with non-QM loans should have very little effect on access to credit in the near term because almost all current mortgage originations meet the QM standard. The vast majority of current originations are eligible to be purchased, insured, or guaranteed by Fannie Mae, Freddie Mac, the FHA, the VA, or the RHS. These loans are classified as QMs under the rule.16 The small proportion of mortgages originated at present outside of these programs, for the most part, are being underwritten to tight standards consistent with the QM definition.
+
+[SECTION]
+
+As lender risk appetite increases and private capital returns to the mortgage market, a larger non-QM market should start to develop. Two aspects of the QM rule, though, may make this market slow to develop for borrowers with lower credit scores. First, the QM requirement that borrower payments on all debts and some recurring obligations must be 43 percent or less of borrower income may disproportionately affect less-advantaged borrowers.17  Board staff tabulations based on the Survey of Consumer Finances indicate that such households tend to have lower incomes, fewer financial assets, and higher mortgage loan-to-value ratios than households with lower payment ratios (figure 14).18
+
+[SECTION]
+
+Second, the QM definition affects lenders' ability to charge for the risks of originating loans to borrowers who are more likely to default. For example, lenders may in general compensate for this risk by charging a higher interest rate on the loan. However, if lenders originate a first-lien QM with an annual percentage rate that is 150 basis points or more above the rate available to the highest-quality borrowers, lenders receive less protection against lawsuits claiming violation of the ability-to-repay and QM rules.19 Lenders who prefer to price for risk through points and fees face the constraint that points and fees on a QM loan may not exceed 3 percent of the loan amount, with higher caps available for loans smaller than $100,000. The extent to which these rules regarding rates, points, and fees will damp lender willingness to originate mortgages to borrowers with lower credit scores is still unclear.
+
+[SECTION]
+
+To summarize, the housing market is improving, but mortgage credit conditions remain quite tight for borrowers with lower credit scores. And the path to easier credit conditions is somewhat murky. Some of the forces damping mortgage credit availability, such as capacity constraints and concerns about economic conditions or house prices, are likely to unwind through normal cyclical forces. However, resolution of lender concerns about putback risk or servicing cost seems less clear. These concerns could be reduced by policy changes. For example, the structure of liability for representations and warrantees could be modified. Or servicing compensation could be changed to provide higher compensation for the servicing of delinquent loans. Or lenders might find ways to reduce their exposure to putback risk or servicing cost by strengthening origination and servicing platforms. New mortgage regulations will provide important protections to borrowers but may also lead to a permanent increase in the cost of originating loans to borrowers with lower credit scores. It will be difficult to determine the ultimate effect of the regulatory changes until they have all been finally defined and lenders gain familiarity with them.
+
+[SECTION]
+
+The implications for the housing market are also murky. Borrowers with lower credit scores have typically represented a significant segment of first-time homebuyers. For example, in 1999, more than 25 percent of first-time homebuyers had credit scores below 620 compared with fewer than 10 percent in 2012 (figure 15).20 Although I expect housing demand to expand along with the economic recovery, if credit is hard to get, much of that demand may be channeled into rental, rather than owner-occupied, housing.
+
+[SECTION]
+
+At the Federal Reserve, we continue to foster more-accommodative financial conditions and, in particular, lower mortgage rates through our monetary policy actions. We also continue to monitor mortgage credit conditions and consider the implications of our rulemakings for credit availability. For your part, I urge you to continue to develop new and more sustainable business models for lending to lower-credit-score borrowers that lead to better outcomes for borrowers, communities, and the financial system than we have experienced over the past few years.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

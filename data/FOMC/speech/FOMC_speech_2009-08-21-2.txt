@@ -1,0 +1,371 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 21, 2009
+
+[SECTION]
+
+Brian F. Madigan, Director, Division of Monetary Affairs
+
+[SECTION]
+
+At the Federal Reserve Bank of Kansas City's Annual Economic Symposium, Jackson Hole, Wyoming
+
+[SECTION]
+
+As a result of the developments of the past two years, the appropriate scope of central bank policy actions in a crisis is now a matter of significant public discussion, one that is taking place in the context of a wider debate over financial regulatory reform. For central bankers, however, the essential principles guiding their actions are long-standing and well established. In considering the appropriate central bank response to a financial crisis, monetary economists have long appealed to the insights that Walter Bagehot set forth in Lombard Street.1 Paul Tucker, for example, recently summarized Bagehot's dictum as follows: "[T]o avert panic, central banks should lend early and freely (ie without limit), to solvent firms, against good collateral, and at 'high rates.' "2
+
+[SECTION]
+
+Bagehot's dictum is well founded: By lending freely, the central bank may be able to quell powerful panic-driven demands for liquidity and their potentially untoward effects on the economy. Providing a virtually unlimited source of liquidity to institutions can avert the fire sales that can lead to decreases in asset values, reductions in wealth, and ultimately to a costly contraction in economic activity. And providing liquidity can enable a continuation of the lending by financial institutions that is necessary to support activity at the economy's potential. We might call this the macroeconomic rationale for Bagehot's dictum--promoting the full employment of resources.
+
+[SECTION]
+
+At the same time, Bagehot's dictum can be viewed as having a sound foundation in microeconomics--one directed at promoting the efficient allocation of resources. By lending only to solvent firms, by lending only against good collateral, and by charging a penalty rate, central banks can limit the moral hazard and other distortionary effects of government intervention in private financial markets that can impair the efficiency of the economy. Specifically, lending only to sound institutions and lending only against good collateral sharpens firms' incentive to invest prudently in order to remain solvent. And lending only at a penalty rate preserves the incentive for borrowers to obtain market funding when it is available rather than seeking recourse to the central bank.3 Maintaining these incentives to the greatest extent possible helps promote the efficient allocation of society's resources.
+
+[SECTION]
+
+However, these principles need to be interpreted and applied in the real world in which central banks actually operate, one with grey areas and practical considerations. My remarks are intended to articulate some of the challenges that the Federal Reserve has faced in the current crisis as it has struggled to apply established principles of central banking and use its available tools to support economic growth and avoid distortions in the allocation of resources. I also draw lessons from that experience that can be applied toward the formulation of policies relevant to future crises. Of course, the standard disclaimer applies: The views that I am about to express are not necessarily shared by the Board, the Federal Open Market Committee, or other staff members at the Federal Reserve.4
+
+[SECTION]
+
+Federal Reserve Liquidity Actions during the Crisis: Traditional Central Banking?One of the key questions that surfaced in the financial crisis is, To whom should central banks lend? According to the quote I cited a minute ago, Paul Tucker's interpretation of Bagehot's view is fairly broad: Central banks are to lend to solvent firms. What is notable about Tucker's formulation is that it is not restricted to banks. In this respect, Tucker's characterization seems to be true to Bagehot. A typically pithy passage from Bagehot makes his perspective quite clear.
+
+[SECTION]
+
+Quite evidently, Bagehot saw few limitations on the appropriate counterparties of a central bank in a financial crisis.
+
+[SECTION]
+
+In the modern era, central banks in market economies generally do not engage in routine lending to institutions that do not have a banking charter. When financial markets and institutions are functioning normally, a central bank has no need to extend credit to nonbank institutions. Extending credit to nonbank firms is held in normal times to be the job of commercial banks and other private lenders. In contrast, the task of a central bank in such circumstances is to ensure that short-term interest rates and the aggregate quantity of money and credit are suitable to promote macroeconomic objectives such as maximum employment and stable prices, primarily using market-based tools like open market operations. Central banks can accomplish this task by restricting their usual lending operations to banks, leaving the allocation of credit across banks and in the broader economy to market mechanisms.
+
+[SECTION]
+
+However, the absence of a routine reason for lending to nonbank institutions does not mean that central banks never need the authority to lend to such entities. Bagehot clearly saw this point. His remark that central banks must be prepared to lend to "this man and that man" implies that he drew no sharp distinctions among potential recipients of central bank funding in a panic.
+
+[SECTION]
+
+And indeed, from the very beginning of this crisis, events have demonstrated the potential for losses among nonbank firms to lead to systemic disruptions. For example, large redemptions from three funds operated by BNP Paribas, coupled with illiquid conditions in the markets for their assets, prompted the bank to shutter those funds on August 9, 2007, a development that was the immediate cause of intense money market pressures on that first day of the crisis. Over the course of the crisis, many other nonbank entities, including money market funds, conduits, structured investment vehicles, investment banks, and other financial firms experienced what amounted to bank runs. The resulting strains were felt immediately in bank funding markets as well, with rising rate spreads and sharply reduced liquidity, especially for term borrowing, as counterparty credit concerns mounted.
+
+[SECTION]
+
+Lending to Commercial Banks and Other Depository InstitutionsThe Federal Reserve and other central banks initially responded to the panic through the most traditional channels, by stepping up the provision of reserves to banks through open market operations and by increasing the availability and decreasing the cost of liquidity made available to banks through discount mechanisms. However, those steps appeared to have only limited success in stemming the panic, in part because banks were reluctant to use central banks' lending facilities. Indeed, one of the important practical difficulties that confronted the Federal Reserve early in the crisis--and one that appears not to have been anticipated by Bagehot--was the unwillingness of many banks to draw discount window credit because of concerns about stigma.
+
+[SECTION]
+
+That unwillingness threatened to undermine the effectiveness of central bank action to combat the crisis. And it was an important motivation behind the decision of the Federal Reserve to establish the Term Auction Facility (TAF) as a means of providing a large volume of term funding to banks through an auction mechanism. The Federal Reserve expected that providing funds through an auction, in which no individual institution can have any assurance of winning funds and where settlement takes place with a lag, would have much less stigma than a standing facility. Other central banks took similar actions in association with the Federal Reserve's establishment of the TAF, importantly by lending dollars obtained through swap lines arranged with the Federal Reserve. Various researchers have investigated the effectiveness of the TAF, but the econometric results have been diffuse because of thorny econometric identification problems.6 However, it is difficult to believe that meeting bank demands for more than $1 trillion in dollar funding through the TAF and comparable foreign arrangements, in conjunction with the broad range of other central bank and government interventions, did not play an important role in stabilizing the financial system.7
+
+[SECTION]
+
+Lending to Primary Dealers and Investment BanksAlthough the TAF and related actions were successful in overcoming some banks' concerns about stigma and increasing the availability of term funding to the banking system, particularly over the critical period at year-end 2007, economic conditions continued to weaken, asset prices kept declining, and market volatility stayed elevated. By early 2008, the pressures on financial institutions began to have a distinct adverse effect on primary dealers--highly leveraged firms many of which hold a substantial volume of relatively illiquid, long-term assets financed largely through the market for short-term repurchase (repo) agreements. In the environment of volatile and declining asset values, the required "haircuts" on repo agreements were ratcheting higher, putting pressure on dealers to delever quickly through fire sales of assets; but the fire sales only exacerbated market illiquidity, volatility, and price declines. The failure of a major primary dealer could have meant substantial losses for repo investors, such as money market funds and securities lenders, a development that, in turn, could have led to broader difficulties in the money markets, such as disruption of the commercial paper market, and thus ultimately to serious economic consequences.
+
+[SECTION]
+
+In mid-March 2008, Bear Stearns became unable to secure adequate market financing, and some other primary dealers were approaching a similar condition. To address what was rapidly becoming a very unstable situation, the Federal Reserve provided credit to support the acquisition of Bear Stearns by JPMorgan Chase and created two facilities for lending to primary dealers more broadly, the Primary Dealer Credit Facility (PDCF) and the Term Securities Lending Facility (TSLF). Because these facilities involved the extension of credit to nondepository institutions, their establishment required the Federal Reserve Board to invoke its authorities under section 13(3) of the Federal Reserve Act, and in particular to make a determination that "unusual and exigent circumstances" were present--the first time in decades that the section 13(3) authority had been used.8
+
+[SECTION]
+
+In lending under the PDCF and the TSLF, the Federal Reserve's actions are quite consistent with the principles attributed to Bagehot. The Fed lends to firms that are judged to be solvent; by applying haircuts to the market value of securities, it ensures that it is lending against good collateral; and, particularly under the PDCF, the Fed extends credit at interest rates that would be above-market in more routine circumstances. As under the TAF, TSLF funding is provided through an auction mechanism and at an auction-determined price, a structure that seems to have greatly reduced the problem of stigma.
+
+[SECTION]
+
+Rather than lending directly to primary dealers, why couldn't the Federal Reserve maintain its routine lending practices and rely on the usual separation principle under which it lends to commercial banks, and commercial banks in turn lend to nonbank firms such as solvent broker-dealers? After decades of lending only to depository institutions, why did the Federal Reserve suddenly find it necessary in March 2008 to begin lending to broker-dealers?
+
+[SECTION]
+
+Very simply, it was because the financial system and the economy experienced a huge--perhaps unprecedented--adverse shock that exposed numerous weaknesses in the financial system. The aggregate value of the housing stock and other assets was in the process of declining by trillions of dollars from peak levels, implying massive losses for financial intermediaries that had lent against such collateral, especially for those that had large exposures to poorly underwritten loans. Given the extent of such losses, and the uncertainty about their exact incidence, concerns about counterparty credit risk and lending firms' own solvency and liquidity increased dramatically. As a result, lending, arbitrage, and, more generally, market functioning broke down across a broad front. Without a liquidity provider of last resort, that breakdown in market functioning likely would have implied the disorderly failure of a number of primary dealers. Given their large size and interconnections within the financial system, that development would probably have cascaded across markets and institutions, with attendant severe adverse effects on credit availability and the economy. It is also worth recalling that over the first seven months of the crisis, the Federal Reserve responded using essentially its traditional arsenal; but that arsenal eventually proved inadequate given the magnitude of the current shock and the way that it was being transmitted through the entire financial system.
+
+[SECTION]
+
+The scope for rapid and unchecked transmission of the shock was increased by changes in financial structure that had developed gradually over preceding years. In particular, investment banks and other primary dealers on the one hand and commercial banks on the other had become more similar. For example, investment banks had moved away from a model under which their assets were primarily an inventory of relatively liquid securities to one in which they held an appreciable amount of relatively illiquid assets such as structured notes and loans they had originated or purchased. At the same time, they continued to finance themselves primarily through deposit-like short-term repo agreements and used substantial amounts of leverage. The model of financing relatively illiquid, longer-term assets with short-term borrowing is, of course, the commercial banking model. Meanwhile, some larger commercial banks had adopted business approaches--more specifically, the originate-to-distribute model--that resembled the operation of investment banks; this business strategy involved relatively less reliance on traditional retail deposit funding and a greater dependence on securitization markets. Moreover, the funding of AAA-rated tranches of securitizations was often provided by conduits that were supported by the originators of the underlying securities. When securitization markets came under increasing strain and ultimately ceased to function altogether, all entities that relied on such markets for funding were exposed. With the relevant economic characteristics of large commercial banks and large investment banks more similar than different, it made little sense to draw sharp distinctions between commercial banks and investment banks in terms of their access to central bank liquidity during the crisis. Still, the Federal Reserve recognized that differences in the supervisory regimes applied to commercial banks and investment banks raised greater issues of moral hazard in lending to investment banks.
+
+[SECTION]
+
+As I have noted, the Federal Reserve's initial response to the crisis was consistent with the traditional model of bank-centered intermediation--in effect, it was driven by the Federal Reserve's statutory authority that governs its routine operations and by its established practice. In the wake of a smaller shock, that response might have been sufficient. But the financial system was broadly dysfunctional. And because of their own credit, capital, and liquidity problems, commercial banks simply were unable to act as the channel through which the central bank could provide liquidity sufficient to support the entire financial system. In these circumstances, the choice was stark: Lend to nonbank financial firms, something that had not been undertaken in decades, with the hope and expectation that such action would be sufficient to stave off financial collapse; or refuse to lend and accept almost certain systemic failure.
+
+[SECTION]
+
+Terms of Central Bank LendingBagehot instructs us to lend at a high rate, and central banks generally seek to lend at a penalty rate in their standing facilities. The motivation that Bagehot had in mind was to avoid unnecessary draws on a limited stock of central bank liquidity, which is not a consideration in modern central banking. But pricing the facilities at a penalty rate has the added virtue of building an "exit strategy" into the structure of the programs. In pricing the PDCF, the Federal Reserve followed Bagehot's instruction by setting the interest rate on PDCF credit at the primary credit rate charged to depository institutions. As financial markets have improved and that rate has come increasingly to represent a penalty relative to rates available in the market, the usage of the PDCF has fallen to zero.
+
+[SECTION]
+
+Despite Bagehot's advice to lend broadly, practicability requires that central banks not lend to all firms, or even all financial institutions, either in routine circumstances or in a crisis. Rather, central banks generally need to establish eligibility for their facilities using some sharply defined criteria--for example, a banking charter, designation as a primary dealer, and so on--in order to avoid an untenable situation in which it may appear that individual firms are arbitrarily allowed or denied access. But because firms are heterogeneous, central banks also have to accept that, as a practical matter, any set of potential borrowers defined on the basis of institutional features will comprise firms with a range of financial characteristics, so that what is a penalty rate for one firm may not be for another.
+
+[SECTION]
+
+Partly for this reason, the setting of an above-market rate for a standing facility is not as simple as it might first appear. The heterogeneity of firms, particularly with respect to their size and thus their access to open market sources of funds, implies that either the rate needs to be set a level that represents a stiff penalty for the firms with the lowest marginal cost of funds or that the central bank may need to administratively restrict borrowing by the individual banks that have relatively high marginal costs of funds. A desire to minimize the need for such administrative restrictions is the principal reason that the Federal Reserve has set a relatively wide, 100 basis point spread of the primary credit rate over the target federal funds rate in routine circumstances. With a narrower spread, some banks with relatively high marginal costs of funds would find regular dependence on the discount window to be a cost-minimizing strategy. Over the course of the crisis, the primary credit spread was lowered to 25 basis points in order to encourage institutions to use the window and thus support overall credit availability. When market conditions normalize, a wider spread of the primary credit rate over the funds rate may be needed to provide incentives to all banks to seek market sources of funds.
+
+[SECTION]
+
+Actually, the pricing of a collateralized loan is multidimensional, and terms other than the interest rate are relevant. In particular, the terms on which collateral for a discount window loan is taken constitute an important additional dimension, and the haircut applied to the collateral is one of the most salient aspects. In establishing haircuts for the PDCF, the Federal Reserve sought to provide financing on terms that were less onerous than could be obtained in the markets during the crisis but also less attractive than those available in the markets in more routine circumstances. Thus, the haircuts set on the primary dealer facilities represented a generalization of the dictum to "lend at a high rate." This generalization has been applied to the Federal Reserve's other liquidity facilities as well. The fact that usage of the Federal Reserve's liquidity facilities has declined markedly--in several cases to zero--as market conditions have improved suggests that the Federal Reserve has been successful in pricing these programs at terms that represent penalties in more normal circumstances.
+
+[SECTION]
+
+Illiquidity and InsolvencyTraditional central banking principles also tell us to lend only to solvent institutions and only against good collateral, but complying with these standards in a crisis is not entirely straightforward. For instance, the difference between solvency and liquidity is not sharp--insolvency can cause illiquidity and vice versa--and the distinction blurs further in a financial panic.9 Unless markets are quite liquid, any firm that is forced to sell assets in order to obtain liquidity will see some erosion of its economic capital. In a financial panic, when markets for financial assets may be extremely illiquid, enlarged liquidity premiums can absorb so much of a firm's economic capital that its solvency can be called into question if it needs to engage in a fire sale of assets, even though in more placid conditions the solvency of the firm may not be in doubt. Thus, the reduction in market liquidity during a panic can reduce the margin of solvency of financial firms. A key responsibility of central banks is to provide the liquidity to sound banks that is necessary to help them survive bouts of market illiquidity in order to preserve the functioning of the financial system and support economic activity.
+
+[SECTION]
+
+However, assessing the solvency of financial firms can be difficult, especially in strained market circumstances. Large financial institutions tend to be opaque, but in routine conditions, given enough time, a central bank can conduct a careful review of the financial condition of the firm seeking liquidity and obtain reliable market quotes for the collateral being tendered to obtain reasonable assurance that the central bank is lending only to sound institutions and with adequate security. In contrast, in a financial crisis, markets may be dysfunctional and price quotes volatile or even unavailable, adding to the uncertainty in assessing firms' solvency. As a result, the decision as to whether to lend to a given firm can entail a significant measure of judgment--judgment both about the firm's solvency and about the possible market effects of the failure of the firm.
+
+[SECTION]
+
+Indeed, the ramifications of a possible default of a large financial firm in conditions of financial stress may be unclear--and, typically, time is short. Consequently, it is essential for a central bank to have the capability to assess the firm's condition and the quality of its collateral, on the basis of incomplete information, rapidly and effectively. It is also essential to be able to make quick and sound judgments as to the likely market effects of the possible failure of such a firm. The experience of the Federal Reserve in this episode illustrated very convincingly that the ability of a central bank to make such determinations in short order is substantially enhanced by the availability of the in-house expertise that comes from having responsibility for conducting bank supervision and from a practice of ongoing monitoring and analysis of a wide range of financial markets and institutions.
+
+[SECTION]
+
+Lending to Money Market Mutual Funds and Commercial Paper IssuersAlthough the Federal Reserve's lending to primary dealers helped stabilize financial markets over the spring and summer of 2008, the Federal Reserve was again confronted with severe difficulties at nonbank financial firms in the early fall. At that time, money market mutual funds, among many other entities, came under intense liquidity pressures. The U.S. money fund industry is huge; with more than $3-1/2 trillion in assets, it is close to one-third the size of the U.S. commercial banking system. Moreover, money funds are major investors in the large and critical commercial paper and repo markets.
+
+[SECTION]
+
+Certain characteristics of money funds make them vulnerable to runs, like banks in the absence of deposit insurance. First, money funds engage in maturity transformation: They offer shares that are payable on demand but hold assets that typically mature in several weeks. Last fall, secondary markets for those assets came under considerable strain, and as a result funds had difficulty disposing of assets to meet redemptions without experiencing capital losses. Second, investors have come to expect--and demand--an unwavering money fund share price of $1, in part because money funds have regulatory authority to maintain, within limits, a stable price in the face of fluctuating market values of their assets. When the market value of money fund shares is expected to fall below their price, investors have an incentive to run.
+
+[SECTION]
+
+But money funds, unlike banks, do not have regular access to the discount window and do not have a permanent share insurance arrangement that would neutralize the incentive to run. Furthermore, the short-term nature of money funds' assets means that any broad-scale disruption to their investment poses an immediate threat to firms whose economic activity depends on access to financing in the money markets--especially when the availability of funding from alternative sources, such as commercial banks, is diminished.
+
+[SECTION]
+
+The fact that money funds are subject to runs was a significant contributor to the enormous increase in financial stress that occurred in the fall of 2008. On September 16, the Reserve Primary Fund announced that it "broke the buck" as a result of losses on its holdings of Lehman paper. That announcement was an unpleasant wake-up call for the many investors who had assumed that their investments in money market funds were, for all practical purposes, absolutely safe.
+
+[SECTION]
+
+Still, the money fund industry is quite competitive, with hundreds of funds in operation, and even in the highly stressed conditions during the fall of 2008, no single fund was large enough to be critical to the continued functioning of the financial system. Nonetheless, a substantial number of funds--in particular, many of the so-called prime funds that usually invest mainly in private debt securities--were seen by investors as having exposures potentially similar to that of the Reserve Primary Fund. A severe run on much of the industry ensued, with withdrawals totaling hundreds of billions of dollars and more than 100 funds losing a substantial volume of assets in the span of just a few weeks.
+
+[SECTION]
+
+As a result, many money funds were forced to dump assets on the market and cease buying new paper. Consequently, the commercial paper market nearly ground to a halt, preventing many businesses and investment vehicles from rolling over their liabilities beyond very short terms and leaving them potentially unable to finance their operations. In addition, banks had provided lines of credit to many issuers of unsecured paper as well as ABCP programs; as a result, banks faced additional pressures on their balance sheets though their commitments to provide loans under such lines.
+
+[SECTION]
+
+Given the direct threat to economic activity and the scope for exacerbating the liquidity crunch, these circumstances were clearly unusual and exigent and warranted extending central bank credit to money funds even though, once again, the entities needing liquidity did not have regular access to the discount window. Had Bagehot been a member of the Federal Reserve Board, he most certainly would have approved such action.
+
+[SECTION]
+
+However, several factors potentially impeded the Federal Reserve's ability to lend to such entities. For example, representatives of the money fund industry advised the Federal Reserve that money funds would be unwilling to borrow, partly because investors would recognize that leverage would amplify the effects of any fund losses on remaining shareholders and intensify their incentive to run. Indeed, the Federal Reserve Board approved the establishment of a Direct Money Market Mutual Fund Lending Facility but left it on the shelf after being informed that money funds would be unwilling to use it.10
+
+[SECTION]
+
+The unwillingness of money funds to borrow led the Federal Reserve to implement several facilities in support of money funds and money markets that did not involve direct lending to money funds. For example, under the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF), the Federal Reserve lends not to money funds, but rather to commercial banking organizations, which can pledge as collateral just one type of asset--top-rated asset-backed commercial paper (ABCP)--that they purchase at amortized cost from the money funds. Tight constraints in designing the program--in particular, the need to lend to banking organizations rather than directly to the money funds--as well as the narrow spread of good quality ABCP over the federal funds rate meant that the credits had to be structured as nonrecourse loans, and also that it was impossible to charge a penalty rate for this facility; thus the design of the facility diverges modestly from Bagehot's principles. Partly to ensure that the absence of a penalty rate does not encourage funds to rely inappropriately on the facility, the Federal Reserve recently imposed certain constraints on use of the program that ensure it is used only for liquidity reasons.
+
+[SECTION]
+
+Given the limitations on the AMLF, the Federal Reserve saw some risk that this facility would not provide sufficient support to the money market and economic activity dependent on money market financing. So, even as the AMLF was being launched, the Federal Reserve intensively considered other mechanisms. It is essential to recall the circumstances under which this problem was being addressed. Several large financial institutions had failed or were close to failure. Large banks were extremely concerned about losses, capital adequacy, and continued access to liquidity, and thus were rapidly tightening terms and standards for credit extensions rather than seeking new lending opportunities; indeed, the situation was so serious that the government was designing mechanisms for injecting capital into major banking institutions and cleansing them of troubled assets.
+
+[SECTION]
+
+Under these conditions, it was highly unlikely that an effective mechanism could be engineered for increasing the availability of short-term financing through normal channels to nonfinancial businesses and to the conduits and other vehicles that relied on commercial paper. Issuance of paper with terms of more than a few days was nearly impossible, so the volume of paper maturing each day was in the hundreds of billions of dollars and mounting steadily, indicating that addressing the problem quickly was essential. Banking organizations themselves had issued large amounts of commercial paper, and thus the problems in the commercial paper market exacerbated banks' own liquidity problems. The serious impairment of two major sources of funding to the business sector--commercial banks and money funds--implied that prospects were dim for buoying the extension of credit to firms and households by providing additional liquidity to any existing financial intermediary.
+
+[SECTION]
+
+In order to support the continued availability of short-term credit to the economy, the Federal Reserve established the Commercial Paper Funding Facility (CPFF). Under the CPFF, the Federal Reserve in effect lends directly to nonfinancial as well as financial issuers of commercial paper.11 Although the details of the CPFF stand in some contrast to standard central bank liquidity facilities--in particular, its security comes from fees rather than from collateral--in its broad structure, the facility is still in keeping with Bagehot's view of appropriate central bank actions in a crisis. Indeed, as I noted earlier in my remarks, Bagehot exhorted central bankers dealing with a panic to lend even "to merchants."
+
+[SECTION]
+
+Ultimately, the AMLF and the CPFF, in combination with a range of other Federal Reserve and government programs and facilities, proved successful in stemming the run on money funds and stabilizing the money markets.12 Over the course of the fourth quarter of 2008, flows to prime money funds resumed, the runoff of commercial paper slowed, and usage of the AMLF and CPFF began to decline. In retrospect, it is clear that the broad suite of actions taken by central banks and governments in the fall of 2008 was key to arresting the broadening liquidity panic.
+
+[SECTION]
+
+Lending to Investors in Asset-Backed SecuritiesThe crisis of fall 2008 disrupted not only the money markets but also other key financial markets. In particular, activity in the asset-backed securities (ABS) markets, in which more than one-third of consumer lending had been financed in recent years, abruptly halted in the fourth quarter. Of the markets providing longer-term credit to the economy, the ABS market was especially hard-hit because leverage was no longer available from the conduits, securities lenders, and other entities to the traditional investors in the higher-rated tranches of ABS who customarily relied heavily on leverage to achieve their desired risk-return combinations.
+
+[SECTION]
+
+Without a functioning ABS market as an outlet for originations of loans, the availability of auto, credit card, and student loans, as well as other types of financing, was likely to become even more impaired, further undermining economic activity. In response, the Federal Reserve in late 2008 announced that it was establishing the Term Asset-Backed Securities Loan Facility (TALF). Under the TALF, the Federal Reserve lends on a nonrecourse basis, at interest rates and with haircuts that would ordinarily be less attractive than those available in the market, to investors in the AAA-rated tranches of ABS. Both the significant haircuts on the collateral and backing from the Treasury afford the Federal Reserve substantial protection from credit risk.
+
+[SECTION]
+
+At first blush, the TALF appears very different from the traditional discount mechanisms of central banks. The Federal Reserve is intervening in a specific market for longer-term credit. But, in most of its essential elements, the TALF fits neatly into standard central bank approaches for addressing financial crises. Under the TALF, the Federal Reserve lends to investors against collateral--again, with substantial haircuts and additional credit protection provided by the Treasury--and at penalty rates.13 And the program lends against a broad range of asset-backed collateral to minimize distortions to credit allocation. Encouragingly, activity in the ABS market has picked up so far this year, suggesting that the TALF has been successful in helping to buoy the availability of credit to firms and households and thus in supporting economic activity.
+
+[SECTION]
+
+Some LessonsLet me conclude with several lessons that can be drawn from the Federal Reserve's experience in extending credit in this episode. First, Bagehot's dictum continues to provide a useful framework for designing central bank actions for combating a financial crisis. However, that framework needs to be interpreted in the context of the modern structure of financial markets and institutions and applied in a way that observes both legal constraints and a broad range of practical considerations. The experience of the crisis shows that, in extraordinary circumstances, central banks may well need to take measures to prevent systemic collapse that are unprecedented in their details; but such measures may still be quite congruent with established central banking principles.
+
+[SECTION]
+
+Second, the problem of discount window stigma is real and serious. The intense caution that banks displayed in managing their liquidity beginning in early August 2007 was partly a result of their extreme reluctance to rely on standard discount mechanisms. Absent such reluctance, conditions in interbank funding markets may have been significantly less stressed, with less contagion to financial markets more generally. Central banks eventually were able to take measures to partially circumvent this stigma by designing additional lending facilities for depository institutions; but analyzing the problem, developing these programs, and gathering the evidence to support a conclusion that they were necessary took valuable time. Going forward, central banks and other policymakers need to avoid measures that could further exacerbate the stigma of using central bank lending facilities. And they should consider whether some now-existing arrangements, such as the Term Auction Facility and similar mechanisms, need to be adapted and made permanent, or new facilities established, so that the stigma of using central bank credit is minimized, especially in future crises.
+
+[SECTION]
+
+Third, the severe difficulties encountered by primary dealers in this crisis, and the evident consequences for broader effects on the financial system and the economy, illustrate a broader point: Any financial system that includes systemically important nonbank financial firms with significant amounts of illiquid assets and short-term liabilities--in other words, any system that includes important nonbank financial firms subject to bank-like runs--requires a mechanism for lending to such firms at least in crisis situations. Even though those firms may not be banks de jure, they are banks de facto in the risks that they pose to the broader financial system and the economy. Like banks, their interconnectedness with other parts of the financial system, as well as their similarities to one another and to other types of financial institutions, makes contagion possible and, in some circumstances, likely. The experience of this episode underscored once again the severe consequences that can result from the disorderly failure of one or more major financial institutions and the need for liquidity and resolution mechanisms to prevent such failures.
+
+[SECTION]
+
+Fourth, the run on money funds implies that individual nonbank "firms" do not necessarily have to be systemically important in themselves to warrant access to centralized liquidity. Rather, if the difficulties of one or a few such firms pose the risk of contagion to similar entities or to other parts of the financial system, a run on an entire set of firms, atomistic in themselves but not in the aggregate, can ensue, potentially disrupting economic activity. Thus, a means of lending in contingency situations even to nonbank firms that may not be systemically critical in themselves would seem necessary to promote a suitable degree of financial stability.
+
+[SECTION]
+
+Finally, experience suggests that a workable regulatory system must incorporate a mechanism to extend central bank credit to entities that are not normally eligible to borrow from the central bank; no reasonable system of regulation can draw a bright line that cannot be crossed between banks and nonbanks. Absent very onerous regulation, there will always be a continuum in the degree to which financial firms pose systemic risk. Subjecting systemically risky firms to enhanced supervision and regulation is certainly warranted. But practical considerations will always require that only a well-specified set of institutions subject to a specific supervisory regime have regular access to central bank credit, and that firms outside the boundary do not have such access. Lending to some firms without routine access to central bank credit will occasionally be appropriate to prevent severe systemic disruptions. Thus, it would seem that authority similar to that provided by section 13(3) will continue to be necessary.
+
+[SECTION]
+
+In summary, the recent financial crisis provides considerable evidence in support of what Bagehot knew more than 135 years ago from the experience of his era. To cushion the adverse effects of a financial panic on economic activity, a central bank must be ready to lend freely, potentially to a broad range of counterparties, in a crisis. Although the need for a modern central bank to lend in normal times may be quite limited, it is not prudent to severely circumscribe the potential scope for central bank lending in a financial panic. Rather, as Bagehot recommended, we should look to the restrictions of lending only to solvent firms, only against good collateral, and only at high rates to limit distortionary effects on markets and to protect the fisc while allowing central bank credit to prevent financial panics from having excessively adverse effects on economic activity and employment. Bagehot's precepts need to be interpreted and applied in light of practical considerations, and that application is not necessarily straightforward. In a crisis, the solvency of firms may be uncertain and even dependent on central bank actions; the value of collateral may be depressed to an uncertain degree by liquidity rather than credit premiums; and the extent to which the terms of a central bank facility represent a penalty rate may depend on the circumstances and vary across firms. Nonetheless, Bagehot's dictum effectively addresses key economic objectives of society and thus continues to provide a useful framework for the formulation of central banks' policy actions in a crisis.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

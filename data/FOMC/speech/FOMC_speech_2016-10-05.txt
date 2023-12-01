@@ -1,0 +1,258 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 05, 2016
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At the 40th Annual Central Banking Seminar, sponsored by the Federal Reserve Bank of New York, New York, New York
+
+[SECTION]
+
+I would like to thank the Federal Reserve Bank of New York for establishing this seminar 40 years ago and for maintaining it since then. This event has always been a useful forum for sharing knowledge and experiences among the world's central banks, something that has become especially valuable in the years since the Great Recession. This seminar has also fostered a stronger sense of community among central banks, whose interactions undergird the global financial system.1
+
+[SECTION]
+
+I will talk today about an issue that currently confronts almost all central banks: historically low interest rates. Indeed--as shown in figure 1--in an increasing number of countries, they have even dipped below zero. Ultralow interest rates have not been limited to the short end of the yield curve, which is most directly affected by monetary policy. Figure 2 shows that longer-term interest rates--which embed market participants' expectations of where real short-term rates and inflation are likely to be in the future--have also been exceptionally low.
+
+[SECTION]
+
+The low interest rate environment presents us with four key questions: (1) Are ultralow interest rates part of the so-called new normal for the global economy, or are they mostly transitory? (2) How concerned should we be, if at all, about the current interest rate environment? (3) What determines the level of interest rates over the longer run? (4) What can policymakers do about chronically low interest rates?
+
+[SECTION]
+
+The fact that interest rates have remained so low in the United States over the past eight years--well into the recovery from the severe strains of the Great Recession--suggests that ultralow rates may reflect more than just cyclical forces. Here is a simple observation that illustrates this point: The unemployment rate in the United States has dropped from a peak of 10 percent in the aftermath of the Great Recession to just 4.9 percent today. Yet, over the same period, yields on nominal and inflation-indexed 10-year U.S. Treasury securities have fallen around 180 basis points and 140 basis points, respectively. This observation suggests that perhaps structural factors are pulling down what economists often refer to as the longer-run equilibrium or natural rate of interest.
+
+[SECTION]
+
+Knut Wicksell, the great Swedish economist, emphasized the concept of an equilibrium level of interest rates in his influential work. In his 1898 book, Interest and Prices, he wrote that "there is a certain level of the average rate of interest which is such that the general level of prices has no tendency to move either upwards or downwards."2 In modern language, this level of the interest rate is usually referred to as the natural rate of interest. Applying Wicksell's insights to the circumstances we face today, the fact that both inflation and interest rates have remained very low over the past several years suggests that our current interest rate environment may well reflect, at least in part, a very low level of the natural rate of interest.
+
+[SECTION]
+
+If we knew the natural rate precisely, conducting monetary policy would be relatively straightforward. Central bankers could easily assess their policy stance--which could be measured, for instance, as the difference between actual and natural interest rates--and adjust it as needed. If only life were that simple! In reality, given that the natural rate of interest cannot be directly observed, Wicksell proposed that the central bank follow a simple interest rate rule. Given that he believed that the sole function of monetary policy should be to pursue price stability, a modern interpretation of Wicksell's rule would suggest that the central bank should raise the interest rate if inflation is above target and reduce the interest rate if inflation is below target.3 When inflation stabilized, the central bank would know that the interest rate was at its natural level. In principle, this method could be extended to a reaction function that included both an inflation and a maximum-employment objective for the central bank, as is the case for the Federal Reserve.
+
+[SECTION]
+
+But there is another way of measuring the natural rate of interest. Instead of backing out the value of the natural rate of interest by following Wicksell's rule-based approach, one could try to estimate the natural rate directly with the help of an economic model. One prominent example of this approach is the work of my Federal Reserve colleagues Thomas Laubach and John Williams.4
+
+[SECTION]
+
+Laubach and Williams estimated the natural rate in a small-scale Keynesian model where inflation responds to the gap between actual and potential gross domestic product (GDP) and economic activity is determined by a simple equation that links deviations of actual from potential GDP to the gap between actual and natural interest rates. In their model, as in Wicksell's framework, inflation generally will rise if the interest rate is low relative to the natural rate and fall if the interest rate is high relative to the natural rate. Their empirical results point to the growth rate of potential GDP as an important determinant of the natural rate of interest, a topic that I will discuss shortly.
+
+[SECTION]
+
+In a recent update to their work--cowritten with another Federal Reserve colleague, Kathryn Holston--Laubach and Williams report that, for the United States as well as other advanced economies, estimates of the natural rate have fallen since the late 1990s, with particularly large declines following the global financial crisis.5 Their results--summarized in figure 3 --support the informal assessment that chronically low interest rates could well be, at least in part, the result of very low natural interest rates and not just a consequence of the cyclical state of the economy.
+
+[SECTION]
+
+Now, to our second big question: Having concluded that the natural rate appears to have fallen, how concerned should we be, if at all? We should be concerned because a low natural interest rate can have major economic significance. Let me start elaborating on this point by making two simple observations: First, nothing dictates that the natural rate of interest should be positive; indeed, the natural rate has no effective lower bound. Second, there is an effective lower bound for nominal interest rates (and, consequently, for the actual real rate). Why? Because currency is a government obligation that pays a nominal interest rate of zero and, instead of buying government bills or bonds at a negative interest rate, one can always hold currency.6
+
+[SECTION]
+
+To see why these two simple observations can be so consequential, we need only go back to the work of another great economist from the past. In John Maynard Keynes's General Theory, this contrast between equilibrium and actual interest rates was at the heart of the so-called liquidity trap, a situation where the equilibrium interest rate is so low that even a zero (or slightly negative) nominal interest rate is not low enough to stimulate economic activity.7 Keynes's bottom line was that, when the economy falls into the liquidity trap, traditional monetary policy loses its effectiveness and fiscal policy has to be used for countercyclical stabilization. And here lies the first reason why we should be concerned about chronically low interest rates: When the equilibrium interest rate is very low, the economy is more likely to fall into the liquidity trap; it becomes more vulnerable to adverse shocks that might render conventional monetary policy ineffective.
+
+[SECTION]
+
+Of course, as we have all learned over the past several years, unconventional monetary policy tools developed and used since the Great Recession--such as large-scale asset purchases and extended forward guidance--have significantly mitigated concerns about the liquidity trap.8 Nonetheless, the question of whether unconventional tools are perfect substitutes for cutting short-term interest rates remains a topic of active research.9
+
+[SECTION]
+
+Let me briefly mention a second reason for worrying about ultralow interest rates: The transition to a world with a very low natural rate of interest may hurt financial stability by causing investors to reach for yield, and some financial institutions will find it harder to be profitable. On the whole, however, the evidence to date does not point to notable risks to financial stability stemming from ultralow interest rates. For instance, the financial sector has appeared resilient to recent episodes of market stress, supported by strong capital and liquidity positions.
+
+[SECTION]
+
+Last but definitely not least, a very low natural rate of interest is worrisome because it may reflect more deep-seated economic problems. For instance, economic theory--along with some empirical evidence--suggests that real interest rates and the growth of real GDP tend to move together over the long run.10 Thus, a decline in longer-run equilibrium real rates--as suggested by my observations today and by the careful work of Laubach and Williams--could be yet another indication that the economy's growth potential may have dimmed considerably. This deeply concerning conjecture--which suggests that the slowdown of productivity growth that we have experienced in recent years could be long lasting--has played an important role in Larry Summers's revival of the "secular stagnation" hypothesis.11
+
+[SECTION]
+
+Given what a fall in the natural rate of interest might mean for economic performance for years to come, we should reflect on the forces that may have caused that decline--my third question--and on what, if anything, can be done to reverse them--my fourth and last question.
+
+[SECTION]
+
+Ultimately, the level of the natural interest rate reflects businesses', households', and governments' saving and investment decisions over the medium to longer run. Indeed, the saving-investment channel provides a useful framework for thinking about the relationship between the natural rate and the growth rate of potential GDP. For instance, a lasting slowing in the pace of technological innovation--a key determinant of potential growth--may result in fewer profitable opportunities for businesses, which could dampen their propensity to invest in physical capital.12 At the same time, households might see the slower pace of technological innovation as reducing their future income prospects, which could increase their propensity to save. If persistent, this slowing in the growth rate of potential GDP--and the resulting combination of lower investment and higher saving propensities--would put downward pressure on the natural rate of interest.
+
+[SECTION]
+
+More generally, any persistent factors that affect saving and investment decisions will also affect the natural rate. Recent studies point to trends that may have had a sizable and lasting effect on the balance between saving and investment at the macro level.13 Some of these trends may have worked more directly on the demand for investment goods, whereas others may have had a more direct bearing on saving. Potential factors that others have mentioned as having contributed to reduced investment in physical capital include heightened economic uncertainty in the aftermath of the Great Recession and the lower physical capital needs of many of today's growing firms, particularly information technology firms.14 On the saving side, some researchers have noted that high saving rates in some emerging market countries, combined with a lack of suitable domestic investment opportunities in those countries, may have put downward pressure on interest rates in advanced economies.15 Others have raised the possibility that the trauma associated with the Great Recession may have contributed to a persistent increase in precautionary saving and greater demand for safe and liquid assets.16
+
+[SECTION]
+
+Thus, both increased saving and reduced investment have potentially driven the sizable decline in the natural rate of interest. If some of the forces behind these shifts prove to be quite persistent, then we could be stuck in a new longer-run equilibrium characterized by sluggish growth and recurrent reliance on unconventional monetary policy.
+
+[SECTION]
+
+Nonetheless, there is a silver lining. Monetary and fiscal policies could ameliorate some, though not all, of the potential causes of ultralow rates--such as excessive precautionary saving and weak demand for physical capital. In other words, ultralow interest rates are not necessarily here to stay, especially if the right policies are put in place to address at least some of their root causes.
+
+[SECTION]
+
+What are some of these policies? First, transparent and sound monetary policies here and abroad have helped mitigate downside risks and improve economic conditions, likely boosting confidence in the sustainability of the recovery. Without them, we probably would have had a more pronounced increase in precautionary saving and a deeper decline in fixed investment, which together would have put additional downward pressure on the natural rate of interest and, more important, further damaged the economy's growth potential.
+
+[SECTION]
+
+But, second, the virtues of sound monetary policy notwithstanding, we must not forget, as former Fed Chairman Ben Bernanke reminded us on numerous occasions, that "monetary policy is not a panacea."17 For instance, as I mentioned recently elsewhere, policies to boost productivity growth and the longer-run potential of the economy are more likely to be found in effective fiscal and regulatory measures than in central bank actions.18 Some combination of improved public infrastructure, better education, more encouragement for private investment, and more-effective regulation is likely to promote faster growth, which would increase the natural rate of interest and, thus, reduce the probability that we may find ourselves again struggling to avoid Keynes's infamous liquidity trap. If the natural rate can be lifted by appropriate policies, the economic near-stagnation that many countries have experienced in recent years may well turn out not to be that secular after all.
+
+[SECTION]
+

@@ -1,0 +1,243 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 22, 2021
+
+[SECTION]
+
+Vice Chair for Supervision Randal K. Quarles
+
+[SECTION]
+
+At "The SOFR Symposium: The Final Year," an event hosted by the Alternative Reference Rates Committee, New York, New York (via webcast)
+
+[SECTION]
+
+I am pleased to join this first symposium being held by the Alternative Reference Rates Committee (ARRC) to mark the key year of the LIBOR transition.1 I have had a vantage point in supporting this transition in my roles both as Chair of the Financial Stability Board (FSB), which convened the Official Sector Steering Group in 2013 to coordinate global benchmark rate reform efforts at the request of the Group of Twenty, and as a member of the Federal Reserve Board, which convened the ARRC in 2014 under the auspices of then-Governor Jay Powell. Since these groups were first formed, we have seen great progress in building markets and infrastructures designed to facilitate the transition. This year, however, it is finally time for everyone to actively transition away from using LIBOR.
+
+[SECTION]
+
+Since 2017, when Andrew Bailey first announced that the U.K. Financial Conduct Authority (FCA) had secured a voluntary agreement with the remaining panel banks submitting to LIBOR to continue their submissions through 2021, we in the official sector have emphasized that LIBOR would eventually end, but the market has lacked clarity on exactly when it would end. Because the FCA had committed to avoiding the use of its powers to compel any bank to remain on the panels after the agreement ended, the decision to submit for a further period or to depart was up to the banks themselves. And while the panel banks had committed to continue submissions through the end of this year, they had not stated what they planned to do afterward.
+
+[SECTION]
+
+Although one might have expected that a statement from the regulator that a benchmark would stop might cause people to think twice before using it even if the exact end date were uncertain, many have kept using LIBOR. It may be that the ambiguity about a precise end date encouraged some to believe that it would not actually end. If so, the recent statements from the administrator of LIBOR and FCA should erase any remaining doubts as to exactly when and whether LIBOR will end. To summarize, thanks to recent statements by the FCA and ICE Benchmark Administration (IBA, the administrator of LIBOR), we now know the following:
+
+[SECTION]
+
+Adjusting to a new reality can be difficult, so let me be clear: These statements are definitive. Some may speculate that the June 2023 date could be pushed back, but IBA has now stated that it will not have sufficient panel bank submissions after this date, the FCA has officially recognized this date, and the spread adjustments under the International Swaps and Derivatives Association's (ISDA) IBOR Fallbacks Protocol have been set accordingly.2 There is no scenario in which a panel-based USD LIBOR will continue past June 2023, and nobody should expect it to.
+
+[SECTION]
+
+Seeking to provide the same kind of clear statement about supervisory expectations, U.S. regulators issued supervisory guidance in November of last year.3 In a letter to the banking organizations that we regulate, the Federal Reserve Board, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency noted that there are safety and soundness risks associated with the continued use of USD LIBOR in new transactions after 2021. Accordingly, we have encouraged supervised entities to stop new use of LIBOR as soon as is practicable and, in any event, by the end of this year. As with the statements about LIBOR's end, there should be complete certainty about this guidance from U.S. regulators: after 2021, we believe that continued use of LIBOR in new contracts would create safety and soundness risks, and we will examine bank practices accordingly.
+
+[SECTION]
+
+It is helpful to think about these separate announcements as essential pieces of a map, which, once put together, provide a complete picture of the path from here to LIBOR's end. When that larger picture comes into focus, I think you can see clearly that we have laid out a sensible way forward that provides certainty while also recognizing the need to address legacy contracts in a way that makes sense in the U.S. context. These announcements are absolutely not meant to support new LIBOR activity or continued business as usual. Instead, they are meant to completely end the new use of LIBOR while allowing a significant portion of legacy contracts to roll off before the key dollar LIBOR tenors stop publication.
+
+[SECTION]
+
+Three years ago, the ARRC estimated that there were approximately $200 trillion in outstanding financial contracts using USD LIBOR as a reference rate. The ARRC also estimated that more than 80 percent of those contracts would mature by the end of this year. If market participants had stopped new use of LIBOR at that time, we would today have a considerably smaller amount of legacy LIBOR contracts. Instead, despite the warnings of the official sector concerning LIBOR, use of USD LIBOR has actually increased in the intervening years. As a result, the ARRC now estimates that there are currently almost $223 trillion in financial contracts based on USD LIBOR. Many of those contracts have better fallback language than was once the case; the ARRC has spent considerable time in recommending more robust fallback language for new LIBOR cash products, and ISDA has now published its IBOR protocol, which has allowed market participants to incorporate more robust fallbacks into legacy derivatives. Still, given the sheer size of current exposures, we cannot afford to ignore the problems that an abrupt cessation of USD LIBOR would cause.
+
+[SECTION]
+
+The path we have laid outâending new use of LIBOR while providing further time for existing contracts to matureâwill give businesses, consumers, and all parties to a contract more certainty that they can count on the original terms of a legacy contract until mid-2023. The ARRC's updated estimates indicate that 67 percent of current LIBOR exposures will mature before mid-2023.i Although more would roll off if the end date was further off, the IBA has stated clearly that it will not have sufficient panel bank submissions after June 2023 to publish LIBOR on a representative basis. June 2023 represents a realistic outcome that will allow the majority of outstanding contacts to mature.
+
+[SECTION]
+
+Of course, we will also be left with the 33 percent of contracts that will not mature before mid-2023, an estimated $74 trillion in financial contracts.i Some of these contracts should already have workable fallback language, but many still have no effective means to replace LIBOR upon its cessation. We continue to believe that legislation is a necessary step to address these contracts. The ARRC has proposed legislation with the state of New York, which may be appropriate given that many of the contracts that the ARRC's proposal seeks to address are governed by New York law. Members of Congress are also considering federal legislative solutions, and we support these efforts as well.
+
+[SECTION]
+
+Of course, although it is vital, we cannot take any legislative solution for granted until it becomes law. The continued publication of LIBOR will help provide more time to make sure that we are fully ready with the necessary solutions when LIBOR stops. It will also potentially allow other jurisdictions more time to craft their own legislative proposals. The European Union has already passed legislation that is similar to the ARRC's proposals. The United Kingdom is considering legislation that would grant the FCA powers to require IBA to produce a synthetic LIBOR, and the FCA has said that it will consult on using these powers to require IBA to produce synthetic sterling LIBOR and Japanese yen LIBOR rates. For legacy LIBOR contracts governed by U.S. law, we believe that a U.S. legislative solution, be it in New York or at the federal level, represents the best solution. I should stress that no one should assume that there will be a synthetic USD LIBOR.
+
+[SECTION]
+
+Having talked about the end game for legacy contracts, let me return to the other key component of the plan, winding down new use of dollar LIBOR. Earlier this month, the Federal Reserve Board issued supervisory letter SR 21-7 instructing examiners to assess supervised institutions' plans to transition away from the use of LIBOR.4 This guidance reinforces our supervisory statement from last November (SR 20-27), which highlighted that continued use of LIBOR in new contracts would create safety and soundness concerns after 2021 and highlighted the supervisory focus on firms' ending the issuance of new LIBOR contracts as soon as is practicable and, in any event, by December 31, 2021.
+
+[SECTION]
+
+SR 21-7 outlines factors that examiners should consider in assessing transition efforts and states that, if supervised firms are not making adequate progress in transitioning away from LIBOR, examiners should consider issuing supervisory findings or taking other supervisory actions. Recognizing that smaller banks generally are less reliant on LIBOR, we have tailored our supervisory approach for community banks and firms under $100 billion in assets.
+
+[SECTION]
+
+Examiners are looking closely to see whether firms have comprehensively assessed their exposure to LIBOR and, if exposures are sizable and complex, have strong plans in place. Firms should prepare for the LIBOR transition with respect to six key areas:
+
+[SECTION]
+
+While we will examine against all of these points, what is most important this year is that firms should end new use of LIBOR. The extension of the most-used dollar LIBOR tenors should allow firms to focus in the near term on using alternative rates in new contracts and to deal more intensively with legacy contracts later. Market participants have had many years to prepare for the end of LIBOR, yet over the last few years they have actually increased use of LIBOR. Given the announcements of the FCA and the IBA, that must obviously change this yearâthat's just the laws of physicsâand the firms we supervise should be aware of the intense supervisory focus we are placing on their transition, and especially on their plans to end issuance of new contracts by year-end.
+
+[SECTION]
+
+Before I turn this over to Tom Wipf and Tushar Morzaria, let me thank them for all of the work that they have done with the ARRC and the Working Group on Sterling Risk-Free Rates. There is more work ahead for both groups, but these announcements lay out a clear framework that will help everyone understand exactly what should now to be done.
+
+[SECTION]
+
+i. Note: This speech was updated on April 7, 2021. The original version of this speech stated that âThe ARRCâs updated estimates indicate that 60 percent of current LIBOR exposures will mature before mid-2023â and was updated to 67 percent; and âOf course, we will also be left with the 40 percent of contracts that will not mature before mid-2023, an estimated $90 trillion in financial contractsâ was updated to 33 percent and $74 trillion. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

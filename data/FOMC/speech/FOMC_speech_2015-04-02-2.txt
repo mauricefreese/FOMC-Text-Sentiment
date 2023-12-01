@@ -1,0 +1,311 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 02, 2015
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At the "Economic Mobility:  Research and Ideas on Strengthening  Families, Communities, and the Economy" Ninth Biennial Federal Reserve System Community Development Research Conference, Washington, D.C.
+
+[SECTION]
+
+I am pleased to join you for the ninth biennial Federal Reserve System Community Development Research Conference. This conference has established itself as an important venue for sharing research and exchanging ideas on how best to support the advancement of low- and moderate-income communities.
+
+[SECTION]
+
+The many economic decisions an individual makes early in his or her working life--their first job, how much and what kind of an educational investment to make, how to finance that investment, whether to strike out on their own, and whether to rent or buy a home--can have a lasting effect on their subsequent financial security and the economic foundation they provide for their children. There are times, however, when larger forces materially interrupt or impede the individual efforts of young people to build a better economic life. The Great Depression left an indelible imprint on the generation that came of age in that era, influencing their subsequent job trajectories and attitudes toward risk and investment. The question we face today is whether the Great Recession may similarly leave a lasting mark on the many Americans who came of age in its shadow.
+
+[SECTION]
+
+It is important to understand the headwinds encountered by the Great Recession generation as they navigated a daunting job market, and the lessons they have taken from the crisis, particularly with respect to investments in education and housing. And it is important to identify what actions can be taken to improve economic outcomes for the Great Recession generation, as their experiences will powerfully influence not just growth today, but also the contours of opportunity faced by their children.
+
+[SECTION]
+
+Employment and Participation in the Labor Force
+Let's start by considering what it was like to graduate from high school or college in June 2009. The overall unemployment rate stood at 9.5 percent, and employers slashed 500,000 jobs that month, the 18th month in a row of job cuts. For young people, job prospects were even bleaker. Nearly one-fourth of teenagers in the labor force were unemployed, and the unemployment rate for people between the ages of 20 and 24 stood at 15.2 percent. Young African Americans and Hispanics experienced higher rates of unemployment than their white peers.
+
+[SECTION]
+
+Even these painfully high unemployment rates--the highest since the early 1980s--understate the damage caused by the Great Recession to young people's work lives. The lack of job opportunities appears to have caused many young people to become so discouraged that they dropped out of the labor force altogether, exacerbating a downtrend and driving labor force participation among young people to historical lows.
+
+[SECTION]
+
+Even for those who remained in the labor force and have been fortunate to find work, compensation prospects have been poor. For example, inflation-adjusted full-time weekly earnings among 19- to 24-year-olds with only a high school diploma fell about 5 percent between 2008 and 2012.1
+
+[SECTION]
+
+Of those who have found work, not only are many young people receiving low wages, but also many are working at jobs for which they are overqualified. A recent study by the Federal Reserve Bank of Boston found that employers responded to the slack labor market by increasing the educational requirements or the number of years of experience required for new hires, which likely froze out many from the labor pool and resulted in the underemployment of others.2 In 2012, roughly 45 percent of college graduates between the ages of 22 and 27 were underemployed, up by one-third relative to 2001 and the highest underemployment rate since the early 1990s.3 Moreover, a recent study by economists at the Federal Reserve Bank of New York found that the Great Recession is prolonging the time it takes for a college graduate to settle into a career.4
+
+[SECTION]
+
+Recently, the labor market prospects for young people have started to improve, with the unemployment rate for 20- to 24-year-olds falling about one-third relative to its peak and inflation-adjusted earnings starting to rise. Nevertheless, even with this recent improvement, there is a risk that the high rates of unemployment, low labor force attachment, and stagnant wages experienced by those who have come of age in the years surrounding the Great Recession may have long-lasting consequences. A number of studies have found that graduating from college during a recession can have a lasting effect. If past studies hold true today, the employment rate of those graduating from college during the Great Recession may recover relatively soon, but their earnings may be reduced for up to a decade or longer as this cohort initially secures lower-quality jobs and then only gradually works its way back up to the normal earnings trajectory.5 To the extent that these lost earnings translate into reductions in lifetime resources, they could affect life-cycle spending and investment decisions, topics that I will turn to next.
+
+[SECTION]
+
+Education and Student Debt 
+Enrollment in colleges and graduate schools increased sharply during the Great Recession. With skyrocketing youth unemployment and compensation under pressure, the recession sharply reduced the opportunity costs of additional years of schooling.6 For many, these additional educational investments are likely to be beneficial. Investing in additional education is a classic way of mitigating the negative effects of graduating in a recession, and empirical research suggests that the lifetime returns to completing a college degree are substantial on average.7
+
+[SECTION]
+
+As with any investment, however, the returns on educational investments are not uniform, and some investments do not pay off. The risk of a low return is accentuated when the investment is financed through debt and based on the assumption that the educational investment will translate into higher wages that make the debt payments affordable.
+
+[SECTION]
+
+Indeed, student indebtedness rose sharply in the years surrounding the Great Recession.8 The capacity of many families to pay for tuition was substantially reduced by the declines in income and wealth associated with the housing crisis and the deep recession. At the same time, public colleges and universities--long the most affordable option for students--saw some of the steepest rises in tuition as a result of state and local budget pressures due to the recession (and possibly reductions in quality in many cases).9 Thirty-seven states have cut per-student funding for higher education more than 20 percent since the 2007-08 academic year, when the recession began. Since the outset of the recession, the annual published tuition at four-year public colleges increased 24 percent, after adjusting for inflation, during a period when real median incomes declined 8 percent.10
+
+[SECTION]
+
+This confluence of higher enrollments, higher tuitions, reduced family resources, and uneven job prospects has caused outstanding student loan balances to more than double since the start of the Great Recession.11 Moreover, this sharp rise in debt burdens is unevenly distributed across the population, with students from socioeconomically disadvantaged backgrounds disproportionately likely to use debt to finance education. In 2012, 79 percent of bachelor's degree recipients whose parents made under $30,000 incurred educational debt, compared with 55 percent of those whose parents had income over $106,000.12 Even adjusting for family income, it appears that, on average, minorities make greater use of student loan debt than their white counterparts.13
+
+[SECTION]
+
+In most cases, the investments in education undertaken during the Great Recession will turn out to be positive over the longer term, even for individuals with loans to pay off. However, there are several factors that might substantially reduce the expected return of some of these educational investments. The first important determinant of whether an investment in education pays off is whether it leads to the successful completion of a degree. Recent data suggest that fewer than 60 percent of students who have started a bachelor's degree program graduate with their degree, and only 30 percent of those who have started an associate's degree or certificate program will finish their degree.14 The Federal Reserve's 2013 Survey of Household Economics and Decisionmaking (SHED) indicated that students who had not completed a degree consider the cost of the education not to have been worth the investment by significantly larger margins than those who had.15
+
+[SECTION]
+
+A second important determinant is the type of educational program, as there is wide variation in rates of return across different programs. For example, recent research has shown that for-profit colleges, on average, tend to provide a lower rate of return for educational investment than public or not-for-profit colleges and universities. Young adults who attended for-profit colleges are also more likely to default on their student loans, even after completing four or more years of education.16 Unfortunately, the students who are the first in their family to attend college are more likely than others to attend for-profit colleges.17
+
+[SECTION]
+
+Despite the apparent lower likely average return to education at for-profit schools, attendance at these schools has increased faster since the financial crisis than at other institutions. Attendance at for-profit schools increased over 50 percent between 2007 and 2012--far outpacing the 10 percent growth in enrollments seen over this period at not-for-profit and public institutions. This rapid growth, and the fact that for-profit colleges disproportionately attract first-generation college students as well as students relying on debt to fund their education, bears careful scrutiny.18
+
+[SECTION]
+
+Overall, the added educational investments made by the Great Recession generation could be a positive legacy of the crisis over the long term. But for some, the returns may not turn out to be worth the cost. For this group, the burden associated with student debt may constrain their economic opportunities for years to come. Borrowers who struggle to repay student loans face special challenges because student loans cannot be discharged in bankruptcy, unlike other forms of household credit.19 Fortunately, largely because of significant policy changes, beginning in the 2008-09 school year, the vast majority of student loans have been originated directly by the federal government and have flexible repayment and deferment options.20 Nonetheless, high levels of student indebtedness appear to be one factor influencing the Great Recession generation's slow progression into homeownership.
+
+[SECTION]
+
+Household Formation and Homeownership 
+Sharply lower household formation and homeownership rates are among the most striking legacies of the Great Recession, distinct from earlier recessions. The number of households formed each year dropped by more than half, from about 1.35 million in the early and middle 2000s to about 600,000 households per year after 2007. Moreover, the fraction of young adults who own homes also fell substantially: After peaking at 22 percent in 2005, the overall rate of homeownership among young people fell to 16 percent in 2014.21
+
+[SECTION]
+
+The combination of high educational debt levels and poor job market prospects faced by young adults entering the workforce in the aftermath of the financial crisis are the most likely causes of these sharp declines.22 Indeed, the share of adults under 30living with parents or other family members rose significantly in the wake of the financial crisis and has remained at a high level.23 The SHED found that, among individuals who live with their extended family or with roommates, over half are doing so to save money, and nearly three-fourths would move out on their own if they could afford to do so. Federal Reserve research also indicates that debt is an important determinant of whether a young person lives with their parents, even after controlling for labor and housing market conditions.24 That analysis also indicates that credit delinquency and lower credit scores increase the propensity for adult children to move home as well as the length of time that young people live with their parents.
+
+[SECTION]
+
+However, it is possible that, even after improving economic prospects help young people overcome these impediments and boost household formation rates, homeownership rates among the Great Recession generation could lag. Young people's attitudes toward homebuying may have changed as a result of witnessing their parents' experiences during the housing crisis. Instead of seeing homeownership as a reliably safe investment, many of today's young adults may now see some risk that houses could become financial albatrosses due to events beyond their control. If this is the case, the Great Recession cohort may be slower to buy a home than previous cohorts, even after meeting their pre-recession career and earnings expectations. Indeed, research suggests that dramatic economic events, such as the Great Depression, can have a significant effect on individuals' risk-taking over their lifetime.25
+
+[SECTION]
+
+Moreover, there is some evidence that today's young people have a skeptical view of the wisdom of buying a home as a result of the housing crisis. The percentage of renters in the 18-to-34 age group who thought housing was a safe investment dropped significantly from 2003 to the first quarter of this year, from 85 percent to 59 percent, respectively.26 Of course, it is premature to conclude that the financial crisis has permanently altered young people's attitudes toward housing investments, and several surveys indicate that young people continue to express a desire to become homeowners someday.
+
+[SECTION]
+
+Nonetheless, if the decline in homeownership among young people proves persistent, the implications for asset building for the future could be of concern, since homeownership remains an important avenue for accumulating wealth, particularly for those with limited means. Even after taking into account the risks associated with homeownership that were brought into sharp focus by the financial crisis, there is still a strong case that homeownership positively contributes to household balance sheets.27 The benefit is largely due to the forced savings associated with homeownership--not just for the down payment, but also for the regular monthly paydown of principal. While renters could, in theory, save and invest money on a monthly basis to achieve a similar result, the evidence suggests most do not.
+
+[SECTION]
+
+Moreover, study after study has shown that homeownership positively contributes to the wealth accumulation of lower-income and minority households, albeit in smaller amounts than for higher-income and white households.28 This finding is particularly important because housing also accounts for the majority of the assets held by these households. Lower-income and minority renters, on the other hand, have been found to accrue little or no wealth over time.29
+
+[SECTION]
+
+The Great Recession Generation and Economic Mobility
+Today's young people are the fulcrum of the economic mobility agenda. Those who have come of age in the shadow of the Great Recession have experienced substantial risks and faced daunting challenges in establishing themselves independently in their work lives and their home lives. By studying these effects and the actions that can support the resilience of the Great Recession generation, we will strengthen not only today's recovery, but also the opportunities facing tomorrow's children.
+
+[SECTION]
+
+So it is particularly heartening that, despite the challenges of coming of age in the Great Recession, today's young adults--including minorities--remain optimistic about their future.30 The challenge for practitioners and the research community is to deliver on this youthful optimism through policies and opportunities that promote strong and equitable economic growth.
+
+[SECTION]
+
+The Federal Open Market Committee has been playing an important role by pursuing policies aimed at achieving maximum employment in the context of price stability. Monetary policy has remained accommodative over an extended period, which has supported labor market recovery--with significant improvement in overall unemployment, increases in job openings, and recent declines in underemployment--while inflation has remained below its target. In addition, the Federal Reserve System, through its research and analysis of economic data, provides important insights on the dynamics of the labor market, investments in education, and the housing sector.
+
+[SECTION]
+
+The community development staff at the Board and the 12 Federal Reserve Banks--the organizers of this conference--complement traditional research with applied field research and outreach. Before wrapping up, I want to touch briefly on a handful of the System's many community development initiatives that focus on the post-crisis needs of young people.
+
+[SECTION]
+
+The Federal Reserve Bank of Cleveland recently published an analysis of employment and education patterns for non-college-bound workers in the Fourth District's metropolitan area as part of ongoing efforts to improve high school graduation rates and facilitate workforce development in line with local labor market demand.31 Cleveland's analysis emphasizes the importance of investing in primary and secondary education, as well as technical education beyond high school, to ensure high school graduates possess the strong analytical and soft skills and the guidance they need to access technical and service jobs that can provide an on-ramp to the middle class.
+
+[SECTION]
+
+The Federal Reserve Banks of Richmond and San Francisco are developing an online course, Life after High School, to help students navigate their first major financial decision--choosing the path to pursue after high school. The course encourages students to explore a number of educational paths and job options and provides them with information on how investing in education can contribute to their future well-being.
+
+[SECTION]
+
+The Federal Reserve Bank of Boston, for its part, has focused attention on strengthening the financial capability of community college students. It has recently published Promoting Pathways to Financial Stability, a handbook designed for community college personnel and others interested in helping students learn to manage their financial lives.32
+
+[SECTION]
+
+As the economic recovery continues to strengthen, it is important that we monitor the progress of young workers and their experience in the job market, their educational outcomes, their management of student debt, and their progress toward forming independent households and owning homes. Understanding the interaction of various economic pressures on young workers is the first step. The ultimate goal is to develop evidence-based policies and opportunities to support the generation that has come of age in the shadow of the Great Recession as they gain a foothold on the ladder to a better economic future.
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am grateful to Stephanie Aaronson, Andrew Figura, Jeff Larrimore, Andrew Paciorek, Christopher Smith, Theresa Stark, and PJ Tabit for their assistance in preparing this text.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

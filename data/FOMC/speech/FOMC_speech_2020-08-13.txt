@@ -1,0 +1,223 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 13, 2020
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At the Federal Reserve Board and Federal Reserve Bank of San Francisco's Innovation Office Hours, San Francisco, California (via webcast)
+
+[SECTION]
+
+It is a pleasure to participate in San Francisco's Innovation Office Hours. The Federal Reserve Bank of San Francisco is a leader of our engagement with the tech community. And the Federal Reserve's Innovation Office Hours serve as an important forum to engage on innovation in the financial system with financial institutions, fintechs, technology companies, nonprofits, and other stakeholders. We have benefited from learning about the work you are doing to promote healthy innovation in financial services and payments. This event covered a number of important topics, including regulatory technology, blockchain, cybersecurity, and digital banking. The breadth of topics and the range of participants speak to the scale and scope of technological innovation in financial services. It is a testament to widespread investments in technology that we are able to proceed with these kinds of engagements and maintain our operations seamlessly despite the unprecedented shock associated with the COVID-19 crisis.1
+
+[SECTION]
+
+The COVID-19 pandemic is taking a tremendous toll on communities across America, especially households and small businesses with the least resources to weather the storm.2 The COVID-19 crisis is a dramatic reminder of the importance of a resilient and trusted payments infrastructure that is accessible to all Americans. It was notable that after a sharp reduction in spending early in the COVID-19 crisis, many households increased their spending starting on the day they received emergency relief payments under the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) and continuing for the following 10 daysâespecially households with lower incomes, greater income declines, and lower liquid savings.3 The urgency with which the CARES Act emergency payments were spent underscores the importance of immediate and trusted access to funds for the many households and businesses that face cash-flow constraints. That is why the Federal Reserve remains committed to delivering on the FedNowSM Service, which will enable millions of American households and small businesses to get instant access to funds rather than waiting days for checks to clear.4
+
+[SECTION]
+
+More broadly, banks, fintech companies, and technology firms are all exploring the use of innovative technologies to enhance payments efficiency, expand financial inclusion, speed up settlement flows, and reduce end-user costs. Digital currencies, including central bank digital currencies (CBDCs), present opportunities but also risks associated with privacy, illicit activity, and financial stability. The introduction of Bitcoin and the subsequent emergence of stablecoins with potentially global reach, such as Facebook's Libra, have raised fundamental questions about legal and regulatory safeguards, financial stability, and the role of currency in society. This prospect has intensified calls for CBDCs to maintain the sovereign currency as the anchor of the nation's payment systems. Moreover, China has moved ahead rapidly on its version of a CBDC.
+
+[SECTION]
+
+With these important issues in mind, the Federal Reserve is active in conducting research and experimentation related to distributed ledger technologies and the potential use cases for digital currencies. Given the dollar's important role, it is essential that the Federal Reserve remain on the frontier of research and policy development regarding CBDCs. As part of this research, central banks are exploring the potential of innovative technologies to offer a digital equivalent of cash. Like other central banks, we are continuing to assess the opportunities and challenges of, as well as the use cases for, a CBDC, as a complement to cash and other payments options. There continues to be strong demand for U.S. currency, and we remain committed to ensuring the public has access to a range of payments options.
+
+[SECTION]
+
+We have been conducting in-house experiments for the last few years, through means that include the Board's Technology Lab, which has been building and testing a range of distributed ledger platforms to understand their potential opportunity and risk. This multidisciplinary team, with application developers from the Federal Reserve Banks of Cleveland, Dallas, and New York, supports a policy team at the Board that is studying the implications of digital currencies on the payments ecosystem, monetary policy, financial stability, banking and finance, and consumer protection.
+
+[SECTION]
+
+To enhance the Federal Reserve's understanding of digital currencies, the Federal Reserve Bank of Boston is collaborating with researchers at the Massachusetts Institute of Technology in a multiyear effort to build and test a hypothetical digital currency oriented to central bank uses. The research project will explore the use of existing and new technologies as needed. Lessons from this collaboration will be published, and any codebase that is developed through this effort will be offered as open-source software for anyone to use for experimentation.
+
+[SECTION]
+
+The objectives of our research and experimentation across the Federal Reserve System are to assess the safety and efficiency of digital currency systems, to inform our understanding of private-sector arrangements, and to give us hands-on experience to understand the opportunities and limitations of possible technologies for digital forms of central bank money. These efforts are intended to ensure that we fully understand the potential as well as the associated risks and possible unintended consequences that new technologies present in the payments arena.
+
+[SECTION]
+
+Separately, a significant policy process would be required to consider the issuance of a CBDC, along with extensive deliberations and engagement with other parts of the federal government and a broad set of other stakeholders. There are also important legal considerations. It is important to understand how the existing provisions of the Federal Reserve Act with regard to currency issuance apply to a CBDC and whether a CBDC would have legal tender status, depending on the design. The Federal Reserve has not made a decision whether to undertake such a significant policy process, as we are taking the time and effort to understand the significant implications of digital currencies and CBDCs around the globe.
+
+[SECTION]
+
+In addition to these experiments, the Federal Reserve continues to collaborate with and learn from other central banks. We are participating in the CBDC coalition of central banks. While each country will make decisions on whether to issue and how to design a CBDC based on its own domestic legal framework and financial and economic context, we benefit from collaboration on CBDC research. Sharing lessons learned, jointly conducting experiments, and bringing diverse expertise to bear helps us make progress in developing potential approaches to address challenging hurdles, such as threats to cybersecurity, counterfeiting and fraud, and anti-money laundering, to name a few, as well as on shared goals, such as increasing the ease and efficiency of cross-border transactions. Since financial and payments systems share extensive cross-border linkages, a poorly designed CBDC issued in one jurisdiction could create financial stability issues in another jurisdiction. A cyberattack on a CBDC arrangement in one jurisdiction could create domestic financial stress, which could, in turn, affect linked economies or have broader effects if confidence in certain technologies or payment mechanisms is eroded.
+
+[SECTION]
+
+More broadly, the Federal Reserve looks forward to increased international engagement on matters related to innovation and technological change that impact central banks and those we serve. Our new initiative with the Bank of International Settlement's Innovation Hub, through an innovation center at the Federal Reserve Bank of New York, will provide a useful venue for increased cooperation and exchange.5
+
+[SECTION]
+
+Let me conclude by noting that innovation is central to our work. We remain committed to understanding how technological advances can help the Federal Reserve carry out our core missions, as well as how they are changing the ways that banks, payments, and financial markets operate. For example, we are leveraging machine learning, natural language processing, and other artificial intelligence tools to help us analyze data, and we are monitoring how financial institutions use these tools in their decisionmaking. We are expanding our use of cloud computing to enhance our operations, and we continue to enhance our cybersecurity tools to strengthen our cyber posture. These and other technologies are fundamentally changing every aspect of our work, and the Federal Reserve remains optimistic about the power of healthy innovation to improve the resilience, efficiency, and inclusiveness of our financial system when the appropriate safeguards are in place.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

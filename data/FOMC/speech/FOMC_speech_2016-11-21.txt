@@ -1,0 +1,211 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 21, 2016
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At "A Conversation with Stanley Fischer," sponsored by the Council on Foreign Relations, New York, New York
+
+[SECTION]
+
+Watch live: http://www.cfr.org/monetary-policy/conversation-stanley-fischer/p38477
+
+[SECTION]
+
+Notwithstanding a number of shocks over the past year, the U.S. economy is performing reasonably well. Job gains have been robust in recent years, and the unemployment rate has declined to 4.9 percent, likely close to its long-run sustainable level. After running at a subdued pace during the first half of the year, gross domestic product growth has picked up in the most recent data, and inflation has been firming toward the Federal Open Market Committee's 2 percent target.1
+
+[SECTION]
+
+Although the economy has moved back to the vicinity of the Committee's employment and inflation targets--suggesting that the cyclical drag on the economy has been greatly reduced, if not largely eliminated--along some dimensions this has not been a happy recovery. Unease with the economy reflects a number of longer-term challenges, challenges that will require a different set of policy tools than those used to address nearer-term cyclical shortfalls in growth. Prominent among these challenges are low equilibrium interest rates and sluggish productivity growth in the United States and abroad. I will first touch on low interest rates before turning to productivity. The federal funds rate and policy rates in other advanced economies remain very low or even negative. Longer-term rates are also low by historical standards, even taking into account the increase of the past two weeks.
+
+[SECTION]
+
+Such low interest rates, together with only tepid growth, suggest that the equilibrium interest rate--that is, the rate that neither boosts nor slows the economy--has fallen. Why does this matter? Importantly, low interest rates make the economy more vulnerable to adverse shocks by constraining the ability of monetary policy to combat recessions using conventional interest rate policy--because the effective lower bound on the interest rate means that monetary policy has less room to reduce the interest rate when that becomes necessary. Also, low equilibrium rates could threaten financial stability by encouraging a reach for yield and compressing net interest margins, although it is important to point out that so far we have not seen evidence that low rates have notably increased financial vulnerabilities in the U.S. financial system. More fundamentally, low equilibrium real rates could signal that the economyâs long-run growth prospects are dim.
+
+[SECTION]
+
+Why are interest rates so low?2 In a speech last month, I identified a number of factors that have worked to boost saving, depress investment, or both. Among the factors holding down interest rates is the sluggishness of foreign economic growth. Another is demographics, with saving being higher as a result of an increase in the average age of the U.S. population. Also, investment recently has been weaker than might otherwise be expected, perhaps reflecting uncertainty about longer-run growth prospects, as well as the decline in investment in the energy sector as a result of the fall in the price of oil. Finally, and most important, weak productivity growth has likely pushed down interest rates both by lowering investment, as firms lower their expectations for the marginal return on investment, and by increasing saving, as consumers lower their expectations for income growth and borrow less and/or save more as a consequence.
+
+[SECTION]
+
+Understanding the recent weakness of productivity growth is central to addressing the longer-run challenges confronting the economy. Productivity growth over the past decade has been lackluster by post-World War II standards. Output per hour increased only 1-1/4 percent per year, on average, from 2006 to 2015, compared with its long-run average of 2-1/2 percent from 1949 to 2005. This halving of productivity growth, if it were to persist, would have wide-ranging consequences for living standards, wage growth, and economic policy more broadly. A number of explanations have been offered for the decline in productivity growth, including mismeasurement in the official statistics, depressed capital investment, and a falloff in business dynamism, with reality likely reflecting some combination of all of these factors and more.
+
+[SECTION]
+
+We should also consider the possibility that weak demand has played a role in holding back productivity growth, although standard economic textbooks generally trace a path from productivity growth to demand rather than vice versa. Chair Yellen recently spoke on the influence of demand on aggregate supply.3 In her speech, she reviewed a body of literature that suggests that demand conditions can have persistent effects on supply.4 In most of the literature, these effects are thought to occur through hysteresis in labor markets. But there are likely also some channels through which low aggregate demand could affect productivity, perhaps by lowering research-and-development spending or decreasing the pace of firm formation and innovation. I believe that the relationship between productivity growth and the strength of aggregate demand is an area where further research is required.
+
+[SECTION]
+
+I will conclude by reiterating one aspect of the low interest rate and low productivity growth problems that I have mentioned previously--the fact that, for several years, the Fed has been close to being "the only game in town," as Mohamed El-Erian described it in his recent book.5 But macroeconomic policy does not have to be confined to monetary policy. Certain fiscal policies, particularly those that increase productivity, can increase the potential of the economy and help confront some of our longer-term economic challenges. While there is disagreement about what the most effective policies would be, some combination of improved public infrastructure, better education, more encouragement for private investment, and more effective regulation all likely have a role to play in promoting faster growth of productivity and living standards. By raising equilibrium interest rates, such policies may also reduce the probability that the economy, and the Federal Reserve, will have to contend more than is necessary with the effective lower bound on interest rates.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

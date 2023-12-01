@@ -1,0 +1,271 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 22, 2023
+
+[SECTION]
+
+Governor Lisa D. Cook
+
+[SECTION]
+
+At the National Bureau of Economic Research Economics of Artificial Intelligence Conference, Fall 2023, Toronto, Canada
+
+[SECTION]
+
+Introduction
+As I was in 2018, I am excited to speak to you at the National Bureau of Economic Research (NBER) artificial intelligence (AI) conference, in a city that is a world-class center of AI research and business start-ups, to discuss AI and its prospective effects on productivity and the labor market. Outside of those of us who have spent many years researching the economics of innovation, it seems that AI is having a moment. The surge in excitement and trepidation about AI is palpable. Google searches for "AI" have tripled worldwide since 2022, fueled by the buzz about ChatGPT. Of course, this group saw it coming as early as 2017, when the first NBER AI conference was held here in Toronto, and many of you saw it coming much earlier than that.
+
+[SECTION]
+
+I will focus my remarks on generative AI, which creates new content largely in response to natural language prompts.1 As this audience knows, image and text classificationâdiscriminative AIâhas been in use for many years and is remarkably effective. I have used it to identify demographic characteristics of entrepreneurs in my own research.2 In contrast, effective generative AI is a very recent development and seems to be a leap forward into something new. Applications of generative AI range from the prosaic, like reducing the monotony of writing routine memos, to the wonderous, like protein structure prediction and drug discovery.
+
+[SECTION]
+
+Of course, experts emphasize that at their core, all forms of AI are an exercise in prediction, and technically that is true.3 To the layperson, though, a chatbot that is nearly good enough to pass the Turing test is substantially different from the U.S. Postal Service using AI to read your handwriting. Some of the uses of generative AI may be unsettling. For example, concerns about the ability of generative AI to impersonate individuals to harm their reputation or violate their privacy exist and are growing. Moreover, observers have noted that AI models sometimes harbor, if not amplify, the biases found in their training data, leading to malign effects on decisions about mortgage approvals, insurance rates, medical diagnoses, and even pretrial detention.4 And discrimination is not just an equity issueâit also holds down economic growth, as I show in my own work.5
+
+[SECTION]
+
+The range of potential social effects of AI is wide, as will be explored in the next presentation.6 In general, I am optimistic about broad benefits accruing to the economy and society from the use of generative AIâincluding more productive and less tedious work in offices, labs, factories, and warehousesâprovided we address the very real concerns I just mentioned, and others like them.
+
+[SECTION]
+
+As we consider how to foster the emerging benefits of AI and guard against unwelcome harms, it is important to keep in mind that the path from innovation to greater welfare passes through the choices of individuals in a social contextâin the corner office, in government, and in the minds of workers and consumersâand progress could stall or accelerate in any of these places. I will return to this point later after offering some thoughts on the potential for AI to affect productivity and the labor market.
+
+[SECTION]
+
+Why do I focus on AI as a monetary policymaker? The Federal Reserve's dual mandate is to promote maximum employment and stable prices. When firms deploy technologies that make workers more productive, they create the conditions for greater wage growth consistent with stable prices. And the labor market adjustment that follows as the economy adapts to technical change can affect maximum employment.
+
+[SECTION]
+
+AI and Productivity
+The impact of AI on the economy and monetary policy will depend on whether AI is just another app or something more profound. The most consequential innovations in the past have been general purpose technologies that have broadly transformed the economy over an extended period of time. We are living through the ongoing transformation fueled by electronic information technology, for example, and electrification had a similar effect in the early 20th century. General purpose technologies have three key features: (1) they are widely used across the economy, (2) they improve steadily over a long period of time, and (3) they raise the productivity of research and development (R&D).7 Could generative AI have these features? I will consider each in turn.
+
+[SECTION]
+
+First, is generative AI widely used? It is easy to see the potential, and we seem to be headed for widespread use. Generative AI makes communication more efficient, and nearly all human activitiesâand all industriesâinvolve communication. It is true that if you let generative AI draft an email, write the minutes of a meeting, or research a topic, you will have to review, fact-check, and edit the result. Nonetheless, thanks to AI's contribution, you may be much closer to your goal when you start than if you began with a blank page. Empirical evidence is still patchy, but there is work showing that generative AI improves productivity in a variety of settings, including computer coding, customer service, language translation, and robotics.8
+
+[SECTION]
+
+Second, will AI itself improve steadily over time? If we look backward, we can see that although the history of the computer language models at the core of generative AI goes back at least to the 1950s, there has been an explosion of technical progress in very recent years as LLMs, or large language models, using neural networks have emerged. Whether that explosive progress can be sustained is an open question, although the concerted efforts here in Toronto and elsewhere bode well for continued innovation. To draw an analogy, the sustained progress in solid-state electronics correctly predicted by Gordon Moore in 1965 looks like a law from a distance. But, in reality, each new generation of chip technology represents the coordinated effort of hundreds of scientists and engineers solving seemingly intractable problems.9 Continuing advances in model architecture, data curation, and computation will be essential for the continual improvement of AI models and implementation.
+
+[SECTION]
+
+Third, does generative AI make R&D more productive? Some potential for efficiency improvements in the scientific process when it comes to literature review and writing is obvious. Yet AI can go much deeper, discovering patterns in data and in previous research to generate hypotheses for testing that may not have occurred to researchers. Work by Ludwig and Mullainathan on exactly this topic will be presented shortly.
+
+[SECTION]
+
+All told, generative AI seems promising as a general purpose technology. Of course, you will get a much deeper dive into this question later this morning with the Eloundou, Manning, Mishkin, and Rock presentation. In their work, they find that 80 percent of the U.S. workforce will see at least some of their tasks transformed by generative AI. The authors of that paper do not take a stand on how fast this transformation will take place. Nor will I. However, we do know that historically the journey from innovation to productivity has sometimes been a long and uneven one. An often-cited example is the electric dynamo, which was first used in the U.S. in the 1890s but did not boost manufacturing productivity until the 1920s.10 Things now are a bit more hopeful than that example suggests, though: The lag between invention and adoption has been substantially reduced since the 19th century.11 Adoption of generative AI is certainly happening at a rapid clip. Even so, the full benefit of a technology only follows adoption when suitable complementary investments have been made.12 These can include changes in corporate structure and management practices, worker training, and the adjustment of the mix of capital in use. On the last point, we may have a head start, as AI will be deployed in a world with a massive stock of information technology already in place. New business formation will surely play a role as well, as historically much of productivity growth has followed from the entry of firms starting with a clean slateâand the exit of firms that were slow to adapt.13
+
+[SECTION]
+
+Labor Market Effects
+As with all revolutionary technologies, when we turn our attention from productivity to the labor market, many express concern, focusing on jobs that may disappear, while others focus on which jobs will replace them. Economic history suggests cautious optimism here. When the world switched from horse-drawn transport to motor vehicles, jobs for stable hands disappeared, but jobs for auto mechanics took their place.14 New technologies may displace some types of labor, but they can also raise the productivity and incomes of jobs they create or complement. The increase in consumption that follows may raise demand for labor overall. Nonetheless, the displacement effect might be concentrated and the productivity effect more diffuse. Therefore, while many workers throughout the economy benefit, a smaller set bear the brunt of the negative effects. Just as the introduction of computerized machine tools replaced skilled machinists and personal computers made many routine clerical and administrative jobs obsolete, the widespread adoption of AI will be a difficult transition for some workers.15
+
+[SECTION]
+
+But the labor market effects of technological change are more subtle than just creating and eliminating positions. Labor economists encourage us to think of work in terms of tasks, not jobs.16 As firms rethink their product lines and how they produce their goods and services in response to technical change, the composition of the tasks that need to be performed changes. Here, the portfolio of skills that workers have to offer is crucial. Can you shift to a new position that requires a different mix of your skills? For workers with a diverse skill set, and for workers with broad skills, like critical thinking and project management, the answer may well be "yes." For others, like the stable hand who was highly skilled in grooming horses, the answer may be "no."17
+
+[SECTION]
+
+The ability of workers to move to where they are needed as the task composition of production changes will also be an important determinant of how successfully the economy adapts to the new jobs created in response to AI. For example, how quickly will education and training react to the market signals of the skills that are needed? How will AI affect the range of skills required within firms and how will firms restructure in response? And how efficiently will the labor market match job seekers to suitable vacancies?
+
+[SECTION]
+
+While the Federal Reserve does not have a role in setting policies to help workers directly, I do not want to suggest that this transition will be easy or painless. Any large change in the labor force will generate disruptions and challenges that will need to be addressed to help workers adapt and thrive. The benefit of AI to society as a whole will depend on the adaptability of workers' skills, how well they are retrained or redeployed, and how policymakers choose to support the groups that are hardest hit by these changes.
+
+[SECTION]
+
+Choice Behavior
+The potential for far-reaching changes to the economy from generative AI is clear, but the pace and extent of the changes will depend on the choices made by workers, managers, and policymakers. AI makes predictions, but AI does not make choices. Ultimately, human beings are still in control.
+
+[SECTION]
+
+For workers, preparing for the AI-enhanced economy is a tricky task. What should students focus on in school? What college and university courses should be developed and mandatory? What kinds of continuing education are needed? It is safe to say that generative AI will make knowledge work more efficientâa worker can do more research, communication, design, and the like in a day. And, while some observers might warn that means fewer such workers, it is more likely we will need more of them. After all, when knowledge workers can accomplish more in an hour, firms have an incentive to use more of them, not fewer. So the demand for STEM skills will be robust, as it has been throughout the information age, but AI technology may strengthen the rising demand for social skills as well.18 Some of the job titles will be brand new. A search for "generative AI" jobs on Indeed.com early this week found over 2,000 listings, including such titles as "prompt engineer" and "newsroom generative AI lead."
+
+[SECTION]
+
+Among firms, success deploying AI will depend on strategic decisions, such as investing in training, reorganization, and product development. Financing will need to be available to existing firms that appear to best leverage the potential of AI and to the innovative new firms that will surely appear with AI-based business models.
+
+[SECTION]
+
+Policymakers, too, at all levels of government, will have to confront the changing world. Importantly, in the policy arenaâas well as health care, consumer finance, insurance, and many othersâdecisionmakers have legal and ethical duties to be deliberate about the effects their choices have on affected groups. In this context, an AI black box with no insight into the decision-making process is of limited value. As a policymaker, I look upon model-generated forecasts with a skeptical eye, if they are not coupled with a plausible explanation for the driving factors behind them. More generally, when stakeholders have an opportunity to appeal a decision, they are entitled to understand how the decision was madeâan issue I emphasized when I spoke at the 2018 meeting of this group.19 So I am particularly interested in seeing progress on "explainable AI," which may help bridge the divide between the technical sphere and the user.20
+
+[SECTION]
+
+In short, the impact of generative AI, as with all technical change, has to be understood in terms of human choice behavior in specific social and institutional contexts. Generative AI will change the choice set available to consumers, firms, and policymakers. As it happens, because economists study choice behavior, we are well positioned to contribute to the debate about AI and welfare and to anticipate the trajectory of this exciting trend. Some questions you might consider include: Are there ways to limit the labor-force disruptions of AI while capturing its job-creating potential? What new training and skill development will be needed to capture AI's benefits? Can productivity measures be improved to better capture how quickly AI is affecting the economy?
+
+[SECTION]
+
+I am delighted that this group continues to produce valuable, insightful work on these and other questions on the economics of AI, including the many interesting, thoughtful papers to be presented today.
+
+[SECTION]
+
+Thank you.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

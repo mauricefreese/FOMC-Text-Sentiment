@@ -1,0 +1,308 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 28, 2017
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At "20 Years On," a conference sponsored by the Bank of England, London, England
+
+[SECTION]
+
+Revised version: October 12, 2017
+
+[SECTION]
+
+Vice Chairman Fischer updated his remarks to elaborate on topics raised at the Bank of England conference for which the speech was originally prepared.
+
+[SECTION]
+
+It is a pleasure to speak at this commemoration of 20 years of Bank of England monetary policy independence. In my remarks today, I will consider how central banking in the United Kingdom and the United States has evolved in response to the challenges of recent years. I will address a limited set of topics and will have time to touch only briefly on each.1
+
+[SECTION]
+
+These remarks are divided into three parts. In the first part, I will discuss several aspects of aggregate monetary policy: central bank independence, policy transparency, and policy tools. In the second part, I consider differences between the approaches of the two banks to their lender-of-last-resort function. And, third, I will close with brief reflections on the central bank's responsibility for financial stability.
+
+[SECTION]
+
+Revisiting Goal Independence versus Instrument Independence
+We start by considering a central bank that influences economic activity only through its influence over the general level of interest rates.2 More than two decades ago, Guy Debelle and I offered two terms--goal independence and instrument independence--to describe such a central bank's degree of independence. Our definitions were as follows: "A central bank has goal independence when it is free to set the final goals of monetary policy. ... A bank that has instrument independence is free to choose the means by which it seeks to achieve its goals."3 In May 1997, the Bank of England achieved instrument independence--something the Federal Reserve had already long had.4
+
+[SECTION]
+
+Under the new law, the Bank of England's Monetary Policy Committee (MPC), rather than the Treasury, set the policy interest rate. Inflation targeting, which began in the United Kingdom in 1992, continued under the new system and was codified in the Bank of England Act of 1998.5 The MPC was given an explicit numerical inflation target, corresponding to effective price stability, alongside an implied stabilization goal for real economic activity.6 Consequently, the Bank of England from 1997 had the combination that Debelle and I advocated: instrument independence but not goal independence.
+
+[SECTION]
+
+We also judged that the vagueness of the Federal Reserve's statutory objectives meant that the Federal Reserve "has considerable goal independence."7 Today both the FOMC and the MPC have a numerical inflation goal--2 percent. However, this numerical goal is not specified in legislation in either country. In the United Kingdom, the Chancellor of the Exchequer sets the MPC's inflation target: currently 2 percent per year for the U.K. consumer price index.8 In the United States, in the FOMC's Statement on Longer-Run Goals and Monetary Policy Strategy, first issued in 2012 and discussed annually, Committee participants have judged that the longer-run inflation objective that corresponds to the Federal Reserve's mandate is a rate of 2 percent per year, as measured by the change in the price index for personal consumption expenditures.9
+
+[SECTION]
+
+In practice there is little difference between the policy goals of the two central banks, or between the variables that are targeted. But there is a subtle difference between them in terms of who sets the inflation target. To date, that difference has not generated any major divergence between the approaches to monetary policy of the two central banks.
+
+[SECTION]
+
+Although much has changed in central banking since the 1990s, the case for instrument independence and against goal independence remains sound. The case against goal independence is that it is not appropriate in a democracy: goals should reflect the preferences of society at large and should not be determined by unelected officials.
+
+[SECTION]
+
+The goals of monetary policy should be set by the central government, as is the case in both the United States and the United Kingdom. We all know what the goals of the Bank of England and the Fed are: For both, the goals are stability of the price level and full employment. Although there is a hint of a lexicographic ordering in favor of the rate of inflation in the Bank of England's mandate, the Federal Reserve's dual mandate unambiguously places equal weight on both goals. Across the world, there seems to be a preference for inflation either to be the only goal variable or to be lexicographically emphasized over unemployment. But I do not regard that difference as very significant. There is no central bank that--in Mervyn King's terminology--is an "inflation nutter."10
+
+[SECTION]
+
+Instrument independence is necessary because, without it, the central bank is unable to set the stance of monetary policy that it believes to be most consistent with achievement of the statutory mandate. That said, there are, to be sure, degrees of instrument independence, and one can easily envisage central banks with considerable instrument independence whose actions on their instruments are constrained by law or by decisions by the treasury. For example, in a country that has committed its central bank to enforce an exchange rate band (with the exchange rate free to move within the band), the central bank will not be fully instrument independent, though it may have a substantial amount of independence with respect to the precise settings of the policy interest rate and other monetary tools.
+
+[SECTION]
+
+Historically, central banks were frequently created to finance public spending. However, these banks--such as those in Sweden and the United Kingdom--were later sometimes given their operational independence in part to create a greater separation of monetary policy from fiscal policy--in particular, in order to ensure that they would not be vulnerable to pressure to finance the government budget (that is, to monetize public spending). Around the world, the fear of the central bank losing its ability to meet its price stability goal may well have been the prime reason for governments to implement instrument independence.11
+
+[SECTION]
+
+Fundamentally, however, central bank instrument independence is desirable because monetary policy is an esoteric and complicated art or science, involving technical judgments that have economy-wide and often long-lasting consequences: A separate institution is needed to manage and take responsibility for monetary policy. Central banks have over the years--in some cases over a few centuries--amassed an expertise and developed a character that makes them the natural candidates to perform the functions expected of such institutions. As the Governor of the Riksbank has observed, the most important skill and reputation that a central bank needs is one of reliability.12 That is, both the central government and the general public should be confident that their central bank can be relied on to deliver a stable price level and close to full employment, along with financial stability. If such independent institutions did not exist, we would have to invent them; if they exist and perform well, the country is blessed; and if they exist and perform badly, they need to be reformed--by a change in the laws by which they are governed, by changes in their structure, or by changes in personnel--and sometimes all of the above.
+
+[SECTION]
+
+Transparency, Accountability, and Communications
+In a paper written for the Bank of England's tercentenary, I considered how an instrument-independent central bank might conduct itself.13 My discussion noted that an independent central bank should adhere to the "principle of accountability to the public of those who make critically important policy decisions."14 Accountability, in the senses I defined it, included the requirement "to explain and justify its policies to the legislature and the public"--that is, policy transparency and communications.15 Transparency, public accountability, and policy communications form the quid pro quo of central bank independence, and they can also contribute to achievement of macroeconomic goals. These were points the FOMC recognized in its Statement on Longer-Run Goals and Monetary Policy Strategy, which observed that clarity concerning policy decisions "increases the effectiveness of monetary policy, and enhances transparency and accountability, which are essential in a democratic society." In my coverage of these issues today, however, I would like to concentrate on the Bank of England, which in the past quarter-century has been an innovator in several ways with regard to accountability and transparency.
+
+[SECTION]
+
+Calls for more transparency concerning U.K. monetary policy and the Bank of England's monetary actions predated independence. For example, in the late 1950s, Richard Sayers observed: "It may not be wise to turn the central bank into a goldfish bowl, but at least some relaxation of the traditional secretiveness would make for better health in the nation's monetary affairs."16 And some Bank communications vehicles, such as the economic analysis in the Quarterly Bulletin and testimony and speeches by the Governor and other Bank officials, were of long standing by the mid-1990s. But the Bank of England made further strides toward improved transparency and communications during the 1990s. In 1993, it initiated the Inflation Report. From the beginning, the Inflation Report was intended to increase transparency about the U.K. monetary policy reaction function--that is, the connection between policy instruments and economic variables, including the goal variables.17 After independence, the Inflation Report presented the MPC's inflation forecast. Furthermore, alongside other Bank statements, the Inflation Report provides a publicly available analysis of the economy and of economic implications of developments like Brexit. The content reflects the Bank's change in focus--from markets in the pre-inflation-targeting era to macroeconomic implications of financial and other developments.18
+
+[SECTION]
+
+The Bank expanded its policy communications after 1997, publishing MPC analogues to the FOMC releases (some of them only recent innovations by the Fed), namely, postmeeting MPC statements and meeting minutes. And an innovation of Mervyn King in the early years of inflation targeting that has continued in the era of independence is the Inflation Report press conference. Here, senior Bank figures discuss the MPC's forecast and the state of the economy. This innovation was a forerunner of the Federal Reserve Chair's press conference, begun in 2011, in which the Chair describes the latest policy decision together with the Summary of Economic Projections (SEP) of FOMC participants.
+
+[SECTION]
+
+New Monetary Policy Tools
+The MPC and FOMC have extensively--particularly in recent years--used two monetary policy tools other than decisions on the current short-term interest rate. These tools are forward guidance and asset purchases.19
+
+[SECTION]
+
+Monetary authorities used to be reluctant to discuss the future course of the policy rate.20 By 1997, however, there was widespread recognition of the merits of clarity on the reaction function and of having long-term interest rates incorporate accurate expectations of future policy. These considerations led to the FOMC's use of forward guidance regarding the short-term interest rate in its postmeeting statements during the mid-2000s. The MPC, in contrast, for a long time generally preferred to let markets infer likely future rates from the extensive communication it provided about its reaction function.21
+
+[SECTION]
+
+Beginning in 2008, with the policy rate at or near its lower bound, regular forward guidance acquired new efficacy.22 Through forward guidance, additional accommodation from short-term interest rate policy could be provided by lengthening the period over which the policy rate was expected to remain at its lower bound. The knowledge that the short-term policy rate likely would be lower for longer would put downward pressure on longer-term rates. The FOMC has provided forward guidance on the policy rate in its postmeeting statements ever since the target federal funds rate was brought to the lower bound in December 2008. In addition, the SEP shows individual FOMC participants' expectations regarding the policy rate, though it does not identify the individuals in the interest rate dot plot. In the United Kingdom, the MPC started providing forward guidance in its postmeeting statements in 2013.23
+
+[SECTION]
+
+As the policy rate--Bank Rate--is still at its lower bound in the United Kingdom, it remains to be seen whether MPC forward guidance will continue during policy firming. For its part, the FOMC has provided forward guidance in its policy statements during the tightening phase that began with the increase in the target range for the federal funds rate in December 2015. I expect that the Bank of England will also likely continue to use forward guidance when it begins to raise the policy interest rate above its effective lower bound.
+
+[SECTION]
+
+Asset purchases are less of a new tool than forward guidance. In the early post-World War II decades, both U.K. and U.S. authorities sporadically attempted to influence long-term interest rates directly by transacting in longer-term Treasury securities. By 1997, however, monetary policy operations in longer-term securities markets had fallen into disuse.24 The financial crisis changed matters, with both countries' central banks expanding their balance sheets through large-scale purchases of longer-dated securities to put downward pressure on longer-term interest rates and set in motion movements in asset prices and borrowing costs that would stimulate spending by households and businesses. It is widely, though not universally, recognized that these asset purchases helped contain the economic downturns in the United Kingdom and the United States and underpinned the subsequent recovery in each country. This experience raises the question of whether the balance sheet will continue to be a routine tool of monetary policy once interest rates normalize.25 The FOMC has indicated its preference that, barring large adverse shocks to the economy, adjustments to the federal funds rate will be the main means of altering the stance of monetary policy.26
+
+[SECTION]
+
+Changing Perspectives on the Lender of Last Resort
+The second section concerns the role of the lender of last resort. The financial crisis and recession confirmed the value of central bank tools that affect the financial system, beyond those most associated with monetary policy. One of these tools is the discount window or lender-of-last-resort function. As of the mid-2000s, the posture of the Bank of England and the Federal Reserve toward the lender-of-last-resort function reflected the principles enunciated by Bagehot and the long absence of a severe financial crisis: The discount rate stood above the key policy rate by a fixed amount; the discount window was not used for macroeconomic stabilization; and depository institutions were the users of the discount window, typically on a short-term basis.27
+
+[SECTION]
+
+In 1978, Rudi Dornbusch and I noted that the lender-of-last-resort function should imply that "the central bank steps in to ensure that funds are available to make loans to firms which are perfectly sound but, because of panic, are having trouble raising funds."28 In the financial crisis that started in 2007, wide-ranging measures were taken along these lines. In order to improve the functioning of U.S. credit markets, the Federal Reserve made numerous changes to its lending arrangements: The spread of the discount rate over the policy rate was lowered, lending was extended to include loans to nondepository financial institutions, and facilities were created allowing longer maturity of, and broader collateral for, loans than was usual for the central bank.29
+
+[SECTION]
+
+After its own experience during the financial crisis, the Bank of England permanently widened lender-of-last-resort access to include not only commercial banks, but also other systemically important financial institutions.30 In the United States, the discount rate has for several years been back to its normal relationship with the policy rate, and the special lending facilities have long since been wound up. Emergency lending facilities of the type seen during the financial crisis remain feasible, if needed, though their usage has not been incorporated into the Federal Reserve's routine lender-of-last-resort powers, along the lines of the changes seen in the United Kingdom. Instead, the restriction on their deployment has been tightened by requiring approval by the U.S. Treasury.
+
+[SECTION]
+
+Discount window lending puts public funds at risk--though I stress that the Federal Reserve's lending during the crisis did not, in fact, lead to any losses. The lender of last resort is also a less impersonal, and more allocative, device than aggregate monetary policy tools, because it involves direct lending by the central bank instead of an attempt by monetary policy to alter the overall cost of private-sector borrowing. For these reasons, the lender-of-last-resort function is bound to be more rule driven than interest rate policy, and it is inevitably associated with collateral arrangements and other safeguards to protect against losses and with strict eligibility criteria.
+
+[SECTION]
+
+The Financial Stability Responsibility of the Central Bank
+Our third and final section concerns the financial stability responsibility of the central bank. This responsibility has been subject to considerable institutional change over the past two decades. Until 1997, the Bank of England had wide supervisory and regulatory powers. With the reforms of the late 1990s, the Bank had a deputy governor responsible for financial stability, but regulatory powers were largely moved to a different institution, the Financial Services Authority (FSA). A decade later, the financial crisis demonstrated that financial imbalances can ultimately endanger macroeconomic stability and highlighted the need for enhanced central bank oversight of the financial system. In the post-crisis era, the FSA became two separate regulatory authorities, one of which--the Prudential Regulation Authority, created in 2012--is part of the Bank of England. In effect, regulatory powers have largely returned to the Bank. It is fair to say that the Bank was initially glad to cede many of its financial powers, but that it was later even more glad to have those powers restored.
+
+[SECTION]
+
+Financial supervision has also been reformed in the United States in light of the crisis. The Federal Reserve, which always had regulatory powers, received enhanced authority and devoted more resources to financial stability.31 In both countries, it remains the case that not all financial stability responsibilities rest with the central bank--so it is less independent in this area than in monetary policy proper--and the central bank's tools for achieving financial stability are still being refined. Indeed, as I have noted previously, a major concern of mine is that the U.S. macroprudential toolkit is not large and not yet battle tested.32
+
+[SECTION]
+
+The Federal Reserve and the Bank of England benefit from each other's experience as they develop and improve arrangements to meet their financial stability responsibilities. One major innovation that deserves mention is that the Bank of England has two policy committees: Alongside the MPC is the Financial Policy Committee (FPC). Although they coordinate and have partially overlapping memberships, the MPC and FPC are distinct committees.
+
+[SECTION]
+
+Why have both the MPC and the FPC? I offer a few possible reasons. First, not all of a central bank's responsibilities typically rest with its monetary committee. This is true not only of the Bank of England, but also of the Federal Reserve: Our financial regulatory authority resides in the Board of Governors, not the FOMC. Second, aggregate monetary policy tools--typically, one is talking of the policy interest rate--are often blunt weapons against financial imbalances, so deploying them might produce a conflict between financial stability and short-term economic stabilization. Macroprudential tools may be more direct and more appropriate for fostering financial stability.33 Third, financial policy might need less frequent adjustment than monetary policy. Perhaps reflecting this judgment, the FPC meets on a quarterly basis, which contrasts with the MPC's eight meetings a year.34 The lower frequency of meetings may also reflect the desirability of a relatively stable regulatory structure; financial tools likely should not be as continuously data dependent as monetary policy tools.
+
+[SECTION]
+
+It is clear that the U.K. institutional framework for the preservation of financial stability has much to be said for it. But it also seems clear that there is no uniquely optimal set-up of the framework for the maintenance of financial stability that is independent of the size and scale of the financial system of the country or of its political and financial history.
+
+[SECTION]
+
+Conclusion
+It has been more than 20 years since the Bank of England celebrated its 300th birthday with a conference focused on central bank independence. Since then, central banks' operating frameworks have undergone substantial changes, many in response to the financial crisis. But the case for monetary policy independence set out in the 1990s remains sound, and monetary policy independence is now widely accepted in the United Kingdom, as it long has been in the United States. It is also clear that central bank responsibilities other than policy rate decisions--specifically, the lender-of-last-resort function and financial stability--are closely connected with monetary policy and that these responsibilities play a prominent role in macroeconomic stabilization.
+
+[SECTION]
+
+Let me conclude by observing that, while the crisis and its aftermath motivated central banks to reappraise and adapt their tools, institutions, and thinking, future challenges will doubtless prompt further reforms.35 Or, if I may be permitted a few final words on my way out the door, the watchwords of the central banker should be "Semper vigilans," because history and financial markets are masters of the art of surprise, and "Never say never," because you will sometimes find yourself having to do things that you never thought you would.
+
+[SECTION]
+

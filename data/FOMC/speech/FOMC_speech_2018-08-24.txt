@@ -1,0 +1,316 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 24, 2018
+
+[SECTION]
+
+Chairman Jerome H. Powell
+
+[SECTION]
+
+At "Changing Market Structure and Implications for Monetary Policy," a symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming
+
+[SECTION]
+
+Thank you for the opportunity to speak here today. Fifteen years ago, during the period now referred to as the Great Moderation, the topic of this symposium was "Adapting to a Changing Economy." In opening the proceedings, then-Chairman Alan Greenspan famously declared that "uncertainty is not just an important feature of the monetary policy landscape; it is the defining characteristic of that landscape."1 On the doorstep of the period now referred to as the Global Financial Crisis, surely few, if any, at that symposium would have imagined how shockingly different the next 15 years would be from the 15 years that preceded it.
+
+[SECTION]
+
+Over the course of a long recovery, the U.S. economy has strengthened substantially. The unemployment rate has declined steadily for almost nine years and, at 3.9 percent, is now near a 20-year low. Most people who want jobs can find them. Inflation has moved up and is now near the Federal Open Market Committee's (FOMC) objective of 2 percent after running generally below that level for six years. With solid household and business confidence, healthy levels of job creation, rising incomes, and fiscal stimulus arriving, there is good reason to expect that this strong performance will continue.
+
+[SECTION]
+
+As the economy has strengthened, the FOMC has gradually raised the federal funds rate from its crisis-era low near zero toward more normal levels. We are also allowing our securities holdings--assets acquired to support the economy during the deep recession and the long recovery--to decline gradually as these securities are paid off. I will explain today why the Committee's consensus view is that this gradual process of normalization remains appropriate. As always, there are risk factors abroad and at home that, in time, could demand a different policy response, but today I will step back from these.
+
+[SECTION]
+
+In keeping with the spirit of this year's symposium topic--the changing structures of the economy--I would also note briefly that the U.S. economy faces a number of longer-term structural challenges that are mostly beyond the reach of monetary policy. For example, real wages, particularly for medium- and low-income workers, have grown quite slowly in recent decades. Economic mobility in the United States has declined and is now lower than in most other advanced economies.2 Addressing the federal budget deficit, which has long been on an unsustainable path, becomes increasingly important as a larger share of the population retires. Finally, it is difficult to say when or whether the economy will break out of its low-productivity mode of the past decade or more, as it must if incomes are to rise meaningfully over time.
+
+[SECTION]
+
+My FOMC colleagues and I believe that we can best support progress on these longer-term issues by pursuing the Federal Reserve's mandate and supporting continued economic growth, a strong labor market, and inflation near 2 percent. The topic of managing uncertainty in policymaking remains particularly salient. I will focus today on one of the many facets of uncertainty discussed at the 2003 symposium--uncertainty around the location of important macroeconomic variables such as the natural rate of unemployment. A good place to start is with two opposing questions that regularly arise in discussions of monetary policy both inside and outside the Fed:
+
+[SECTION]
+
+1. With the unemployment rate well below estimates of its longer-term normal level, why isn't the FOMC tightening monetary policy more sharply to head off overheating and inflation?
+
+[SECTION]
+
+2. With no clear sign of an inflation problem, why is the FOMC tightening policy at all, at the risk of choking off job growth and continued expansion?
+
+[SECTION]
+
+These questions strike me as representing the two errors that the Committee is always seeking to avoid as expansions continue--moving too fast and needlessly shortening the expansion, versus moving too slowly and risking a destabilizing overheating. As I will discuss, the job of avoiding these errors is made challenging today because the economy has been changing in ways that are difficult to detect and measure in real time. I will first lay out a standard view of a handful of basic relationships that are thought to reflect key aspects of the underlying structure of the economy. I will then use that framework to explain the role that structural change plays in our current policy deliberations, focusing on how that role has been shaped by two historical episodes.
+
+[SECTION]
+
+Conventional Views of Macroeconomic Structure
+In conventional models of the economy, major economic quantities such as inflation, unemployment, and the growth rate of gross domestic product (GDP) fluctuate around values that are considered "normal," or "natural," or "desired." The FOMC has chosen a 2 percent inflation objective as one of these desired values. The other values are not directly observed, nor can they be chosen by anyone. Instead, these values result from myriad interactions throughout the economy. In the FOMC's quarterly Summary of Economic Projections (SEP), participants state their individual views on the longer-run normal values for the growth rate of GDP, the unemployment rate, and the federal funds rate.
+
+[SECTION]
+
+These fundamental structural features of the economy are also known by more familiar names such as the "natural rate of unemployment" and "potential output growth." The longer-run federal funds rate minus long-run inflation is the "neutral real interest rate." At the Fed and elsewhere, analysts talk about these values so often that they have acquired shorthand names. For example, u* (pronounced "u star") is the natural rate of unemployment, r* ("r star") is the neutral real rate of interest, and Î * ("pi star") is the inflation objective. According to the conventional thinking, policymakers should navigate by these stars.3 In that sense, they are very much akin to celestial stars.
+
+[SECTION]
+
+For example, the famous Taylor rule calls for setting the federal funds rate based on where inflation and unemployment stand in relation to the stars.4 If inflation is higher than Î *, raise the real federal funds rate relative to r*. The higher real interest rate will, through various channels, tend to moderate spending by businesses and households, which will reduce upward pressure on prices and wages as the economy cools off. In contrast, if the unemployment rate is above u*, lower the real federal funds rate relative to r*, which will stimulate spending and raise employment.
+
+[SECTION]
+
+Navigating by the stars can sound straightforward. Guiding policy by the stars in practice, however, has been quite challenging of late because our best assessments of the location of the stars have been changing significantly.
+
+[SECTION]
+
+Shifting Stars during Normalization 
+In December 2013, the FOMC began winding down the final crisis-era asset purchase program. Asset purchases declined to zero over 2014, and in December 2015, the FOMC began the gradual normalization of interest rates that continues to this day. As normalization has proceeded, FOMC participants and many other private- and public-sector analysts regularly adjusted their assessments of the stars (figure 1). Many projections of the natural rate of unemployment fell roughly 1 full percentage point, as did assessments of the neutral interest rate. Estimates of the potential growth rate of GDP slipped about 1/2 percentage point.
+
+[SECTION]
+
+These changing assessments have big implications. For example, the 1 percentage point fall in the neutral interest rate implies that the federal funds rate was considerably closer to its longer-run normal and, hence, that policy was less accommodative than thought at the beginning of normalization. The 1 percentage point fall in the natural rate of unemployment implies at present that about 1.6 million more people would have jobs when unemployment is at its longer-run level. These shifts in the stars generally reflect analysts' attempts to square their estimates with arriving macroeconomic data. For example, as the unemployment rate fell toward, and then below, estimates of its natural rate, many expected inflation to move up. When inflation instead moved sideways, a reasonable inference was that the natural rate was lower than previously thought. Further, over this period, GDP growth was slower than one might have expected based on the rapid decline in unemployment and the well-known relationship between output and unemployment known as Okun's law. Put another way, labor productivity growth consistently disappointed, which raised the question of whether that shortfall was temporaryââperhaps due to headwinds from the crisis--or was part of a new normal.
+
+[SECTION]
+
+These assessments of the values of the stars are imprecise and subject to further revision. To return to the nautical metaphor, the FOMC has been navigating between the shoals of overheating and premature tightening with only a hazy view of what seem to be shifting navigational guides. Our approach to this challenge has been shaped by two much discussed historical episodes--the Great Inflation of the 1960s and 1970s and the "new economy" period of the late 1990s.
+
+[SECTION]
+
+Shifting Stars and the Great Inflation
+While the crisis and its aftermath have been extraordinary in many ways, the shifting of the stars is not one of them. Figure 2 illustrates the Congressional Budget Office's (CBO) current estimate of movements in the natural rate of unemployment and potential GDP growth from 1960 to 2000.5 Viewed against the ups and downs observed over these four decades, the recent shifts in longer-run values are not all that dramatic. Of course, these CBO estimates benefit from many years of hindsight, whereas monetary policy must be based on assessments made in real time. The Great Inflation period vividly illustrates the difficulties this difference raises.
+
+[SECTION]
+
+Around 1965, the United States entered a period of high and volatile inflation that ended with inflation in double digits in the early 1980s. Multiple factors, including monetary policy errors, contributed to the Great Inflation. Many researchers have concluded that a key mistake was that monetary policymakers placed too much emphasis on imprecise--and, as it turns out, overly optimistic--real-time estimates of the natural rate of unemployment.6
+
+[SECTION]
+
+Figure 3 compares the CBO's current view of the natural rate of unemployment in that era with an estimate by Athanasios Orphanides and John Williams of the rate as policymakers perceived it in real time. From 1965 to the early 1980s, this real-time estimate of u* was well below where hindsight now places it. The unemployment rate over this period was generally well above the real-time natural rate, and contemporary documents reveal that policymakers were wary of pushing the unemployment rate even further above u* (figure 4, top panel).7 With the benefit of hindsight, we now think that, except for a few years in the mid-1970s, the labor market was tight and contributing to inflation's rise (figure 4, lower panel).
+
+[SECTION]
+
+It is now clear that the FOMC had placed too much emphasis on its imprecise estimates of u* and too little emphasis on evidence of rising inflation expectations. The Great Inflation did, however, prompt an "expectations revolution" in macroeconomic thinking, with one overwhelmingly important lesson for monetary policymakers: Anchoring longer-term inflation expectations is a vital precondition for reaching all other monetary policy goals.8
+
+[SECTION]
+
+When longer-term inflation expectations are anchored, unanticipated developments may push inflation up or down, but people expect that inflation will return fairly promptly to the desired value. This is the key insight at the heart of the widespread adoption of inflation targeting by central banks in the wake of the Great Inflation. Anchored expectations give a central bank greater flexibility to stabilize both unemployment and inflation. When a central bank acts to stimulate the economy to bring down unemployment, inflation might push above the bank's inflation target. With expectations anchored, people expect the central bank to pursue policies that bring inflation back down, and longer-term inflation expectations do not rise. Thus, policy can be a bit more accommodative than if policymakers had to offset a rise in longer-term expectations.
+
+[SECTION]
+
+Shifting Stars and the "New Economy" of the Late 1990s
+The second half of the 1990s confronted policymakers with a situation that was in some ways the flipside of that in the Great Inflation. In mid-1996, the unemployment rate was below the natural rate as perceived in real time, and many FOMC participants and others were forecasting growth above the economy's potential. Sentiment was building on the FOMC to raise the federal funds rate to head off the risk of rising inflation.9 But Chairman Greenspan had a hunch that the United States was experiencing the wonders of a "new economy" in which improved productivity growth would allow faster output growth and lower unemployment, without serious inflation risks. Greenspan argued that the FOMC should hold off on rate increases.
+
+[SECTION]
+
+Over the next two years, thanks to his considerable fortitude, Greenspan prevailed, and the FOMC raised the federal funds rate only once from mid-1996 through late 1998.10 Starting in 1996, the economy boomed and the unemployment rate fell, but, contrary to conventional wisdom at the time, inflation fell.11
+
+[SECTION]
+
+Once again, shifting stars help explain the performance of inflation, which many had seen as a puzzle. Whereas during the Great Inflation period the real-time natural rate of unemployment had been well below our current-day assessment, in the new-economy period, this relation was reversed (figure 3). The labor market looked to be tight and getting tighter in real time, but in retrospect, we estimate that there was slack in the labor market in 1996 and early 1997, and the labor market only tightened appreciably through 1998 (figure 4). Greenspan was also right that the potential growth rate had shifted up. With hindsight, we recognize today that higher potential growth could accommodate the very strong growth that actually materialized, let alone the moderate growth policymakers were forecasting.12
+
+[SECTION]
+
+The FOMC thus avoided the Great-Inflation-era mistake of overemphasizing imprecise estimates of the stars. Under Chairman Greenspan's leadership, the Committee converged on a risk-management strategy that can be distilled into a simple request: Let's wait one more meeting; if there are clearer signs of inflation, we will commence tightening.13 Meeting after meeting, the Committee held off on rate increases while believing that signs of rising inflation would soon appear. And meeting after meeting, inflation gradually declined.
+
+[SECTION]
+
+In retrospect, it may seem odd that it took great fortitude to defend "let's wait one more meeting," given that inflation was low and falling. Conventional wisdom at the time, however, still urged policymakers to respond preemptively to inflation risk--even when that risk was gleaned mainly from hazy, real-time assessments of the stars. With the experience in the new-economy period, policymakers were beginning to appreciate that, with inflation expectations much better anchored than before, there was a smaller risk that an inflation uptick under Greenspan's "wait and see" approach would become a significant problem.
+
+[SECTION]
+
+Risk Management in the Face of Shifting Stars
+Given what the economy has shown us over the past 15 years, the need for the sort of riskâmanagement approach that originated in the new-economy era is clearer than ever before. That approach continues to evolve based on experience and the growing literature on monetary policy and structural uncertainty.
+
+[SECTION]
+
+Experience has revealed two realities about the relation between inflation and unemployment, and these bear directly on the two questions I started with. First, the stars are sometimes far from where we perceive them to be. In particular, we now know that the level of the unemployment rate relative to our real-time estimate of u* will sometimes be a misleading indicator of the state of the economy or of future inflation. Second, the reverse also seems to be true: Inflation may no longer be the first or best indicator of a tight labor market and rising pressures on resource utilization. Part of the reason inflation sends a weaker signal is undoubtedly the achievement of anchored inflation expectations and the related flattening of the Phillips curve.14 Whatever the cause, in the run-up to the past two recessions, destabilizing excesses appeared mainly in financial markets rather than in inflation. Thus, risk management suggests looking beyond inflation for signs of excesses.
+
+[SECTION]
+
+These two realities present challenges. The literature on uncertainty reviewed at the 2003 symposium--and much refined since then--provides important advice for how policy should respond, although not yet, in my view, an explicit recipe or rule that a prudent central bank should follow.15 The literature on robust rules, such as so-called difference rules, for example, supports the idea of putting less emphasis on the level of unemployment relative to u*.16 The FOMC's practice of looking at a broad range of indicators when assessing the state of the labor market has explicitly been part of the FOMC's Statement on Longer-Run Goals and Monetary Policy Strategy since its inception in 2012.17 We have greatly expanded the scope of our surveillance for signs of labor market tightness and of destabilizing excesses more generally.
+
+[SECTION]
+
+The risks from misperceiving the stars also now play a prominent role in the FOMC's deliberations. A paper by Federal Reserve Board staff is a recent example of a range of research that helps FOMC participants visualize and manage these risks.18 The research reports simulations of the economic outcomes that might result under various policy rules and policymaker misperceptions about the economy. One general finding is that no single, simple approach to monetary policy is likely to be appropriate across a broad range of plausible scenarios.19 More concretely, simulations like these inform our risk management by assessing the likelihood that misperception would lead to adverse outcomes, such as inflation falling below zero or rising above 5 percent.
+
+[SECTION]
+
+Finally, the literature on structural uncertainty suggests some broader insights. This literature started with the work of William Brainard and the well-known Brainard principle, which recommends that when you are uncertain about the effects of your actions, you should move conservatively.20 In other words, when unsure of the potency of a medicine, start with a somewhat smaller dose. As Brainard made clear, this is not a universal truth, and recent research highlights two particularly important cases in which doing too little comes with higher costs than doing too much. The first case is when attempting to avoid severely adverse events such as a financial crisis or an extended period with interest rates at the effective lower bound.21 In such situations, the famous words "We will do whatever it takes" will likely be more effective than "We will take cautious steps toward doing whatever it takes." The second case is when inflation expectations threaten to become unanchored. If expectations were to begin to drift, the reality or expectation of a weak initial response could exacerbate the problem.22 I am confident that the FOMC would resolutely "do whatever it takes" should inflation expectations drift materially up or down or should crisis again threaten. In addition, a decade of regulatory reforms and private-sector advances have greatly increased the strength and resilience of the financial system, with the aim of reducing the likelihood that the inevitable financial shocks will become crises.
+
+[SECTION]
+
+The Current Situation
+Let me conclude by returning to the matter of navigating between the two risks I identified--moving too fast and needlessly shortening the expansion, versus moving too slowly and risking a destabilizing overheating. Readers of the minutes of FOMC meetings and other communications will know that our discussions focus keenly on the relative salience of these risks. The diversity of views on the FOMC is one of the great virtues of our system. Despite differing views on these questions and others, we have a long institutional tradition of finding common ground in coalescing around a policy stance.
+
+[SECTION]
+
+I see the current path of gradually raising interest rates as the FOMC's approach to taking seriously both of these risks. While the unemployment rate is below the Committee's estimate of the longer-run natural rate, estimates of this rate are quite uncertain. The same is true of estimates of the neutral interest rate. We therefore refer to many indicators when judging the degree of slack in the economy or the degree of accommodation in the current policy stance. We are also aware that, over time, inflation has become much less responsive to changes in resource utilization.
+
+[SECTION]
+
+While inflation has recently moved up near 2 percent, we have seen no clear sign of an acceleration above 2 percent, and there does not seem to be an elevated risk of overheating. This is good news, and we believe that this good news results in part from the ongoing normalization process, which has moved the stance of policy gradually closer to the FOMC's rough assessment of neutral as the expansion has continued. As the most recent FOMC statement indicates, if the strong growth in income and jobs continues, further gradual increases in the target range for the federal funds rate will likely be appropriate.
+
+[SECTION]
+
+The economy is strong. Inflation is near our 2 percent objective, and most people who want a job are finding one. My colleagues and I are carefully monitoring incoming data, and we are setting policy to do what monetary policy can do to support continued growth, a strong labor market, and inflation near 2 percent.
+
+[SECTION]
+

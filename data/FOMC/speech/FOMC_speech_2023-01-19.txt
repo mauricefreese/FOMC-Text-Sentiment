@@ -1,0 +1,259 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+January 19, 2023
+
+[SECTION]
+
+Vice Chair Lael Brainard
+
+[SECTION]
+
+At the University of Chicago Booth School of Business, Chicago, Illinois
+
+[SECTION]
+
+Inflation has declined in recent months, which is important for American households, businesses, and consumers. Inflation is high, and it will take time and resolve to get it back down to 2 percent. We are determined to stay the course.1
+
+[SECTION]
+
+Financial conditions have tightened considerably over the last year as the Federal Reserve and foreign central banks have tightened policy. Real yields have risen significantly across the curve over the past year: 2-year yields on Treasury Inflation-Protected Securities (TIPS) have risen more than 4-1/2 percentage points to 2.1 percent, and 10-year TIPS yields have risen more than 2-1/4 percentage points to 1.2 percent. Short-term real interest rates have moved into decidedly positive territory.2 Mortgage rates have doubled.3
+
+[SECTION]
+
+Inflation has been declining over the past several months against a backdrop of moderate growth. Yesterday's industrial production index points to a significant weakening in the manufacturing sector, and the retail sales report points to a further moderation in consumer spending. Looking forward, weaker readings on real income, wealth, and sentiment, along with indicators of spending on services, such as the ISM services index, point to subdued growth in 2023.4 Real disposable personal income declined, on net, at an annual rate of 4.1 percent in the first three quarters of 2022, suggesting that recent consumption has been supported by running down pandemic savings and greater reliance on credit.5 In particular, savings among low-income households appear to be lower and to have declined more rapidly than was previously appreciated.6
+
+[SECTION]
+
+The widespread expectation for U.S. growth to be below potential over 2022 and 2023 reflects significant tightening in both fiscal and monetary policy in an environment of broader global tightening. The expiration of previous fiscal stimulus imposed a substantial drag on real U.S. gross domestic product (GDP) growth in 2022, whereas fiscal policy is expected to make a modest contribution over the next few years, in line with its longer-run average.
+
+[SECTION]
+
+By contrast, the drag on U.S. growth and employment from monetary policy is likely to increase in 2023 because of transmission lags from the rapid, large swing from accommodation to restraint in 2022. From March to December 2022, the Federal Open Market Committee (FOMC) undertook a large cumulative tightening in the stance of monetary policy by raising the policy rate 4-1/4 percentage points and shrinking the balance sheet. Although financial conditions adjust immediately to reflect expected and actual changes in monetary policy, the full adjustment of output, employment, and inflation occurs with a lag.7 Given the speed and magnitude of the swing in the stance of monetary policy, the lagged effects of earlier accommodation likely offset some of the initial effects of tightening over the course of 2022, and it is likely that the full effect on demand, employment, and inflation of the cumulative tightening that is in the pipeline still lies ahead. That said, there is uncertainty about the timing and magnitude.
+
+[SECTION]
+
+With that in mind, let's turn to the implications for the employment leg of our dual mandate. In contrast to the slowing of output growth, labor markets remained tight throughout 2022, with layoffs remaining below pre-pandemic levels and the unemployment rate ending the year at 3.5 percent, its historical low. Quit rates and the ratio of job postings to job seekers also remain elevated, although they are off their peaks from early in the year.
+
+[SECTION]
+
+Recent declines in average weekly hours, temporary-help services, and monthly payrolls growth suggest tentative signs that labor demand is cooling. Employment at temporary-help services firmsâa good leading indicatorâpeaked in July 2022 and has been declining since then, ending the year only slightly above its December 2019 level. Similarly, average weekly hours have declined: After peaking in early 2021 and remaining elevated through May 2022, average weekly hours have declined and now stand at the bottom of the range for this metric over the five years before the pandemic. The continued decline in average weekly hours is notable because this margin is among the easiest to adjust by firms facing declining demand, especially those who may be reluctant to undertake layoffs following the challenges encountered in restoring employment following the pandemic-induced layoffs. In addition, average payrolls growth in the Bureau of Labor Statistics' establishment survey fell from 540,000 jobs per month in the first quarter of 2022 to 250,000 jobs per month in the fourth quarter.
+
+[SECTION]
+
+That said, labor supply appears likely to remain constrained. On net, the labor force participation rate flattened out over 2022 at a level that is about 1 percentage point lower than pre-pandemic, primarily reflecting an estimated 2.5 million in excess retirements, as well as some impact from long COVID.8 Immigration has also been low in recent years.9
+
+[SECTION]
+
+Despite constrained supply, wages do not appear to be driving inflation in a 1970s-style wageâprice spiral. It is true that wages have grown faster than the pace consistent with 2 percent inflation and productivity growth. It is also true that wages have grown slower than inflation over the past two years, and that aggregate real wages have fallen. It appears that workers in lower-wage sectors who saw high pandemic layoffs initially and benefited from job switching subsequently as businesses scrambled to hire have seen wage gains in real terms. However, in the aggregate, the gains among lower-wage workers were more than offset by real wage declines among middle- and higher-wage workers in the context of a broader compression in the real wage distribution, as David Autor points out.10 Overall, the labor share of income has declined over the past two years and appears to be at or below pre-pandemic levels, while corporate profits as a share of GDP remain near postwar highs.
+
+[SECTION]
+
+Retail markups in a number of sectors have seen material increases in what could be described as a priceâprice spiral, whereby final prices have risen by more than the increases in input prices.11 The compression of these markups as supply constraints ease, inventories rise, and demand cools could contribute to disinflationary pressures.
+
+[SECTION]
+
+There are tentative signs that wage growth is moderating. Growth in average hourly earnings has softened recentlyâstepping down to 4.1 percent annualized growth on a 3-month basis in December from roughly 4.5 percent on a 6-month and 12-month basis. I will be watching to see whether the employment cost index data at the end of this month show the deceleration from the third quarter continuing into the fourth quarter.
+
+[SECTION]
+
+Let's now turn to the inflation leg of our dual mandate. Inflation has declined in recent months from very high levels. With the consumer price index and producer price index now available, total PCE (personal consumption expenditures) inflation in December is likely to have run at around a 2.3 percent annualized pace on a 3- and 6-month basis, as compared with 5.1 percent on a 12-month basis. This deceleration reflects an easing in war-related energy shocks as well as in core goods inflation: Energy and core goods each subtracted nearly three-fourths of 1 percentage point from 3-month annualized total PCE inflation. The declines in energy and core goods are a reversal of previous large increases and are expected to moderate.
+
+[SECTION]
+
+Core PCE inflation is running at a 3.1 percent annualized pace on a 3-month basisâbelow its 3.8 percent reading on a 6-month basis and 4.5 percent on a 12-month basis. Within this, recent declines in core goods inflation reflect a reduction in core import prices, an easing of supply chains, a restocking of inventories, and cooling demand. Core goods prices are likely to flatten out once earlier large gains reverse, in the absence of new shocks, and overall core inflation could move up somewhat for a time as a result.
+
+[SECTION]
+
+In that regard, housing services inflation remains stubbornly high at 8.8 percent on a 3-month basisâcompared with 7.7 percent on a 12-month basis. Housing services are making an annualized contribution to core PCE that is more than double their contribution before the pandemic. That said, the housing sector is highly interest sensitive, and the most recent reading of one national indicator pointed to house prices having declined 2.5 percent over the five months ending in November.12 Similarly, rents based on new leases are decelerating sharply.13 Although it is currently offset by catch-up in renewing leases, the decline in rent on new leases will show through to average rent over time, and declines in housing services inflation are expected by the third quarter of this year.14
+
+[SECTION]
+
+In addition, nonhousing services are running at about 4.4 percent annualized inflation on a 3-month basis, similar to their 12-month pace. There are a range of views on what it will take to bring down this component of inflation to pre-pandemic levels. Since wages constitute a significant fraction of costs for most firms in nonhousing services, one possible channel is through a weakening in labor demand. That said, to the extent that inputs other than wages may have been responsible in part for important price increases for some nonhousing service sectors, an unwinding of these factors could help bring down nonhousing services inflation.
+
+[SECTION]
+
+There is some recent evidence that the persistent components of inflation in core goods and nonhousing services, particularly transportation, recreation, and food services and accommodation, have behaved similarly, peaking around early 2022 and steadily declining since then.15 To the extent that the persistent components of these nonhousing services and core goods reflect common factors that are fading, such as pass-through from commodity and supply chain shocks, they are unlikely to be as cyclically persistent, as long as inflation expectations are well anchored.16
+
+[SECTION]
+
+Of course, an extended period of high goods and services inflation resulting from a series of demand and supply shocks associated with the pandemic and the war could lead to a rise in inflation expectations, which would make it much more difficult to bring inflation down.17 That is why it has been important for monetary policy to take a risk-management posture to defend the expectations anchor. And the evidence from market- and survey-based measures suggests that longer-term inflation expectations are well anchored, while year-ahead measures have recently declined but remain elevated.
+
+[SECTION]
+
+Together, the price trends in core goods and nonhousing services, the tentative indications of some deceleration in wages, the evidence of anchored expectations, and the scope for margin compression may provide some reassurance that we are not currently experiencing a 1970sâstyle wageâprice spiral. For these reasons, it remains possible that a continued moderation in aggregate demand could facilitate continued easing in the labor market and reduction in inflation without a significant loss of employment.18
+
+[SECTION]
+
+Nonetheless, substantial uncertainty remains. Further shocks associated with the war and the pandemic are possible. While there has been some improvement in the outlook for activity and inflation in Europe, there is uncertainty about the implications of China's exit from zero COVID for global demand and inflation, especially in commodities.
+
+[SECTION]
+
+Turning to the implications for policy, my colleagues and I are committed to restoring price stability. The FOMC moved policy into restrictive territory at a rapid pace and subsequently downshifted the pace of increases in the target range at its most recent meeting. This will enable us to assess more data as we move the policy rate closer to a sufficiently restrictive level, taking into account the risks around our dual-mandate goals. In parallel, balance sheet runoff is continuing. Even with the recent moderation, inflation remains high, and policy will need to be sufficiently restrictive for some time to make sure inflation returns to 2 percent on a sustained basis.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

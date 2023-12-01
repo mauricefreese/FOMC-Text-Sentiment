@@ -1,0 +1,326 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 15, 2008
+
+[SECTION]
+
+Governor Frederic S. Mishkin
+
+[SECTION]
+
+At the Wharton Financial Institutions Center and Oliver Wyman Institute's Annual Financial Risk Roundtable, Philadelphia, Pennsylvania
+
+[SECTION]
+
+Over the centuries, economies have periodically been subject to asset price bubbles--pronounced increases in asset prices that depart from fundamental values and eventually crash resoundingly. Because economies often fare very poorly after a bubble bursts, central bankers need to think hard about how they should address such bubbles. This issue has become especially topical of late because of the rapid rise and subsequent decline in residential housing prices this decade. The recent drop in house prices in many markets around the country has been accompanied by increasing rates of defaults on mortgage loans and home foreclosures. These developments have created hardship for the families who are forced to leave their homes and have disrupted communities; in addition, the developments have contributed to a major shock to the financial system, with sharp increases in credit spreads and large losses to financial institutions. As many have pointed out, the damage to households' credit and the financial disruption have been a drag on the U.S. economy, which has led to a slowing of economic growth and a recent decline in employment.
+
+[SECTION]
+
+In my remarks today, I would like to return to the issue of how we should respond to possible asset price bubbles.1 I will first focus on the conceptual framework I use to evaluate these issues, based on a core set of scientific principles for monetary policy.2 My framing of the issues highlights the following three questions:
+
+[SECTION]
+
+My discussion of these conceptual issues is followed by a summary of several historical examples that illustrate the importance of focusing on the principles I have outlined. As usual, these remarks reflect only my own views and are not intended to reflect those of the Federal Open Market Committee or of anyone else associated with the Federal Reserve System.
+
+[SECTION]
+
+Are Some Asset Price Bubbles More Problematic Than Others?In order to consider how monetary and other policies should address asset price bubbles, we must first examine how asset prices influence inflation and aggregate economic activity. These influences act through several channels; in particular, asset prices provide signals regarding profitable investments, affect the wealth of households, and influence the cost of capital to firms and households. For example, higher equity prices, whether driven by fundamentals such as lower interest rates or faster productivity growth or by bubble-type factors like "irrational exuberance," boost business investment by lowering the cost of capital and raise household demand by generating increased wealth. Other fluctuations in asset prices act similarly. The resulting fluctuations in resource utilization lead to changes in inflation.3
+
+[SECTION]
+
+The influences of asset prices on demand and inflation through traditional wealth and cost-of-capital channels fall directly within the traditional concerns of monetary policy, a point to which I will return shortly. However, not all asset price bubbles are alike, and some bubbles raise issues outside the direct responsibility of monetary policy but within the policy concerns of the broader regulatory framework governing our financial system. In particular, some asset price bubbles can have more-significant economic effects, and thus raise additional concerns for economic policymakers, by contributing to financial instability. Financial history reveals the following typical chain of events: Because of either exuberant expectations about economic prospects or structural changes in financial markets, a credit boom begins, increasing the demand for some assets and thereby raising their prices.4 The rise in asset values, in turn, encourages further lending against these assets, increasing demand, and hence their prices, even more. This feedback loop can generate a bubble, and the bubble can cause credit standards to ease as lenders become less concerned about the ability of the borrowers to repay loans and instead rely on further appreciation of the asset to shield themselves from losses.
+
+[SECTION]
+
+At some point, however, the bubble bursts. The collapse in asset prices then leads to a reversal of the feedback loop in which loans go sour, lenders cut back on credit supply, the demand for the assets declines further, and prices drop even more. The resulting loan losses and declines in asset prices erode the balance sheets at financial institutions, further diminishing credit and investment across a broad range of assets. The decline in lending depresses business and household spending, which weakens economic activity and increases macroeconomic risk in credit markets.5 In the extreme, the interaction between asset prices and the health of financial institutions following the collapse of an asset price bubble can endanger the operation of the financial system as a whole.6
+
+[SECTION]
+
+To be clear, not all asset price bubbles create these risks to the financial system. For example, the bubble in technology stocks in the late 1990s was not fueled by a feedback loop between bank lending and rising equity values; indeed, the bursting of the tech-stock bubble was not accompanied by a marked deterioration in bank balance sheets. But potential for some asset price bubbles to create larger difficulties for the financial system than others implies that our regulatory framework should be designed to address the potential challenges to the financial system created by these bubbles.
+
+[SECTION]
+
+How Should Monetary Policy Respond to Asset Price Bubbles?In order to think about how central banks should respond to asset prices, we need to first remember the objectives of monetary policy. The ultimate purpose of a central bank should be to promote the public good through policies that foster economic prosperity. Research in monetary economics describes this objective in terms of stabilizing both inflation and economic activity. Indeed, these objectives are exactly what is embodied in the dual mandate that the Congress has given the Federal Reserve.7
+
+[SECTION]
+
+Because of their effects on prices and employment, macroeconomic fluctuations due to asset price movements are a concern for monetary policy makers. However, the macroeconomic consequences of asset price fluctuations are unlikely to have long-lasting and severe consequences for the economy as long as monetary policy responds appropriately. Whether an asset price bubble is occurring or not, as asset prices rise and boost the outlook for economic activity and inflation, monetary policy should respond by moving to a more restrictive stance. After a bubble bursts and the outlook for economic activity deteriorates, policy should become more accommodative.8 As I pointed out in a paper that I presented at the Federal Reserve Bank of Kansas City's Jackson Hole conference in September, if monetary policy responds immediately to the decline in asset prices, the negative effects from a bursting asset price bubble to economic activity arising from the decline in wealth and increase in the cost of capital to firms and households are likely to be small.9 More generally, monetary policy should react to asset price bubbles by looking to the effects of such bubbles on employment and inflation, then adjusting policy as required to achieve maximum sustainable employment and price stability.
+
+[SECTION]
+
+To be clear, I think that in most cases, monetary policy should not respond to asset prices per se, but rather to changes in the outlook for inflation and aggregate demand resulting from asset price movements. This point of view implies that actions, such as attempting to "prick" an asset price bubble, should be avoided.
+
+[SECTION]
+
+I take this view for (at least) three important reasons.10 First, asset price bubbles can be hard to identify. As a result, tightening monetary policy to restrain a bubble that has been misidentified can lead to weaker economic growth than is warranted. In addition, central bank actions to influence asset prices when the central bank is uncertain about the presence or extent of a bubble can interfere with the role of asset prices in allocating resources.11
+
+[SECTION]
+
+Second, even if asset price bubbles could be identified, the effect of interest rates on asset price bubbles is highly uncertain. Although some theoretical models suggest that raising interest rates can diminish the acceleration of asset prices, raising interest rates may be very ineffective in restraining the bubble, because market participants expect such high rates of return from buying bubble-driven assets.12 Other research and historical examples (which I will discuss later) have suggested that raising interest rates may cause a bubble to burst more severely, thereby increasing the damage to the economy.13 Another way of saying this is that bubbles are departures from normal behavior, and it is unrealistic to expect that the usual tools of monetary policy will be effective in abnormal conditions. The bottom line is that we do not know the effects of monetary policy actions on asset price bubbles.
+
+[SECTION]
+
+Third, there are many asset prices, and at any one time a bubble may be present in only a fraction of assets. Monetary policy actions are a very blunt instrument in such a case, as such actions would be likely to affect asset prices in general, rather than solely those in a bubble.
+
+[SECTION]
+
+All told, research suggests that monetary policy that does not try to prick bubbles, but instead responds solely to the inflation and aggregate demand outlook, is likely to lead to better outcomes even when bubbles might arise.14
+
+[SECTION]
+
+Are Other Types of Policy Responses Appropriate?I would now like to return to the effect of asset price bubbles on the stability of the financial system. As I highlighted earlier, some, but clearly not all, asset price bubbles create risks to the financial system that could have large negative effects on the macroeconomy. As a result, it is important to examine the potential for government policies to address the type of bubble in which there is feedback between asset prices and financial stability. I would like to emphasize the importance of regulatory policy. Monetary policy--that is, the setting of overnight interest rates--is already challenged by the task of managing both price stability and maximum sustainable employment. As a result, it falls to regulatory policies and supervisory practices to help strengthen the financial system and reduce its vulnerability to both booms and busts in asset prices.
+
+[SECTION]
+
+Of course, some aspects of such policies are simply the usual elements of a well-functioning prudential regulatory and supervisory system. These elements include adequate disclosure and capital requirements, prompt corrective action, careful monitoring of an institution's risk-management procedures, close supervision of financial institutions to enforce compliance with regulations, and sufficient resources and accountability for supervisors.
+
+[SECTION]
+
+More generally, our approach to regulation should favor policies that will help prevent future feedback loops between asset price bubbles and credit supply. A few broad principles are helpful in thinking about what such policies should look like. First, regulations should be designed with an eye toward fixing market failures. Second, regulations should be designed so as not to exacerbate the interaction between asset price bubbles and credit provision. For example, research has shown that the rise in asset values that accompanies a boom results in higher capital buffers at financial institutions, supporting further lending in the context of an unchanging benchmark for capital adequacy; in the bust, the value of this capital can drop precipitously, possibly even necessitating a cut in lending.15 It is important for research to continue to analyze the role of bank capital requirements in promoting financial stability, including whether capital requirements should be adjusted over the business cycle or whether other changes in our regulatory structure are necessary to ensure macroeconomic efficiency.16 Finally, in general, regulatory policies are appropriately focused on the soundness of individual institutions. However, during certain periods, risks across institutions become highly correlated, and we need to consider whether such policies might need to take account of these higher-stress environments in assessing the resilience of both individual institutions and the financial system as a whole in the face of potential external shocks.
+
+[SECTION]
+
+Some policies to address the risks to financial stability from asset price bubbles could be made a standard part of the regulatory system and would be operational at all times--whether a bubble was in progress or not. However, because specific or new types of market failures might be driving a particular asset price bubble, some future bubbles will almost certainly create unanticipated difficulties, and, as a result, adjustments to our policy stance to limit the market failure contributing to a bubble could be very beneficial if identified and implemented at the appropriate time.
+
+[SECTION]
+
+Earlier, I pointed out that a bubble could be hard to identify. Indeed, I think this is especially true of bubbles in the stock market. Central banks or government officials are unlikely to have an informational advantage over market participants. If a central bank were able to identify bubbles in the stock market, wouldn't market participants be able to do so as well? If so, then a bubble would be unlikely to develop, because market participants would know that prices were getting out of line with fundamentals.
+
+[SECTION]
+
+However, although I believe that stock market bubbles might be hard to identify because they are typically not driven by credit booms (which also makes them less harmful because their collapse is less likely to lead to financial instability), when asset prices are rising rapidly at the same time that credit is booming, there may be a greater likelihood that asset prices are deviating from fundamentals, because laxer credit standards may be driving asset prices upward.17 In this case, financial regulators at central banks and other institutions may have a greater likelihood of identifying that a bubble is in progress; for example, they might have information that lenders have weakened their underwriting standards and that credit extension is rising at abnormally high rates.
+
+[SECTION]
+
+The reasoning here suggests that a rapid rise in asset prices accompanied by a credit boom provides a signal that should lead central bankers and other financial supervisors to carefully scrutinize financial developments to see if market failures might be driving the asset price boom. The resulting analysis of financial developments might then lead policymakers to consider implementing policies to address the imperfections behind the market failures and thereby help reduce the magnitude of the bubble.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Some Historical ExamplesI would like to now turn to a few examples from U.S. history and international experience that highlight the interaction between asset price bubbles, financial stability, and the policy framework.
+
+[SECTION]
+
+The Stock Market Boom of the 1920sThe Roaring Twenties and the onset of the Great Depression present a particularly drastic example. The U.S. economy thrived during the 1920s as new technologies, financial innovations, and improved business practices were introduced and contributed to a general sense of optimism. As you all know, the stock market experienced a dramatic rise during that decade until it burst during the Great Crash of 1929.
+
+[SECTION]
+
+A popular account of that period attributes the stock market boom to easy credit and rising speculation; the period ended with panic selling on Wall Street and triggered the beginning of the Great Depression.18 According to this view, the Federal Reserve was incorrect in letting the rise in equity prices develop and should have raised interest rates to stem stock market speculation. You will guess from my proposed set of principles for monetary policy that I view this approach as mistaken.
+
+[SECTION]
+
+It is first very difficult to assess the extent to which the stock market was driven by nonfundamental forces at the time; by some accounts, the stock market bubble started only in March 1928.19 Nonetheless, the rise in equity prices took a more prominent place during policy discussions at the Fed beginning in 1927, with Board member Adolph Miller pressing fervently for an increase in interest rates to stop the speculative use of credit. This approach was opposed by Benjamin Strong, the influential Governor of the Federal Reserve Bank of New York who feared a negative impact on the economy: "â¦any effort through higher rates directed especially at stock speculation would have an unfavorable effect upon businessâ¦"20 However, Strong's death in 1928 opened the door for a more restrictive monetary policy aimed at curbing excesses in the stock market, even as signs of economic weakness became visible.
+
+[SECTION]
+
+The tightening cycle that ended in August 1929 weakened an already deteriorating economy and paved the way for the collapse of the stock market in October. The Federal Reserve's mistake in attempting to burst the bubble directly was made worse by its refusal to change course rapidly after the market collapsed and the banking system got into trouble, thereby allowing deflation to set in, which raised real interest rates to extremely high levels and further depressed growth.
+
+[SECTION]
+
+Japan's Asset Price Boom and the Lost DecadeAn asset price bubble also confronted the Bank of Japan (BOJ) with tough decisions starting in the mid- to late 1980s. The extent of the asset price boom in Japan in the late 1980s can be gauged by the fact that the land surrounding the Imperial Palace in Tokyo was estimated to be worth more than the whole of California at that time. Without a doubt, the 1980s was a prosperous decade in Japan with high growth, low unemployment, little inflation, and an envied business model. During that decade, equity prices rose more than 600 percent and land prices boomed more than 400 percent.
+
+[SECTION]
+
+Soaring equity and land prices during the 1980s, combined with relatively low interest rates, eased financing conditions for investment substantially.21 The ratio of bank loans to gross domestic product surged, and investment spending became the main driver of economic activity. Because of financial deregulation, banks' risk-taking behavior also increased as they channeled more funds to real-estate-related sectors and to small firms, accepting property as collateral.22 Trusting in a rising real estate market, some banks went as far as lending more than 100 percent of a property's appraisal value.
+
+[SECTION]
+
+As at the Fed during the Roaring Twenties, the BOJ was concerned about the rapid rise in asset prices in the mid-1980s and the possibility that a bubble was in progress. In 1989, as asset prices continued to soar and inflation moved upward, the BOJ decided to start raising rates. The stock market collapsed at the beginning of 1990, but land prices continued to rise, and the BOJ kept tightening policy. Monetary policy only gradually reversed course in the summer of 1991 as growth declined and inflation and land prices started to move down. The subsequent decade has been termed "the lost decade." During that time, Japan suffered from anemic growth and repeated bouts of very low inflation and deflation.
+
+[SECTION]
+
+Japan's experience re-emphasizes the importance of regulatory policies that may prevent feedback loops between asset price bubbles and credit provision. Indeed, during the boom, Japanese regulations that allowed banks to count as capital unrealized gains from equities may have contributed to banks' appetite for equities during the stock market run-up and to financial instability as the stock market collapsed.  After the bursting of the bubble, policymakers did not quickly resolve the fragility of the banking sector, thereby allowing conditions to worsen as banks kept lending to inefficient, debt-ridden, so-called zombie firms.
+
+[SECTION]
+
+On the other hand, Japan's experience does not support the need for preemptive monetary policy actions to deflate a bubble, as some commentators have suggested.23 The tightening of monetary policy during the bubble period does not appear to have led to better economic outcomes. Moreover, the BOJ did not reverse course sufficiently or rapidly enough in the aftermath of the crisis.24 Research suggests that it was the slow response of monetary policy to the deterioration in the economic outlook and fall in inflation following the bursting of the bubble that contributed to the onset of deflation.25
+
+[SECTION]
+
+The Recent U.S. ExperienceAs highlighted in my introduction, the issues I have discussed today are especially salient because of the recent experience with house prices in the United States. It is too early to draw firm conclusions regarding all of the factors that have contributed to the rise and decline of house prices and the impact of these developments on our financial system and the macroeconomy. But the Federal Reserve and other government agencies have already begun to address some weaknesses that emerged during this period. For example, problems arose in recent years in the chain linking the origination of mortgages to their distribution to investors through structured investment products like mortgage-backed securities. Underwriting standards became increasingly compromised at origination. In retrospect, the breakdown in underwriting can be linked to the incentives that the originate-to-distribute model, as implemented in this case, created for the originators. Notably, the incentive structures often tied originator revenue to loan volume rather than to the quality of the loans being passed up the chain. This problem was exacerbated by the bubble in house prices: Lenders began to ease standards as further appreciation in house prices was expected to ensure that risk was low, and investors failed to perform the research necessary to fully appreciate the risks in their investments, instead relying on further house price appreciation to prevent losses. The interaction between lenders' and investors' views and house prices illustrates the pernicious feedback loop I highlighted earlier.
+
+[SECTION]
+
+These problems became apparent only in retrospect, in part, because the growth of the originate-to-distribute model for mortgages was an ongoing innovation in financial markets; as a result, neither the market nor regulators had sufficient information for evaluating the nature of the risks involved. Looking forward, efforts to improve scrutiny of the processes that originators use and the incentives they face, better information for consumers, improved performance of the credit rating agencies, and a number of other reforms that have been recommended by the President's Working Group on Financial Markets will be important in preventing a future bubble like that in the most recent experience--steps highlighted by Chairman Bernanke in remarks earlier this year.26
+
+[SECTION]
+
+ConclusionLet me conclude by reiterating the main points of the analysis here. First, not all asset price bubbles are alike. Asset price bubbles that are associated with credit booms present particular challenges, because their bursting can lead to episodes of financial instability that have damaging effects on the economy.
+
+[SECTION]
+
+Second, monetary policy should not try to prick possible asset price bubbles, even when they are of the variety that can contribute to financial instability. Just as doctors take the Hippocratic oath to do no harm, central banks should recognize that trying to prick asset price bubbles using monetary policy is likely to do more harm than good. Instead, monetary policy should react to asset price bubbles by looking to the effects of asset prices on employment and inflation, then adjusting policy as required to achieve maximum sustainable employment and price stability. This monetary policy response should prove sufficient to prevent adverse macroeconomic effects of some types of asset price bubbles.
+
+[SECTION]
+
+Third, because asset price bubbles can arise from market failures that lead to credit booms, regulation can help prevent feedback loops between asset price bubbles and credit provision. Our regulatory framework should be structured to address failures in information or market incentives that contribute to credit-driven bubbles. Moreover, we should aim to monitor the health of the financial system overall and ensure that our regulatory approach takes account of risks across institutions that are highly correlated and thus affect the strength of the financial system as a whole.
+
+[SECTION]
+
+We have learned many lessons from past experience in the United States and in other countries, and I am confident that continued research in these areas will help us address the new tests that will undoubtedly arise as financial innovation and the evolving structure of our financial markets present new challenges.
+
+[SECTION]
+

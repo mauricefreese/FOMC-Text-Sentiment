@@ -1,0 +1,239 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 28, 2022
+
+[SECTION]
+
+Vice Chair Lael Brainard
+
+[SECTION]
+
+At the 21st BIS Annual Conference Central Banking after the Pandemic: Challenges Ahead, Bank for International Settlements, Basel, Switzerland
+
+[SECTION]
+
+Policymakers and researchers have begun reassessing certain features of the economy and monetary policy in light of recent experience. After several decades in which supply was highly elastic and inflation was low and relatively stable, a series of supply shocks associated with the pandemic and Russia's war against Ukraine have contributed to high inflation, in combination with a very rapid recovery in demand. The experience with the pandemic and the war highlights the challenges for monetary policy in responding to a protracted series of adverse supply shocks. In addition, to the extent that the lower elasticity of supply we have seen recently could become more common due to challenges such as demographics, deglobalization, and climate change, it could herald a shift to an environment characterized by more volatile inflation compared with the preceding few decades.1
+
+[SECTION]
+
+Inflation in the United States and many countries around the world is very high (figure 1). While both demand and supply are contributing to high inflation, it is the relative inelasticity of supply in key sectors that most clearly distinguishes the pandemic- and war-affected period of the past three years from the preceding 30 years of the Great Moderation.2 Interestingly, inflation is broadly higher throughout much of the global economy, and even jurisdictions that began raising rates forcefully in 2021 have not stemmed the global inflationary tide.3
+
+[SECTION]
+
+In the United States, as a result of significant fiscal and monetary support, the level of private domestic final purchases recovered extremely rapidly in 2020 and 2021 to levels consistent with the pre-pandemic trend before moving below trend in 2022 (figure 2). Although demand came in near the pre-pandemic trend on an aggregate level, the pandemic induced a shift in composition that concentrated large increases in demand in certain sectors where the supply response was constrained. The shift in consumption from services to goods was so pronounced thatâdespite plunging at the onset of the pandemic in March 2020âreal spending on goods had already risen nearly 4 percent above its pre-pandemic trend by June of that year. While a very slow rotation back toward pre-pandemic patterns of consumption has been under way for over a year, it remains incomplete more than two and a half years after the initial shutdown: In the most recent data, the level of goods spending remains 6 percent above the level implied by its pre-pandemic trend, while services spending remains a little more than 2 percent below its pre-pandemic trend (figure 3).
+
+[SECTION]
+
+The supply shocks to goods, labor, and commodities have been accompanied by unusually high volatility in monthly inflation readings since the beginning of the pandemic. Since March 2020, the standard deviation of month-over-month core inflation has been 0.22 percentage pointâa level of variation not seen in a 31-month period since the 1970s and more than double the standard deviation in monthly core inflation from 1990 to 2019. The initial drivers of this high variation in monthly core inflation readings were a sharp drop in prices and subsequent bounceback in the first months of the pandemic, followed by a couple of bursts lasting three to four months each. The first burst occurred around reopening in the spring of 2021, and the second occurred amid the effects of the Delta and Omicron COVID-19 variants in the autumn of 2021 (figure 4).4
+
+[SECTION]
+
+The evidence suggests that high concentrations of demand in sectors such as appliances, housing, and motor vehiclesâwhere supply was constrained by the effects of the pandemicâplayed an important role initially in generating inflationary pressures. Acute constraints on shipping and on the supply of nonsubstitutable intermediate inputs like semiconductors were compounded by acute constraints on labor supply associated with the effects of the Delta and Omicron variants and later compounded further by sharp commodities supply shocks associated with Russia's war on Ukraine.
+
+[SECTION]
+
+The standard monetary policy prescription is to "look through" supply shocks, such as commodities price shocks or shutdowns of ports or semiconductor plants, that are not assessed to leave a lasting imprint on potential output.5 In contrast, if supply shocks durably lower potential output such that the economy is operating above potential, monetary policy tightening is necessary to bring demand into alignment with the economy's reduced productive capacity. Importantly, and separately from the implications for potential output, monetary policy should respond strongly if supply shocks risk de-anchoring inflation expectations.6
+
+[SECTION]
+
+Although these tenets of monetary policy sound relatively straightforward in theory, they are challenging to assess and implement in practice. It is difficult to assess potential output and the output gap in real time, as has been extensively documented by research.7 This is especially true in an environment of high uncertainty. The level of uncertainty around the output gap varies considerably over time, and research suggests that more muted policy reactions are warranted when uncertainty about the output gap is high.8 The unexpectedly long-lasting global pandemic and the sharp disruptions to commodities associated with Russia's war against Ukraine have contributed to substantial uncertainty (figure 5).
+
+[SECTION]
+
+Even so, the drawn-out sequence of shocks to the supply of labor, commodities, and key intermediate inputs, such as semiconductors, blurred the lines about what constitutes a temporary shock as opposed to a persistent shock to potential output. Even when each individual supply shock fades over time and behaves like a temporary shock on its own, a drawn-out sequence of adverse supply shocks that has the cumulative effect of constraining potential output for an extended period is likely to call for monetary policy tightening to restore balance between demand and supply.
+
+[SECTION]
+
+In addition, a protracted series of supply shocks associated with an extended period of high inflationâas with the pandemic and the warârisks pushing the inflation expectations of households and businesses above levels consistent with the central bank's long-run inflation objective.9 It is vital for monetary policy to keep inflation expectations anchored, because inflation expectations shape the behavior of households, businesses, and workers and enter directly into the inflation process. In the presence of a protracted series of supply shocks and high inflation, it is important for monetary policy to take a risk-management posture to avoid the risk of inflation expectations drifting above target. Even in the presence of pandemics and wars, central bankers have the responsibility to ensure that inflation expectations remain firmly anchored at levels consistent with our target.
+
+[SECTION]
+
+In monitoring inflation expectations for purposes of risk management, not only the median but also the distribution of inflation expectations can provide important information about how inflation expectations may be changing.10 Survey measures suggest that the median of longer-term inflation has remained within pre-pandemic ranges consistent with 2 percent inflation (figure 6). However, starting in 2021, there has been a greater dispersion than usual of views about future inflation in survey responses, as shown in figure 6. Although initially the increased dispersion reflected a rise in expectations for significantly above-target inflation, more recently, following substantial cumulative monetary policy tightening, the increased dispersion has also reflected increased expectations of no inflation or even disinflation. About one-fourth of respondents to the most recent University of Michigan Surveys of Consumers anticipate that prices are likely to be the same or below their current level 5 to 10 years in the futureâroughly three times the average fraction that reported such expectations before the pandemic.
+
+[SECTION]
+
+Finally, it is important to explore whether any features of the inelastic supply response associated with the pandemic and the war may have implications for potential growth and macroeconomic stability in the future.11 In particular, despite the unprecedented pandemic policy support for businesses of all sizes that was directed at preserving the supply side of the economy, key sectors struggled to ramp up activity after reopening. The supply response was particularly impaired in sectors where supply chains are geographically fragmented and recurring foreign COVID-19 lockdowns have reduced the reliability of foreign supplies. While conditions have improved dramatically from some of the worst periods in 2021, measures like the Global Supply Chain Pressure Index from the Federal Reserve Bank of New York indicate that total supply chain pressures still are elevated relative to pre-pandemic levels (figure 7).
+
+[SECTION]
+
+The supply disruptions in key goods and commodities sectors associated with the pandemic and Russia's war against Ukraine have highlighted the fragility of global supply chains and the risks of inelastic supply at moments of stress. Conditions have improved dramatically over the past year, judging by the return of the ISM Supplier Deliveries index to its pre-pandemic range of values (figure 8). That said, ongoing discussions about moving from "just in time" to "just in case" inventory management and from offshoring to "nearshoring" are raising important questions about the extent to which businesses are likely to reconfigure global supply chains based on a reassessment of the tradeoff between cost efficiency and supply resilience.
+
+[SECTION]
+
+Similarly, some have conjectured that the slow and incomplete recovery of the workforce over the course of the pandemic may be the beginning of a longer-term change in labor supply dynamics (figure 9).12 In addition, the potential for more frequent and severe climate events, as we are already seeing, and for frictions in the energy transition could also lead to greater volatility of supply. Together, a combination of forcesâthe deglobalization of supply chains, the higher frequency and severity of climate disruptions, and demographic shiftsâcould lead to a period of lower supply elasticity and greater inflation volatility.
+
+[SECTION]
+
+To conclude, the experience with the pandemic and the war highlights challenges for monetary policy in responding to supply shocks. A protracted series of adverse supply shocks could persistently weigh on potential output or could risk pushing inflation expectations above target in ways that call for monetary policy to tighten for risk-management reasons. More speculatively, it is possible that longer-term changesâsuch as those associated with labor supply, deglobalization, and climate changeâcould reduce the elasticity of supply and increase inflation volatility into the future.
+
+[SECTION]
+
+Accessible Version
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

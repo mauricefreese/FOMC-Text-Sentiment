@@ -1,0 +1,294 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 22, 2017
+
+[SECTION]
+
+Governor Lael Brainard
+
+[SECTION]
+
+At the Opportunity and Inclusive Growth Institute Conference, sponsored by the Federal Reserve Bank of Minneapolis
+
+[SECTION]
+
+I want to thank Neel Kashkari for launching the Opportunity and Inclusive Growth Institute and for inviting me to join the deliberations of this distinguished group today. This new Institute is another great example of how individual Reserve Banks are taking the initiative in illuminating key dimensions of our work and shaping the agenda of the Federal Reserve System.1
+
+[SECTION]
+
+While it has long been understood that opportunity is central to the strength of America's social fabric, it is now increasingly clear that opportunity and inclusion are central to the strength of America's economy. I will touch on the key ways that opportunity and inclusion matter for policymaking at the Federal Reserve, ranging from our dual-mandate goal of maximum employment to our monitoring of household financial health to our engagement in low- and moderate-income communities all over the country. I will focus on how our work intersects with the groundbreaking work of the accomplished group of researchers assembled here.
+
+[SECTION]
+
+In the original design of the Federal Reserve, it was recognized that the American economy is not monolithic; that is why the Congress created our system of 12 Federal Reserve Districts. We are present in communities all across America through our Reserve Banks and Branches and their boards and advisory councils. This local presence, by design, gives us valuable perspectives on how Americans are experiencing the economy in different communities around the country and critical insights about the varied challenges that lie beneath the aggregate numbers. In turn, our local engagement helps stakeholders in these communities partner to improve opportunity and inclusive growth.
+
+[SECTION]
+
+Inclusion and Maximum Employment
+Inclusion is an enduring goal of public policy that is embodied in our maximum-employment mandate. The Employment Act of 1946 charges the federal government with creating "conditions under which there will be afforded useful employment for those able, willing, and seeking to work, and to promote maximum employment, production, and purchasing power."2 Maximum employment is inherently an inclusive goal. In 1977, the Congress amended the Federal Reserve Act to make achieving maximum employment an explicit objective of monetary policy, along with stable prices. In fulfilling its dual mandate, the Federal Open Market Committee (FOMC) has set a target of 2 percent for inflation but does not have a similarly fixed numerical goal for maximum employment. That is because the level of maximum employment depends on "nonmonetary factors that affect the structure and dynamics of the labor market," which can change in important ways over time.3
+
+[SECTION]
+
+The recognition that maximum employment evolves over time to reflect changes in the economic landscape serves us well. It puts the onus on members of the FOMC to analyze the changing features of the labor market and develop a nuanced understanding of the different margins of slack. This approach to maximum employment has allowed the FOMC to navigate the current recovery in a way that has likely brought more people back into productive employment than might have been the case with a fixed, aggregate unemployment-rate target based on pre-crisis norms, in effect, achieving more inclusive growth. This is especially true at a time when the traditional Phillips curve relationship between unemployment and inflation is extremely flat for reasons we do not fully understand.
+
+[SECTION]
+
+When we disaggregate the economy-wide labor market statistics, we often find significant and persistent racial disparities.4 For many decades, the unemployment rate of African Americans has been nearly double the national unemployment rate, with little indication that the relative difference is narrowing or that it can be fully accounted for by education or sectoral mix; the unemployment rate for Hispanics also has consistently been higher than the national unemployment rate.5 Similarly, during the Great Recession, the unemployment rates of African Americans and Hispanics rose more sharply and rapidly than for workers as a whole.6 Even though the unemployment rates of these groups are back around their pre-recession levels, they remain higher than the national average. We can also see persistent disparities by gender, such as the well-known wage premium earned by men relative to women with similar experience and expertise.7 With its focus on inclusive growth, this Institute could give us important insights on how far the overall economy is from full employment, as well as the barriers that could be limiting the economy's potential, by studying labor market outcomes of men and women of different racial and ethnic backgrounds in more depth.8
+
+[SECTION]
+
+Research on the drivers of disparities in labor market outcomes can also help the Federal Reserve better assess potential tradeoffs in monetary policy. In meetings with community groups, we often hear from advocates who point to the stark discrepancy they see between the economy's aggregate U-3 unemployment rate, which many forecasters estimate to be at or approaching full employment, and the much higher rates of unemployment among the people in their neighborhoods. For instance, Rod Adams, a neighborhood advocate here in Minneapolis, noted the unemployment rate for African Americans locally was still almost 9 percent late last summer and observed that "if the labor market were truly healthy, people in my community would all be able to find full-time jobs at decent wages."9 While the policy tools available to the Federal Reserve are not well suited to addressing the barriers that contribute to persistent disparities in the labor market outcomes of different groups, understanding these barriers and efforts to address them is vital in assessing maximum employment as well as potential growth.
+
+[SECTION]
+
+The Federal Reserve's community development work is invaluable in supporting our efforts to understand and improve the labor market experiences of different groups.10 For instance, during the Great Recession, workforce development organizations in Atlanta found themselves overwhelmed by the sharp rise in unemployment, which highlighted the need for a better connected and stronger network of job training and placement services. I recently spent time with these organizations, along with community members and some of our Atlanta staff, who have been working on the creation of the Metro Atlanta eXchange (or MAX) for Workforce Solutions, the region's only comprehensive directory for workforce development services.
+
+[SECTION]
+
+Just as there is a connection between maximum employment and inclusive growth, so, too, there is an important connection between potential output and opportunity. If there are large disparities in opportunity based on geography or race or gender, such that households' enterprise, exertion, and investments are not rewarded commensurately, then families and small businesses will invest less in the future and potential growth will fall short.11 Indeed, one worrisome trend is the decline in the labor force participation of prime-age workers with less education, a trend that has been going on for decades among men and that has more recently begun to be mirrored in the participation rate of women.12 Understanding this growing detachment from work is important to improving both opportunity and potential growth.
+
+[SECTION]
+
+In visits to Detroit, Milwaukee, North St. Louis, and Baltimore, I have heard from residents and community organizations about the challenging barriers standing between the many workers seeking jobs and the many jobs seeking workers. The local barriers separating jobs from job seekers can be as concrete as the physical isolation created by major traffic arteries or poorly designed transit systems.13 I have visited Los Angeles, where our staff have been actively engaged with businesses, transit authorities, and community groups in efforts around "equitable transit-oriented development" so that public transit systems are designed to enhance access for low- and moderate-income residents.14
+
+[SECTION]
+
+Household Financial Health
+Inclusion and opportunity also figure prominently in our work on financial resilience. While the resilience of the financial system has long been central to Federal Reserve policy, in recent years we have come to more fully appreciate that a resilient financial system rests on the foundations of financially resilient households and businesses.
+
+[SECTION]
+
+The ability to manage the ups and downs in family income and expenses without hardship and the ability to make sound investments for the future are both crucial to financial health. Yet we see from the latest edition of the Federal Reserve's Survey of Household Economics and Decisionmaking (SHED) that a strikingly high 40 percent of American households with high school degrees or less report that they are struggling financially.15 And the in-depth research in the U.S. Financial Diaries Project provides insights into the large amount of time and effort these families with thin financial buffers must devote to managing their volatile cash flows.16
+
+[SECTION]
+
+A seemingly modest mismatch between income and expenses can threaten to send the finances of some families into a downward spiral from which it can be expensive and difficult to recover. The results of the 2016 SHED show that nearly one-fourth of all households are unable to pay their current month's bills in full, nearly one-third would rely on borrowing or selling something to cover a $400 emergency expense, and one in eight would not be able to cover a $400 emergency expense by any means. Over half of households lack savings to cover three months' expenses if they lost their main source of income.17 This finding corroborates the evidence found in the financial diaries of low- to moderate-income families that show it is all too common for households to have no short-term savings to cover emergencies. According to the Survey of Consumer Finances, on average from 1989 to 2013, about 80 percent of households in the bottom quintile of the income distribution had less than $3,000 adjusted for inflation in liquid assets (cash, checking, or savings accounts). Even among households in the middle quintile of income, about half do not meet this threshold for liquid assets.
+
+[SECTION]
+
+In addition, the financial crisis demonstrated that household financial imbalances can have important consequences for overall financial stability in extreme circumstances. The rapid and widespread rise in poorly underwritten mortgage debt prior to the Great Recession is widely viewed as a key contributor to the financial crisis.18 This suggests the potential value of better understanding the specific patterns in household finances that would give an early warning of a crisis. In carrying out our responsibilities to monitor and safeguard the stability of the financial system, although much of the work has focused on marketwide risks, core financial institutions, and macro-level shocks, we are also developing a more granular understanding of the distribution and strength of household balance sheets.19 Progress on this frontier is being aided by greater access to timely, account-level, and geographically specific data on consumer credit, mortgages, and spending, although more research in this area would be valuable.
+
+[SECTION]
+
+Slower income growth, as well as substantial volatility in income, has raised the financial stress faced by low- and moderate-income families and may be limiting absolute mobility across generations. Over time, the "American Dream" that each generation can expect to be better off than their parents' generation has gone from being widespread to increasingly out of reach for much of the population.20 Researchers have found that the reduction in economic mobility has been driven primarily by a more unequal distribution of economic growth, with slower overall gross domestic product (GDP) growth a secondary factor.21
+
+[SECTION]
+
+Many households had been contending with volatile incomes even before the large negative shocks of the Great Recession and the increase in contingent work arrangements (and the "gig" economy).22 23 Unpredictable income and dangerously low emergency savings raise the strain on households and, over time, have pushed them to rely on other means, such as borrowing and government transfers, to try to meet their spending needs.24
+
+[SECTION]
+
+Education and homeownership have long been key paths to opportunity, but the Great Recession has raised some important questions about asset building strategies. The sharp decline in house prices and the substantial rise in student loan debt have made it clear that investments in homeownership and education are not without risk, and the payoff can vary depending on the circumstances.25
+
+[SECTION]
+
+Homeownership for many has been a way to turn a regular expense into an asset-building investment in the future, which is especially important given the wide and persistent disparities in wealth by race and ethnicity. But the experience of the past decade suggests that owning a home can, in some circumstances, exacerbate financial difficulties for vulnerable families in a downturn. The lesson that even a moderate decline in house prices can erase home equity applies broadly, along with the importance of sound underwriting and servicing, but the painful consequences in the recession were greater among minority and low-income homeowners.26 The fact, discussed earlier, that African American and Hispanic homeowners households are more likely to lose their jobs in a recession and are also more likely to live in neighborhoods with concentrated job loss led to even larger house price declines and more foreclosures among these households.27 Indeed, there are many low-income neighborhoods in which many homeowners remain "underwater" on their mortgages even today.
+
+[SECTION]
+
+Community development organizations are putting this more nuanced view of asset building into practice and thereby increasing opportunities for individuals to make smart investments in their future. Better Family Life, a community group I visited in North St. Louis, provides would-be homebuyers with education and counseling on how to manage the costs of homeownership, tools to navigate real estate markets, and information on lending.28 There is ample research demonstrating that housing counseling makes a notable improvement in the likelihood that asset building through homeownership will pay off for first-time buyers in low- to moderate-income communities.29
+
+[SECTION]
+
+Similarly, under the right circumstances, education can be a critical investment in the future and a path to opportunity, leading to higher wages and improved financial outcomes. Over the past several decades, the earnings premium for those with a college degree relative to those with a high school education has risen substantially, making higher education, on average, even more valuable.30
+
+[SECTION]
+
+Nonetheless, even though education is a sound investment for most students, the benefits can vary with the quality and type of education received.31 The SHED finds that fewer than 40 percent of nongraduates or graduates from for-profit institutions say their education was "worth the cost," compared with two-thirds of graduates from public or nonprofit institutions.32 The downsides from such low-return education are compounded for those who took out student loans, in some cases leaving them worse off than before. As an indication of this problem, nearly three-fourths of recent borrowers who attended for-profit schools failed to make progress on paying off their student loans in the first few years, and almost half were in default within five years.33 Investments in education that do not pay off can set these individuals back on asset building as well as on other life goals they may have. To advance more inclusive growth and opportunity, it is essential to help people, especially first-time and nontraditional college students, access smarter educational investments with more reliable and better returns.34
+
+[SECTION]
+
+Communities of Opportunity
+The connection between the conditions in a community and individual opportunity has been demonstrated in powerful research that many of you have pioneered, and we see this connection every day in our work in communities around the country. The neighborhood where a family lives can have profound implications for their economic opportunities and their children's prospects. Families living in neighborhoods with high concentrations of poverty and low economic or demographic diversity are more likely to experience a range of negative outcomes, including exposure to crime and violence, physical and mental health problems, and weak academic performance.35 Low-skilled workers who live far from potential employers or accessible transportation networks have more difficulty finding and keeping jobs.36
+
+[SECTION]
+
+These effects of geography on opportunity can stretch from one generation to the next. Raj Chetty and his collaborators have shown that upward mobility varies immensely across the country and even within a single metro area.37 Taken together, this research underscores the urgency of understanding how we can make communities work better for all their members. Since communities play a central role in determining opportunity, policy to promote inclusion often focuses on improving local conditions. With our presence in communities around the country and our efforts under the Community Reinvestment Act, the Federal Reserve is a source of high-quality research and region-specific expertise as well as a trusted convener and catalyst on community development approaches for lenders, community groups, and local and regional governments.
+
+[SECTION]
+
+One important area of focus is housing, which connects families concretely to place and can be a source of strength or fragility. Last year, I met with Milwaukee community development groups and residents in one of the more racially segregated residential markets in the country. They highlighted the challenges facing the highly insecure rental population in Milwaukee, which were brought alive by Matthew Desmond's careful research.38 Other communities across the nation face similar challenges. In the recently released SHED, we found that among renters who had recently moved, 12 percent of African Americans, 16 percent of Hispanics, and 8 percent of whites had moved because of eviction or the threat of eviction.39
+
+[SECTION]
+
+The barriers to safe and affordable housing often take on a different form in rural areas, where ownership of manufactured housing is often coupled with insecure land ownership. The geographic footprint of the 12 Federal Reserve Districts gives us a valuable presence in rural America as well as in towns and cities of all sizes and economic fortunes. Near El Paso, our team has developed important analysis of housing challenges in the colonias neighborhoods, where the lack of basic infrastructure and costly financing of warranty deeds pose special hurdles for local families.40 We have also seen successful models of providing affordable and safe housing when community development organizations and financial institutions, along with banks and local residents, work together collaboratively. On a recent visit in El Paso, I saw the value of these approaches, as a single mother with significant health challenges received the keys to a new home in a stable community, after many long years. While the densely wooded hills and hollers of Eastern Kentucky are a sharp contrast to the desert and floodplain expanses of the southwest, the keys to affordable housing in a healthy community can bring just as great an improvement in opportunity. These successes would not be possible without the ingenuity and collaboration of community development financial institutions, local officials, banks, and community members. As I have witnessed, whether it be for a retiree in Helena, Arkansas; a single mom in El Paso, Texas; or a dad on disability in Emlyn, Kentucky, the keys to affordable housing in a stable community can unlock opportunity for future generations.41
+
+[SECTION]
+
+In some parts of the country, rural residents and small businesses also face increasing challenges in accessing financial services as small community banks close and larger banks close branches in low-population areas. Consequently, as I learned from the Mayors of Itta Bena and Moorhead, Mississippi, some rural residents, small businesses, and even municipalities have to drive long distances to reach a bank.42 In the Mississippi Delta, Community Development Financial Institutions (CDFIs) such as HOPE Credit Union and Southern Bancorp are acquiring bank branches earmarked for closing in order to maintain financial services for some rural communities.43
+
+[SECTION]
+
+Although both pockets of opportunity and of persistent poverty are found in large metro and rural areas alike, 44 a greater share of the new jobs and business establishments created in the recovery following the Great Recession have been in larger metro areas than was the case in previous recoveries.45 In countless communities, especially in rural towns and small to midsize cities, we have seen how a deep setback can leave a profound and long-lasting mark. These experiences challenge common assumptions about the ability of the economy to recover from an economic setback. This could be the legacy of concentrated reliance on an industry that experiences decline due to trade or technology or the byproduct of lack of connectivity-whether by highways or broadband. Technological change, globalization, and other shifts in demand and costs are not new to the U.S. economy, but there are troubling signs that less diversified or more isolated localities have diminished ability to recover. And there is increasing evidence that such concentrated economic shocks can also lead to severe labor market stress, as well as broader consequences for health and mortality.46 Over the past 30 years, the convergence in income across regions of the country has slowed dramatically.47
+
+[SECTION]
+
+Even so, some localities fare better than others in establishing new paths to opportunity and inclusive growth, and their successes provide actionable lessons. The Boston Fed's Working Cities Challenge undertook an in depth study of 25 medium-sized cities nationwide that had experienced a post-industrial decline and identified 10 that experienced an economic resurgence. The critical determinant of success was the ability of leaders in those cities to collaborate across sectors around a long-term vision for revitalization. To encourage such collaboration in other cities, the Boston Fed facilitated competitions that reward effective public-private collaboration in developing plans to reach community-wide goals. For example, Holyoke, Massachusetts, proposed a plan to simplify the city's permitting and licensing systems in order to raise the presence of Latino-owned businesses. On economic revitalization, as in other areas of community development, effective solutions start with the community setting its own goals, are powered by broad collaboration, and rely on evidence to drive results.
+
+[SECTION]
+
+Conclusion
+We all have our work cut out for us in helping to understand the state of opportunity and inclusion for different groups and communities across our country, and ensuring that policy is informed by those important insights. At the Federal Reserve, we will continue to navigate the recovery to ensure we reach and sustain our long-term goals of maximum employment and price stability. We will remain attentive to the financial health of vulnerable households. And we will remain committed to helping illuminate the specific challenges faced by low- and moderate-income communities around the country and to supporting banks and other financial institutions as they partner in strengthening these communities. In all of these efforts, our work will be greatly strengthened by the cutting-edge research and policy insights of the outstanding group gathered here tonight.
+
+[SECTION]
+

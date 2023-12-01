@@ -1,0 +1,302 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 31, 2017
+
+[SECTION]
+
+Vice Chairman Stanley Fischer
+
+[SECTION]
+
+At the Conference to Celebrate Arminio Fragaâs 60 Years, Casa das Garcas, Rio de Janeiro, Brazil
+
+[SECTION]
+
+I am very happy to be participating in this conference celebrating Arminio. My tenure at the International Monetary Fund overlapped with the first two and a half years of Arminio's time as president of the Central Bank of Brazil, and in our capacities at the time, we had frequent opportunities to interact and converse. Of course, I watched with admiration the remarkable management of the economy by the Malan-Fraga team in the run-up to the election that brought Lula to power. In particular, Arminio and his Central Bank team's management of the exchange rate--which at one point reached 3.95 reais per dollar--was masterly and put in place a sound foundation for that essential part of Brazil's economic machinery in the years that followed.
+
+[SECTION]
+
+Subsequently, as I was on the brink of transitioning to the world of central banking early in 2005--that is, prior to taking up my position as governor of the Bank of Israel--Arminio was able to turn the tables and offered me some hard-edged advice on how to be a central banker. I have kept that advice close since then. It comes in the form of six commandments on a small laminated piece of paper. Needless to say, it very much reflects his values and his behavior. Let me quote just three of his rules: "Number 2. Do [the job] in a way that shows you care, but in a way that shows you will serenely pursue your goals"--excellent advice, which is easier said than done; "Number 5. Beware of a tendency to be overly conservative once you start wearing the central bank hat"; and "Number 6. Remember, most people lose half their IQ when they take a job such as this one."
+
+[SECTION]
+
+Now I will turn to the main topic of my discussion, the low level of global real interest rates, an important and distinguishing feature of the current global economic environment. In the United States, the yield on 10-year Treasury bonds is near all-time lows, with the same being true in the euro area, the United Kingdom, and Japan (figure 1). Yields have also declined in many emerging markets, with interest rates falling almost 400 basis points in Korea since the financial crisis and by a similar amount in Israel. As shown in figure 2, the decline has been less apparent in Brazil and South Africa, though interest rates in both countries remain well below previous peaks.
+
+[SECTION]
+
+In this talk, I will address two questions: Why are interest rates so low? And why has the decline in interest rates been so widespread?1
+
+[SECTION]
+
+Global Real Interest Rates Have Declined
+Lower inflation explains a portion of the decline in nominal interest rates. Longer-term interest rates reflect market participants' expectations of future inflation as well as the expected path of real, or inflation-adjusted, interest rates. And while lower realized inflation and credible central back inflation targets have likely stabilized expected inflation at relatively low levels compared with much of the 20th century, inflation-adjusted yields have also notably decreased.
+
+[SECTION]
+
+The decline in interest rates also does not appear to be primarily an outcome of the economic cycle. Longer-term interest rates in the United States have remained low even as the Federal Open Market Committee (FOMC) has increased the short-term federal funds rate by 100 basis points and as the unemployment rate has declined below the median of FOMC participants' assessments of its longer-run normal level.
+
+[SECTION]
+
+Rather, it appears as though much of the decline has occurred in the equilibrium level of the real interest rate--also known as the natural rate of interest or, alternatively, r*. Knut Wicksell, in his 1898 treatise Interest and Prices, wrote, "There is a certain level of the average rate of interest which is such that the general level of prices has no tendency to move either upwards or downwards."2 In recent years, the coincidence of low inflation and low interest rates suggests that the natural rate of interest is likely very low today.
+
+[SECTION]
+
+Wicksell was clearly referring to the natural rate as the real interest rate when the economy is at full employment. The widely cited methodology of my Federal Reserve colleagues Thomas Laubach and John Williams, attempts to gauge the natural rate in the longer run after various shorter-term influences, including the business cycle, have played out. In a recent update of their analysis, they find that the natural rate of interest has declined about 150 basis points in the United States since the financial crisis and is currently about 50 basis points. We must remember, however, that r* is a function and not a constant, and its estimation is subject to a number of assumptions, the modification of which can lead to a wide range of estimates.3
+
+[SECTION]
+
+In an extension of this analysis, shown in figure 3, Laubach, Williams, and Kathryn Holston, also a Federal Reserve colleague, show that the decline in the natural rate of interest is a common feature across a number of foreign economies.4 The fall in equilibrium interest rates was most pronounced at the time of the financial crisis, but rates have shown little tendency to increase during the long recovery from the crisis.
+
+[SECTION]
+
+How Should We Think about the Decline in Equilibrium Interest Rates? An Investment and Savings Framework
+There are many factors that could be holding down interest rates, some of which could fade over time, including the effects of quantitative easing in the United States and abroad and a heightened demand for safe assets affecting yields on advanced-economy government securities. I will focus on some of the more enduring factors that could potentially lower the equilibrium interest for some time.
+
+[SECTION]
+
+In attempting to explain why real interest rates have fallen, a useful starting point is to think of the natural interest rate as the price that equilibrates the economy's supply of saving with the demand for investment in the long run, when the economy is at full employment. With this framework in mind, low interest rates reflect factors that increase saving, depress investment demand, or both.
+
+[SECTION]
+
+Focusing initially on the United States, I will look at three interrelated factors that are likely contributing to low interest rates: slower trend economic growth, an aging population and demographic developments, and relatively weak investment. I will then discuss global developments and spillovers between countries.
+
+[SECTION]
+
+But first I would like to interject a quick word on why we as policymakers might be concerned about low interest rates. I highlight three main worries. First, as John Maynard Keynes discussed in the concluding chapters of The General Theory of Employment, Interest and Money, a low equilibrium interest rate increases the risks of falling into a liquidity trap, a situation where the nominal interest rate is stuck, by an effective lower bound, above the rate necessary to bring the economy back to potential.5 Relatedly, but more broadly, low equilibrium interest rates are a key pillar of the secular stagnation hypothesis, which Larry Summers has carried forward during the past few years.6 Second, a low natural rate could potentially hurt financial stability if it leads investors to reach for yield or hurts financial firms' profitability. And, third--and perhaps most troubling--a low equilibrium rate sends a powerful signal that the growth potential of the economy may be limited.7
+
+[SECTION]
+
+Slow trend growth
+One factor contributing to low equilibrium interest rates in the United States has been a slowdown in the pace of potential, or trend, growth. According to the Congressional Budget Office (CBO), real potential growth in the United States is currently around 1.5 percent, compared with a pace about double that, on average, in the two decades leading up to the financial crisis. A prime culprit in the growth slowdown has been the slow rate of labor productivity growth, which has increased only 1/2 percent, on average, over the past five years, compared with a 2 percent growth rate over the period from 1976 to 2005.8 A declining rate of labor force growth has also worked to push down trend growth. The CBO is projecting that the potential labor force in the United States will grow at about 1/2 percent per year over the next decade, less than half the pace observed, on average, in the two decades before the financial crisis.
+
+[SECTION]
+
+Slower growth can both boost saving and depress investment. As households revise down their expectations for future income growth, they become less likely to borrow and more likely to save. Likewise, slower growth diminishes the number of business opportunities that can be profitably undertaken, weighing on investment demand.
+
+[SECTION]
+
+Demographics
+The aging of the population can work to lower the equilibrium interest rate beyond its effect on the size of the labor force and trend growth. As households near retirement, they tend to save more, anticipating having to run down their savings after they leave the labor force. Federal Reserve economists, in one study, estimate that higher saving by near-retirement households could be pushing down the longer-run equilibrium federal funds rate relative to its level in the 1980s by as much as 75 basis points.9
+
+[SECTION]
+
+Investment
+Another factor weighing on equilibrium real interest rates has been the recent weakness of investment. What explains the tepid response of capital spending to historically low interest rates? As mentioned earlier, low productivity growth has certainly been a contributing factor, as firms see fewer profitable investment opportunities. But elevated uncertainty, both political and economic, has likely also played a role. For one, uncertainty about the outlook for government policy in health care, regulation, taxes, and trade can cause firms to delay projects until the policy environment clarifies.
+
+[SECTION]
+
+Firms also seem quite uncertain about the disruptive capacity of new technologies. Technological developments appear to be rapidly reshaping entire industriesââin retail, transportation, and communications. Elevated uncertainty about the continued viability of long-standing business models could be weighing on investment decisions. Relatedly, it is possible that as the economy evolves in response to new technologies, production is becoming less capital intensive than it was in earlier decades.10
+
+[SECTION]
+
+Another possible explanation for the weakness of investment in the United States has been a decrease in competition within industries, as evidenced by decreasing firm entry and exit rates as well as increased industry concentration.11 Less competition allows firms to maintain high profits while lowering the pressure on them to increase production to maintain market share.
+
+[SECTION]
+
+In an earlier discussion, I attempted to quantify the effect that these factors--slow growth, demographics, and investment--might be having on the long-run equilibrium rate in the United States.12 According to simulations from the Board's FRB/US model, the slowdown in growth appears likely to be the primary factor depressing the long-run equilibrium rate, although the contributions from demographics and weak investment demand were also sizable.
+
+[SECTION]
+
+Global Links: Why Has the Decline in Interest Rates Been So Widespread? 
+Up until now, I have looked primarily at factors within the United States. However, as I have pointed out earlier, the decline in interest rates is a global phenomenon. Why has the decline in interest rates been so widespread?
+
+[SECTION]
+
+One important reason is that many of the same factors that have been driving down the equilibrium interest rate in the United States have operated with equal or even greater force in many foreign economies. The slowdown in labor productivity growth has been widespread across many countries. Likewise, the advanced economies and some emerging markets have experienced demographic shifts that are in some cases much more pronounced than in the United States, with the working-age population in some countries even declining over the past decade.
+
+[SECTION]
+
+Another explanation is that we live in an integrated global economy where economic developments in one country spill over into other countries via trade and capital flows as well as prices, including interest rates and exchange rates.13 In the most general sense, these spillovers are captured in the pattern of current balances, shown in figure 4. If we abstract from a somewhat sizable statistical discrepancy, the sum of global current accounts should be equal to zero, as, in the aggregate, one country's deficit must be matched by a surplus in some configuration of other countries--but it is not always apparent who is spilling over onto whom.
+
+[SECTION]
+
+Current Account Balances and Global Spillovers
+Prior to the financial crisis, it was widely speculated that foreign developments were depressing U.S. interest rates. Former Chairman Bernanke characterized the foreign forces acting on U.S. interest rates as the "global saving glut," with particular reference to emerging market economies that were running persistent current account surpluses, sometimes as a result of specific policy decisions regarding exchange rates, reserve accumulation, and fiscal policy.14 The global saving glut was also a factor in the "Greenspan conundrum," or the observation that a series of Federal Reserve rate hikes over the period from 2004 to 2006 seemed to have little effect on longer-term interest rates in the United States. As shown in figure 5, the deterioration of the U.S. deficit in the early 2000s was matched by growing surpluses in the emerging markets, particularly in emerging Asia and China as well as OPEC. The explosive growth of the U.S. current account deficit from 2001 to 2006, coincident with falling interest rates both in the United States and globally, supports the notion that higher foreign saving relative to foreign investment was likely holding down U.S. interest rates at the time.
+
+[SECTION]
+
+What can the distribution of global current accounts tell us about international spillovers in the post-crisis era? As shown in figure 6, the most notable development has been the almost exact reversal of the expansion of the U.S. current account deficit observed during the time of the global saving glut. Has the global saving glut of the mid-2000s faded away? Falling interest rates over the period that the U.S. deficit narrowed suggest not.15 If a shrinking supply of foreign saving, the reversal of the global saving glut, was behind the narrowing of the U.S. deficit, then the tendency would have been for equilibrium real interest rates to have increased.16 Rather, falling equilibrium rates suggest that falling U.S. demand for foreign savings has precipitated the narrowing of the U.S. current account deficit. U.S. demand likely decreased for the reasons discussed earlier, including slowing growth, demographics, and weak investment demand.
+
+[SECTION]
+
+Does the marked narrowing of the U.S. current account deficit post-crisis suggest that the United States has been the primary source of downward pressure on global interest rates over the past decade? Certainly, if the United States had maintained its previous deficit, interest rates would likely be higher around the world. However, the financial crisis revealed that the U.S. capacity to absorb global savings at the pace observed prior to the crisis was unsustainable.17 Rather, an alternative explanation would be that the sharp decline in global interest rates post-crisis reflects factors that were likely well in train before the financial crisis. The downward trend in interest rates would have been more pronounced earlier in the decade had not elevated, and ultimately unsustainable, borrowing in the United States slowed the decline in interest rates in the years immediately preceding the crisis. This narrative is consistent with empirical evidence that suggests that the slowdowns in global productivity growth and labor force growth, both key factors in the slowing pace of global growth and the downward pressure on interest rates, predate the global financial crisis.18
+
+[SECTION]
+
+It is notable in figure 6 that the euro area has also seen a sizable increase in its current account position post-crisis, suggesting that developments in Europe have also played a role in pushing down interest rates. The increase in the euro-area current account in part reflects sharp reversals in the current account deficits of Greece, Portugal, Spain, and Ireland--all countries that had witnessed large increases in their deficits during the global saving glut period prior to the crisis, in a pattern similar to that experienced by the United States. However, the euro-area increase also reflects increased surpluses in Germany and the Netherlands, countries that were already in considerable surplus during the pre-crisis period.
+
+[SECTION]
+
+What, If Anything, Can Be Done about Low Interest Rates?
+Given the potential risks around low interest rates I discussed earlier, including the impact on the effectiveness of monetary policy and financial stability concerns, what should policymakers do to address the problem?
+
+[SECTION]
+
+Monetary policy has a role to play. Transparent and sound monetary policy can boost confidence in the stability of the growth outlook, an outcome that can in turn alleviate precautionary demand for savings and encourage investment, pushing up the equilibrium interest rate.
+
+[SECTION]
+
+However, as I have said before--and Ben Bernanke before me--"Monetary policy is not a panacea."19 Also, to repeat myself, policies to boost productivity growth and the longer-run potential of the economy are more likely to be found in effective fiscal and regulatory measures than in central bank actions. This statement is true not only in the United States, but also around the globe. But it is not to say that monetary policy is irrelevant to the growth rate of the economy.
+
+[SECTION]
+

@@ -1,0 +1,234 @@
+The Federal Reserve, the central bank of the United States, provides
+          the nation with a safe, flexible, and stable monetary and financial
+          system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Financial Stability Assessments
+
+[SECTION]
+
+Financial Stability Coordination & Actions
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Data, Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+SupervisionÂ & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+ResearchÂ & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 28, 2019
+
+[SECTION]
+
+Vice Chair Richard H. Clarida
+
+[SECTION]
+
+At the "The Euro Area: Staying the Course through Uncertainties" BDF Symposium and 34th SUERF Colloquium sponsored by Banque de France and the European Money and Finance Forum, Paris, France
+
+[SECTION]
+
+Good afternoon. It is a pleasure to be here at the Banque de France and take part in this important symposium on the "Euro Area: Staying the Course through Uncertainties."1
+
+[SECTION]
+
+Both in the financial press and in international policy circles, one hears a great deal about the spillovers of U.S. monetary policy to other economies. One hears somewhat less, though, about how global shocks affect the U.S. economy.2 So, in my remarks today, I will discuss how the U.S. economy's increasing integration with the rest of the world has made it more exposed to foreign shocks, and I will focus in particular on the channels of transmission through which these shocks operate. I will close with a few words on current prospects, in which global crosscurrents are again posing challenges for the U.S. economy and monetary policy.
+
+[SECTION]
+
+Greater Integration between the United States and the Rest of the World
+The U.S. economy's integration with the rest of the world, both in terms of trade and finance, has risen substantially over the past 60 years. Since the 1960s, both U.S. exports and imports have about tripled as a share of gross domestic product (GDP), with their sum now about 30 percent of GDP--still relatively small by international standards, but certainly notable.
+
+[SECTION]
+
+Financial linkages have grown enormously as well. The United States has had open capital markets for a long time, but the sum of U.S. external assets and liabilities has grown from about 25 percent of GDP in 1960 to more than 300 percent today. And, reflecting the greater integration of global financial markets, the correlation of U.S. and foreign equity and bond markets has trended broadly upward for several decades.3
+
+[SECTION]
+
+Channels of Transmission of Global Shocks to the U.S. Economy
+This increased integration I have described has heightened the exposure of the U.S. economy to external shocks. But what are the channels of transmission of these shocks to the United States?
+
+[SECTION]
+
+For concreteness, let us consider the case of a negative demand shock originating abroad, such as a foreign recession. First, this shock affects the United States through direct trade links, lowering demand for U.S. exports and, thus, lowering U.S. GDP.
+
+[SECTION]
+
+Second, the foreign recession leads to lower interest rates abroad and, other things being equal, raises the value of the dollar, which in turn lowers U.S. exports and boosts U.S. imports. The dollar appreciation also puts downward pressure on U.S. import prices and, thereby, inflation. The extent to which foreign worries lead to safe-haven flows may add to the dollar's strength.
+
+[SECTION]
+
+Finally, there is contagion to U.S financial markets. Let me first elaborate on the exchange rate channel I just mentioned. The traditional determinants of exchange rates--that is, differentials in expected rates of return--apply to the United States as to other countries. But the U.S. economy is different because of the special role of U.S. government bonds as global safe assets. As a consequence, an adverse foreign shock that damped the demand for risky assets would be expected to trigger safe-haven flows that boost the dollar, weighing on the U.S. economy.4 The spillover of risk aversion to U.S. markets might well also push down equity prices and widen corporate credit spreads, adding to the contractionary pressures. However, the same safe-haven flows into Treasury securities would cause U.S. long-term yields to fall, mitigating these adverse effects on domestic demand and activity.5
+
+[SECTION]
+
+Historical Experience
+Let us consider some historical examples of the effect of adverse foreign shocks on the U.S. economy. The Mexican peso crisis of 1994 and '95 and the Asian financial crisis of 1997 through '98 resulted in substantial hits to aggregate emerging market economy (EME) growth, but they had fairly muted effects on U.S. growth.6 In part, this limited response in previous decades reflected the smaller share of the EMEs in the global economy and, as a related matter, in U.S. trade. Furthermore, the weight of EMEs in the global financial system was lighter in previous decades, so their crises were less disruptive to global markets.7 Finally, even back then, the safe-haven flows into dollar assets that I highlighted earlier were an important mitigating factor, pushing down U.S. long-term yields. To be sure, the Russian default of August 1998, followed by the collapse of Long-Term Capital Management, had more-substantial effects on global markets and posed greater risk to the U.S. economy, which triggered a policy response by the Fed in which the federal funds rate was cut 75 basis points between September and November of that year.8 Of note, after economic prospects appeared to stabilize, the Fed reversed those cuts in 1999.
+
+[SECTION]
+
+In recent times, global shocks have also been consequential for U.S. economic prospects and monetary policy. Examples include the 2011-13 euro-zone recession and the China devaluation and capital flight episode of 2015 and '16, when worries about a hard landing and renminbi depreciation, respectively, roiled world markets. Both of these shocks originated in economies with large footprints in the global economy and financial system, and, as a result, they induced substantial disruptions in global financial markets. During both episodes, U.S. stock markets fell and the dollar appreciated, especially during 2015 and 2016. As ever, these negative shocks were associated with safe-haven flows that pushed U.S. Treasury yields down.9 Despite the drop in yields, overall financial conditions in the United States tightened, weighing on aggregate demand.10
+
+[SECTION]
+
+Yet, in these episodes, accommodative policy responses in the United States helped ward off actual contractions of U.S. activity. During the 2011-13 euro-zone recession, the United States was already pursuing very accommodative policies in the wake of the Global Financial Crisis, but the timing of the maturity extension program and the third phase of U.S. quantitative easing suggests they were helpful responses to the spillovers to the United States from this downturn.11 For the China episode of 2015 and '16, Federal Open Market Committee (FOMC) statements from the time indicate that concerns about foreign developments and their effect on U.S. financial conditions were a factor contributing to the delay in previously anticipated policy rate increases, thereby supporting the economy.
+
+[SECTION]
+
+The message from these recent episodes is not just about the importance of timely policy adjustments by the central bank. It is also about the importance of the enhanced resilience of financial institutions that has been achieved since the Global Financial Crisis. Undoubtedly, this resilience helped prevent adverse financial shocks from contributing to a more serious downturn.
+
+[SECTION]
+
+Recent Developments
+Let me conclude with some remarks on recent developments. U.S. and other financial markets are attuned to a number of prominent downside global risks, which include Brexit, a sharp slowdown in global growth prospects, and trade tensions.
+
+[SECTION]
+
+Even though the Fed has been and is committed to a dual mandate to achieve maximum employment and price stability, in today's world, U.S. policymakers can hardly ignore these risks, and three of our most recent FOMC statements have highlighted concerns about global economic and financial developments. In addition, in our policy statements, as well as in other communications, we have indicated that, in the presence of these risks and with inflation pressures muted, we can afford to be patient and data dependent as we assess in future meetings what adjustments in our policy rate might be necessary to sustain growth, employment, and price stability in the U.S. economy.
+
+[SECTION]
+
